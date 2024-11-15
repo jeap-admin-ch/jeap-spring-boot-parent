@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <url>https://github.com/jeap-admin-ch/jeap-spring-boot-parent</url>
+    <scm>
+        <url>https://github.com/jeap-admin-ch/jeap-spring-boot-parent</url>
+    </scm>
+    <developers>
+        <developer>
+            <name>BIT</name>
+            <organization>Federal Office of Information Technology, Systems and Telecommunication FOITT</organization>
+            <organizationUrl>https://www.bit.admin.ch/</organizationUrl>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0</url>
+        </license>
+    </licenses>
+
+    <artifactId>jeap-spring-boot-parent</artifactId>
+    <version>26.16.1-SNAPSHOT</version>
+    <name>jeap-spring-boot-parent</name>
+    <description>A common parent project</description>
+    <packaging>pom</packaging>
+
+    <parent>
+        <artifactId>jeap-internal-spring-boot-parent</artifactId>
+        <groupId>ch.admin.bit.jeap</groupId>
+        <version>5.2.5</version>
+    </parent>
+
+    <properties>
+        <!-- jEAP Libraries -->
+        <jeap-starter.version>17.9.1</jeap-starter.version>
+        <jeap-messaging.version>8.8.0</jeap-messaging.version>
+        <jeap-crypto.version>3.4.0</jeap-crypto.version>
+        <!-- Maven Plugins -->
+        <jeap-truststore-maven-plugin.version>1.2.0</jeap-truststore-maven-plugin.version>
+        <jib-maven-plugin.version>3.4.4</jib-maven-plugin.version>
+    </properties>
+
+    <profiles>
+        <!-- Profile for spring application. By default, this profile is enabled, but you can disable it by activating
+             the profile no-spring, e.g using a settings block -->
+        <profile>
+            <id>spring</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <dependencies>
+                <dependency>
+                    <groupId>ch.admin.bit.jeap</groupId>
+                    <artifactId>jeap-spring-boot-application-starter</artifactId>
+                </dependency>
+            </dependencies>
+        </profile>
+        <profile>
+            <id>no-spring</id>
+        </profile>
+        <profile>
+            <id>parent-build-only</id>
+            <activation>
+                <activeByDefault>false</activeByDefault>
+            </activation>
+            <build>
+                <plugins>
+                    <!-- Check third-party license compliance -->
+                    <plugin>
+                        <groupId>org.honton.chas</groupId>
+                        <artifactId>license-maven-plugin</artifactId>
+                    </plugin>
+                    <!-- Generate third-party license list -->
+                    <plugin>
+                        <groupId>org.codehaus.mojo</groupId>
+                        <artifactId>license-maven-plugin</artifactId>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
+
+    <dependencyManagement>
+        <dependencies>
+            <!-- jEAP Starters -->
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-application-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-logging-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-security-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-db-migration-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-security-starter-test</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-config-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-vault-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-config-server-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-monitoring-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-object-storage-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-postgresql-aws-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-tx</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-swagger-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-swagger-webflux-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-web-config-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-config-aws-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-tls-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-featureflag-starter</artifactId>
+                <version>${jeap-starter.version}</version>
+            </dependency>
+
+            <!-- jEAP Crypto -->
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-crypto-core</artifactId>
+                <version>${jeap-crypto.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-crypto-db</artifactId>
+                <version>${jeap-crypto.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-crypto-s3</artifactId>
+                <version>${jeap-crypto.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-crypto-vault</artifactId>
+                <version>${jeap-crypto.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-crypto-vault-starter</artifactId>
+                <version>${jeap-crypto.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-crypto-aws-kms-starter</artifactId>
+                <version>${jeap-crypto.version}</version>
+            </dependency>
+
+            <!-- jEAP Messaging -->
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-messaging</artifactId>
+                <version>${jeap-messaging.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+
+
+    </dependencyManagement>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>ch.admin.bit.jeap</groupId>
+                    <artifactId>jeap-messaging-avro-maven-plugin</artifactId>
+                    <version>${jeap-messaging.version}</version>
+                    <executions>
+                        <execution>
+                            <goals>
+                                <goal>idl</goal>
+                                <goal>schema</goal>
+                                <goal>protocol</goal>
+                            </goals>
+                        </execution>
+                    </executions>
+                </plugin>
+                <plugin>
+                    <groupId>ch.admin.bit.jeap</groupId>
+                    <artifactId>truststore-maven-plugin</artifactId>
+                    <version>${jeap-truststore-maven-plugin.version}</version>
+                </plugin>
+                <plugin>
+                    <groupId>ch.admin.bit.jeap</groupId>
+                    <artifactId>jeap-messaging-contract-maven-plugin</artifactId>
+                    <version>${jeap-messaging.version}</version>
+                    <configuration>
+                        <messageContractServiceBaseUri>${messageContractServiceBaseUri}</messageContractServiceBaseUri>
+                    </configuration>
+                </plugin>
+                <plugin>
+                    <groupId>com.google.cloud.tools</groupId>
+                    <artifactId>jib-maven-plugin</artifactId>
+                    <version>${jib-maven-plugin.version}</version>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+</project>
