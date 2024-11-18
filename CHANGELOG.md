@@ -1,4 +1,9 @@
 # Changelog
+## [26.16.2] - 2024-11-18
+### Changed
+- update jeap-spring-boot-starters from 17.9.1 to 17.9.2
+- Fixing a wrong value for header 'Strict-Transport-Security'
+
 
 ## [26.16.1] - 2024-11-15
 ### Changed

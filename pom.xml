@@ -24,7 +24,7 @@
     </licenses>
 
     <artifactId>jeap-spring-boot-parent</artifactId>
-    <version>26.16.1-SNAPSHOT</version>
+    <version>26.16.2-SNAPSHOT</version>
     <name>jeap-spring-boot-parent</name>
     <description>A common parent project</description>
     <packaging>pom</packaging>
@@ -37,7 +37,7 @@
 
     <properties>
         <!-- jEAP Libraries -->
-        <jeap-starter.version>17.9.1</jeap-starter.version>
+        <jeap-starter.version>17.9.2</jeap-starter.version>
         <jeap-messaging.version>8.8.0</jeap-messaging.version>
         <jeap-crypto.version>3.4.0</jeap-crypto.version>
         <!-- Maven Plugins -->
