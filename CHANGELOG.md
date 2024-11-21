@@ -1,4 +1,9 @@
 # Changelog
+## [26.17.0] - 2024-11-21
+### Changed
+- update jeap-spring-boot-starters from 17.9.2 to 17.10.0
+- Enhanced RestRequestLogger to include protocol information (HTTP Version) in log entries
+
 ## [26.16.2] - 2024-11-18
 ### Changed
 - update jeap-spring-boot-starters from 17.9.1 to 17.9.2
