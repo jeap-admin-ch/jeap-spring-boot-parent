@@ -1,4 +1,9 @@
 # Changelog
+## [26.17.1] - 2024-12-03
+### Changed
+- update jeap-messaging from 8.8.1 to 8.8.2
+- Improved Kafka embedded tests to be more stable
+
 
 ## [26.17.0] - 2024-11-21
 ### Changed
