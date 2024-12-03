@@ -2,13 +2,9 @@
 ## [26.17.1] - 2024-12-03
 ### Changed
 - update jeap-spring-boot-starters from 17.10.0 to 17.10.1
-- Fixed a bug in jeap-spring-boot-tx starter that didn't update the current thread state when getting a transaction fails
-
-## [26.17.1] - 2024-12-03
-### Changed
 - update jeap-messaging from 8.8.1 to 8.8.2
+- Fixed a bug in jeap-spring-boot-tx starter that didn't update the current thread state when getting a transaction fails
 - Improved Kafka embedded tests to be more stable
-
 
 ## [26.17.0] - 2024-11-21
 ### Changed
