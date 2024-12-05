@@ -1,4 +1,10 @@
 # Changelog
+
+## [26.17.2] - 2024-12-05
+### Changed
+- Added automated check of third party library licenses to build pipeline
+- Updated THIRD-PARTY-LICENSES.md
+
 ## [26.17.1] - 2024-12-03
 ### Changed
 - update jeap-spring-boot-starters from 17.10.0 to 17.10.1
