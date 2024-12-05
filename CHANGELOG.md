@@ -1,5 +1,4 @@
 # Changelog
-
 ## [26.17.2] - 2024-12-05
 ### Changed
 - Added automated check of third party library licenses to build pipeline
