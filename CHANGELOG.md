@@ -1,4 +1,10 @@
 # Changelog
+## [26.19.0] - 2024-12-06
+
+### Changed
+
+- Prepare repository for Open Source distribution
+
 ## [26.18.0] - 2024-12-06
 ### Changed
 - Update jeap-spring-boot-starters from 17.10.1 to 17.11.0
