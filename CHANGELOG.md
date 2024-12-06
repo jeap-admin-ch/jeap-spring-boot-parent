@@ -1,6 +1,12 @@
 # Changelog
 ## [26.18.0] - 2024-12-06
 ### Changed
+- update jeap-messaging from 8.8.2 to 8.9.0
+- Update parent from 5.2.5 to 5.3.0
+- Prepare repository for Open Source distribution
+
+## [26.18.0] - 2024-12-06
+### Changed
 - update jeap-crypto from 3.4.0 to 3.5.0
 - Update parent from 5.2.5 to 5.3.0
 - Prepare repository for Open Source distribution
