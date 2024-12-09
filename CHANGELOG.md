@@ -1,6 +1,11 @@
 # Changelog
 ## [26.20.0] - 2024-12-09
 ### Changed
+- update jeap-spring-boot-starters from 17.11.0 to 17.12.0
+- Configure trivy scan for all branches
+
+## [26.20.0] - 2024-12-09
+### Changed
 - update jeap-crypto from 3.5.0 to 3.6.0
 - Configure trivy scan for all branches
 
