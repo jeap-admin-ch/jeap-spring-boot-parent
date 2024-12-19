@@ -1,8 +1,19 @@
 # Changelog
 
+## [26.21.0] - 2024-12-19
+
+### Changed
+
+- upgrade to spring boot 3.4.0
+- update jeap-messaging from 8.10.1 to 8.11.0
+- update jeap-crypto from 3.6.1 to 3.7.0
+- update jeap-spring-boot-starters from 17.12.1 to 17.13.0
+- credential scan (trufflehog)
+
 ## [26.20.0] - 2024-12-12
 
 ### Changed
+
 - update jeap-messaging from 8.9.0 to 8.10.0
 - update jeap-spring-boot-starters from 17.11.0 to 17.12.0
 - update jeap-crypto from 3.5.0 to 3.6.0

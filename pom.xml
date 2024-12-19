@@ -24,7 +24,7 @@
     </licenses>
 
     <artifactId>jeap-spring-boot-parent</artifactId>
-    <version>26.20.0-SNAPSHOT</version>
+    <version>26.21.0-SNAPSHOT</version>
     <name>jeap-spring-boot-parent</name>
     <description>A common parent project</description>
     <packaging>pom</packaging>
@@ -32,16 +32,16 @@
     <parent>
         <artifactId>jeap-internal-spring-boot-parent</artifactId>
         <groupId>ch.admin.bit.jeap</groupId>
-        <version>5.3.0</version>
+        <version>5.4.0</version>
     </parent>
 
     <properties>
         <!-- jEAP Libraries -->
-        <jeap-starter.version>17.12.0</jeap-starter.version>
-        <jeap-messaging.version>8.10.0</jeap-messaging.version>
-        <jeap-crypto.version>3.6.0</jeap-crypto.version>
+        <jeap-starter.version>17.13.0</jeap-starter.version>
+        <jeap-messaging.version>8.11.0</jeap-messaging.version>
+        <jeap-crypto.version>3.7.0</jeap-crypto.version>
         <!-- Maven Plugins -->
-        <jeap-truststore-maven-plugin.version>1.2.0</jeap-truststore-maven-plugin.version>
+        <jeap-truststore-maven-plugin.version>1.2.1</jeap-truststore-maven-plugin.version>
         <jib-maven-plugin.version>3.4.4</jib-maven-plugin.version>
     </properties>
 
