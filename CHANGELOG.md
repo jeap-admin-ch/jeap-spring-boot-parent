@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.21.1] - 2024-12-19
+
+### Changed
+
+- update jeap-truststore-maven-plugin to 1.3.2
+
 ## [26.21.0] - 2024-12-19
 
 ### Changed
