@@ -5,6 +5,7 @@
 ### Changed
 
 - Update parent from 5.4.0 to 5.4.1
+- update jeap-spring-boot-starters from 17.14.0 to 17.15.0
 
 ## [26.21.1] - 2024-12-19
 
