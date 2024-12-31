@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.22.0] - 2024-12-31
+
+### Changed
+
+- Update parent from 5.4.0 to 5.4.1
+
 ## [26.21.1] - 2024-12-19
 
 ### Changed
