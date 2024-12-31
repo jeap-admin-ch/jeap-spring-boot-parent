@@ -5,6 +5,8 @@
 ### Changed
 
 - Update parent from 5.4.0 to 5.4.1
+- update jeap-messaging from 8.11.0 to 8.12.0
+- update jeap-crypto from 3.7.0 to 3.8.0
 - update jeap-spring-boot-starters from 17.14.0 to 17.15.0
 
 ## [26.21.1] - 2024-12-19
