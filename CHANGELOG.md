@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.22.1] - 2025-01-06
+
+### Changed
+
+- update jeap-messaging from 8.12.0 to 8.13.0
+
 ## [26.22.0] - 2024-12-31
 
 ### Changed
