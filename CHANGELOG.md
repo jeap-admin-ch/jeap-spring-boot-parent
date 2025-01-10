@@ -1,4 +1,9 @@
 # Changelog
+## [26.22.3] - 2025-01-10
+### Changed
+- update jeap-messaging from 8.13.1 to 8.13.2
+- Added method to ensure a consumer contract just by the message type name in the ContractValidator interface.
+
 
 ## [26.22.3] - 2025-01-10
 
