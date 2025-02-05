@@ -1,4 +1,9 @@
 # Changelog
+## [26.22.4] - 2025-02-05
+### Changed
+- update jeap-messaging from 8.13.2 to 8.14.0
+- Added possibility to find unused imports in IDL (Avro) files.
+
 ## [26.22.4] - 2025-01-21
 ### Changed
 - update jeap-spring-boot-starters from 17.15.0 to 17.15.1
