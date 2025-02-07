@@ -35,16 +35,16 @@
     <parent>
         <artifactId>jeap-internal-spring-boot-parent</artifactId>
         <groupId>ch.admin.bit.jeap</groupId>
-        <version>5.5.0</version>
+        <version>5.5.1</version>
     </parent>
 
     <properties>
         <!-- jEAP Libraries -->
-        <jeap-starter.version>17.15.1</jeap-starter.version>
-        <jeap-messaging.version>8.14.0</jeap-messaging.version>
-        <jeap-crypto.version>3.8.0</jeap-crypto.version>
+        <jeap-starter.version>17.17.0</jeap-starter.version>
+        <jeap-messaging.version>8.16.0</jeap-messaging.version>
+        <jeap-crypto.version>3.10.0</jeap-crypto.version>
         <!-- Maven Plugins -->
-        <jeap-truststore-maven-plugin.version>1.4.0</jeap-truststore-maven-plugin.version>
+        <jeap-truststore-maven-plugin.version>1.6.0</jeap-truststore-maven-plugin.version>
         <jib-maven-plugin.version>3.4.4</jib-maven-plugin.version>
     </properties>
 
