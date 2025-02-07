@@ -1,4 +1,10 @@
 # Changelog
+
+## [26.23.0] - 2025-02-07
+### Changed
+- publish to maven central
+- spring boot patch upgrade to 3.4.2
+
 ## [26.22.4] - 2025-02-05
 ### Changed
 - update jeap-messaging from 8.13.2 to 8.14.0
