@@ -1,5 +1,9 @@
 # Changelog
 
+## [26.23.1] - 2025-02-12
+### Changed
+- Upgraded the jeap-internal-spring-boot-parent to version 5.5.3
+
 ## [26.23.0] - 2025-02-07
 ### Changed
 - publish to maven central
