@@ -1,4 +1,11 @@
 # Changelog
+## [26.24.0] - 2025-02-12
+### Changed
+- update jeap-messaging from 8.16.0 to 8.17.0
+- Add support for custom messagetype pom templates in the jeap-messaging-avro-maven-plugin
+- Add configuration option for maven profile when publishing messagetypes on the trunk 
+- Pass proxy properties to invoked maven instance when publishing messagetypes
+
 
 ## [26.23.1] - 2025-02-12
 ### Changed
