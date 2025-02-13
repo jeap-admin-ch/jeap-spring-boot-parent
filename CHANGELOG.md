@@ -1,4 +1,10 @@
 # Changelog
+## [26.24.1] - 2025-02-13
+### Changed
+- update jeap-crypto from 3.10.0 to 3.10.1
+- Improve platform support (ex. aarch64) by providing Corretto Crypto Provider implementations for all available platforms
+- Make Corretto Crypto Provider optional at runtime
+
 ## [26.24.0] - 2025-02-12
 ### Changed
 - update jeap-messaging from 8.16.0 to 8.17.0
