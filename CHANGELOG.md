@@ -1,4 +1,9 @@
 # Changelog
+
+## [26.24.2] - 2025-02-13
+### Changed
+- update jeap-spring-boot-internal-parent to 5.5.4 (updated maven-gpg-plugin version)
+
 ## [26.24.1] - 2025-02-13
 ### Changed
 - update jeap-crypto from 3.10.0 to 3.10.1

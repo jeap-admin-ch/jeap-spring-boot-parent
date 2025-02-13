@@ -27,7 +27,7 @@
     </licenses>
 
     <artifactId>jeap-spring-boot-parent</artifactId>
-    <version>26.24.1-SNAPSHOT</version>
+    <version>26.24.2-SNAPSHOT</version>
     <name>jeap-spring-boot-parent</name>
     <description>A common parent project</description>
     <packaging>pom</packaging>
@@ -35,7 +35,7 @@
     <parent>
         <artifactId>jeap-internal-spring-boot-parent</artifactId>
         <groupId>ch.admin.bit.jeap</groupId>
-        <version>5.5.3</version>
+        <version>5.5.4</version>
     </parent>
 
     <properties>
