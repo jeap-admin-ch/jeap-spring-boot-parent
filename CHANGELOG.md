@@ -1,4 +1,9 @@
 # Changelog
+## [26.25.0] - 2025-02-14
+### Changed
+- update jeap-messaging from 8.17.0 to 8.18.0
+- Add support for signing kafka record values and keys.
+
 
 ## [26.24.2] - 2025-02-13
 ### Changed
