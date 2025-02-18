@@ -1,4 +1,9 @@
 # Changelog
+## [26.26.0] - 2025-02-18
+### Changed
+- update jeap-messaging from 8.18.0 to 8.20.0
+- Preserve Signature headers for EHS (Error Handling Service).
+
 ## [26.25.0] - 2025-02-14
 ### Changed
 - update jeap-messaging from 8.17.0 to 8.18.0
