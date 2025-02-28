@@ -1,4 +1,9 @@
 # Changelog
+## [26.27.0] - 2025-02-28
+### Changed
+- update jeap-spring-boot-starters from 17.17.0 to 17.18.0
+- Add new rest endpoint 'current-user' to retrieve the information associated with the authenticated user from the current access token
+
 ## [26.26.0] - 2025-02-18
 ### Changed
 - update jeap-messaging from 8.18.0 to 8.20.0
