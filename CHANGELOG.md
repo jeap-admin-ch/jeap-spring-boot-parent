@@ -1,4 +1,10 @@
 # Changelog
+## [26.28.0] - 2025-03-04
+### Changed
+- update jeap-messaging from 8.20.0 to 8.21.0
+- Add support for the validation of signed kafka record values and keys.
+- Update parent from 5.5.3 to 5.5.4
+
 ## [26.27.0] - 2025-02-28
 ### Changed
 - update jeap-spring-boot-starters from 17.17.0 to 17.18.0
