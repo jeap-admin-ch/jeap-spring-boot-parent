@@ -1,4 +1,9 @@
 # Changelog
+## [26.29.0] - 2025-03-05
+### Changed
+- update jeap-messaging from 8.21.0 to 8.22.0
+- Add sequential inbox: provides a way to consume messages in a defined sequential order
+
 ## [26.28.0] - 2025-03-04
 ### Changed
 - update jeap-messaging from 8.20.0 to 8.21.0
