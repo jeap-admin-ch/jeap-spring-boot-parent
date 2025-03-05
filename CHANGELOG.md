@@ -1,6 +1,11 @@
 # Changelog
 ## [26.30.0] - 2025-03-05
 ### Changed
+- update jeap-crypto from 3.10.1 to 3.11.0
+- Update parent from 5.5.2 to 5.5.5
+
+## [26.30.0] - 2025-03-05
+### Changed
 - update jeap-spring-boot-starters from 17.18.0 to 17.19.0
 - Update parent from 5.5.1 to 5.5.5
 
