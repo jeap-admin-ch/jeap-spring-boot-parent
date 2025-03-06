@@ -4,6 +4,11 @@
 ### Changed
 
 - Update parent from 5.5.5 to 5.6.0
+- update jeap-spring-boot-starters from 17.20.0 to 17.21.0
+- update jeap-messaging from 8.23.0 to 8.24.0
+- update jeap-crypto from 3.11.0 to 3.12.0
+- update jeap-truststore-maven-plugin from 1.6.0 to 1.8.0
+
 
 ## [26.31.0] - 2025-03-05
 ### Changed
