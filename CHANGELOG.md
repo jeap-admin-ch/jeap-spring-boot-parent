@@ -1,4 +1,11 @@
 # Changelog
+## [26.34.0] - 2025-03-07
+### Changed
+- update jeap-messaging from 8.25.0 to 8.26.0
+- Add message signing benchmarks
+- Minor bugfixes in message signing
+- Removed conflicting versions of the Amazon Corretto Crypto Provider (ACCP) that could lead to the ACCP being disabled
+
 ## [26.34.0] - 2025-03-06
 ### Changed
 - update jeap-crypto from 3.12.0 to 3.13.0

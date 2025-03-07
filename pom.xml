@@ -41,7 +41,7 @@
     <properties>
         <!-- jEAP Libraries -->
         <jeap-starter.version>17.21.0</jeap-starter.version>
-        <jeap-messaging.version>8.25.0</jeap-messaging.version>
+        <jeap-messaging.version>8.26.0</jeap-messaging.version>
         <jeap-crypto.version>3.13.0</jeap-crypto.version>
         <!-- Maven Plugins -->
         <jeap-truststore-maven-plugin.version>1.8.0</jeap-truststore-maven-plugin.version>
