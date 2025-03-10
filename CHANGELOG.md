@@ -1,3 +1,7 @@
+## [26.35.0] - 2025-03-10
+### Changed
+- update jeap-spring-boot-starters from 17.21.0 to 17.22.0
+
 ## [26.34.0] - 2025-03-07
 ### Changed
 - update jeap-crypto from 3.12.0 to 3.13.0
