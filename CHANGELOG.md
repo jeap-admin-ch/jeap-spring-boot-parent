@@ -1,3 +1,7 @@
+## [26.36.0] - 2025-03-11
+### Changed
+- update jeap-spring-boot-starters from 17.22.0 to 17.23.0
+
 ## [26.35.0] - 2025-03-10
 ### Changed
 - update jeap-spring-boot-starters from 17.21.0 to 17.22.0
