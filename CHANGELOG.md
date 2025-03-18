@@ -1,3 +1,9 @@
+# Changelog
+
+## [26.38.0] - 2025-03-18
+### Changed
+- update jeap-messaging from 8.27.2 to 8.28.0
+
 ## [26.37.2] - 2025-03-14
 ### Changed
 - update jeap-messaging from 8.27.1 to 8.27.2
