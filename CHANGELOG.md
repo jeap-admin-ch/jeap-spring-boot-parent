@@ -1,4 +1,10 @@
 # Changelog
+## [26.40.0] - 2025-03-19
+### Changed
+- update jeap-messaging from 8.28.0 to 8.29.0
+- Improved: The `Pessimistic Lock` around the inbox for a context no longer blocks Kafka partitions containing records that could already be processed.
+- Processing or buffering these records can now occur before the `Pessimistic Lock`.
+
 ## [26.39.0] - 2025-03-19
 ### Changed
 - update jeap-spring-boot-starters from 17.23.0 to 17.24.0
