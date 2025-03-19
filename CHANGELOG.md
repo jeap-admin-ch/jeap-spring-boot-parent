@@ -1,4 +1,10 @@
 # Changelog
+## [26.39.0] - 2025-03-19
+### Changed
+- update jeap-spring-boot-starters from 17.23.0 to 17.24.0
+- The "health" metric is updated asycnchronously to avoid evaluting the health indicators for every metric update
+  - jeap.health.metric.update-rate-seconds is set to 120 by default. Set to -1 to disable the health metric.
+
 
 ## [26.38.0] - 2025-03-18
 ### Changed
