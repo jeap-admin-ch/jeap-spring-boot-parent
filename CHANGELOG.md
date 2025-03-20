@@ -1,4 +1,9 @@
 # Changelog
+## [26.40.1] - 2025-03-20
+### Changed
+- update jeap-spring-boot-starters from 17.24.0 to 17.24.1
+- Fixed problems with S3 client on RHOS, by setting AwsS3V4Signer
+
 ## [26.40.0] - 2025-03-19
 ### Changed
 - update jeap-messaging from 8.28.0 to 8.29.0
