@@ -1,4 +1,10 @@
 # Changelog
+## [26.41.0] - 2025-03-21
+### Changed
+- update jeap-messaging from 8.29.0 to 8.30.0
+- The sequential inbox configuration now supports defining subtypes
+  - This allows to define a sequence for different subtypes of the same avro message type
+
 ## [26.40.1] - 2025-03-20
 ### Changed
 - update jeap-spring-boot-starters from 17.24.0 to 17.24.1
