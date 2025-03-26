@@ -1,4 +1,9 @@
 # Changelog
+## [26.41.1] - 2025-03-26
+### Changed
+- update jeap-messaging from 8.30.0 to 8.30.1
+- Removed unique constraint definition in entity SequenceInstance
+
 ## [26.41.0] - 2025-03-21
 ### Changed
 - update jeap-messaging from 8.29.0 to 8.30.0
