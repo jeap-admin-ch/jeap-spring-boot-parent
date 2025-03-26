@@ -1,4 +1,9 @@
 # Changelog
+## [26.41.2] - 2025-03-26
+### Changed
+- update jeap-messaging from 8.30.1 to 8.30.2
+- Sequential Inbox: Fix naming of metrics and remove histogram config for the handle-message metric
+
 ## [26.41.1] - 2025-03-26
 ### Changed
 - update jeap-messaging from 8.30.0 to 8.30.1
