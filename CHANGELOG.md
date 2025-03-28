@@ -1,4 +1,10 @@
 # Changelog
+## [26.41.3] - 2025-03-28
+### Changed
+- update jeap-messaging from 8.30.2 to 8.30.3
+- Message Contract Annotation Processor: Avoid creating duplicate contracts for the same message type / topic combination
+  when generating contracts from templates. 
+
 ## [26.41.2] - 2025-03-26
 ### Changed
 - update jeap-messaging from 8.30.1 to 8.30.2
