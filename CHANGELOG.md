@@ -1,4 +1,24 @@
 # Changelog
+
+## [26.42.0] - 2025-04-01
+### Changed
+- Update parent from 5.6.1 to 5.7.0
+- Update jeap-spring-boot-starters from 17.24.1 to 17.25.0
+- Update springdoc-openapi from 2.7.0 to 2.8.6
+- Update logstash from 7.2 to 8.0
+- Update wiremock from 2.35.0 to 3.12.1, also change groupId from com.github.tomakehurst to org.wiremock
+- Update java-cfenv-boot from 2.4.2 to 3.4.0
+- Update jeap-crypto from 3.13.0 to 3.14.0
+- Update testcontainers from 1.19.8 to 1.20.6
+- Update jeap-messaging from 8.30.3 to 8.31.0
+- Update jeap-crypto from 3.13.0 to 3.14.0
+- Update avro-serializer from 7.7.2 to 7.9.0
+- Update aws-msk-iam-auth from 2.3.0 to 2.3.1
+- Update protobuf-java from 4.29.0 to 4.30.2
+- Update org.eclipse.jgit.version from 7.1.0.202411261347-r to 7.2.0.202503040940-r
+- Update maven-invoker from 3.2.0 to 3.3.0
+- Update jib-maven-plugin from 3.4.4 to 3.4.5
+
 ## [26.41.3] - 2025-03-28
 ### Changed
 - update jeap-messaging from 8.30.2 to 8.30.3
