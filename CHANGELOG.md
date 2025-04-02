@@ -1,4 +1,9 @@
 # Changelog
+## [26.42.1] - 2025-04-02
+### Changed
+- update jeap-messaging from 8.31.0 to 8.31.1
+- Avoid logging constraint violation exception when two sequence instances are created at the same time
+
 
 ## [26.42.0] - 2025-04-01
 ### Changed
