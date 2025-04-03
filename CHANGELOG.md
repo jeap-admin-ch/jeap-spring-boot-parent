@@ -1,4 +1,10 @@
 # Changelog
+## [26.43.0] - 2025-04-03
+### Changed
+- update jeap-spring-boot-starters from 17.25.0 to 17.26.0
+- Set `management.observations.annotations.enabled=true` by default to enable annotations
+  such as `@Timed` by default
+
 ## [26.42.1] - 2025-04-02
 ### Changed
 - update jeap-messaging from 8.31.0 to 8.31.1
