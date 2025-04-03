@@ -1,4 +1,9 @@
 # Changelog
+## [26.43.1] - 2025-04-03
+### Changed
+- update jeap-messaging from 8.31.1 to 8.31.2
+- More logging information for signature subscriber certificates
+
 ## [26.43.0] - 2025-04-03
 ### Changed
 - update jeap-spring-boot-starters from 17.25.0 to 17.26.0
