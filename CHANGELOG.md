@@ -1,4 +1,9 @@
 # Changelog
+## [26.43.2] - 2025-04-15
+### Changed
+- update jeap-spring-boot-starters from 17.26.0 to 17.26.2
+- Added a read and connect timeout (configurable) on the requests that fetch the JSON Web Key Set (JWKS) from an authorization server.
+
 ## [26.43.1] - 2025-04-03
 ### Changed
 - update jeap-messaging from 8.31.1 to 8.31.2
