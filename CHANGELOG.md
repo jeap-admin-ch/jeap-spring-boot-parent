@@ -1,4 +1,9 @@
 # Changelog
+## [26.44.0] - 2025-04-23
+### Changed
+- update jeap-spring-boot-starters from 17.26.2 to 17.27.0
+- Added configuration parameters for the introspection endpoints in the resource server properties
+
 ## [26.43.2] - 2025-04-15
 ### Changed
 - update jeap-spring-boot-starters from 17.26.0 to 17.26.2
