@@ -1,4 +1,10 @@
 # Changelog
+## [26.45.0] - 2025-04-24
+### Changed
+- update jeap-messaging from 8.31.2 to 8.32.0
+- Add contract exemptions for ReactionIdentifiedEvent and ReactionsObservedEvent
+- Remove deprecated / unnecessary contract exemptions for process context service events
+
 ## [26.44.0] - 2025-04-23
 ### Changed
 - update jeap-spring-boot-starters from 17.26.2 to 17.27.0
