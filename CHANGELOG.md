@@ -1,4 +1,9 @@
 # Changelog
+## [26.46.0] - 2025-04-25
+### Changed
+- update jeap-messaging from 8.32.0 to 8.33.0
+- Add JeapKafkaMessageCallback for clients interested in notifications on message send and consume 
+
 ## [26.45.0] - 2025-04-24
 ### Changed
 - update jeap-messaging from 8.31.2 to 8.32.0
