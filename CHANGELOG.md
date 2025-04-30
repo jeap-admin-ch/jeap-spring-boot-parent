@@ -2,17 +2,10 @@
 ## [26.47.0] - 2025-04-30
 ### Changed
 - update jeap-messaging from 8.33.0 to 8.34.0
-- Update parent from 5.7.0 to 5.8.0
-
-## [26.47.0] - 2025-04-30
-### Changed
 - update jeap-spring-boot-starters from 17.27.0 to 17.28.0
-- Upgraded jeap-internal-spring-boot-parent from 5.7.0 to 5.8.0 (spring boot 3.4.5)
-
-## [26.47.0] - 2025-04-30
-### Changed
+- update jeap-internal-spring-boot-parent from 5.7.0 to 5.8.0 (spring boot 3.4.5)
 - update jeap-crypto from 3.14.0 to 3.15.0
-- Update parent from 5.7.0 to 5.8.0
+- update jeap-truststore-maven-plugin from 1.8.0 to 1.9.0
 
 ## [26.46.0] - 2025-04-25
 ### Changed
