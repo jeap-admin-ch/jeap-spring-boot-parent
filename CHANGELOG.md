@@ -1,4 +1,9 @@
 # Changelog
+## [26.47.0] - 2025-04-30
+### Changed
+- update jeap-crypto from 3.14.0 to 3.15.0
+- Update parent from 5.7.0 to 5.8.0
+
 ## [26.46.0] - 2025-04-25
 ### Changed
 - update jeap-messaging from 8.32.0 to 8.33.0
