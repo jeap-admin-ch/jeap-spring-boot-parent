@@ -40,7 +40,7 @@
 
     <properties>
         <!-- jEAP Libraries -->
-        <jeap-starter.version>17.27.0</jeap-starter.version>
+        <jeap-starter.version>17.28.0</jeap-starter.version>
         <jeap-messaging.version>8.33.0</jeap-messaging.version>
         <jeap-crypto.version>3.15.0</jeap-crypto.version>
         <!-- Maven Plugins -->
