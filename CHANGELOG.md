@@ -1,4 +1,9 @@
 # Changelog
+## [26.48.0] - 2025-05-01
+### Changed
+- update jeap-spring-boot-starters from 17.28.0 to 17.29.0
+- Added support for introspection of tokens in the resource server
+
 ## [26.47.0] - 2025-04-30
 ### Changed
 - update jeap-messaging from 8.33.0 to 8.35.0
