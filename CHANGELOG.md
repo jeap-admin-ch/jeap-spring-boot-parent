@@ -1,4 +1,11 @@
 # Changelog
+## [26.48.1] - 2025-05-06
+### Changed
+- update jeap-spring-boot-starters from 17.29.0 to 17.29.1
+- Avoid password re-encoding for actuator/prometheus endpoints. The previous behaviour would lead to failures on startup
+  when a long plaintext was used as password for the prometheus/actuator endpoint due to the logic of the
+  DelegatingPasswordEncoder in combination with https://github.com/spring-projects/spring-security/issues/16951
+
 ## [26.48.0] - 2025-05-01
 ### Changed
 - update jeap-spring-boot-starters from 17.28.0 to 17.29.0
