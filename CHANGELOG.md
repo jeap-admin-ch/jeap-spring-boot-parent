@@ -1,4 +1,9 @@
 # Changelog
+## [26.49.0] - 2025-05-09
+### Changed
+- update jeap-crypto from 3.15.0 to 3.16.0
+- Support getting encrypted S3 objects by version ID in the crypto S3 template
+
 ## [26.48.1] - 2025-05-06
 ### Changed
 - update jeap-spring-boot-starters from 17.29.0 to 17.29.1
