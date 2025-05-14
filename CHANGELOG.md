@@ -1,4 +1,9 @@
 # Changelog
+## [26.50.0] - 2025-05-14
+### Changed
+- update jeap-messaging from 8.36.0 to 8.37.0
+- Add topic name to JeapKafkaMessageCallback methods
+
 ## [26.49.0] - 2025-05-09
 ### Changed
 - update jeap-crypto from 3.15.0 to 3.16.0
