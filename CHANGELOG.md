@@ -1,4 +1,9 @@
 # Changelog
+## [26.50.1] - 2025-05-16
+### Changed
+- update jeap-spring-boot-starters from 17.29.1 to 17.29.2
+- Fixed resource server responding with 500 instead of 401 when the Bearer token had a parsing exception.
+
 ## [26.50.0] - 2025-05-14
 ### Changed
 - update jeap-messaging from 8.36.0 to 8.37.0
