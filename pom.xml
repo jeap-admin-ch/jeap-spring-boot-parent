@@ -27,7 +27,7 @@
     </licenses>
 
     <artifactId>jeap-spring-boot-parent</artifactId>
-    <version>26.50.1-SNAPSHOT</version>
+    <version>26.51.0-SNAPSHOT</version>
     <name>jeap-spring-boot-parent</name>
     <description>A common parent project</description>
     <packaging>pom</packaging>
@@ -40,7 +40,10 @@
 
     <properties>
         <!-- jEAP Libraries -->
-        <jeap-starter.version>17.29.2</jeap-starter.version>
+        <jeap-starter.version>17.30.0</jeap-starter.version>
+        <jeap-db-migration-starter.version>17.30.0</jeap-db-migration-starter.version>
+        <jeap-config-aws-starter.version>17.30.0</jeap-config-aws-starter.version>
+        <jeap-tls-starter.version>17.30.0</jeap-tls-starter.version>
         <jeap-messaging.version>8.37.0</jeap-messaging.version>
         <jeap-crypto.version>3.16.0</jeap-crypto.version>
         <!-- Maven Plugins -->
@@ -109,7 +112,7 @@
             <dependency>
                 <groupId>ch.admin.bit.jeap</groupId>
                 <artifactId>jeap-spring-boot-db-migration-starter</artifactId>
-                <version>${jeap-starter.version}</version>
+                <version>${jeap-db-migration-starter.version}</version>
             </dependency>
             <dependency>
                 <groupId>ch.admin.bit.jeap</groupId>
@@ -169,12 +172,12 @@
             <dependency>
                 <groupId>ch.admin.bit.jeap</groupId>
                 <artifactId>jeap-spring-boot-config-aws-starter</artifactId>
-                <version>${jeap-starter.version}</version>
+                <version>${jeap-config-aws-starter.version}</version>
             </dependency>
             <dependency>
                 <groupId>ch.admin.bit.jeap</groupId>
                 <artifactId>jeap-spring-boot-tls-starter</artifactId>
-                <version>${jeap-starter.version}</version>
+                <version>${jeap-tls-starter.version}</version>
             </dependency>
             <dependency>
                 <groupId>ch.admin.bit.jeap</groupId>

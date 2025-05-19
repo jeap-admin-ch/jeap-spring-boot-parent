@@ -1,4 +1,9 @@
 # Changelog
+## [26.51.0] - 2025-05-20
+### Changed
+- moved jeap-spring-boot-db-migration-starter, jeap-spring-boot-config-aws-starter and jeap-spring-boot-tls-starter to their own repositories
+- update jeap-spring-boot-starters from 17.29.2 to 17.30.0
+
 ## [26.50.1] - 2025-05-16
 ### Changed
 - update jeap-spring-boot-starters from 17.29.1 to 17.29.2
