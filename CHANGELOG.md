@@ -1,5 +1,10 @@
 # Changelog
 ## [26.53.0] - 2025-05-26
+### Changed
+- update jeap-spring-boot-config-aws-starter from null object or invalid expression to 17.31.0
+- Update parent from 5.8.0 to 5.8.1
+
+## [26.53.0] - 2025-05-26
 
 ### Changed
 
