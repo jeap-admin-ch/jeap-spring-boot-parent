@@ -1,6 +1,11 @@
 # Changelog
 ## [26.53.0] - 2025-05-26
 ### Changed
+- update jeap-spring-boot-db-migration-starter from 17.30.0 to 17.31.0
+- Update parent from 5.8.0 to 5.8.1
+
+## [26.53.0] - 2025-05-26
+### Changed
 - update jeap-spring-boot-tls-starter from 17.30.0 to 17.31.0
 - Update parent from 5.8.0 to 5.8.1
 
