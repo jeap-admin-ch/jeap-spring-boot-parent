@@ -1,4 +1,10 @@
 # Changelog
+## [26.53.0] - 2025-05-26
+
+### Changed
+
+- Update parent from 5.8.0 to 5.8.1
+
 ## [26.52.0] - 2025-05-26
 ### Changed
 - update jeap-spring-boot-starters from 17.30.0 to 17.31.0
