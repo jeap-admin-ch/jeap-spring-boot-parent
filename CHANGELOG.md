@@ -1,4 +1,9 @@
 # Changelog
+## [26.52.0] - 2025-05-26
+### Changed
+- update jeap-spring-boot-starters from 17.30.0 to 17.31.0
+- Added a configuration option to the resource server configuration to disable the token introspection on the authorization server level.
+
 ## [26.51.0] - 2025-05-20
 ### Changed
 - moved jeap-spring-boot-db-migration-starter, jeap-spring-boot-config-aws-starter and jeap-spring-boot-tls-starter to their own repositories
