@@ -1,4 +1,9 @@
 # Changelog
+## [26.53.0] - 2025-05-27
+### Changed
+- update jeap-messaging from 8.37.0 to 8.38.1
+- some corrections because SONAR was complaining.
+
 ## [26.53.0] - 2025-05-26
 ### Changed
 - update jeap-crypto from 3.16.0 to 3.17.0
