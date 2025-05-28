@@ -1,5 +1,9 @@
 # Changelog
 
+## [26.54.0] - 2025-05-26
+### Added
+- Add version management for jeap-reaction-observer-starter starting with version 1.0.0
+
 ## [26.53.0] - 2025-05-26
 ### Changed
 - Update parent from 5.8.0 to 5.8.1

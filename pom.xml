@@ -27,7 +27,7 @@
     </licenses>
 
     <artifactId>jeap-spring-boot-parent</artifactId>
-    <version>26.53.0-SNAPSHOT</version>
+    <version>26.54.0-SNAPSHOT</version>
     <name>jeap-spring-boot-parent</name>
     <description>A common parent project</description>
     <packaging>pom</packaging>
@@ -45,6 +45,7 @@
         <jeap-config-aws-starter.version>17.31.0</jeap-config-aws-starter.version>
         <jeap-tls-starter.version>17.31.0</jeap-tls-starter.version>
         <jeap-messaging.version>8.38.1</jeap-messaging.version>
+        <jeap-reaction-observer.version>1.0.0</jeap-reaction-observer.version>
         <jeap-crypto.version>3.17.0</jeap-crypto.version>
         <!-- Maven Plugins -->
         <jeap-truststore-maven-plugin.version>1.9.0</jeap-truststore-maven-plugin.version>
@@ -215,6 +216,28 @@
                 <groupId>ch.admin.bit.jeap</groupId>
                 <artifactId>jeap-crypto-aws-kms-starter</artifactId>
                 <version>${jeap-crypto.version}</version>
+            </dependency>
+
+            <!-- jEAP Reaction Observer -->
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-reaction-observer-starter</artifactId>
+                <version>${jeap-reaction-observer.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-reaction-observer-core</artifactId>
+                <version>${jeap-reaction-observer.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-reaction-observer-events</artifactId>
+                <version>${jeap-reaction-observer.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-reaction-observer-messaging</artifactId>
+                <version>${jeap-reaction-observer.version}</version>
             </dependency>
 
             <!-- jEAP Messaging -->
