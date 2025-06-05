@@ -46,7 +46,7 @@
         <jeap-tls-starter.version>17.32.0</jeap-tls-starter.version>
         <jeap-messaging.version>8.39.0</jeap-messaging.version>
         <jeap-reaction-observer.version>1.0.0</jeap-reaction-observer.version>
-        <jeap-crypto.version>3.17.0</jeap-crypto.version>
+        <jeap-crypto.version>3.18.0</jeap-crypto.version>
         <!-- Maven Plugins -->
         <jeap-truststore-maven-plugin.version>1.9.0</jeap-truststore-maven-plugin.version>
         <jib-maven-plugin.version>3.4.5</jib-maven-plugin.version>
