@@ -3,8 +3,9 @@
 ## [26.55.0] - 2025-06-04
 
 ### Changed
-
 - Update parent from 5.8.1 to 5.9.0
+- update jeap-messaging from 8.38.1 to 8.39.0
+- SequentialInbox: Prevent parallel execution of housekeeping methods using SchedulerLock. Ensure the shedlock table exists if ShedLock is not already configured.
 
 ## [26.54.0] - 2025-05-26
 ### Added
