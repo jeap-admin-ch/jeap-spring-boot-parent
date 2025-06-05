@@ -17,6 +17,14 @@
 - update jeap-crypto from 3.18.0 to 3.19.0
 - update jeap-spring-boot-vault-starter.version from 17.32.0 to 17.34.0
 - Update parent from 5.8.1 to 5.9.0
+- update jeap-messaging from 8.39.0 to 8.40.0
+- Update parent from 5.8.1 to 5.9.0
+- update jeap-crypto.version from 3.17.0 to 3.18.0
+- Update parent from 5.8.1 to 5.9.0
+- Project Name now required for uploads to Maven Central
+- update jeap-crypto.version from 3.18.0 to 3.19.0
+- update jeap-spring-boot-vault-starter.version from 17.32.0 to 17.34.0
+- Update parent from 5.8.1 to 5.9.0
 
 ## [26.54.0] - 2025-05-26
 ### Added
