@@ -6,6 +6,9 @@
 - Update parent from 5.8.1 to 5.9.0
 - update jeap-messaging from 8.38.1 to 8.39.0
 - SequentialInbox: Prevent parallel execution of housekeeping methods using SchedulerLock. Ensure the shedlock table exists if ShedLock is not already configured.
+- update jeap-spring-boot-tls-starter from 17.31.0 to 17.32.0
+- Update parent from 5.8.1 to 5.9.0
+- Project Name now required for uploads to Maven Central
 
 ## [26.54.0] - 2025-05-26
 ### Added
