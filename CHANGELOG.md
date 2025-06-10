@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.56.0] - 2025-06-10
+### Changed
+- update jeap-messaging from 8.40.0 to 8.41.0
+- The main branch name used by the MessageTypeRegistryVerifier plugin is now configurable. Defaults to 'master'.
+
+
 ## [26.55.0] - 2025-06-04
 
 ### Changed
