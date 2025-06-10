@@ -4,7 +4,8 @@
 ### Changed
 - update jeap-messaging from 8.40.0 to 8.41.0
 - The main branch name used by the MessageTypeRegistryVerifier plugin is now configurable. Defaults to 'master'.
-
+- update jeap-messaging.version from 8.40.0 to 8.41.0
+- update jeap-reaction-observer from 1.2.0 to 1.3.0
 
 ## [26.55.0] - 2025-06-04
 
