@@ -8,6 +8,8 @@
 - update jeap-spring-boot-starters from 17.34.0 to 17.35.0
 - update jeap-spring-boot-vault-starter.version from 17.34.0 to 17.35.0
 - update jeap-crypto from 3.19.0 to 3.20.0
+- update jeap-crypto.version from 3.19.0 to 3.20.0
+- update jeap-messaging from 8.41.0 to 8.42.0
 
 ## [26.56.0] - 2025-06-10
 ### Changed
