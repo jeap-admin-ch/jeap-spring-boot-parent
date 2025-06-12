@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.57.0] - 2025-06-12
+### Changed
+- update jeap-reaction-observer from 1.3.0 to 1.4.0
+- Reactions now group multiple actions occuring during a single trigger together.
+
+
 ## [26.56.0] - 2025-06-10
 ### Changed
 - update jeap-messaging from 8.40.0 to 8.41.0
