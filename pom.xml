@@ -45,6 +45,8 @@
         <jeap-config-aws-starter.version>17.33.0</jeap-config-aws-starter.version>
         <jeap-tls-starter.version>17.33.0</jeap-tls-starter.version>
         <jeap-messaging.version>8.42.0</jeap-messaging.version>
+        <jeap-messaging-outbox.version>8.42.0</jeap-messaging-outbox.version>
+        <jeap-messaging-sequential-inbox.version>8.42.0</jeap-messaging-sequential-inbox.version>
         <jeap-reaction-observer.version>1.5.0</jeap-reaction-observer.version>
         <jeap-crypto.version>3.20.0</jeap-crypto.version>
         <!-- Maven Plugins -->
@@ -247,6 +249,16 @@
                 <version>${jeap-messaging.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-messaging-outbox</artifactId>
+                <version>${jeap-messaging-outbox.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-messaging-sequential-inbox</artifactId>
+                <version>${jeap-messaging-sequential-inbox.version}</version>
             </dependency>
         </dependencies>
 
