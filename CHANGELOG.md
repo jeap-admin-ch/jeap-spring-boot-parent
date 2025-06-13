@@ -18,6 +18,9 @@
 - update jeap-messaging-sequential-inbox from 8.42.0 to 8.43.0
   
 - update jeap-messaging-outbox from 8.42.0 to 8.43.0
+- Limit the amount of recorded reactions to a certain amount for resilience reasons
+- Avoid recording duplicate actions
+- update jeap-reaction-observer from 1.7.0 to 1.7.1
 
 ## [26.57.0] - 2025-06-12
 ### Changed
