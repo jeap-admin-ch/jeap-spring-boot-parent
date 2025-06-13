@@ -8,6 +8,8 @@
 - update jeap-spring-boot-db-migration-starter from 17.32.0 to 17.33.0
 - update jeap-spring-boot-config-aws-starter from 17.32.0 to 17.33.0
 - update jeap-spring-boot-starters from 17.35.0 to 17.36.0
+- update jeap-spring-boot-vault-starter.version from 17.35.0 to 17.36.0
+- update jeap-crypto from 3.20.0 to 3.21.0
 
 ## [26.57.0] - 2025-06-12
 ### Changed
