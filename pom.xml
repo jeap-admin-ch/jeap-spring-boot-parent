@@ -43,7 +43,7 @@
         <jeap-starter.version>17.35.0</jeap-starter.version>
         <jeap-db-migration-starter.version>17.32.0</jeap-db-migration-starter.version>
         <jeap-config-aws-starter.version>17.32.0</jeap-config-aws-starter.version>
-        <jeap-tls-starter.version>17.32.0</jeap-tls-starter.version>
+        <jeap-tls-starter.version>17.33.0</jeap-tls-starter.version>
         <jeap-messaging.version>8.42.0</jeap-messaging.version>
         <jeap-reaction-observer.version>1.5.0</jeap-reaction-observer.version>
         <jeap-crypto.version>3.20.0</jeap-crypto.version>
