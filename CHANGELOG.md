@@ -16,6 +16,8 @@
 - update jeap-messaging.version from 8.43.0 to 8.44.0
   
 - update jeap-messaging-sequential-inbox from 8.42.0 to 8.43.0
+  
+- update jeap-messaging-outbox from 8.42.0 to 8.43.0
 
 ## [26.57.0] - 2025-06-12
 ### Changed
