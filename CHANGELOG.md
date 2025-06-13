@@ -12,15 +12,12 @@
 - update jeap-crypto from 3.20.0 to 3.21.0
 - update jeap-messaging from 8.42.0 to 8.44.0
 - update jeap-crypto.version from 3.20.0 to 3.21.0
-- update jeap-reaction-observer from 1.5.0 to 1.7.0
 - update jeap-messaging.version from 8.43.0 to 8.44.0
-  
 - update jeap-messaging-sequential-inbox from 8.42.0 to 8.43.0
-  
 - update jeap-messaging-outbox from 8.42.0 to 8.43.0
-- Limit the amount of recorded reactions to a certain amount for resilience reasons
-- Avoid recording duplicate actions
-- update jeap-reaction-observer from 1.7.0 to 1.7.1
+- update jeap-reaction-observer from 1.5.0 to 1.7.1
+  - Limit the amount of recorded reactions to a certain amount for resilience reasons
+  - Avoid recording duplicate actions
 
 ## [26.57.0] - 2025-06-12
 ### Changed
