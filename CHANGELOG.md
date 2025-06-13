@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.58.0] - 2025-06-13
+
+### Changed
+
+- Update parent from 5.9.0 to 5.10.0
+
 ## [26.57.0] - 2025-06-12
 ### Changed
 - update jeap-reaction-observer from 1.3.0 to 1.4.0
