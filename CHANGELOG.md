@@ -12,6 +12,8 @@
 - update jeap-crypto from 3.20.0 to 3.21.0
 - update jeap-messaging from 8.42.0 to 8.44.0
 - update jeap-crypto.version from 3.20.0 to 3.21.0
+- update jeap-reaction-observer from 1.5.0 to 1.7.0
+- update jeap-messaging.version from 8.43.0 to 8.44.0
 
 ## [26.57.0] - 2025-06-12
 ### Changed
