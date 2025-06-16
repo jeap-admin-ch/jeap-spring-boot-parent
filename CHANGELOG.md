@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.59.0] - 2025-06-16
+### Changed
+- update jeap-messaging-outbox from 8.43.0 to 8.44.0
+  
+
+
 ## [26.58.0] - 2025-06-13
 
 ### Changed
