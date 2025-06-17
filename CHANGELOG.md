@@ -5,7 +5,6 @@
 ### Changed
 - Update parent from 5.10.0 to 5.10.1
 - update jeap-spring-boot-tls-starter from 17.33.0 to 17.34.0
-  
 - update jeap-messaging-sequential-inbox from 8.44.0 to 8.45.0
 - update jeap-spring-boot-config-aws-starter from 17.33.0 to 17.34.0
 - update jeap-spring-boot-starters from 17.36.0 to 17.37.0
@@ -13,10 +12,8 @@
 - update jeap-crypto from 3.21.0 to 3.22.1
 - update jeap-spring-boot-db-migration-starter from 17.33.0 to 17.34.0
 - update jeap-messaging from 8.44.0 to 8.45.0
-- update jeap-crypto.version from 3.21.0 to 3.22.1
-- update jeap-messaging.version from 8.44.0 to 8.45.0
 - update jeap-messaging-outbox from 8.44.0 to 8.46.0
-- update jeap-messaging-sequential-inbox from 8.45.0 to 8.46.0
+- update jeap-messaging-sequential-inbox from 8.44.0 to 8.46.0
 - update jeap-reaction-observer from 1.7.1 to 1.8.0
 
 ## [26.60.0] - 2025-06-16
