@@ -3,8 +3,8 @@
 ## [26.61.0] - 2025-06-17
 
 ### Changed
-
 - Update parent from 5.10.0 to 5.10.1
+- update jeap-spring-boot-tls-starter from 17.33.0 to 17.34.0
 
 ## [26.60.0] - 2025-06-16
 ### Changed
