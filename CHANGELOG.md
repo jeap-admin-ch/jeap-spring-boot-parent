@@ -12,6 +12,8 @@
 - Update because to upload (central-publish) didn't work properly
 - update jeap-crypto from 3.21.0 to 3.22.1
 - update jeap-spring-boot-db-migration-starter from 17.33.0 to 17.34.0
+- update jeap-messaging from 8.44.0 to 8.45.0
+- update jeap-crypto.version from 3.21.0 to 3.22.1
 
 ## [26.60.0] - 2025-06-16
 ### Changed
