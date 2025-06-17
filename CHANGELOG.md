@@ -9,6 +9,8 @@
 - update jeap-messaging-sequential-inbox from 8.44.0 to 8.45.0
 - update jeap-spring-boot-config-aws-starter from 17.33.0 to 17.34.0
 - update jeap-spring-boot-starters from 17.36.0 to 17.37.0
+- Update because to upload (central-publish) didn't work properly
+- update jeap-crypto from 3.21.0 to 3.22.1
 
 ## [26.60.0] - 2025-06-16
 ### Changed
