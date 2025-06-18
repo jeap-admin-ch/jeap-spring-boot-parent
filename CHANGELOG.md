@@ -7,6 +7,7 @@
 - Overwrite commons-beanutils version (1.9.4) from spring-kafka-test 3.3.6 with 1.11.0 (CVE-2025-48734)
 - update jeap-messaging.version from 8.45.0 to 8.46.0
 - update jeap-messaging-sequential-inbox from 8.46.0 to 8.47.0
+- update jeap-reaction-observer from 1.8.0 to 1.9.0
 
 ## [26.61.0] - 2025-06-17
 
