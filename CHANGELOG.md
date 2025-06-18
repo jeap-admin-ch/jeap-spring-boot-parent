@@ -1,5 +1,12 @@
 # Changelog
 
+## [26.62.0] - 2025-06-18
+### Changed
+- update jeap-messaging from 8.45.0 to 8.46.0
+- Overwrite commons-io version (2.11.0) from spring-kafka-test 3.3.6 with 2.19.0 (CVE-2024-47554)
+- Overwrite commons-beanutils version (1.9.4) from spring-kafka-test 3.3.6 with 1.11.0 (CVE-2025-48734)
+
+
 ## [26.61.0] - 2025-06-17
 
 ### Changed
