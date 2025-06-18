@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.63.0] - 2025-06-18
+
+### Changed
+
+- Update parent from 5.10.1 to 5.10.2
+
 ## [26.62.0] - 2025-06-18
 ### Changed
 - update jeap-messaging from 8.45.0 to 8.46.0
