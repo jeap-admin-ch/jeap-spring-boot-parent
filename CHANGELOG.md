@@ -12,6 +12,8 @@
 - update jeap-crypto from 3.22.1 to 3.23.0
 - update jeap-messaging from 8.46.0 to 8.47.0
 - update jeap-crypto.version from 3.22.1 to 3.23.0
+- update jeap-messaging-outbox from 8.47.0 to 8.48.0
+- update jeap-messaging.version from 8.46.0 to 8.47.0
 
 ## [26.62.0] - 2025-06-18
 ### Changed
