@@ -4,7 +4,8 @@
 ### Changed
 - update jeap-messaging from 8.47.0 to 8.47.1
 - Fix bug in message signing verifier, where certificate common and service name were twisted 
-
+- update jeap-messaging.version from 8.47.0 to 8.47.1
+- update jeap-reaction-observer from 1.10.0 to 1.10.1
 
 ## [26.63.0] - 2025-06-18
 
