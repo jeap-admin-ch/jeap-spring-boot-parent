@@ -8,12 +8,9 @@
 - update jeap-spring-boot-db-migration-starter from 17.34.0 to 17.35.0
 - update jeap-spring-boot-config-aws-starter from 17.34.0 to 17.35.0
 - update jeap-spring-boot-starters from 17.37.0 to 17.38.0
-- update jeap-spring-boot-vault-starter.version from 17.37.0 to 17.38.0
 - update jeap-crypto from 3.22.1 to 3.23.0
 - update jeap-messaging from 8.46.0 to 8.47.0
-- update jeap-crypto.version from 3.22.1 to 3.23.0
 - update jeap-messaging-outbox from 8.47.0 to 8.48.0
-- update jeap-messaging.version from 8.46.0 to 8.47.0
 - update jeap-messaging-sequential-inbox from 8.47.0 to 8.48.0
 - update jeap-reaction-observer from 1.9.0 to 1.10.0
 
