@@ -7,6 +7,8 @@
 - update jeap-messaging.version from 8.47.0 to 8.47.1
 - update jeap-reaction-observer from 1.10.0 to 1.10.1
 - update jeap-messaging-outbox from 8.48.0 to 8.48.1
+- Fix bug in message signing verifier, where certificate common and service name were twisted
+- update jeap-messaging-sequential-inbox from 8.48.0 to 8.48.1
 
 ## [26.63.0] - 2025-06-18
 
