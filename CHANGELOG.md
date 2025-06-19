@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.63.1] - 2025-06-19
+### Changed
+- update jeap-messaging from 8.47.0 to 8.47.1
+- Fix bug in message signing verifier, where certificate common and service name were twisted 
+
+
 ## [26.63.0] - 2025-06-18
 
 ### Changed
