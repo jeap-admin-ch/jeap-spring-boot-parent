@@ -1,5 +1,9 @@
 # Changelog
 
+## [26.64.0] - 2025-06-23
+### Changed
+- update jeap-truststore-maven-plugin from 1.9.0 to 1.15.0
+
 ## [26.63.1] - 2025-06-19
 ### Changed
 - update jeap-messaging from 8.47.0 to 8.47.1
