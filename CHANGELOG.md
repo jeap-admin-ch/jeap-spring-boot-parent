@@ -1,5 +1,12 @@
 # Changelog
 
+## [26.64.1] - 2025-06-23
+### Changed
+- update jeap-messaging-outbox from 8.48.1 to 8.48.2
+- Made SpringDataJpaDeferredMessageRepository public to fix a BeanCreationException during application startup.
+  Spring Data JPA requires repository interfaces to be public when loaded via @EnableJpaRepositories from a different package or module.
+
+
 ## [26.64.0] - 2025-06-23
 ### Changed
 - update jeap-truststore-maven-plugin from 1.9.0 to 1.15.0
