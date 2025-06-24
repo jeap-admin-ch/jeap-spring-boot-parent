@@ -27,7 +27,7 @@
     </licenses>
 
     <artifactId>jeap-spring-boot-parent</artifactId>
-    <version>26.64.2-SNAPSHOT</version>
+    <version>26.65.0-SNAPSHOT</version>
     <name>jeap-spring-boot-parent</name>
     <description>A common parent project</description>
     <packaging>pom</packaging>
@@ -49,6 +49,7 @@
         <jeap-messaging-sequential-inbox.version>8.48.1</jeap-messaging-sequential-inbox.version>
         <jeap-reaction-observer.version>1.10.1</jeap-reaction-observer.version>
         <jeap-crypto.version>3.23.0</jeap-crypto.version>
+        <jeap-server-sent-events.version>1.0.0</jeap-server-sent-events.version>
         <!-- Maven Plugins -->
         <jeap-truststore-maven-plugin.version>1.15.1</jeap-truststore-maven-plugin.version>
         <jib-maven-plugin.version>3.4.5</jib-maven-plugin.version>
@@ -259,6 +260,28 @@
                 <groupId>ch.admin.bit.jeap</groupId>
                 <artifactId>jeap-messaging-sequential-inbox</artifactId>
                 <version>${jeap-messaging-sequential-inbox.version}</version>
+            </dependency>
+
+            <!-- jeap-server-sent-events -->
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-server-sent-events-core</artifactId>
+                <version>${jeap-server-sent-events.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-server-sent-events-messaging</artifactId>
+                <version>${jeap-server-sent-events.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-server-sent-events-web</artifactId>
+                <version>${jeap-server-sent-events.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-server-sent-events-starter</artifactId>
+                <version>${jeap-server-sent-events.version}</version>
             </dependency>
         </dependencies>
 

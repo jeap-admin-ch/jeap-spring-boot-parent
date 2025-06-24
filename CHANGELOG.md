@@ -1,9 +1,13 @@
 # Changelog
 
+## [26.65.0] - 2025-06-25
+### Changed
+- add jeap-server-sent-events version 1.0.0
+
 ## [26.64.2] - 2025-06-24
 ### Changed
 - update jeap-truststore-maven-plugin from 1.15.0 to 1.15.1
-  - Set the target directory in the clone command
+- Set the target directory in the clone command
 
 ## [26.64.1] - 2025-06-23
 ### Changed
