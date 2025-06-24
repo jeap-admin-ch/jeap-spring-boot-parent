@@ -27,7 +27,7 @@
     </licenses>
 
     <artifactId>jeap-spring-boot-parent</artifactId>
-    <version>26.64.1-SNAPSHOT</version>
+    <version>26.64.2-SNAPSHOT</version>
     <name>jeap-spring-boot-parent</name>
     <description>A common parent project</description>
     <packaging>pom</packaging>
@@ -50,7 +50,7 @@
         <jeap-reaction-observer.version>1.10.1</jeap-reaction-observer.version>
         <jeap-crypto.version>3.23.0</jeap-crypto.version>
         <!-- Maven Plugins -->
-        <jeap-truststore-maven-plugin.version>1.15.0</jeap-truststore-maven-plugin.version>
+        <jeap-truststore-maven-plugin.version>1.15.1</jeap-truststore-maven-plugin.version>
         <jib-maven-plugin.version>3.4.5</jib-maven-plugin.version>
     </properties>
 
