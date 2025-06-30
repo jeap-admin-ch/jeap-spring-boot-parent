@@ -5,6 +5,7 @@
 - update jeap-messaging from 8.47.1 to 8.49.0
 - Support for privileged producer in message signature validation (for mirrormaker)
 - update jeap-messaging-outbox from 8.48.2 to 8.49.0
+- update jeap-reaction-observer from 1.10.1 to 1.11.0
 
 ## [26.65.0] - 2025-06-25
 ### Changed
