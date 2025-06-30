@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.66.0] - 2025-06-30
+### Changed
+- update jeap-messaging from 8.47.1 to 8.49.0
+- Support for privileged producer in message signature validation (for mirrormaker)
+
+
 ## [26.65.0] - 2025-06-25
 ### Changed
 - add jeap-server-sent-events version 1.0.0
