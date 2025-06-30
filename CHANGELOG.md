@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.66.1] - 2025-06-30
+### Changed
+- update jeap-messaging from 8.49.0 to 8.49.1
+- The logging in the MessageTypeRegistryVerifierMojo now respects the Maven logging configuration.
+
+
 ## [26.66.0] - 2025-06-30
 ### Changed
 - update jeap-messaging from 8.47.1 to 8.49.0
