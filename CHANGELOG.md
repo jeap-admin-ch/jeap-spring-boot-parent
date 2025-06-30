@@ -5,6 +5,7 @@
 - update jeap-messaging from 8.49.0 to 8.49.1
 - The logging in the MessageTypeRegistryVerifierMojo now respects the Maven logging configuration.
 - update jeap-server-sent-events from 1.1.0 to 1.1.1
+- update jeap-messaging-outbox from 8.49.0 to 8.49.1
 
 ## [26.66.0] - 2025-06-30
 ### Changed
