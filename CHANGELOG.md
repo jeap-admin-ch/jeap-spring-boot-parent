@@ -23,6 +23,7 @@
 - update jeap-starter from 17.38.0 to 17.39.0
 - update jeap-server-sent-events from 1.1.1 to 1.2.0
 - Removed tomcat-embed-core as managed dependency
+- update jeap-messaging-outbox from 8.49.1 to 8.50.0
 
 ## [26.66.1] - 2025-06-30
 ### Changed
