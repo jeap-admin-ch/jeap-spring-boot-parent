@@ -24,6 +24,7 @@
 - update jeap-server-sent-events from 1.1.1 to 1.2.0
 - Removed tomcat-embed-core as managed dependency
 - update jeap-messaging-outbox from 8.49.1 to 8.50.0
+- update jib-maven-plugin from 3.4.5 to 3.4.6
 
 ## [26.66.1] - 2025-06-30
 ### Changed
