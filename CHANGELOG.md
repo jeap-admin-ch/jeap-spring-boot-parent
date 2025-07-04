@@ -20,6 +20,9 @@
 - update avro-serializer from 7.9.0 to 7.9.2
 - update jeap-messaging-sequential-inbox from 8.49.1 to 8.50.0
 - update jeap-reaction-observer from 1.11.1 to 1.12.0
+- update jeap-starter from 17.38.0 to 17.39.0
+- update jeap-server-sent-events from 1.1.1 to 1.2.0
+- Removed tomcat-embed-core as managed dependency
 
 ## [26.66.1] - 2025-06-30
 ### Changed

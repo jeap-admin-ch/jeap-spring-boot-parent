@@ -49,7 +49,7 @@
         <jeap-messaging-sequential-inbox.version>8.50.0</jeap-messaging-sequential-inbox.version>
         <jeap-reaction-observer.version>1.12.0</jeap-reaction-observer.version>
         <jeap-crypto.version>3.24.0</jeap-crypto.version>
-        <jeap-server-sent-events.version>1.1.1</jeap-server-sent-events.version>
+        <jeap-server-sent-events.version>1.2.0</jeap-server-sent-events.version>
         <!-- Maven Plugins -->
         <jeap-truststore-maven-plugin.version>1.15.1</jeap-truststore-maven-plugin.version>
         <jib-maven-plugin.version>3.4.5</jib-maven-plugin.version>
