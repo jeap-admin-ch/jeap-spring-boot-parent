@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 5.10.2 to 5.11.0
 - update jeap-spring-boot-tls-starter from 17.35.0 to 17.36.0
+- update jeap-spring-boot-config-aws-starter from 17.35.0 to 17.36.0
 
 ## [26.66.1] - 2025-06-30
 ### Changed
