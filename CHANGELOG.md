@@ -19,6 +19,7 @@
 - update schema-registry-serde from 1.1.23 to 1.1.24
 - update avro-serializer from 7.9.0 to 7.9.2
 - update jeap-messaging-sequential-inbox from 8.49.1 to 8.50.0
+- update jeap-reaction-observer from 1.11.1 to 1.12.0
 
 ## [26.66.1] - 2025-06-30
 ### Changed
