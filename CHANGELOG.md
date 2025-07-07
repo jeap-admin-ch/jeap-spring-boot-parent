@@ -1,5 +1,12 @@
 # Changelog
 
+## [26.67.1] - 2025-07-07
+### Changed
+- update jeap-spring-boot-starters from 17.39.0 to 17.39.1
+- Make sure JeapPostgreSQLAWSDataSourceAutoConfig is evaluated before Spring's DataSourceAutoConfiguration to avoid
+  DataSource bean conflicts.
+
+
 ## [26.67.0] - 2025-07-04
 
 ### Changed
