@@ -1,13 +1,14 @@
 # Changelog
 
-## [26.67.1] - 2025-07-07
+## [26.68.0] - 2025-07-07
+### Added
+-  Add jeap-db-schema-publisher 1.0.0
+
 ### Changed
 - update jeap-spring-boot-starters from 17.39.0 to 17.39.1
 - Make sure JeapPostgreSQLAWSDataSourceAutoConfig is evaluated before Spring's DataSourceAutoConfiguration to avoid
   DataSource bean conflicts.
-- update jeap-starter from 17.39.0 to 17.39.1
 - update jeap-server-sent-events from 1.2.0 to 1.2.1
-  DataSource bean conflicts.
 
 ## [26.67.0] - 2025-07-04
 
