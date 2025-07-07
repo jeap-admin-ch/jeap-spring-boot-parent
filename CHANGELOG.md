@@ -13,6 +13,8 @@
   DataSource bean conflicts.
 - update jeap-messaging from 8.51.0 to 8.51.1
 - Make sure JeapPostgreSQLAWSDataSourceAutoConfig is evaluated before Spring's DataSourceAutoConfiguration to avoid
+  DataSource bean conflicts.
+- update jeap-server-sent-events from 1.2.1 to 1.2.2
 
 ## [26.67.0] - 2025-07-04
 
