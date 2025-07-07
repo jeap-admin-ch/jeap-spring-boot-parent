@@ -17,6 +17,8 @@
 - update jeap-server-sent-events from 1.2.1 to 1.2.2
   DataSource bean conflicts.
 - update jeap-messaging-outbox from 8.50.0 to 8.50.1
+  DataSource bean conflicts.
+- update jeap-messaging-sequential-inbox from 8.50.0 to 8.50.1
 
 ## [26.67.0] - 2025-07-04
 
