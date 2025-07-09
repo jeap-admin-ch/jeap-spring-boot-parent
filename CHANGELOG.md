@@ -6,6 +6,8 @@
 - ServletRequestSecurityTracer now properly handles non-REST requests (e.g., SOAP) by falling back to the request URI when the REST HandlerMapping pattern is not available.
 - update jeap-spring-boot-vault-starter from 17.39.1 to 17.39.2
 - update jeap-crypto from 3.24.1 to 3.24.2
+- update jeap-starter from 17.39.1 to 17.39.2
+- update jeap-server-sent-events from 1.2.2 to 1.2.3
 
 ## [26.68.0] - 2025-07-07
 ### Added
