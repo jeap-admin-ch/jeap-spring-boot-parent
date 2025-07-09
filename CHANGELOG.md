@@ -16,6 +16,8 @@
 - update jeap-reaction-observer from 1.12.1 to 1.12.2
 - update jeap-server-sent-events from 1.2.3 to 1.2.4
 - update jeap-starter from 17.39.2 to 17.39.3
+- update jeap-spring-boot-vault-starter from 17.39.2 to 17.39.3
+- update jeap-crypto from 3.24.2 to 3.24.3
 
 ## [26.68.0] - 2025-07-07
 ### Added
