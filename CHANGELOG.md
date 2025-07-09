@@ -2,27 +2,16 @@
 
 ## [26.68.1] - 2025-07-09
 ### Changed
-- update jeap-spring-boot-starters from 17.39.1 to 17.39.2
+- update jeap-spring-boot-starters from 17.39.1 to 17.39.3
 - ServletRequestSecurityTracer now properly handles non-REST requests (e.g., SOAP) by falling back to the request URI when the REST HandlerMapping pattern is not available.
-- update jeap-spring-boot-vault-starter from 17.39.1 to 17.39.2
-- update jeap-crypto from 3.24.1 to 3.24.2
-- update jeap-starter from 17.39.1 to 17.39.2
-- update jeap-server-sent-events from 1.2.2 to 1.2.3
-- update jeap-messaging from 8.51.1 to 8.51.2
 - switch from deprecated org.springframework.boot.autoconfigure.security.oauth2.client.servlet.OAuth2ClientAutoConfiguration to org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2ClientAutoConfiguration
-- update jeap-spring-boot-starters from 17.39.2 to 17.39.3
-- update jeap-messaging-outbox from 8.50.1 to 8.50.2
-- update jeap-messaging-sequential-inbox from 8.50.1 to 8.50.2
-- update jeap-reaction-observer from 1.12.1 to 1.12.2
-- update jeap-server-sent-events from 1.2.3 to 1.2.4
-- update jeap-starter from 17.39.2 to 17.39.3
-- update jeap-spring-boot-vault-starter from 17.39.2 to 17.39.3
-- update jeap-crypto from 3.24.2 to 3.24.3
-- update jeap-messaging from 8.51.2 to 8.51.3
-- update jeap-messaging-outbox from 8.50.2 to 8.50.3
-- update jeap-server-sent-events from 1.2.4 to 1.2.5
-- update jeap-messaging-sequential-inbox from 8.50.2 to 8.50.3
-- update jeap-reaction-observer from 1.12.2 to 1.12.3
+- update jeap-spring-boot-vault-starter from 17.39.1 to 17.39.3
+- update jeap-crypto from 3.24.1 to 3.24.3
+- update jeap-server-sent-events from 1.2.2 to 1.2.5
+- update jeap-messaging from 8.51.1 to 8.51.3
+- update jeap-messaging-outbox from 8.50.1 to 8.50.3
+- update jeap-messaging-sequential-inbox from 8.50.1 to 8.50.3
+- update jeap-reaction-observer from 1.12.1 to 1.12.3
 
 ## [26.68.0] - 2025-07-07
 ### Added
