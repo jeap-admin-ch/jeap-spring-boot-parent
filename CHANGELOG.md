@@ -12,6 +12,7 @@
 - switch from deprecated org.springframework.boot.autoconfigure.security.oauth2.client.servlet.OAuth2ClientAutoConfiguration to org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2ClientAutoConfiguration
 - update jeap-spring-boot-starters from 17.39.2 to 17.39.3
 - update jeap-messaging-outbox from 8.50.1 to 8.50.2
+- update jeap-messaging-sequential-inbox from 8.50.1 to 8.50.2
 
 ## [26.68.0] - 2025-07-07
 ### Added
