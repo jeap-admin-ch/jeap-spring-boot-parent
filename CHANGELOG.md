@@ -14,6 +14,8 @@
 - update jeap-messaging-outbox from 8.50.1 to 8.50.2
 - update jeap-messaging-sequential-inbox from 8.50.1 to 8.50.2
 - update jeap-reaction-observer from 1.12.1 to 1.12.2
+- update jeap-server-sent-events from 1.2.3 to 1.2.4
+- update jeap-starter from 17.39.2 to 17.39.3
 
 ## [26.68.0] - 2025-07-07
 ### Added
