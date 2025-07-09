@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.68.1] - 2025-07-09
+### Changed
+- update jeap-spring-boot-starters from 17.39.1 to 17.39.2
+- ServletRequestSecurityTracer now properly handles non-REST requests (e.g., SOAP) by falling back to the request URI when the REST HandlerMapping pattern is not available.
+
+
 ## [26.68.0] - 2025-07-07
 ### Added
 -  Add jeap-db-schema-publisher 1.0.0
