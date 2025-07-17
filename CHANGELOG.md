@@ -4,11 +4,6 @@
 ### Changed
 - update jeap-messaging-sequential-inbox from 8.50.3 to 8.50.4
   - Bugfix: Pass original message headers to error handling service when buffered message processing fails
-- update jeap-messaging from 8.51.2 to 8.51.3
-- update jeap-crypto from 3.24.2 to 3.24.3
-- update jeap-spring-boot-vault-starter from 17.39.2 to 17.39.3
-- switch from deprecated org.springframework.boot.autoconfigure.security.oauth2.client.servlet.OAuth2ClientAutoConfiguration to org.springframework.boot.autoconfigure.security.oauth2.client.OAuth2ClientAutoConfiguration
-
 
 ## [26.68.1] - 2025-07-09
 ### Changed
