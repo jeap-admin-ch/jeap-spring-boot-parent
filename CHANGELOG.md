@@ -3,6 +3,7 @@
 ## [26.68.2] - 2025-07-17
 ### Changed
 - update jeap-messaging-sequential-inbox from 8.50.3 to 8.50.4
+  - Bugfix: Pass original message headers to error handling service when buffered message processing fails
 - update jeap-messaging from 8.51.2 to 8.51.3
 - update jeap-crypto from 3.24.2 to 3.24.3
 - update jeap-spring-boot-vault-starter from 17.39.2 to 17.39.3
