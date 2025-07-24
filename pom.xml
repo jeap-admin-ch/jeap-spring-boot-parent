@@ -35,7 +35,7 @@
     <parent>
         <artifactId>jeap-internal-spring-boot-parent</artifactId>
         <groupId>ch.admin.bit.jeap</groupId>
-        <version>5.11.0</version>
+        <version>5.12.0</version>
     </parent>
 
     <properties>
@@ -51,6 +51,7 @@
         <jeap-crypto.version>3.24.3</jeap-crypto.version>
         <jeap-server-sent-events.version>1.2.5</jeap-server-sent-events.version>
         <jeap-db-schema-publisher.version>1.0.0</jeap-db-schema-publisher.version>
+        <jeap-spring-boot-roles-anywhere-starter.version>1.0.0</jeap-spring-boot-roles-anywhere-starter.version>
         <!-- Maven Plugins -->
         <jeap-truststore-maven-plugin.version>1.15.1</jeap-truststore-maven-plugin.version>
         <jib-maven-plugin.version>3.4.6</jib-maven-plugin.version>
@@ -188,6 +189,11 @@
                 <groupId>ch.admin.bit.jeap</groupId>
                 <artifactId>jeap-spring-boot-featureflag-starter</artifactId>
                 <version>${jeap-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-roles-anywhere-starter</artifactId>
+                <version>${jeap-spring-boot-roles-anywhere-starter.version}</version>
             </dependency>
 
             <!-- jEAP Crypto -->

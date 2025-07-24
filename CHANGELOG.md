@@ -1,5 +1,9 @@
 # Changelog
 
+## [26.69.0] - 2025-07-24
+### Added
+- Added jeap-spring-boot-roles-anywhere-starter 1.0.0
+
 ## [26.68.2] - 2025-07-17
 ### Changed
 - update jeap-messaging-sequential-inbox from 8.50.3 to 8.50.4
