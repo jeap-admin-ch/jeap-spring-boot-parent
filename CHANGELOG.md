@@ -4,7 +4,7 @@
 ### Changed
 - update jeap-messaging from 8.51.3 to 8.52.0
 - Added jeap-spring-boot-roles-anywhere-starter support for aws msk
-
+- update jeap-server-sent-events from 1.2.5 to 1.3.0
 
 ## [26.69.0] - 2025-07-24
 ### Added
