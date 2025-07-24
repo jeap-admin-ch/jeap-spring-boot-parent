@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.70.0] - 2025-07-24
+### Changed
+- update jeap-messaging from 8.51.3 to 8.52.0
+- Added jeap-spring-boot-roles-anywhere-starter support for aws msk
+
+
 ## [26.69.0] - 2025-07-24
 ### Added
 - Added jeap-spring-boot-roles-anywhere-starter 1.0.0
