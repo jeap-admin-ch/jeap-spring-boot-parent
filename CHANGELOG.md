@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.71.0] - 2025-07-25
+### Changed
+- update jeap-db-schema-publisher from 1.0.0 to 1.1.0
+- Improve logging/tracing of DB schema upload process
+
+
 ## [26.70.0] - 2025-07-24
 ### Changed
 - update jeap-messaging from 8.51.3 to 8.52.0
