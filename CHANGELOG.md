@@ -3,8 +3,6 @@
 ## [26.71.1] - 2025-07-30
 ### Changed
 - update jeap-server-sent-events from 1.3.0 to 1.3.2
-- new version to build a release, because build failed with 1.3.1 
-
 
 ## [26.71.0] - 2025-07-25
 ### Changed
