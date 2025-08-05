@@ -14,6 +14,8 @@
 - update jeap-spring-boot-roles-anywhere-starter from 1.0.0 to 1.1.0
 - update jeap-spring-boot-vault-starter from 17.39.3 to 17.40.0
 - update jeap-crypto from 3.24.3 to 3.25.0
+- Changed to Update_jEAP_roles_anywhere_dependents to update messaging as well 
+- update jeap-spring-boot-roles-anywhere-starter from 1.1.0 to 1.1.1
 
 ## [26.71.1] - 2025-07-30
 ### Changed
