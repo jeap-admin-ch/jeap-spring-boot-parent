@@ -50,7 +50,7 @@
         <jeap-reaction-observer.version>1.14.0</jeap-reaction-observer.version>
         <jeap-crypto.version>3.25.0</jeap-crypto.version>
         <jeap-server-sent-events.version>1.4.0</jeap-server-sent-events.version>
-        <jeap-db-schema-publisher.version>1.1.0</jeap-db-schema-publisher.version>
+        <jeap-db-schema-publisher.version>1.2.0</jeap-db-schema-publisher.version>
         <jeap-spring-boot-roles-anywhere-starter.version>1.1.1</jeap-spring-boot-roles-anywhere-starter.version>
         <!-- Maven Plugins -->
         <jeap-truststore-maven-plugin.version>1.15.1</jeap-truststore-maven-plugin.version>

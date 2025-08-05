@@ -29,6 +29,7 @@
 - update jeap-messaging-sequential-inbox from 8.51.0 to 8.52.0
   
 - update jeap-reaction-observer from 1.13.0 to 1.14.0
+- update jeap-db-schema-publisher from 1.1.0 to 1.2.0
 
 ## [26.71.1] - 2025-07-30
 ### Changed
