@@ -4,6 +4,11 @@
 
 ### Changed
 - Update parent from 5.11.0 to 5.12.0
+- Updated Spring Boot from 3.5.3 to 3.5.4
+- Updated maven-enforcer-plugin from 3.6.0 to 3.6.1
+- Updated shedlock from 6.9.0 to 6.9.2
+- Updated exec-maven-plugin from 3.5.0 to 3.5.1
+- Updated aws.sdk from 2.31.76 to 2.32.14
 - update jeap-spring-boot-tls-starter from 17.36.0 to 17.37.0
 - update jeap-spring-boot-db-migration-starter from 17.36.0 to 17.37.0
 - update jeap-spring-boot-config-aws-starter from 17.36.0 to 17.37.0
@@ -11,23 +16,15 @@
 - updated wiremock from 3.12.1 to 3.13.1
 - update jeap-spring-boot-starters from 17.39.3 to 17.40.0
 - updated logstash from 8.0 to 8.1
-- update jeap-spring-boot-roles-anywhere-starter from 1.0.0 to 1.1.0
 - update jeap-spring-boot-vault-starter from 17.39.3 to 17.40.0
 - update jeap-crypto from 3.24.3 to 3.25.0
-- Changed to Update_jEAP_roles_anywhere_dependents to update messaging as well 
-- update jeap-spring-boot-roles-anywhere-starter from 1.1.0 to 1.1.1
 - update jeap-spring-boot-roles-anywhere-starter from 1.0.0 to 1.1.1
 - update commons-compress from 1.27.1 to 1.28.0
 - update jeap-messaging from 8.52.0 to 8.53.0
-  
-  
 - update jeap-messaging-outbox from 8.51.0 to 8.52.0
 - update jeap-starter from 17.39.3 to 17.40.0
 - update jeap-server-sent-events from 1.3.2 to 1.4.0
-  
-  
 - update jeap-messaging-sequential-inbox from 8.51.0 to 8.52.0
-  
 - update jeap-reaction-observer from 1.13.0 to 1.14.0
 - update jeap-db-schema-publisher from 1.1.0 to 1.2.0
 
