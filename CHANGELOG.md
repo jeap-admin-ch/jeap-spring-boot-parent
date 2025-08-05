@@ -16,6 +16,10 @@
 - update jeap-crypto from 3.24.3 to 3.25.0
 - Changed to Update_jEAP_roles_anywhere_dependents to update messaging as well 
 - update jeap-spring-boot-roles-anywhere-starter from 1.1.0 to 1.1.1
+- update jeap-spring-boot-roles-anywhere-starter from 1.0.0 to 1.1.1
+- update commons-compress from 1.27.1 to 1.28.0
+- update jeap-messaging from 8.52.0 to 8.53.0
+  
 
 ## [26.71.1] - 2025-07-30
 ### Changed
