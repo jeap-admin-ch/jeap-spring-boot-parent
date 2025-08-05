@@ -7,6 +7,10 @@
 - update jeap-spring-boot-tls-starter from 17.36.0 to 17.37.0
 - update jeap-spring-boot-db-migration-starter from 17.36.0 to 17.37.0
 - update jeap-spring-boot-config-aws-starter from 17.36.0 to 17.37.0
+- updated springdoc-openapi from 2.8.6 to 2.8.9
+- updated wiremock from 3.12.1 to 3.13.1
+- update jeap-spring-boot-starters from 17.39.3 to 17.40.0
+- updated logstash from 8.0 to 8.1
 
 ## [26.71.1] - 2025-07-30
 ### Changed
