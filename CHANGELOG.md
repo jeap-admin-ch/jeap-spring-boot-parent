@@ -11,6 +11,7 @@
 - updated wiremock from 3.12.1 to 3.13.1
 - update jeap-spring-boot-starters from 17.39.3 to 17.40.0
 - updated logstash from 8.0 to 8.1
+- update jeap-spring-boot-roles-anywhere-starter from 1.0.0 to 1.1.0
 
 ## [26.71.1] - 2025-07-30
 ### Changed
