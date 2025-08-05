@@ -47,7 +47,7 @@
         <jeap-messaging.version>8.53.0</jeap-messaging.version>
         <jeap-messaging-outbox.version>8.52.0</jeap-messaging-outbox.version>
         <jeap-messaging-sequential-inbox.version>8.52.0</jeap-messaging-sequential-inbox.version>
-        <jeap-reaction-observer.version>1.13.0</jeap-reaction-observer.version>
+        <jeap-reaction-observer.version>1.14.0</jeap-reaction-observer.version>
         <jeap-crypto.version>3.25.0</jeap-crypto.version>
         <jeap-server-sent-events.version>1.4.0</jeap-server-sent-events.version>
         <jeap-db-schema-publisher.version>1.1.0</jeap-db-schema-publisher.version>
