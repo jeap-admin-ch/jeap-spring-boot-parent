@@ -20,6 +20,8 @@
 - update commons-compress from 1.27.1 to 1.28.0
 - update jeap-messaging from 8.52.0 to 8.53.0
   
+  
+- update jeap-messaging-outbox from 8.51.0 to 8.52.0
 
 ## [26.71.1] - 2025-07-30
 ### Changed
