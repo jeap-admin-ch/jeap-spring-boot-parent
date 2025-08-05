@@ -25,6 +25,8 @@
 - update jeap-starter from 17.39.3 to 17.40.0
 - update jeap-server-sent-events from 1.3.2 to 1.4.0
   
+  
+- update jeap-messaging-sequential-inbox from 8.51.0 to 8.52.0
 
 ## [26.71.1] - 2025-07-30
 ### Changed
