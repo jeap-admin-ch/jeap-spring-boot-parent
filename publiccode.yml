@@ -14,11 +14,19 @@ softwareType: library
 description:
   en:
     localisedName: jeap-spring-boot-parent
-    shortDescription: TODO (Max. 150 characters)
+    shortDescription: A parent project for jEAP, based on Spring Boot and Spring Cloud
     longDescription: >
-      TODO (Min. 150 characters)
+      The jEAP Spring Boot Parent project provides a standardized foundation for building
+      applications with Spring Boot and Spring Cloud. It delivers preconfigured dependency
+      and version management for jEAP components, ensures consistent Maven repository
+      configuration, and simplifies project setup. By consolidating common configurations
+      and dependencies into a single parent POM, it streamlines development, improves
+      maintainability, and promotes best practices across the jEAP ecosystem.
     features:
-      - TODO
+      - Provides dependency management based on recent Spring / Spring Boot and Spring Cloud versions
+      - Preconfigures Maven repositories
+      - Provides version management for jEAP dependencies and commonly used Maven plugins
+
 legal:
   license: Apache-2.0
 maintenance:
