@@ -4,7 +4,8 @@
 ### Changed
 - update jeap-spring-boot-starters from 17.40.0 to 17.40.1
 - Make feature-policy header configurable in jeap-spring-boot-web-config-starter
-
+- update jeap-starter from 17.40.0 to 17.40.1
+- update jeap-server-sent-events from 1.4.0 to 1.4.1
 
 ## [26.72.0] - 2025-08-05
 
