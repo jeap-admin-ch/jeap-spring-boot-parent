@@ -8,6 +8,7 @@
 - update jeap-server-sent-events from 1.4.0 to 1.4.1
 - update jeap-spring-boot-vault-starter from 17.40.0 to 17.40.1
 - update jeap-crypto from 3.25.0 to 3.25.1
+- update jeap-messaging from 8.53.0 to 8.53.1
 
 ## [26.72.0] - 2025-08-05
 
