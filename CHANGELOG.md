@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.72.1] - 2025-08-08
+### Changed
+- update jeap-spring-boot-starters from 17.40.0 to 17.40.1
+- Make feature-policy header configurable in jeap-spring-boot-web-config-starter
+
+
 ## [26.72.0] - 2025-08-05
 
 ### Changed
