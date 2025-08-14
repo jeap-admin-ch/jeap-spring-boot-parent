@@ -17,6 +17,8 @@
 - update jeap-starter from 17.40.1 to 17.41.0
   
 - update jeap-server-sent-events from 1.4.2 to 1.5.0
+  
+- update jeap-reaction-observer from 1.14.1 to 1.15.0
 
 ## [26.72.1] - 2025-08-08
 ### Changed
