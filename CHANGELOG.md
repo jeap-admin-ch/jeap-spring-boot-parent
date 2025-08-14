@@ -6,6 +6,7 @@
 - Update parent from 5.12.0 to 5.12.1
 - update jeap-spring-boot-tls-starter from 17.37.0 to 17.38.0
 - update jeap-spring-boot-config-aws-starter from 17.37.0 to 17.38.0
+- update jeap-spring-boot-db-migration-starter from 17.37.0 to 17.38.0
 
 ## [26.72.1] - 2025-08-08
 ### Changed
