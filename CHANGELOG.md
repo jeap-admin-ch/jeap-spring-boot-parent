@@ -14,6 +14,9 @@
 - update jeap-spring-boot-roles-anywhere-starter from 1.1.1 to 1.2.0
   
 - update jeap-messaging from 8.53.1 to 8.54.0
+- update jeap-starter from 17.40.1 to 17.41.0
+  
+- update jeap-server-sent-events from 1.4.2 to 1.5.0
 
 ## [26.72.1] - 2025-08-08
 ### Changed
