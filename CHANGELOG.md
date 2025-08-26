@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 5.12.1 to 5.13.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.2.0 to 1.3.0
+- update jeap-spring-boot-db-migration-starter from 17.38.0 to 17.39.0
 
 ## [26.73.0] - 2025-08-14
 
