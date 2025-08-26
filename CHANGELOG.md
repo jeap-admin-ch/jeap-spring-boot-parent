@@ -23,6 +23,7 @@
 - update jeap-reaction-observer from 1.15.0 to 1.17.0
   
 - update jeap-messaging-outbox from 8.53.0 to 8.55.0
+- update jeap-spring-boot-tls-starter from 17.38.0 to 17.39.0
 
 ## [26.73.0] - 2025-08-14
 
