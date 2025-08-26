@@ -3,27 +3,20 @@
 ## [26.74.0] - 2025-08-26
 
 ### Changed
-- Update parent from 5.12.1 to 5.13.0
-- update jeap-spring-boot-roles-anywhere-starter from 1.2.0 to 1.3.0
-- update jeap-spring-boot-db-migration-starter from 17.38.0 to 17.39.0
-- update jeap-spring-boot-config-aws-starter from 17.38.0 to 17.39.0
-- update jeap-db-schema-publisher from 1.3.0 to 1.4.0
-- update jeap-spring-boot-starters from 17.41.0 to 17.42.0
-- update jeap-spring-boot-vault-starter from 17.41.0 to 17.42.0
-- update jeap-crypto from 3.26.0 to 3.27.0
-  
-- update jeap-messaging from 8.54.0 to 8.56.0
-- update jeap-starter from 17.41.0 to 17.42.0
-- update jeap-server-sent-events from 1.5.0 to 1.6.0
-  
-  
-- update jeap-messaging from 8.55.0 to 8.56.0
-- update jeap-messaging-sequential-inbox from 8.53.0 to 8.55.0
-  
-- update jeap-reaction-observer from 1.15.0 to 1.17.0
-  
-- update jeap-messaging-outbox from 8.53.0 to 8.55.0
-- update jeap-spring-boot-tls-starter from 17.38.0 to 17.39.0
+- Updated jeap internal spring boot parent from 5.12.1 to 5.13.0 (Spring Boot 3.5.5)
+- updated jeap-spring-boot-starters from 17.41.0 to 17.42.0
+- updated jeap-messaging from 8.55.0 to 8.56.0
+- updated jeap-messaging-outbox from 8.53.0 to 8.55.0
+- updated jeap-messaging-sequential-inbox from 8.53.0 to 8.55.0
+- updated jeap-crypto from 3.26.0 to 3.27.0
+- updated jeap-spring-boot-roles-anywhere-starter from 1.2.0 to 1.3.0
+- updated jeap-spring-boot-db-migration-starter from 17.38.0 to 17.39.0
+- updated jeap-spring-boot-config-aws-starter from 17.38.0 to 17.39.0
+- updated jeap-db-schema-publisher from 1.3.0 to 1.4.0
+- updated jeap-spring-boot-vault-starter from 17.41.0 to 17.42.0
+- updated jeap-server-sent-events from 1.5.0 to 1.6.0
+- updated jeap-reaction-observer from 1.15.0 to 1.17.0
+- updated jeap-spring-boot-tls-starter from 17.38.0 to 17.39.0
 
 ## [26.73.0] - 2025-08-14
 
