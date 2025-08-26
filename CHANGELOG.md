@@ -1,5 +1,11 @@
 # Changelog
 
+## [26.74.0] - 2025-08-26
+
+### Changed
+
+- Update parent from 5.12.1 to 5.13.0
+
 ## [26.73.0] - 2025-08-14
 
 ### Changed
