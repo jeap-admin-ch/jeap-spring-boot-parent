@@ -1,5 +1,12 @@
 # Changelog
 
+## [26.75.0] - 2025-08-27
+### Changed
+- update jeap-reaction-observer from 1.17.0 to 1.18.0
+- Read variant from incoming messages and include it as part of the FQN of event/command observations
+ 
+
+
 ## [26.74.0] - 2025-08-26
 
 ### Changed
