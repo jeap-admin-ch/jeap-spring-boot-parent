@@ -7,6 +7,7 @@
 - Better logging when signature verification fails
 - update jeap-server-sent-events from 1.6.0 to 1.6.1
 - update jeap-messaging-sequential-inbox from 8.55.0 to 8.55.1
+- update jeap-messaging-outbox from 8.55.0 to 8.55.1
 
 ## [26.75.0] - 2025-08-27
 ### Changed
