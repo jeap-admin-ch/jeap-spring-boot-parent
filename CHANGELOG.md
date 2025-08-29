@@ -5,7 +5,7 @@
 - update jeap-messaging from 8.56.0 to 8.56.1
 - The GenericRecordDataDeserializer is now only available without signature check
 - Better logging when signature verification fails
-
+- update jeap-server-sent-events from 1.6.0 to 1.6.1
 
 ## [26.75.0] - 2025-08-27
 ### Changed
