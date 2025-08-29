@@ -1,5 +1,12 @@
 # Changelog
 
+## [26.75.1] - 2025-08-29
+### Changed
+- update jeap-messaging from 8.56.0 to 8.56.1
+- The GenericRecordDataDeserializer is now only available without signature check
+- Better logging when signature verification fails
+
+
 ## [26.75.0] - 2025-08-27
 ### Changed
 - update jeap-reaction-observer from 1.17.0 to 1.18.0
