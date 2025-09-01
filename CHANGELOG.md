@@ -8,6 +8,9 @@
 - update jeap-starter from 17.42.0 to 17.43.0
 - update jeap-server-sent-events from 1.6.1 to 1.7.0
   jeap-spring-boot-security-starter to maintain backward compatibility.
+- update jeap-spring-boot-vault-starter from 17.42.0 to 17.43.0
+- update jeap-crypto from 3.27.0 to 3.28.0
+  jeap-spring-boot-security-starter to maintain backward compatibility.
 
 ## [26.75.1] - 2025-08-29
 ### Changed
