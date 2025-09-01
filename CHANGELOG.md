@@ -1,5 +1,12 @@
 # Changelog
 
+## [26.76.0] - 2025-09-01
+### Changed
+- update jeap-spring-boot-starters from 17.42.0 to 17.43.0
+- The OAuth 2.0 client-related code has been extracted into its own starter, which is imported by the
+  jeap-spring-boot-security-starter to maintain backward compatibility.
+
+
 ## [26.75.1] - 2025-08-29
 ### Changed
 - update jeap-messaging from 8.56.0 to 8.56.1
