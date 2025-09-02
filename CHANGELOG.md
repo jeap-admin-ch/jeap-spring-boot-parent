@@ -8,6 +8,9 @@
 - update jeap-starter from 17.43.0 to 18.0.0
 - update jeap-server-sent-events from 1.8.0 to 2.0.0
   instead for your (external) microservice configuration. 
+- update jeap-spring-boot-vault-starter from 17.43.0 to 18.0.0
+- update jeap-crypto from 3.28.0 to 4.0.0
+  instead for your (external) microservice configuration. 
 
 ## [26.76.0] - 2025-09-01
 ### Changed
