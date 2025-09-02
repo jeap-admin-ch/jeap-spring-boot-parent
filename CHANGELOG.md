@@ -11,6 +11,8 @@
 - update jeap-spring-boot-vault-starter from 17.42.0 to 17.43.0
 - update jeap-crypto from 3.27.0 to 3.28.0
   jeap-spring-boot-security-starter to maintain backward compatibility.
+- The GenericRecordDataDeserializer is now only available without signature check, which is now also removed from props
+- update jeap-messaging from 8.56.1 to 8.57.1
 
 ## [26.75.1] - 2025-08-29
 ### Changed
