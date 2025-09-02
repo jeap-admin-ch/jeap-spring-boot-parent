@@ -11,6 +11,8 @@
 - update jeap-spring-boot-vault-starter from 17.43.0 to 18.0.0
 - update jeap-crypto from 3.28.0 to 4.0.0
   instead for your (external) microservice configuration. 
+  instead for your (external) microservice configuration. 
+- update jeap-messaging from 8.57.1 to 9.0.0
 
 ## [26.76.0] - 2025-09-01
 ### Changed
