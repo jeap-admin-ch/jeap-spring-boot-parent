@@ -1,5 +1,12 @@
 # Changelog
 
+## [27.0.0] - 2025-09-02
+### Changed
+- update jeap-spring-boot-starters from 17.43.0 to 18.0.0
+- Support for the Spring Cloud bootstrap context mechanism has been removed. Use the spring.config.import mechanism
+  instead for your (external) microservice configuration. 
+
+
 ## [26.76.0] - 2025-09-01
 ### Changed
 - update jeap-spring-boot-starters from 17.42.0 to 17.43.0
