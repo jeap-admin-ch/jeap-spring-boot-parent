@@ -15,6 +15,8 @@
 - update jeap-messaging from 8.57.1 to 9.0.0
   instead for your (external) microservice configuration. 
 - update jeap-server-sent-events from 2.0.0 to 3.0.0
+  instead for your (external) microservice configuration. 
+- update jeap-messaging-outbox from 8.56.0 to 9.0.0
 
 ## [26.76.0] - 2025-09-01
 ### Changed
