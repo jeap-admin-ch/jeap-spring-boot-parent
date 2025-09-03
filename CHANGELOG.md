@@ -9,6 +9,8 @@
   message contract annotation processor, as such configurations are no longer supported by jEAP.
 - update jeap-messaging-outbox from 9.0.0 to 9.0.1
   message contract annotation processor, as such configurations are no longer supported by jEAP.
+- update jeap-reaction-observer from 2.0.0 to 2.0.1
+  message contract annotation processor, as such configurations are no longer supported by jEAP.
 
 ## [27.0.0] - 2025-09-02
 ### Changed
