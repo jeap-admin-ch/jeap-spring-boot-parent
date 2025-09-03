@@ -5,7 +5,8 @@
 - update jeap-messaging from 9.0.0 to 9.0.1
 - Ignoring the bootstrap.properties and bootstrap.yaml files when looking for an application name in the
   message contract annotation processor, as such configurations are no longer supported by jEAP.
-
+- update jeap-server-sent-events from 3.0.0 to 3.0.1
+  message contract annotation processor, as such configurations are no longer supported by jEAP.
 
 ## [27.0.0] - 2025-09-02
 ### Changed
