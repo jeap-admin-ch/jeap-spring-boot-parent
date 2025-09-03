@@ -19,6 +19,8 @@
 - update jeap-messaging-outbox from 8.56.0 to 9.0.0
   instead for your (external) microservice configuration. 
 - update jeap-reaction-observer from 1.19.0 to 2.0.0
+  instead for your (external) microservice configuration. 
+- update jeap-messaging-sequential-inbox from 8.56.0 to 9.0.0
 
 ## [26.76.0] - 2025-09-01
 ### Changed
