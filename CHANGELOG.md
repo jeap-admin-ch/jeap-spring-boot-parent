@@ -1,5 +1,12 @@
 # Changelog
 
+## [27.0.1] - 2025-09-03
+### Changed
+- update jeap-messaging from 9.0.0 to 9.0.1
+- Ignoring the bootstrap.properties and bootstrap.yaml files when looking for an application name in the
+  message contract annotation processor, as such configurations are no longer supported by jEAP.
+
+
 ## [27.0.0] - 2025-09-02
 ### Changed
 - update jeap-spring-boot-starters from 17.43.0 to 18.0.0
