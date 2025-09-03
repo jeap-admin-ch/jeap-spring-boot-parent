@@ -11,6 +11,8 @@
   message contract annotation processor, as such configurations are no longer supported by jEAP.
 - update jeap-reaction-observer from 2.0.0 to 2.0.1
   message contract annotation processor, as such configurations are no longer supported by jEAP.
+- fix some issues to make sonar happy
+- update jeap-messaging-sequential-inbox from 9.0.0 to 9.0.2
 
 ## [27.0.0] - 2025-09-02
 ### Changed
