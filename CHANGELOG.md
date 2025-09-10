@@ -1,5 +1,9 @@
 # Changelog
 
+## [27.1.0] - 2025-09-10
+### Added
+- Add jeap-open-api-publisher 1.0.0
+
 ## [27.0.1] - 2025-09-03
 ### Changed
 - update jeap-messaging from 9.0.0 to 9.0.1
