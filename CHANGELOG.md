@@ -4,7 +4,7 @@
 ### Changed
 - update jeap-messaging from 9.0.1 to 9.0.2
 - Send headers to error service sender also in the case of failed deserialization
-
+- update jeap-server-sent-events from 3.0.1 to 3.0.2
 
 ## [27.1.0] - 2025-09-10
 ### Added
