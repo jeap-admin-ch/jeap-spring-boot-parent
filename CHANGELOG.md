@@ -1,5 +1,11 @@
 # Changelog
 
+## [27.1.1] - 2025-09-11
+### Changed
+- update jeap-messaging from 9.0.1 to 9.0.2
+- Send headers to error service sender also in the case of failed deserialization
+
+
 ## [27.1.0] - 2025-09-10
 ### Added
 - Add jeap-open-api-publisher 1.0.0
