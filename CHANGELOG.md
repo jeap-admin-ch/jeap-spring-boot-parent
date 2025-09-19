@@ -1,5 +1,11 @@
 # Changelog
 
+## [27.2.0] - 2025-09-19
+
+### Changed
+
+- Update parent from 5.13.0 to 5.14.0
+
 ## [27.1.1] - 2025-09-11
 ### Changed
 - update jeap-messaging from 9.0.1 to 9.0.2
