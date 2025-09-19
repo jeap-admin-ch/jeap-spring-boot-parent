@@ -18,6 +18,8 @@
 - update jeap-starter from 18.0.0 to 18.1.0
   
 - update jeap-server-sent-events from 3.0.2 to 3.1.0
+  
+- update jeap-messaging-outbox from 9.0.2 to 9.1.0
 
 ## [27.1.1] - 2025-09-11
 ### Changed
