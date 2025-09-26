@@ -6,7 +6,7 @@
 - Instantiating the signature verifier when require-signature set to false
 - Check signature if certificate is available, and headers are set
 - No exception is thrown when signatureRequired is set to false and certificate is not available on the consumer side
-
+- update jeap-messaging-outbox from 9.1.0 to 9.1.1
 
 ## [27.2.0] - 2025-09-19
 
