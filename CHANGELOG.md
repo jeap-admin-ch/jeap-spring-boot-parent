@@ -1,5 +1,11 @@
 # Changelog
 
+## [27.3.0] - 2025-09-26
+### Changed
+- update jeap-messaging from 9.1.1 to 9.2.0
+- allow non jEAP messages, when property jeap.messaging.authentication.subscriber.allowNonJeapMessages=true is set
+
+
 ## [27.2.1] - 2025-09-26
 ### Changed
 - update jeap-messaging from 9.1.0 to 9.1.1
