@@ -6,6 +6,7 @@
 - allow non jEAP messages, when property jeap.messaging.authentication.subscriber.allowNonJeapMessages=true is set
 - update jeap-server-sent-events from 3.1.1 to 3.2.0
 - update jeap-messaging-outbox from 9.1.1 to 9.2.0
+- update jeap-reaction-observer from 2.1.1 to 2.2.0
 
 ## [27.2.1] - 2025-09-26
 ### Changed
