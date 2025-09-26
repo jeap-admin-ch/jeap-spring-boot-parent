@@ -1,5 +1,13 @@
 # Changelog
 
+## [27.2.1] - 2025-09-26
+### Changed
+- update jeap-messaging from 9.1.0 to 9.1.1
+- Instantiating the signature verifier when require-signature set to false
+- Check signature if certificate is available, and headers are set
+- No exception is thrown when signatureRequired is set to false and certificate is not available on the consumer side
+
+
 ## [27.2.0] - 2025-09-19
 
 ### Changed
