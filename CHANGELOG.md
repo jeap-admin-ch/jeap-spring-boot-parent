@@ -10,6 +10,10 @@
 - updated java-cfenv from 3.4.0 to 3.5.0
 - update jeap-crypto from 4.1.0 to 4.2.0
 - update jeap-spring-boot-vault-starter from 18.1.0 to 18.2.0
+- update maven.api from 3.9.10 to 3.9.11
+- update protobuf-java from 4.31.1 to 4.32.1
+- update jeap-messaging from 9.2.0 to 9.3.0
+- update schema-registry-serde from 1.1.24 to 1.1.25
 
 ## [27.3.0] - 2025-09-26
 ### Changed
