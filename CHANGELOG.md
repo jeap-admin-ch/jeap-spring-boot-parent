@@ -19,6 +19,7 @@
 - update commons-io from 2.19.0 to 2.20.0
 - update jeap-reaction-observer from 2.2.0 to 2.3.0
 - update jeap-spring-boot-tls-starter from 17.40.0 to 17.41.0
+- update jeap-messaging-outbox from 9.2.0 to 9.3.0
 
 ## [27.3.0] - 2025-09-26
 ### Changed
