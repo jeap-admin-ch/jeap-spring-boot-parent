@@ -21,6 +21,7 @@
 - update jeap-spring-boot-tls-starter from 17.40.0 to 17.41.0
 - update jeap-messaging-outbox from 9.2.0 to 9.3.0
 - update jeap-spring-boot-db-migration-starter from 17.40.0 to 17.41.0
+- update jeap-spring-boot-config-aws-starter from 17.40.0 to 17.41.0
 
 ## [27.3.0] - 2025-09-26
 ### Changed
