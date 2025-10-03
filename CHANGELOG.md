@@ -22,6 +22,9 @@
 - update jeap-messaging-outbox from 9.2.0 to 9.3.0
 - update jeap-spring-boot-db-migration-starter from 17.40.0 to 17.41.0
 - update jeap-spring-boot-config-aws-starter from 17.40.0 to 17.41.0
+- update starter from 18.0.0 to 18.2.0
+- update jeap-open-api-publisher from 1.1.0 to 1.2.0
+- update springdoc-openapi from 2.8.9 to 2.8.13
 
 ## [27.3.0] - 2025-09-26
 ### Changed
