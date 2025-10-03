@@ -15,6 +15,8 @@
 - update jeap-messaging from 9.2.0 to 9.3.0
 - update schema-registry-serde from 1.1.24 to 1.1.25
 - update jeap-messaging-sequential-inbox from 9.2.0 to 9.3.0
+- update jeap-server-sent-events from 3.2.0 to 3.3.0
+- update commons-io from 2.19.0 to 2.20.0
 
 ## [27.3.0] - 2025-09-26
 ### Changed
