@@ -6,6 +6,7 @@
 - Fixed NullpointerException when signatureMetricsService not set 
 - update jeap-server-sent-events from 3.3.0 to 3.3.1
 - update jeap-messaging-sequential-inbox from 9.3.0 to 9.3.1
+- update jeap-messaging-outbox from 9.3.0 to 9.3.1
 
 ## [27.4.0] - 2025-10-02
 
