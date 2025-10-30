@@ -1,5 +1,11 @@
 # Changelog
 
+## [27.4.1] - 2025-10-30
+### Changed
+- update jeap-messaging from 9.3.0 to 9.3.1
+- Fixed NullpointerException when signatureMetricsService not set 
+
+
 ## [27.4.0] - 2025-10-02
 
 ### Changed
