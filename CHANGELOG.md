@@ -1,5 +1,18 @@
 # Changelog
 
+## [28.0.0] - 2025-11-10
+### Changed
+- update jeap-messaging-sequential-inbox from 9.3.1 to 10.0.0
+- Buffered sequenced messages are no longer immediately deleted when their retain-until date is reached. Instead, they
+  are marked for removal and retained for an additional interval (`jeap.messaging.sequential-inbox.housekeeping.delay`).
+  This delay allows DevOps engineers time to resolve sequencing issues. After the interval, the inbox housekeeping
+  process forwards the messages to the error handling service and then deletes them from the inbox. This version of
+  the inbox library is breaking because of a needed new field on the `inbox_sequence_instance` table. See the file
+  [./jeap-messaging-sequential-inbox-test/src/test/resources/db/migration/common/V2__add-remove-after-to-sequence.sql]
+  for a DDL script that performs the schema upgrade from version 9 to version 10.0.0. In addition, you have to explicitly
+  set the new property `jeap.messaging.sequential-inbox.housekeeping.delay` as it has no default value.
+
+
 ## [27.4.1] - 2025-10-30
 ### Changed
 - update jeap-messaging from 9.3.0 to 9.3.1
