@@ -10,6 +10,8 @@
 - update jeap-spring-boot-db-migration-starter from 17.41.0 to 17.42.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.5.0 to 1.6.0
 - update jeap-spring-boot-starters from 18.2.0 to 18.3.0
+- update jeap-spring-boot-vault-starter from 18.2.0 to 18.3.0
+- update jeap-crypto from 4.2.0 to 4.3.0
 
 ## [28.0.0] - 2025-11-10
 ### Changed
