@@ -14,6 +14,9 @@
 - update jeap-crypto from 4.2.0 to 4.3.0
   
 - update jeap-messaging from 9.3.1 to 9.4.0
+- update jeap-starter from 18.2.0 to 18.3.0
+- update jeap-server-sent-events from 3.3.1 to 3.4.0
+  
 
 ## [28.0.0] - 2025-11-10
 ### Changed
