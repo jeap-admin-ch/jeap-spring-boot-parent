@@ -1,5 +1,10 @@
 # Changelog
 
+## [28.2.0] - 2025-11-13
+
+### Changed
+- Add jeap-audit
+
 ## [28.1.0] - 2025-11-12
 
 ### Changed
