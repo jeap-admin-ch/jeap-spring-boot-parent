@@ -11,6 +11,8 @@
 - Support Nifi-compatible decryption of messages in the Glue deserializer
 - update jeap-messaging from 9.4.0 to 10.0.0
 - Remove CustomKafkaAvroSerializerConfig as it no longer contains any custom properties. Use KafkaAvroSerializerConfig
+  for confluent schema registry configuration directly if necessary.
+- update jeap-server-sent-events from 3.4.0 to 4.0.0
 
 ## [28.1.0] - 2025-11-12
 
