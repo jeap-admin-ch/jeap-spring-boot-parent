@@ -6,6 +6,11 @@
 - Add jeap-audit
 - Initial audit starter
 - update jeap-audit from 0.0.0 to 1.0.0
+- Remove legacy encryption in serializers
+  for confluent schema registry configuration directly if necessary.
+- Support Nifi-compatible decryption of messages in the Glue deserializer
+- update jeap-messaging from 9.4.0 to 10.0.0
+- Remove CustomKafkaAvroSerializerConfig as it no longer contains any custom properties. Use KafkaAvroSerializerConfig
 
 ## [28.1.0] - 2025-11-12
 
