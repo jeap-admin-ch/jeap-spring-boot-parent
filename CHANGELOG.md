@@ -15,6 +15,8 @@
 - update jeap-server-sent-events from 3.4.0 to 4.0.0
   for confluent schema registry configuration directly if necessary.
 - update jeap-messaging-sequential-inbox from 10.1.0 to 11.0.0
+  for confluent schema registry configuration directly if necessary.
+- update jeap-reaction-observer from 2.4.0 to 3.0.0
 
 ## [28.1.0] - 2025-11-12
 
