@@ -4,6 +4,8 @@
 
 ### Changed
 - Add jeap-audit
+- Initial audit starter
+- update jeap-audit from 0.0.0 to 1.0.0
 
 ## [28.1.0] - 2025-11-12
 
