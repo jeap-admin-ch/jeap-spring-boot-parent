@@ -15,6 +15,8 @@
 - update jeap-open-api-publisher from 1.2.0 to 1.3.0
 - update jeap-starter from 18.2.0 to 18.4.0
 - update jeap-audit from 2.0.0 to 2.1.0
+- update jeap-starter from 18.3.0 to 18.4.0
+- update jeap-server-sent-events from 4.0.1 to 4.1.0
 
 ## [28.2.0] - 2025-11-13
 
