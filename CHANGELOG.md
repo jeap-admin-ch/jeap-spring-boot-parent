@@ -4,7 +4,7 @@
 ### Changed
 - update jeap-messaging from 10.0.0 to 10.0.1
 - Fix parsing of boolean decryption properties in JeapGlueAvroDeserializer
-
+- update jeap-server-sent-events from 4.0.0 to 4.0.1
 
 ## [28.2.0] - 2025-11-13
 
