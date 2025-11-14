@@ -1,5 +1,11 @@
 # Changelog
 
+## [28.2.1] - 2025-11-14
+### Changed
+- update jeap-messaging from 10.0.0 to 10.0.1
+- Fix parsing of boolean decryption properties in JeapGlueAvroDeserializer
+
+
 ## [28.2.0] - 2025-11-13
 
 ### Changed
