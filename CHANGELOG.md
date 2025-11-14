@@ -6,6 +6,7 @@
 - Fix parsing of boolean decryption properties in JeapGlueAvroDeserializer
 - update jeap-server-sent-events from 4.0.0 to 4.0.1
 - update jeap-messaging-sequential-inbox from 11.0.0 to 11.0.1
+- update jeap-reaction-observer from 3.0.0 to 3.0.1
 
 ## [28.2.0] - 2025-11-13
 
