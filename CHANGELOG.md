@@ -11,6 +11,8 @@
 - update jeap-audit from 1.0.0 to 2.0.0
 - Update aws-advanced-jdbc-wrapper from 2.5.4 to 2.6.6
 - update jeap-spring-boot-starters from 18.3.0 to 18.4.0
+- update jeap-spring-boot-security-client-starter from 18.2.0 to 18.4.0
+- update jeap-open-api-publisher from 1.2.0 to 1.3.0
 
 ## [28.2.0] - 2025-11-13
 
