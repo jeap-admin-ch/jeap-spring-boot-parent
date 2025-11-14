@@ -1,14 +1,7 @@
 # Changelog
 
-## [28.2.1] - 2025-11-14
+## [28.3.0] - 2025-11-14
 ### Changed
-- update jeap-messaging from 10.0.0 to 10.0.1
-- Fix parsing of boolean decryption properties in JeapGlueAvroDeserializer
-- update jeap-server-sent-events from 4.0.0 to 4.0.1
-- update jeap-messaging-sequential-inbox from 11.0.0 to 11.0.1
-- update jeap-reaction-observer from 3.0.0 to 3.0.1
-- update jeap-messaging from 9.3.1 to 10.0.1
-- update jeap-audit from 1.0.0 to 2.0.0
 - Update aws-advanced-jdbc-wrapper from 2.5.4 to 2.6.6
 - update jeap-spring-boot-starters from 18.3.0 to 18.4.0
 - update jeap-spring-boot-security-client-starter from 18.2.0 to 18.4.0
@@ -25,6 +18,16 @@
 - update jeap-messaging-sequential-inbox from 11.0.1 to 11.1.0
 - update jeap-reaction-observer from 3.0.1 to 3.1.0
 - update jeap-messaging-outbox from 10.0.1 to 10.1.0
+
+## [28.2.1] - 2025-11-14
+### Changed
+- update jeap-messaging from 10.0.0 to 10.0.1
+- Fix parsing of boolean decryption properties in JeapGlueAvroDeserializer
+- update jeap-server-sent-events from 4.0.0 to 4.0.1
+- update jeap-messaging-sequential-inbox from 11.0.0 to 11.0.1
+- update jeap-reaction-observer from 3.0.0 to 3.0.1
+- update jeap-messaging from 9.3.1 to 10.0.1
+- update jeap-audit from 1.0.0 to 2.0.0
 
 ## [28.2.0] - 2025-11-13
 
