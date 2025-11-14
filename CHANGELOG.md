@@ -9,6 +9,8 @@
 - update jeap-reaction-observer from 3.0.0 to 3.0.1
 - update jeap-messaging from 9.3.1 to 10.0.1
 - update jeap-audit from 1.0.0 to 2.0.0
+- Update aws-advanced-jdbc-wrapper from 2.5.4 to 2.6.6
+- update jeap-spring-boot-starters from 18.3.0 to 18.4.0
 
 ## [28.2.0] - 2025-11-13
 
