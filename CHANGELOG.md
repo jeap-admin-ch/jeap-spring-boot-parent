@@ -1,5 +1,9 @@
 # Changelog
 
+## [29.1.0] - 2025-11-26
+### Changed
+- add new managed dependency jeap-messaging-sequential-inbox-rest-api
+
 ## [29.0.0] - 2025-11-26
 ### Changed
 - update jeap-messaging-sequential-inbox from 11.1.0 to 12.0.0
