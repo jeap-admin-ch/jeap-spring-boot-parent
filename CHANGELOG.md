@@ -1,5 +1,12 @@
 # Changelog
 
+## [29.1.1] - 2025-11-26
+### Changed
+- update jeap-audit from 2.2.0 to 2.2.1
+- CreateAuditRecordCommandBuilderFactory now can also be used without the jeap-security-starter on the classpath.
+- CreateAuditRecordCommandBuilderFactory now accepts Messages int the general Message interface instead of just AvroDomainEvent.
+
+
 ## [29.1.0] - 2025-11-26
 ### Changed
 - add new managed dependency jeap-messaging-sequential-inbox-rest-api
