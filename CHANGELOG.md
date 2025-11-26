@@ -1,5 +1,14 @@
 # Changelog
 
+## [29.0.0] - 2025-11-26
+### Changed
+- update jeap-messaging-sequential-inbox from 11.1.0 to 12.0.0
+- Add new pending action to sequence instance and sequenced message in order to support devOps operations
+- This version of the inbox library is breaking because new fields are needed in the database schema. See the file
+[./jeap-messaging-sequential-inbox-test/src/test/resources/db/migration/V3__add-pending-action.sql]
+for a DDL script that performs the schema upgrade from version 11 to version 12.0.0.
+
+
 ## [28.3.0] - 2025-11-14
 ### Changed
 - Update aws-advanced-jdbc-wrapper from 2.5.4 to 2.6.6
