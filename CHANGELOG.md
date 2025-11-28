@@ -3,8 +3,11 @@
 ## [29.2.0] - 2025-11-28
 
 ### Changed
-
 - Update parent from 5.15.1 to 5.16.0
+  Spring Cloud AWS Secrets Manager. This ensures the jeap secrets manager integration can be used together with 
+- Make the jeap secrets manager integration override the configuration location resolver and config data loader from
+- update jeap-spring-boot-config-aws-starter from 17.42.0 to 17.42.1
+  Spring Cloud AWS projects.
 
 ## [29.1.1] - 2025-11-26
 ### Changed
