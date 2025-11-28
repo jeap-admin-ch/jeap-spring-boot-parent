@@ -6,40 +6,30 @@
 - Update parent from 5.15.1 to 5.16.0
   - Spring Boot 3.5.8
   - proc:full for Java 25 builds
-  Spring Cloud AWS Secrets Manager. This ensures the jeap secrets manager integration can be used together with 
-- Make the jeap secrets manager integration override the configuration location resolver and config data loader from
 - update jeap-spring-boot-config-aws-starter from 17.42.0 to 17.42.1
-  Spring Cloud AWS projects.
 - update jeap-spring-boot-roles-anywhere-starter from 1.6.0 to 1.7.0
 - update jeap-spring-boot-tls-starter from 17.42.0 to 17.43.0
-- update jeap-spring-boot-config-aws-starter from 17.42.1 to 17.43.0
 - update jeap-spring-boot-db-migration-starter from 17.42.0 to 17.43.0
-- Update parent from 5.15.0 to 5.16.0
-- update jeap-audit from 2.2.1 to 2.3.0
-- Add new metrics for deleted sequence instances by housekeeping scheduler
-  for a DDL script that performs the schema upgrade from version 12.0.0 to version 12.1.0.
-  [./jeap-messaging-sequential-inbox-test/src/test/resources/db/migration/V4__add-retain_until-index-to-sequence_instance.sql]
-- Add new metrics for expiring and expired sequence instances 
-- update jeap-messaging-sequential-inbox from 12.0.0 to 12.1.0
-- Add new index to improve performance of metrics queries. See the file
 - update jeap-spring-boot-starters from 18.4.0 to 18.5.0
+- update jeap-spring-boot-config-aws-starter from 17.42.1 to 17.43.0
+  - Make the jeap secrets manager integration override the configuration location resolver and config data loader from
+    Spring Cloud AWS Secrets Manager. This ensures the jeap secrets manager integration can be used together with
+    Spring Cloud AWS projects.
 - update jeap-starter from 18.4.0 to 18.5.0
-- update jeap-audit from 2.3.0 to 2.4.0
+- update jeap-audit from 2.2.1 to 2.4.0
 - update jeap-spring-boot-vault-starter from 18.4.0 to 18.5.0
 - update jeap-crypto from 4.4.0 to 4.5.0
-  
+- update jeap-db-schema-publisher from 1.7.0 to 1.8.0  
 - update jeap-messaging from 10.1.0 to 10.2.0
-- update jeap-audit from 2.4.0 to 2.5.0
-  
-  
+- update jeap-audit from 2.4.0 to 2.5.0 
 - update jeap-messaging-outbox from 10.1.0 to 10.2.0
 - update jeap-server-sent-events from 4.2.0 to 4.3.0
-  
-  
 - update jeap-reaction-observer from 3.1.0 to 3.2.0
 - update jeap-spring-boot-security-starter from 18.4.0 to 18.5.0
 - update jeap-messaging-sequential-inbox from 12.1.0 to 12.2.0
-  
+  - Add new metrics for deleted sequence instances by housekeeping scheduler
+  - Add new metrics for expiring and expired sequence instances
+  - Add new index to improve performance of metrics queries. Check the sequential inbox changelog for the SQL statement for adding the index to existing databases.
 
 ## [29.1.1] - 2025-11-26
 ### Changed
