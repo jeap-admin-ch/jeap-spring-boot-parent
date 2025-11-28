@@ -1,5 +1,11 @@
 # Changelog
 
+## [29.2.0] - 2025-11-28
+
+### Changed
+
+- Update parent from 5.15.1 to 5.16.0
+
 ## [29.1.1] - 2025-11-26
 ### Changed
 - update jeap-audit from 2.2.0 to 2.2.1
