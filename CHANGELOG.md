@@ -11,6 +11,7 @@
 - update jeap-spring-boot-roles-anywhere-starter from 1.6.0 to 1.7.0
 - update jeap-spring-boot-tls-starter from 17.42.0 to 17.43.0
 - update jeap-spring-boot-config-aws-starter from 17.42.1 to 17.43.0
+- update jeap-spring-boot-db-migration-starter from 17.42.0 to 17.43.0
 
 ## [29.1.1] - 2025-11-26
 ### Changed
