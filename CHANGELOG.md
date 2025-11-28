@@ -8,6 +8,7 @@
 - Make the jeap secrets manager integration override the configuration location resolver and config data loader from
 - update jeap-spring-boot-config-aws-starter from 17.42.0 to 17.42.1
   Spring Cloud AWS projects.
+- update jeap-spring-boot-roles-anywhere-starter from 1.6.0 to 1.7.0
 
 ## [29.1.1] - 2025-11-26
 ### Changed
