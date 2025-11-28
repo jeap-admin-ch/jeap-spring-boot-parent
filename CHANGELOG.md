@@ -31,6 +31,8 @@
 - update jeap-messaging from 10.1.0 to 10.2.0
 - update jeap-audit from 2.4.0 to 2.5.0
   
+  
+- update jeap-messaging-outbox from 10.1.0 to 10.2.0
 
 ## [29.1.1] - 2025-11-26
 ### Changed
