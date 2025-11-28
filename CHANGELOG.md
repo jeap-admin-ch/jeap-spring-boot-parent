@@ -14,6 +14,12 @@
 - update jeap-spring-boot-db-migration-starter from 17.42.0 to 17.43.0
 - Update parent from 5.15.0 to 5.16.0
 - update jeap-audit from 2.2.1 to 2.3.0
+- Add new metrics for deleted sequence instances by housekeeping scheduler
+  for a DDL script that performs the schema upgrade from version 12.0.0 to version 12.1.0.
+  [./jeap-messaging-sequential-inbox-test/src/test/resources/db/migration/V4__add-retain_until-index-to-sequence_instance.sql]
+- Add new metrics for expiring and expired sequence instances 
+- update jeap-messaging-sequential-inbox from 12.0.0 to 12.1.0
+- Add new index to improve performance of metrics queries. See the file
 
 ## [29.1.1] - 2025-11-26
 ### Changed
