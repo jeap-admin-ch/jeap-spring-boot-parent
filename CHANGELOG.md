@@ -12,6 +12,8 @@
 - update jeap-spring-boot-tls-starter from 17.42.0 to 17.43.0
 - update jeap-spring-boot-config-aws-starter from 17.42.1 to 17.43.0
 - update jeap-spring-boot-db-migration-starter from 17.42.0 to 17.43.0
+- Update parent from 5.15.0 to 5.16.0
+- update jeap-audit from 2.2.1 to 2.3.0
 
 ## [29.1.1] - 2025-11-26
 ### Changed
