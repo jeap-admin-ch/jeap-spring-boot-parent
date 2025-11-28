@@ -22,6 +22,7 @@
 - Add new metrics for expiring and expired sequence instances 
 - update jeap-messaging-sequential-inbox from 12.0.0 to 12.1.0
 - Add new index to improve performance of metrics queries. See the file
+- update jeap-spring-boot-starters from 18.4.0 to 18.5.0
 
 ## [29.1.1] - 2025-11-26
 ### Changed
