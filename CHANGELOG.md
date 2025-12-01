@@ -6,6 +6,7 @@
 - Use fully qualified name of avro schema record when determining Glue schema names
 - update jeap-server-sent-events from 4.3.0 to 4.4.0
 - update jeap-audit from 2.5.0 to 2.6.0
+- update jeap-messaging-outbox from 10.2.0 to 10.3.0
 
 ## [29.2.0] - 2025-11-28
 
