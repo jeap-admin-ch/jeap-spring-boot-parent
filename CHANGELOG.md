@@ -8,6 +8,7 @@
 - update jeap-audit from 2.5.0 to 2.6.0
 - update jeap-messaging-outbox from 10.2.0 to 10.3.0
 - update jeap-messaging-sequential-inbox from 12.2.0 to 12.3.0
+- update jeap-reaction-observer from 3.2.0 to 3.3.0
 
 ## [29.2.0] - 2025-11-28
 
