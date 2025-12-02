@@ -1,5 +1,9 @@
 # Changelog
 
+## [29.4.0] - 2025-12-02
+### Changed
+- update jib maven plugin to a version with java 25 capability, from 3.4.6 to 3.5.1
+
 ## [29.3.0] - 2025-12-01
 ### Changed
 - update jeap-messaging from 10.2.0 to 10.3.0
