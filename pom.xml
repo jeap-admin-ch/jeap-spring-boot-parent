@@ -129,17 +129,7 @@
             </dependency>
             <dependency>
                 <groupId>ch.admin.bit.jeap</groupId>
-                <artifactId>jeap-spring-boot-config-starter</artifactId>
-                <version>${jeap-starter.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>ch.admin.bit.jeap</groupId>
                 <artifactId>jeap-spring-boot-vault-starter</artifactId>
-                <version>${jeap-starter.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>ch.admin.bit.jeap</groupId>
-                <artifactId>jeap-spring-boot-config-server-starter</artifactId>
                 <version>${jeap-starter.version}</version>
             </dependency>
             <dependency>

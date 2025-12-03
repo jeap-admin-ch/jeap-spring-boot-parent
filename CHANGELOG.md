@@ -2,71 +2,24 @@
 
 ## [30.0.0] - 2025-12-03
 ### Changed
-- update jeap-spring-boot-starters from 18.5.0 to 19.0.0
 -  Breaking Change
     - **Removed**
-      - jeap-spring-boot-cloud-autoconfig-starter
-      - jeap-spring-boot-config-starter
-      - other cloudfoundry specifics
-      - jeap-spring-boot-config-starter
-      - jeap-spring-boot-cloud-autoconfig-starter
+        - jeap-spring-boot-cloud-autoconfig-starter
+        - jeap-spring-boot-config-starter
+        - other cloudfoundry specifics in starters
+- update jeap-spring-boot-starters from 18.5.0 to 19.0.0
 - update jeap-spring-boot-security-client-starter from 18.5.0 to 19.0.0
 - update jeap-open-api-publisher from 1.4.0 to 2.0.0
-    - **Removed**
-      - other cloudfoundry specifics
-      - jeap-spring-boot-config-starter
-      - jeap-spring-boot-cloud-autoconfig-starter
 - update jeap-starter from 18.5.0 to 19.0.0
-- update jeap-audit from 2.6.0 to 3.0.0
-    - **Removed**
-      - other cloudfoundry specifics
-      - jeap-spring-boot-config-starter
-      - jeap-spring-boot-cloud-autoconfig-starter
-- update jeap-server-sent-events from 4.4.0 to 5.0.0
-    - **Removed**
-      - other cloudfoundry specifics
-      - jeap-spring-boot-config-starter
-      - jeap-spring-boot-cloud-autoconfig-starter
 - update jeap-spring-boot-security-starter from 18.5.0 to 19.0.0
-- update jeap-messaging-sequential-inbox from 12.3.0 to 13.0.0
-    - **Removed**
-      - other cloudfoundry specifics
-      - jeap-spring-boot-config-starter
-      - jeap-spring-boot-cloud-autoconfig-starter
 - update jeap-spring-boot-vault-starter from 18.5.0 to 19.0.0
 - update jeap-crypto from 4.5.0 to 5.0.0
-    - **Removed**
-      - other cloudfoundry specifics
-      - other cloudfoundry specifics
-      - jeap-spring-boot-cloud-autoconfig-starter
-    - **Removed**
 - update jeap-messaging from 10.3.0 to 11.0.0
-      - jeap-spring-boot-config-starter
-      - jeap-spring-boot-config-starter
-    - **Removed**
-- update jeap-audit from 3.0.0 to 4.0.0
-      - other cloudfoundry specifics
-      - jeap-spring-boot-cloud-autoconfig-starter
-      - jeap-spring-boot-config-starter
-    - **Removed**
-- update jeap-server-sent-events from 5.0.0 to 6.0.0
-      - other cloudfoundry specifics
-      - jeap-spring-boot-cloud-autoconfig-starter
-      - jeap-spring-boot-config-starter
-    - **Removed**
+- update jeap-audit from 2.6.0 to 4.0.0
+- update jeap-server-sent-events from 4.4.0 to 6.0.0
 - update jeap-messaging-outbox from 10.3.0 to 11.0.0
-      - other cloudfoundry specifics
-      - jeap-spring-boot-cloud-autoconfig-starter
-      - jeap-spring-boot-config-starter
-    - **Removed**
-- update jeap-messaging-sequential-inbox from 13.0.0 to 14.0.0
-      - other cloudfoundry specifics
-      - jeap-spring-boot-cloud-autoconfig-starter
-      - jeap-spring-boot-config-starter
-    - **Removed**
+- update jeap-messaging-sequential-inbox from 12.3.0 to 14.0.0
 - update jeap-reaction-observer from 3.3.0 to 4.0.0
-      - other cloudfoundry specifics
-      - jeap-spring-boot-cloud-autoconfig-starter
 
 ## [29.4.0] - 2025-12-02
 ### Changed
