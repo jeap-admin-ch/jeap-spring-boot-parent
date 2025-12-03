@@ -8,7 +8,12 @@
       - jeap-spring-boot-cloud-autoconfig-starter
       - jeap-spring-boot-config-starter
       - other cloudfoundry specifics
-
+      - jeap-spring-boot-config-starter
+      - jeap-spring-boot-cloud-autoconfig-starter
+- update jeap-spring-boot-security-client-starter from 18.5.0 to 19.0.0
+- update jeap-open-api-publisher from 1.4.0 to 2.0.0
+    - **Removed**
+      - other cloudfoundry specifics
 
 ## [29.4.0] - 2025-12-02
 ### Changed
