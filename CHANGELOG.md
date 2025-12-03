@@ -52,6 +52,11 @@
 - update jeap-server-sent-events from 5.0.0 to 6.0.0
       - other cloudfoundry specifics
       - jeap-spring-boot-cloud-autoconfig-starter
+      - jeap-spring-boot-config-starter
+    - **Removed**
+- update jeap-messaging-outbox from 10.3.0 to 11.0.0
+      - other cloudfoundry specifics
+      - jeap-spring-boot-cloud-autoconfig-starter
 
 ## [29.4.0] - 2025-12-02
 ### Changed
