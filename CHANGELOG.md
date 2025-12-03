@@ -1,5 +1,15 @@
 # Changelog
 
+## [30.0.0] - 2025-12-03
+### Changed
+- update jeap-spring-boot-starters from 18.5.0 to 19.0.0
+-  Breaking Change
+    - **Removed**
+      - jeap-spring-boot-cloud-autoconfig-starter
+      - jeap-spring-boot-config-starter
+      - other cloudfoundry specifics
+
+
 ## [29.4.0] - 2025-12-02
 ### Changed
 - update jib maven plugin to a version with java 25 capability, from 3.4.6 to 3.5.1
