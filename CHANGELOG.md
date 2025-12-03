@@ -42,6 +42,11 @@
     - **Removed**
 - update jeap-messaging from 10.3.0 to 11.0.0
       - jeap-spring-boot-config-starter
+      - jeap-spring-boot-config-starter
+    - **Removed**
+- update jeap-audit from 3.0.0 to 4.0.0
+      - other cloudfoundry specifics
+      - jeap-spring-boot-cloud-autoconfig-starter
 
 ## [29.4.0] - 2025-12-02
 ### Changed
