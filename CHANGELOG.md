@@ -37,6 +37,11 @@
 - update jeap-crypto from 4.5.0 to 5.0.0
     - **Removed**
       - other cloudfoundry specifics
+      - other cloudfoundry specifics
+      - jeap-spring-boot-cloud-autoconfig-starter
+    - **Removed**
+- update jeap-messaging from 10.3.0 to 11.0.0
+      - jeap-spring-boot-config-starter
 
 ## [29.4.0] - 2025-12-02
 ### Changed
