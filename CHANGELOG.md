@@ -25,6 +25,12 @@
 - update jeap-server-sent-events from 4.4.0 to 5.0.0
     - **Removed**
       - other cloudfoundry specifics
+      - jeap-spring-boot-config-starter
+      - jeap-spring-boot-cloud-autoconfig-starter
+- update jeap-spring-boot-security-starter from 18.5.0 to 19.0.0
+- update jeap-messaging-sequential-inbox from 12.3.0 to 13.0.0
+    - **Removed**
+      - other cloudfoundry specifics
 
 ## [29.4.0] - 2025-12-02
 ### Changed
