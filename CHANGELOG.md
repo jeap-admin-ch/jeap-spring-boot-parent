@@ -20,6 +20,11 @@
 - update jeap-audit from 2.6.0 to 3.0.0
     - **Removed**
       - other cloudfoundry specifics
+      - jeap-spring-boot-config-starter
+      - jeap-spring-boot-cloud-autoconfig-starter
+- update jeap-server-sent-events from 4.4.0 to 5.0.0
+    - **Removed**
+      - other cloudfoundry specifics
 
 ## [29.4.0] - 2025-12-02
 ### Changed
