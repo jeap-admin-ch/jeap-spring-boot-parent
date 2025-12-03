@@ -14,6 +14,12 @@
 - update jeap-open-api-publisher from 1.4.0 to 2.0.0
     - **Removed**
       - other cloudfoundry specifics
+      - jeap-spring-boot-config-starter
+      - jeap-spring-boot-cloud-autoconfig-starter
+- update jeap-starter from 18.5.0 to 19.0.0
+- update jeap-audit from 2.6.0 to 3.0.0
+    - **Removed**
+      - other cloudfoundry specifics
 
 ## [29.4.0] - 2025-12-02
 ### Changed
