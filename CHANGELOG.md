@@ -16,6 +16,7 @@
   
 - update jeap-messaging from 11.0.0 to 11.1.0
 - update jeap-spring-boot-tls-starter from 17.43.0 to 17.44.0
+- update jeap-spring-boot-config-aws-starter from 17.43.0 to 17.44.0
 
 ## [30.0.1] - 2025-12-04
 ### Changed
