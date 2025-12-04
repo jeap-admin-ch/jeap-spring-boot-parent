@@ -1,5 +1,10 @@
 # Changelog
 
+## [30.0.1] - 2025-12-04
+### Changed
+- Update jeap-internal-spring-boot-parent from 5.16.0 to 5.16.1
+  - pin version of lz4-java to 1.8.1 to address CVE 
+
 ## [30.0.0] - 2025-12-03
 ### Changed
 -  Breaking Change
