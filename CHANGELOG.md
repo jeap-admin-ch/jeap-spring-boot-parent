@@ -19,6 +19,8 @@
 - update jeap-spring-boot-config-aws-starter from 17.43.0 to 17.44.0
 - update jeap-audit from 4.1.0 to 4.2.0
   
+- update jeap-server-sent-events from 6.0.0 to 6.1.0
+  
 
 ## [30.0.1] - 2025-12-04
 ### Changed
