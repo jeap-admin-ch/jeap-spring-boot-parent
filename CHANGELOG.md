@@ -8,6 +8,8 @@
 - update jeap-spring-boot-db-migration-starter from 17.43.0 to 17.44.0
 - update jeap-spring-boot-security-client-starter from 19.0.0 to 19.1.0
 - update jeap-open-api-publisher from 2.0.0 to 2.1.0
+- update jeap-starter from 19.0.0 to 19.1.0
+- update jeap-audit from 4.0.0 to 4.1.0
 
 ## [30.0.1] - 2025-12-04
 ### Changed
