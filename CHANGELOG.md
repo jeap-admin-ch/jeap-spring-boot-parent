@@ -3,6 +3,7 @@
 ## [30.1.0] - 2025-12-04
 ### Changed
 - Update parent from 5.16.0 to 5.16.1
+- update jeap-spring-boot-starters from 19.0.0 to 19.1.0
 
 ## [30.0.1] - 2025-12-04
 ### Changed
