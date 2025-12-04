@@ -46,7 +46,7 @@
         <jeap-tls-starter.version>17.44.0</jeap-tls-starter.version>
         <jeap-messaging.version>11.1.0</jeap-messaging.version>
         <jeap-messaging-outbox.version>11.0.0</jeap-messaging-outbox.version>
-        <jeap-messaging-sequential-inbox.version>14.0.0</jeap-messaging-sequential-inbox.version>
+        <jeap-messaging-sequential-inbox.version>14.1.0</jeap-messaging-sequential-inbox.version>
         <jeap-reaction-observer.version>4.1.0</jeap-reaction-observer.version>
         <jeap-crypto.version>5.1.0</jeap-crypto.version>
         <jeap-server-sent-events.version>6.1.0</jeap-server-sent-events.version>
