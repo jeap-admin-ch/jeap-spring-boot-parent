@@ -12,6 +12,7 @@
 - update jeap-audit from 4.0.0 to 4.1.0
 - update jeap-spring-boot-vault-starter from 19.0.0 to 19.1.0
 - update jeap-crypto from 5.0.0 to 5.1.0
+- update jeap-db-schema-publisher from 1.8.0 to 1.9.0
 
 ## [30.0.1] - 2025-12-04
 ### Changed
