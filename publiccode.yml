@@ -1,8 +1,8 @@
 publiccodeYmlVersion: 0.4.0
 name: jeap-spring-boot-parent
 applicationSuite: jEAP
-softwareVersion: 30.1.0
-releaseDate: 2025-12-04
+softwareVersion: 30.2.0
+releaseDate: 2025-12-08
 url: "https://github.com/jeap-admin-ch/jeap-spring-boot-parent.git"
 landingURL: "https://github.com/jeap-admin-ch/jeap"
 platforms:
