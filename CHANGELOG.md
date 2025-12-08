@@ -14,6 +14,8 @@
 - update jeap-open-api-publisher from 2.1.0 to 2.3.0
 - update jeap-starter from 19.2.0 to 19.3.0
 - update jeap-audit from 4.5.0 to 4.6.0
+- update jeap-spring-boot-vault-starter from 19.2.0 to 19.3.0
+- update jeap-crypto from 5.1.0 to 5.3.0
 
 ## [30.1.0] - 2025-12-04
 ### Changed
