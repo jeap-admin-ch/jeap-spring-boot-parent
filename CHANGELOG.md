@@ -18,6 +18,8 @@
 - update jeap-crypto from 5.1.0 to 5.3.0
   
 - update jeap-messaging from 11.1.0 to 11.2.0
+  
+- update jeap-messaging-outbox from 11.1.0 to 11.2.0
 
 ## [30.1.0] - 2025-12-04
 ### Changed
