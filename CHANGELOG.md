@@ -8,6 +8,7 @@
 - update jeap-spring-boot-tls-starter from 17.44.0 to 17.46.0
 - update jeap-spring-boot-db-migration-starter from 17.44.0 to 17.46.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.8.0 to 1.10.0
+- update jeap-audit from 4.2.0 to 4.5.0
 
 ## [30.1.0] - 2025-12-04
 ### Changed
