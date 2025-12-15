@@ -16,6 +16,7 @@
 - update jeap-crypto from 5.3.0 to 5.4.0
 - update jeap-messaging from 11.2.0 to 11.3.0
 - update jeap-messaging-outbox from 11.2.0 to 11.3.0
+- update jeap-reaction-observer from 4.2.0 to 4.3.0
 
 ## [30.2.0] - 2025-12-08
 
