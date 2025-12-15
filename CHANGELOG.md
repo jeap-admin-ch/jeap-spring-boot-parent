@@ -1,5 +1,11 @@
 # Changelog
 
+## [30.3.0] - 2025-12-15
+
+### Changed
+
+- Update parent from 5.16.3 to 5.16.4
+
 ## [30.2.0] - 2025-12-08
 
 ### Changed
