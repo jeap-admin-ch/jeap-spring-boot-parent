@@ -9,18 +9,14 @@
 - update jeap-spring-boot-config-aws-starter from 17.46.0 to 17.47.0
 - update jeap-db-schema-publisher from 1.11.0 to 1.12.0
 - update jeap-spring-boot-starters from 19.3.0 to 19.4.0
-- update jeap-spring-boot-security-client-starter from 19.3.0 to 19.4.0
 - update jeap-open-api-publisher from 2.3.0 to 2.4.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.10.0 to 1.11.0
-- update jeap-spring-boot-vault-starter from 19.3.0 to 19.4.0
 - update jeap-crypto from 5.3.0 to 5.4.0
 - update jeap-messaging from 11.2.0 to 11.3.0
 - update jeap-messaging-outbox from 11.2.0 to 11.3.0
 - update jeap-reaction-observer from 4.2.0 to 4.3.0
 - update jeap-starter from 19.3.0 to 19.4.0
-- update jeap-messaging-outbox from 9.3.1 to 11.3.0
 - update jeap-audit from 4.7.0 to 4.8.0
-- update jeap-spring-boot-security-starter from 19.3.0 to 19.4.0
 - update jeap-messaging-sequential-inbox from 14.2.0 to 14.3.0
 - update jeap-server-sent-events from 6.2.0 to 6.3.0
 
