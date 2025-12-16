@@ -11,6 +11,8 @@
 - update jeap-messaging from 11.3.0 to 11.3.1
 - update jeap-starter from 19.4.0 to 19.4.1
 - update jeap-server-sent-events from 6.3.0 to 6.3.1
+- update jeap-spring-boot-security-starter from 19.4.0 to 19.4.1
+- update jeap-messaging-sequential-inbox from 14.3.0 to 14.3.1
 
 ## [30.3.0] - 2025-12-15
 
