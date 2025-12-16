@@ -4,6 +4,8 @@
 ### Changed
 - update jeap-spring-boot-starters from 19.4.0 to 19.4.1
 - Fix logback warnings due to deprecated features being used in the configuration
+- update jeap-spring-boot-security-client-starter from 19.4.0 to 19.4.1
+- update jeap-open-api-publisher from 2.4.0 to 2.4.1
 
 ## [30.3.0] - 2025-12-15
 
