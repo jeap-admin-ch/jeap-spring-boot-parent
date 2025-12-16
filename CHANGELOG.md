@@ -22,6 +22,7 @@
 - update jeap-audit from 4.7.0 to 4.8.0
 - update jeap-spring-boot-security-starter from 19.3.0 to 19.4.0
 - update jeap-messaging-sequential-inbox from 14.2.0 to 14.3.0
+- update jeap-server-sent-events from 6.2.0 to 6.3.0
 
 ## [30.2.0] - 2025-12-08
 
