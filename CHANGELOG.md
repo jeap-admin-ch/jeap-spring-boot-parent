@@ -1,5 +1,10 @@
 # Changelog
 
+## [30.3.1] - 2025-12-16
+### Changed
+- update jeap-spring-boot-starters from 19.4.0 to 19.4.1
+- Fix logback warnings due to deprecated features being used in the configuration
+
 ## [30.3.0] - 2025-12-15
 
 ### Changed
