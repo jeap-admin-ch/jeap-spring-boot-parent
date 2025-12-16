@@ -17,6 +17,9 @@
 - update jeap-messaging from 11.2.0 to 11.3.0
 - update jeap-messaging-outbox from 11.2.0 to 11.3.0
 - update jeap-reaction-observer from 4.2.0 to 4.3.0
+- update jeap-starter from 19.3.0 to 19.4.0
+- update jeap-messaging-outbox from 9.3.1 to 11.3.0
+- update jeap-audit from 4.7.0 to 4.8.0
 
 ## [30.2.0] - 2025-12-08
 
