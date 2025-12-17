@@ -10,7 +10,6 @@
 - update jeap-db-schema-publisher from 1.12.0 to 1.13.0
 - update jeap-spring-boot-tls-starter from 17.47.0 to 17.48.0
 - update jeap-spring-boot-starters from 19.4.1 to 19.5.0
-- update jeap-spring-boot-security-client-starter from 19.4.1 to 19.5.0
 - update jeap-open-api-publisher from 2.4.1 to 2.5.0
 - update jeap-spring-boot-vault-starter from 19.4.1 to 19.5.0
 - update jeap-crypto from 5.4.1 to 5.5.0
@@ -19,7 +18,6 @@
 - update jeap-spring-boot-security-starter from 19.4.1 to 19.5.0
 - update jeap-messaging-sequential-inbox from 14.3.1 to 14.4.0
 - update jeap-reaction-observer from 4.3.1 to 4.4.0
-- update jeap-starter from 19.4.1 to 19.5.0
 - update jeap-server-sent-events from 6.3.1 to 6.4.0
 - update jeap-audit from 4.8.1 to 4.9.0
 
