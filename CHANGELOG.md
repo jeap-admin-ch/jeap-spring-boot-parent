@@ -1,5 +1,10 @@
 # Changelog
 
+## [30.4.1] - 2025-12-17
+### Changed
+- update jeap-open-api-publisher from 2.5.0 to 2.5.1
+- read the base server uri from the common configuration
+
 ## [30.4.0] - 2025-12-17
 
 ### Changed
