@@ -3,8 +3,8 @@
 ## [30.4.0] - 2025-12-17
 
 ### Changed
-
 - Update parent from 5.16.4 to 5.16.5
+- update jeap-spring-boot-roles-anywhere-starter from 1.11.0 to 1.12.0
 
 ## [30.3.1] - 2025-12-16
 ### Changed
