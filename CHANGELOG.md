@@ -21,6 +21,7 @@
 - update jeap-reaction-observer from 4.3.1 to 4.4.0
 - update jeap-starter from 19.4.1 to 19.5.0
 - update jeap-server-sent-events from 6.3.1 to 6.4.0
+- update jeap-audit from 4.8.1 to 4.9.0
 
 ## [30.3.1] - 2025-12-16
 ### Changed
