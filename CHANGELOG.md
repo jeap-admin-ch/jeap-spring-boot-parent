@@ -4,6 +4,8 @@
 
 ### Changed
 - Update parent from 5.16.5 to 5.16.6
+- Upgraded spring boot from 3.5.8 to 3.5.9
+- Pin at.org.bitbucket.b_c jose4j version to 0.9.5 to address CVE-2024-29371
 - update jeap-db-schema-publisher from 1.13.0 to 1.14.0
 - update jeap-spring-boot-tls-starter from 17.48.0 to 17.49.0
 - update jeap-spring-boot-config-aws-starter from 17.48.0 to 17.49.0
@@ -15,10 +17,8 @@
 - update jeap-crypto from 5.5.0 to 5.6.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.12.0 to 1.13.0
 - update jeap-messaging from 11.4.0 to 11.5.0
-- update jeap-starter from 19.5.0 to 19.6.0
 - update jeap-server-sent-events from 6.4.0 to 6.5.0
 - update jeap-reaction-observer from 4.4.0 to 4.5.0
-- update jeap-spring-boot-security-starter from 19.5.0 to 19.6.0
 - update jeap-messaging-sequential-inbox from 14.4.0 to 14.5.0
 - update jeap-messaging-outbox from 11.4.0 to 11.5.0
 - update jeap-audit from 4.9.0 to 4.10.0
