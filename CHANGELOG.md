@@ -15,6 +15,8 @@
 - update jeap-crypto from 5.5.0 to 5.6.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.12.0 to 1.13.0
 - update jeap-messaging from 11.4.0 to 11.5.0
+- update jeap-starter from 19.5.0 to 19.6.0
+- update jeap-server-sent-events from 6.4.0 to 6.5.0
 
 ## [30.4.1] - 2025-12-17
 ### Changed
