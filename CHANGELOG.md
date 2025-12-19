@@ -6,6 +6,7 @@
 - Update parent from 5.16.5 to 5.16.6
 - update jeap-db-schema-publisher from 1.13.0 to 1.14.0
 - update jeap-spring-boot-tls-starter from 17.48.0 to 17.49.0
+- update jeap-spring-boot-config-aws-starter from 17.48.0 to 17.49.0
 
 ## [30.4.1] - 2025-12-17
 ### Changed
