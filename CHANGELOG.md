@@ -1,5 +1,11 @@
 # Changelog
 
+## [30.5.0] - 2025-12-19
+
+### Changed
+
+- Update parent from 5.16.5 to 5.16.6
+
 ## [30.4.1] - 2025-12-17
 ### Changed
 - update jeap-open-api-publisher from 2.5.0 to 2.5.1
