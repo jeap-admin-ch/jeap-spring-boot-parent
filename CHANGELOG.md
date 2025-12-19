@@ -3,8 +3,8 @@
 ## [30.5.0] - 2025-12-19
 
 ### Changed
-
 - Update parent from 5.16.5 to 5.16.6
+- update jeap-db-schema-publisher from 1.13.0 to 1.14.0
 
 ## [30.4.1] - 2025-12-17
 ### Changed
