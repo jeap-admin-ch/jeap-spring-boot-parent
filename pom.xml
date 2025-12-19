@@ -51,7 +51,7 @@
         <jeap-crypto.version>5.5.0</jeap-crypto.version>
         <jeap-server-sent-events.version>6.4.0</jeap-server-sent-events.version>
         <jeap-db-schema-publisher.version>1.14.0</jeap-db-schema-publisher.version>
-        <jeap-open-api-publisher.version>2.5.1</jeap-open-api-publisher.version>
+        <jeap-open-api-publisher.version>2.6.0</jeap-open-api-publisher.version>
         <jeap-spring-boot-roles-anywhere-starter.version>1.12.0</jeap-spring-boot-roles-anywhere-starter.version>
         <jeap-audit.version>4.9.0</jeap-audit.version>
         <!-- Maven Plugins -->
