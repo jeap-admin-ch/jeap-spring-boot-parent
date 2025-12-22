@@ -19,6 +19,7 @@
 - update jeap-reaction-observer from 4.5.0 to 4.6.0
 - update jeap-spring-boot-security-starter from 19.6.0 to 19.7.0
 - update jeap-messaging-sequential-inbox from 14.5.0 to 14.6.0
+- update jeap-audit from 4.10.0 to 4.11.0
 
 ## [30.5.0] - 2025-12-19
 
