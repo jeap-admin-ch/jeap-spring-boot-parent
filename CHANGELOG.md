@@ -4,22 +4,7 @@
 
 ### Changed
 - Update parent from 5.16.6 to 5.16.7
-- update jeap-spring-boot-roles-anywhere-starter from 1.13.0 to 1.14.0
-- update jeap-spring-boot-db-migration-starter from 17.49.0 to 17.50.0
-- update jeap-spring-boot-config-aws-starter from 17.49.0 to 17.50.0
-- update jeap-db-schema-publisher from 1.14.0 to 1.15.0
-- update jeap-spring-boot-starters from 19.6.0 to 19.7.0
-- update jeap-spring-boot-security-client-starter from 19.6.0 to 19.7.0
-- update jeap-open-api-publisher from 2.6.0 to 2.7.0
-- update jeap-spring-boot-vault-starter from 19.6.0 to 19.7.0
-- update jeap-crypto from 5.6.0 to 5.7.0
-- update jeap-messaging from 11.5.0 to 11.6.0
-- update jeap-starter from 19.6.0 to 19.7.0
-- update jeap-server-sent-events from 6.5.0 to 6.6.0
-- update jeap-reaction-observer from 4.5.0 to 4.6.0
-- update jeap-spring-boot-security-starter from 19.6.0 to 19.7.0
-- update jeap-messaging-sequential-inbox from 14.5.0 to 14.6.0
-- update jeap-audit from 4.10.0 to 4.11.0
+  - Update pact jvm version from 4.6.17 to 4.6.19 to address CVE-2025-66516
 
 ## [30.5.0] - 2025-12-19
 
