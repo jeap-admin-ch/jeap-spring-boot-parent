@@ -4,6 +4,7 @@
 
 ### Changed
 - Update parent from 5.16.7 to 5.16.8
+- Pin at.org.bitbucket.b_c jose4j version to 0.9.6 to address CVE-2024-29371
 - update jeap-spring-boot-roles-anywhere-starter from 1.14.0 to 1.15.0
 - update jeap-spring-boot-config-aws-starter from 17.50.0 to 17.51.0
 - update jeap-spring-boot-db-migration-starter from 17.50.0 to 17.51.0
