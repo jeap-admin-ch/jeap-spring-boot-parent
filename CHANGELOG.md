@@ -24,6 +24,8 @@
 - update jeap-messaging-outbox from 11.7.0 to 11.8.0
 - update jeap-reaction-observer from 4.7.0 to 4.8.0
 - update commons-io from 2.20.0 to 2.21.0
+- update jeap-messaging-sequential-inbox from 14.7.0 to 14.8.0
+- update jeap-spring-boot-security-starter from 19.8.0 to 19.9.0
 
 ## [30.7.0] - 2026-01-07
 
