@@ -22,6 +22,8 @@
 - ignore Sonar warnings in tests (MojoRule and AbstractMojoTestCase is deprecated) for the moment, java:S1874
 - update jeap-messaging from 11.7.0 to 11.8.1
 - update jeap-messaging-outbox from 11.7.0 to 11.8.0
+- update jeap-reaction-observer from 4.7.0 to 4.8.0
+- update commons-io from 2.20.0 to 2.21.0
 
 ## [30.7.0] - 2026-01-07
 
