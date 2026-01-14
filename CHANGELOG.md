@@ -1,5 +1,11 @@
 # Changelog
 
+## [30.8.0] - 2026-01-14
+
+### Changed
+
+- Update parent from 5.16.8 to 5.17.0
+
 ## [30.7.0] - 2026-01-07
 
 ### Changed
