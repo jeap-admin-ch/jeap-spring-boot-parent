@@ -7,6 +7,8 @@
 - updated springdoc-openapi from 2.8.13 to 2.8.15
 - update jeap-spring-boot-starters from 19.8.0 to 19.9.0
 - updated wiremock from 3.13.1 to 3.13.2
+- Updated SignerConstant package
+- update jeap-spring-boot-roles-anywhere-starter from 1.15.0 to 1.16.0
 
 ## [30.7.0] - 2026-01-07
 
