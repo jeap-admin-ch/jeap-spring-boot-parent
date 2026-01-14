@@ -19,6 +19,8 @@
 - update jeap-spring-boot-config-aws-starter from 17.51.0 to 17.52.0
 - update jeap-spring-boot-tls-starter from 17.51.0 to 17.52.0
 - update jeap-spring-boot-db-migration-starter from 17.51.0 to 17.52.0
+- ignore Sonar warnings in tests (MojoRule and AbstractMojoTestCase is deprecated) for the moment, java:S1874
+- update jeap-messaging from 11.7.0 to 11.8.1
 
 ## [30.7.0] - 2026-01-07
 
