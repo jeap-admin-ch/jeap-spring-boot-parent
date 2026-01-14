@@ -12,6 +12,9 @@
 - update jeap-spring-boot-security-client-starter from 19.8.0 to 19.9.0
 - update jeap-open-api-publisher from 2.8.0 to 2.9.0
 - update springdoc-openapi from 2.8.13 to 2.8.15
+- update jeap-spring-boot-vault-starter from 19.8.0 to 19.9.0
+- update jeap-crypto from 5.8.0 to 5.9.0
+- update testcontainers from 1.21.3 to 1.21.4
 
 ## [30.7.0] - 2026-01-07
 
