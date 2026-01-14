@@ -28,6 +28,7 @@
 - update jeap-spring-boot-security-starter from 19.8.0 to 19.9.0
 - update jeap-starter from 19.8.0 to 19.9.0
 - update jeap-server-sent-events from 6.7.0 to 6.8.0
+- update jeap-audit from 4.12.0 to 4.13.0
 
 ## [30.7.0] - 2026-01-07
 
