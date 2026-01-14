@@ -26,6 +26,8 @@
 - update commons-io from 2.20.0 to 2.21.0
 - update jeap-messaging-sequential-inbox from 14.7.0 to 14.8.0
 - update jeap-spring-boot-security-starter from 19.8.0 to 19.9.0
+- update jeap-starter from 19.8.0 to 19.9.0
+- update jeap-server-sent-events from 6.7.0 to 6.8.0
 
 ## [30.7.0] - 2026-01-07
 
