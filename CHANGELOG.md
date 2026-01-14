@@ -4,6 +4,16 @@
 
 ### Changed
 - Update parent from 5.16.8 to 5.17.0
+  - Updated maven-source-plugin from 3.3.1 to 3.4.0
+  - Updated maven-enforcer-plugin from 3.6.1 to 3.6.2
+  - Updated shedlock from 6.10.0 to 7.5.0
+  - Updated jacoco-maven-plugin from 0.8.13 to 0.8.14
+  - Updated exec-maven-plugin from 3.6.0 to 3.6.3
+  - Updated aws.sdk from 2.34.6 to 2.41.5
+  - Updated bcpkix-jdk18on fom 1.82 to 1.83
+  - Updated bcprov-jdk18on fom 1.82 to 1.83
+  - Updated org.codehaus.mojo-license-maven-plugin from 2.7.0 to 2.7.1
+  - Updated yawk-lz4-java from 1.10.1 to 1.10.2
 - updated springdoc-openapi from 2.8.13 to 2.8.15
 - update jeap-spring-boot-starters from 19.8.0 to 19.9.0
 - updated wiremock from 3.13.1 to 3.13.2
@@ -26,7 +36,6 @@
 - update commons-io from 2.20.0 to 2.21.0
 - update jeap-messaging-sequential-inbox from 14.7.0 to 14.8.0
 - update jeap-spring-boot-security-starter from 19.8.0 to 19.9.0
-- update jeap-starter from 19.8.0 to 19.9.0
 - update jeap-server-sent-events from 6.7.0 to 6.8.0
 - update jeap-audit from 4.12.0 to 4.13.0
 
