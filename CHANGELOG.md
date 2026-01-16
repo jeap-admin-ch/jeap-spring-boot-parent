@@ -11,6 +11,8 @@
 - update jeap-open-api-publisher from 2.9.0 to 2.10.0
 - update jeap-spring-boot-vault-starter from 19.9.0 to 19.10.0
 - update jeap-crypto from 5.9.0 to 5.10.0
+- AvroMessageBuilder now validates the presence of the `variant` field in the message type before setting it, throwing an exception if it is undefined.
+- update jeap-messaging from 11.8.1 to 11.9.0
 
 ## [30.9.0] - 2026-01-16
 ### Changed
