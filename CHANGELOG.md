@@ -9,6 +9,7 @@
   Enable via the `jeap.health.metric.contributor-metrics.enabled` property.
   Enable via the `jeap.health.metric.contributor-metrics.enabled` property.
   Enable via the `jeap.health.metric.contributor-metrics.enabled` property.
+  Enable via the `jeap.health.metric.contributor-metrics.enabled` property.
 - update jeap-spring-boot-starters from 19.9.0 to 19.10.0
 - Added support for exposing additional metrics about application health contributors.
 - update jeap-spring-boot-security-client-starter from 19.9.0 to 19.10.0
@@ -24,6 +25,7 @@
 - update jeap-messaging-sequential-inbox from 14.8.0 to 14.9.0
 - update jeap-messaging from 11.9.0 to 11.10.0
 - update jeap-server-sent-events from 6.9.0 to 6.10.0
+- update jeap-messaging-outbox from 11.9.0 to 11.10.0
 
 ## [30.9.0] - 2026-01-16
 ### Changed
