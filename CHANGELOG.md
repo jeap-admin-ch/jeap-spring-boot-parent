@@ -1,5 +1,10 @@
 # Changelog
 
+## [30.9.0] - 2026-01-16
+### Changed
+- update jeap-audit from 4.13.0 to 4.14.0
+- Refactoring and improving method names in CreateAuditRecordCommandTransactionOutboxSender
+
 ## [30.8.0] - 2026-01-14
 
 ### Changed
