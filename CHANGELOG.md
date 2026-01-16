@@ -1,5 +1,11 @@
 # Changelog
 
+## [30.10.0] - 2026-01-16
+### Changed
+  Enable via the `jeap.health.metric.contributor-metrics.enabled` property.
+- update jeap-spring-boot-starters from 19.9.0 to 19.10.0
+- Added support for exposing additional metrics about application health contributors.
+
 ## [30.9.0] - 2026-01-16
 ### Changed
 - update jeap-audit from 4.13.0 to 4.14.0
