@@ -16,6 +16,7 @@
 - update jeap-messaging from 11.8.1 to 11.9.0
 - update jeap-starter from 19.9.0 to 19.10.0
 - update jeap-server-sent-events from 6.8.0 to 6.9.0
+- update jeap-messaging-outbox from 11.8.0 to 11.9.0
 
 ## [30.9.0] - 2026-01-16
 ### Changed
