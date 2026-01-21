@@ -3,18 +3,7 @@
 ## [30.12.0] - 2026-01-21
 ### Changed
 - update jeap-spring-boot-starters from 19.11.0 to 19.12.0
-- Removed X-XSS-Protection header as recommended in https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/X-XSS-Protection
-- update jeap-spring-boot-security-client-starter from 19.11.0 to 19.12.0
-- update jeap-open-api-publisher from 2.11.0 to 2.12.0
-- update jeap-spring-boot-vault-starter from 19.11.0 to 19.12.0
-- update jeap-crypto from 5.11.0 to 5.12.0
-- update jeap-messaging from 11.11.0 to 11.12.0
-- update jeap-starter from 19.11.0 to 19.12.0
-- update jeap-server-sent-events from 6.11.0 to 6.12.0
-- update jeap-spring-boot-security-starter from 19.11.0 to 19.12.0
-- update jeap-messaging-sequential-inbox from 14.11.0 to 14.12.0
-- update jeap-reaction-observer from 4.11.0 to 4.12.0
-- update jeap-audit from 4.16.0 to 4.17.0
+  - Removed X-XSS-Protection header as recommended in https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/X-XSS-Protection
 
 ## [30.11.0] - 2026-01-20
 ### Changed
