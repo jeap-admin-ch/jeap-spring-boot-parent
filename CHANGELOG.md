@@ -2,14 +2,7 @@
 
 ## [30.11.0] - 2026-01-20
 ### Changed
-- Default server.forward-headers-strategy to NATIVE
-- update jeap-messaging from 11.10.0 to 11.11.0
-- update jeap-crypto from 5.10.0 to 5.11.0
-- update jeap-starter from 19.10.0 to 19.11.0
-- update jeap-audit from 4.15.0 to 4.16.0
-- update jeap-spring-boot-vault-starter from 19.10.0 to 19.11.0
-- update jeap-messaging-outbox from 11.10.0 to 11.11.0
-- update jeap-reaction-observer from 4.10.0 to 4.11.0
+- Default server.forward-headers-strategy to NATIVE (jeap-spring-boot-starters 19.11.0)
 
 ## [30.10.0] - 2026-01-16
 ### Changed
