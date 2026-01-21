@@ -1,5 +1,10 @@
 # Changelog
 
+## [30.12.0] - 2026-01-21
+### Changed
+- update jeap-spring-boot-starters from 19.11.0 to 19.12.0
+- Removed X-XSS-Protection header as recommended in https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/X-XSS-Protection
+
 ## [30.11.0] - 2026-01-20
 ### Changed
 - Default server.forward-headers-strategy to NATIVE (jeap-spring-boot-starters 19.11.0)
