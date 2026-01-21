@@ -8,6 +8,7 @@
 - update jeap-open-api-publisher from 2.11.0 to 2.12.0
 - update jeap-spring-boot-vault-starter from 19.11.0 to 19.12.0
 - update jeap-crypto from 5.11.0 to 5.12.0
+- update jeap-messaging from 11.11.0 to 11.12.0
 
 ## [30.11.0] - 2026-01-20
 ### Changed
