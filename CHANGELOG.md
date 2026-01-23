@@ -4,6 +4,7 @@
 ### Changed
 - update jeap-messaging from 11.12.0 to 11.13.0
 - remove v from tag version in comparison of jeap-messaging-avro-maven-plugin GitClient
+- update jeap-server-sent-events from 6.12.0 to 6.13.0
 
 ## [30.12.0] - 2026-01-21
 ### Changed

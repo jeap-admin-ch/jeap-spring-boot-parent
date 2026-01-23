@@ -49,7 +49,7 @@
         <jeap-messaging-sequential-inbox.version>14.12.0</jeap-messaging-sequential-inbox.version>
         <jeap-reaction-observer.version>4.12.0</jeap-reaction-observer.version>
         <jeap-crypto.version>5.12.0</jeap-crypto.version>
-        <jeap-server-sent-events.version>6.12.0</jeap-server-sent-events.version>
+        <jeap-server-sent-events.version>6.13.0</jeap-server-sent-events.version>
         <jeap-db-schema-publisher.version>1.17.0</jeap-db-schema-publisher.version>
         <jeap-open-api-publisher.version>2.12.0</jeap-open-api-publisher.version>
         <jeap-spring-boot-roles-anywhere-starter.version>1.16.0</jeap-spring-boot-roles-anywhere-starter.version>
