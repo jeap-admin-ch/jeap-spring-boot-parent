@@ -4,6 +4,7 @@
 ### Changed
 - update jeap-messaging from 11.13.0 to 11.14.0
 - added ErrorHandlingTargetFilter to filter out messages not intended for the consuming service (Header: jeap_eh_target_service)
+- update jeap-server-sent-events from 6.13.0 to 6.14.0
 
 ## [30.13.0] - 2026-01-23
 ### Changed
