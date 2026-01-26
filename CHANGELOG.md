@@ -7,6 +7,8 @@
 - update jeap-server-sent-events from 6.13.0 to 6.14.0
 - update jeap-reaction-observer from 4.13.0 to 4.14.0
 - update jeap-messaging-outbox from 11.13.0 to 11.14.0
+- update jeap-messaging-sequential-inbox from 14.13.0 to 14.14.0
+- use ErrorHandlingTargetFilter for sequential inbox
 
 ## [30.13.0] - 2026-01-23
 ### Changed
