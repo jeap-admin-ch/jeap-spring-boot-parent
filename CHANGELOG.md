@@ -9,6 +9,7 @@
 - update jeap-messaging-outbox from 11.13.0 to 11.14.0
 - update jeap-messaging-sequential-inbox from 14.13.0 to 14.14.0
 - use ErrorHandlingTargetFilter for sequential inbox
+- update jeap-audit from 4.18.0 to 4.19.0
 
 ## [30.13.0] - 2026-01-23
 ### Changed
