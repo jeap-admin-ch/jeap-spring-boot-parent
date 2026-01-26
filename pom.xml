@@ -27,7 +27,7 @@
     </licenses>
 
     <artifactId>jeap-spring-boot-parent</artifactId>
-    <version>30.13.0-SNAPSHOT</version>
+    <version>30.14.0-SNAPSHOT</version>
     <name>jeap-spring-boot-parent</name>
     <description>A common parent project</description>
     <packaging>pom</packaging>
@@ -44,7 +44,7 @@
         <jeap-db-migration-starter.version>17.52.0</jeap-db-migration-starter.version>
         <jeap-config-aws-starter.version>17.52.0</jeap-config-aws-starter.version>
         <jeap-tls-starter.version>17.52.0</jeap-tls-starter.version>
-        <jeap-messaging.version>11.13.0</jeap-messaging.version>
+        <jeap-messaging.version>11.14.0</jeap-messaging.version>
         <jeap-messaging-outbox.version>11.13.0</jeap-messaging-outbox.version>
         <jeap-messaging-sequential-inbox.version>14.13.0</jeap-messaging-sequential-inbox.version>
         <jeap-reaction-observer.version>4.13.0</jeap-reaction-observer.version>
