@@ -4,23 +4,8 @@
 
 ### Changed
 - Update parent from 5.17.0 to 5.17.1
-- update jeap-db-schema-publisher from 1.17.0 to 1.18.0
-- update jeap-spring-boot-tls-starter from 17.52.0 to 17.53.0
-- update jeap-spring-boot-db-migration-starter from 17.52.0 to 17.53.0
-- update jeap-spring-boot-config-aws-starter from 17.52.0 to 17.53.0
-- update jeap-spring-boot-starters from 19.12.0 to 19.13.0
-- update jeap-spring-boot-vault-starter from 19.12.0 to 19.13.0
-- update jeap-crypto from 5.12.0 to 5.13.0
-- update jeap-spring-boot-roles-anywhere-starter from 1.16.0 to 1.17.0
-- update jeap-spring-boot-security-client-starter from 19.12.0 to 19.13.0
-- update jeap-open-api-publisher from 2.12.0 to 2.13.0
-- update jeap-messaging from 11.14.0 to 11.15.0
-- update jeap-starter from 19.12.0 to 19.13.0
-- update jeap-server-sent-events from 6.14.0 to 6.15.0
-- update jeap-messaging-outbox from 11.14.0 to 11.15.0
-- update jeap-spring-boot-security-starter from 19.12.0 to 19.13.0
-- update jeap-messaging-sequential-inbox from 14.14.0 to 14.15.0
-- update jeap-audit from 4.19.0 to 4.20.0
+- Spring Boot 5.9.10
+- Pin assertj-core to 3.27.7 due to CVE-2026-24400
 
 ## [30.14.0] - 2026-01-26
 ### Changed
