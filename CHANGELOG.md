@@ -6,11 +6,6 @@
 - Update parent from 5.17.0 to 5.17.1
 - Spring Boot 5.9.10
 - Pin assertj-core to 3.27.7 due to CVE-2026-24400
-- update jeap-spring-boot-vault-starter from 19.12.0 to 19.13.0
-- update jeap-crypto from 5.12.0 to 5.13.0
-- update jeap-messaging from 11.14.0 to 11.15.0
-- update jeap-reaction-observer from 4.14.0 to 4.15.0
-- update jeap-spring-boot-roles-anywhere-starter from 1.16.0 to 1.17.0
 
 ## [30.14.0] - 2026-01-26
 ### Changed
