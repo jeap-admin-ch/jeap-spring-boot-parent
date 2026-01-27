@@ -11,6 +11,7 @@
 - update jeap-spring-boot-starters from 19.12.0 to 19.13.0
 - update jeap-spring-boot-vault-starter from 19.12.0 to 19.13.0
 - update jeap-crypto from 5.12.0 to 5.13.0
+- update jeap-spring-boot-roles-anywhere-starter from 1.16.0 to 1.17.0
 
 ## [30.14.0] - 2026-01-26
 ### Changed
