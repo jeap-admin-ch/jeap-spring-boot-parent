@@ -4,6 +4,7 @@
 ### Changed
 - update jeap-messaging-outbox from 11.15.0 to 11.16.0
 - refactoring of the housekeeping: delete messages in batches using paging
+- update jeap-audit from 4.20.0 to 4.21.0
 
 ## [30.15.0] - 2026-01-27
 
