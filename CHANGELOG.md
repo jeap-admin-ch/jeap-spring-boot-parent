@@ -1,5 +1,10 @@
 # Changelog
 
+## [30.16.0] - 2026-02-13
+### Changed
+- update jeap-messaging-outbox from 11.15.0 to 11.16.0
+- refactoring of the housekeeping: delete messages in batches using paging
+
 ## [30.15.0] - 2026-01-27
 
 ### Changed
