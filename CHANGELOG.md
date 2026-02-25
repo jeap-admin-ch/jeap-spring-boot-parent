@@ -14,6 +14,8 @@
 - update jeap-messaging from 11.15.0 to 11.15.1
 - update jeap-spring-boot-security-client-starter from 19.13.0 to 19.14.0
 - update jeap-open-api-publisher from 2.13.0 to 2.14.0
+- update jeap-starter from 19.13.0 to 19.14.0
+- update jeap-server-sent-events from 6.15.0 to 6.16.0
 
 ## [30.16.0] - 2026-02-13
 ### Changed
