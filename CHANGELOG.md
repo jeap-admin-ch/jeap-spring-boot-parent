@@ -10,6 +10,8 @@
 - update jeap-db-schema-publisher from 1.18.0 to 1.19.0
 - update jeap-spring-boot-starters from 19.13.0 to 19.14.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.17.0 to 1.18.0
+- Improved template path resolution in the annotation processor for robust, cross-platform path handling and avoids issues with illegal characters in file paths.
+- update jeap-messaging from 11.15.0 to 11.15.1
 
 ## [30.16.0] - 2026-02-13
 ### Changed
