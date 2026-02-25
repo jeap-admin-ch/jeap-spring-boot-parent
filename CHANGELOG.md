@@ -19,6 +19,8 @@
 - update jeap-reaction-observer from 4.15.0 to 4.16.0
 - update jeap-spring-boot-security-starter from 19.13.0 to 19.14.0
 - update jeap-messaging-sequential-inbox from 14.15.0 to 14.16.0
+- update jeap-spring-boot-vault-starter from 19.13.0 to 19.14.0
+- update jeap-crypto from 5.13.0 to 5.14.0
 
 ## [30.16.0] - 2026-02-13
 ### Changed
