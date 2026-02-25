@@ -1,5 +1,11 @@
 # Changelog
 
+## [30.17.0] - 2026-02-25
+
+### Changed
+
+- Update parent from 5.17.1 to 5.18.0
+
 ## [30.16.0] - 2026-02-13
 ### Changed
 - update jeap-messaging-outbox from 11.15.0 to 11.16.0
