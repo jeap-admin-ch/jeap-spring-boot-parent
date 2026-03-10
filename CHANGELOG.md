@@ -21,6 +21,7 @@
 - update jeap-spring-boot-security-starter from 19.15.0 to 19.16.0
 - update jeap-messaging-sequential-inbox from 14.18.0 to 14.19.0
 - update jeap-messaging-outbox from 11.19.0 to 11.20.0
+- update jeap-audit from 4.23.0 to 4.24.0
 
 ## [30.19.0] - 2026-03-04
 ### Changed
