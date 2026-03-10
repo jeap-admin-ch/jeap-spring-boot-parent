@@ -1,9 +1,9 @@
 # Changelog
 
-## [30.21.0] - 2026-03-10
+## [31.0.0] - 2026-03-11
 ### Changed
 - update jeap-spring-boot-tls-starter from 17.56.0 to 17.57.0
-- Deleted webflux tests
+  - Deleted webflux tests
 
 ## [30.20.0] - 2026-03-10
 
