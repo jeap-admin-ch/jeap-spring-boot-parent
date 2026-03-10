@@ -3,25 +3,7 @@
 ## [30.20.0] - 2026-03-10
 
 ### Changed
-- Update parent from 5.19.0 to 5.19.2
-- update jeap-spring-boot-tls-starter from 17.55.0 to 17.56.0
-- update jeap-spring-boot-roles-anywhere-starter from 1.19.0 to 1.20.0
-- update jeap-spring-boot-config-aws-starter from 17.55.0 to 17.56.0
-- update jeap-spring-boot-db-migration-starter from 17.56.0 to 17.57.0
-- update jeap-spring-boot-starters from 19.15.0 to 19.16.0
-- update jeap-spring-boot-security-client-starter from 19.15.0 to 19.16.0
-- update jeap-open-api-publisher from 2.15.0 to 2.16.0
-- update jeap-db-schema-publisher from 1.20.0 to 1.21.0
-- update jeap-spring-boot-vault-starter from 19.15.0 to 19.16.0
-- update jeap-crypto from 5.15.0 to 5.16.0
-- update jeap-messaging from 11.17.0 to 11.18.0
-- update jeap-starter from 19.15.0 to 19.16.0
-- update jeap-server-sent-events from 6.18.0 to 6.19.0
-- update jeap-reaction-observer from 4.18.0 to 4.19.0
-- update jeap-spring-boot-security-starter from 19.15.0 to 19.16.0
-- update jeap-messaging-sequential-inbox from 14.18.0 to 14.19.0
-- update jeap-messaging-outbox from 11.19.0 to 11.20.0
-- update jeap-audit from 4.23.0 to 4.24.0
+- Spring Boot 3.5.11
 
 ## [30.19.0] - 2026-03-04
 ### Changed
