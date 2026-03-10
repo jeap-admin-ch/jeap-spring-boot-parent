@@ -6,6 +6,7 @@
 - Update parent from 5.19.0 to 5.19.2
 - update jeap-spring-boot-tls-starter from 17.55.0 to 17.56.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.19.0 to 1.20.0
+- update jeap-spring-boot-config-aws-starter from 17.55.0 to 17.56.0
 
 ## [30.19.0] - 2026-03-04
 ### Changed
