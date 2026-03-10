@@ -9,6 +9,8 @@
 - update jeap-spring-boot-config-aws-starter from 17.55.0 to 17.56.0
 - update jeap-spring-boot-db-migration-starter from 17.56.0 to 17.57.0
 - update jeap-spring-boot-starters from 19.15.0 to 19.16.0
+- update jeap-spring-boot-security-client-starter from 19.15.0 to 19.16.0
+- update jeap-open-api-publisher from 2.15.0 to 2.16.0
 
 ## [30.19.0] - 2026-03-04
 ### Changed
