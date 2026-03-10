@@ -1,5 +1,11 @@
 # Changelog
 
+## [30.20.0] - 2026-03-10
+
+### Changed
+
+- Update parent from 5.19.0 to 5.19.2
+
 ## [30.19.0] - 2026-03-04
 ### Changed
 - update jeap-spring-boot-db-migration-starter from 17.55.0 to 17.56.0
