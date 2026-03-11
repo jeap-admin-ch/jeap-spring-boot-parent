@@ -21,6 +21,7 @@
     - Support for reactive
   - **Removed**
     - Support removed from monitoring, tracing, swagger, security web-config starters
+    - Support for reactive
 - update jeap-spring-boot-tls-starter from 17.56.0 to 17.57.0
 -  Breaking Change
 - update jeap-spring-boot-starters from 19.16.0 to 20.0.0
@@ -34,6 +35,7 @@
 - update jeap-server-sent-events from 6.19.0 to 7.0.0
 - update jeap-spring-boot-security-starter from 19.16.0 to 20.0.0
 - update jeap-messaging-sequential-inbox from 14.19.0 to 15.0.0
+- update jeap-reaction-observer from 4.19.0 to 5.0.0
 
 ## [30.20.0] - 2026-03-10
 
