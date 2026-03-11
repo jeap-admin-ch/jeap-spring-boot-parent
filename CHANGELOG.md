@@ -9,11 +9,16 @@
     - Support for reactive/webflux
   - **Removed**
     - Support removed from monitoring, tracing, swagger, security web-config starters
+    - Support for reactive/webflux
+  - **Removed**
+    - Support removed from monitoring, tracing, swagger, security web-config starters
 - update jeap-spring-boot-tls-starter from 17.56.0 to 17.57.0
 -  Breaking Change
 - update jeap-spring-boot-starters from 19.16.0 to 20.0.0
 - update jeap-spring-boot-security-client-starter from 19.16.0 to 20.0.0
 - update jeap-open-api-publisher from 2.16.0 to 3.0.0
+- update jeap-spring-boot-vault-starter from 19.16.0 to 20.0.0
+- update jeap-crypto from 5.16.0 to 6.0.0
 
 ## [30.20.0] - 2026-03-10
 
