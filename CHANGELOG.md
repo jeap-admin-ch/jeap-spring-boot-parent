@@ -2,39 +2,15 @@
 
 ## [31.0.0] - 2026-03-11
 ### Changed
-  - Deleted webflux tests
-  - **Removed**
-    - Support removed from monitoring, tracing, swagger, security web-config starters
-    - Support for reactive/webflux
-    - Support for reactive/webflux
-  - **Removed**
-    - Support removed from monitoring, tracing, swagger, security web-config starters
-    - Support for reactive/webflux
-  - **Removed**
-    - Support removed from monitoring, tracing, swagger, security web-config starters
-    - Support for reactive
-    - Support for reactive/webflux
-    - Support for reactive
-  - **Removed**
-    - Support removed from monitoring, tracing, swagger, security web-config starters
-    - Support for reactive/webflux
-    - Support for reactive
-  - **Removed**
-    - Support removed from monitoring, tracing, swagger, security web-config starters
-    - Support for reactive
-    - Support for reactive
-    - Support for reactive/webflux
-    - Support for reactive
-  - **Removed**
-    - Support removed from monitoring, tracing, swagger, security web-config starters
-- update jeap-spring-boot-tls-starter from 17.56.0 to 17.57.0
 -  Breaking Change
+  - **Removed**
+    - Support for reactive/webflux
+    - Support removed from monitoring, tracing, swagger, security web-config starters
+    - Support for reactive messaging
+- update jeap-spring-boot-tls-starter from 17.56.0 to 17.57.0
 - update jeap-spring-boot-starters from 19.16.0 to 20.0.0
-- update jeap-spring-boot-security-client-starter from 19.16.0 to 20.0.0
 - update jeap-open-api-publisher from 2.16.0 to 3.0.0
-- update jeap-spring-boot-vault-starter from 19.16.0 to 20.0.0
 - update jeap-crypto from 5.16.0 to 6.0.0
-- **Removed**
 - update jeap-messaging from 11.18.0 to 12.0.0
 - update jeap-starter from 19.16.0 to 20.0.0
 - update jeap-server-sent-events from 6.19.0 to 7.0.0
