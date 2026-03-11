@@ -2,8 +2,13 @@
 
 ## [31.0.0] - 2026-03-11
 ### Changed
-- update jeap-spring-boot-tls-starter from 17.56.0 to 17.57.0
   - Deleted webflux tests
+  - **Removed**
+    - Support removed from monitoring, tracing, swagger, security web-config starters
+    - Support for reactive/webflux
+- update jeap-spring-boot-tls-starter from 17.56.0 to 17.57.0
+-  Breaking Change
+- update jeap-spring-boot-starters from 19.16.0 to 20.0.0
 
 ## [30.20.0] - 2026-03-10
 
