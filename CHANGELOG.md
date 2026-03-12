@@ -12,6 +12,8 @@
 - update jeap-spring-boot-security-client-starter from 20.0.0 to 20.1.0
 - update jeap-open-api-publisher from 3.0.0 to 3.1.0
 - update jeap-spring-boot-tls-starter from 17.57.0 to 17.58.0
+- update jeap-spring-boot-vault-starter from 20.0.0 to 20.1.0
+- update jeap-crypto from 6.0.0 to 6.1.0
 
 ## [31.0.0] - 2026-03-11
 ### Changed
