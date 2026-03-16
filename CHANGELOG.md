@@ -1,5 +1,10 @@
 # Changelog
 
+## [31.2.0] - 2026-03-17
+
+### Changed
+- Update jeap-spring-boot-starters from 20.1.0 to 20.2.0
+
 ## [31.1.0] - 2026-03-12
 
 ### Changed
