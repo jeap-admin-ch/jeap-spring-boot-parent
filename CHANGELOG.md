@@ -10,6 +10,9 @@
 - update jeap-crypto from 6.1.0 to 6.3.0
 - update jeap-crypto from 6.2.0 to 6.3.0
 - update jeap-messaging from 12.1.0 to 12.3.0
+- update jeap-messaging from 12.2.0 to 12.3.0
+- update jeap-starter from 20.2.0 to 20.3.0
+- update jeap-server-sent-events from 7.1.0 to 7.3.0
 
 ## [31.2.0] - 2026-03-17
 
