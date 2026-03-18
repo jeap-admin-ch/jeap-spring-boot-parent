@@ -4,6 +4,8 @@
 ### Changed
 - update jeap-spring-boot-starters from 20.2.0 to 20.3.0
 - Added an eIAM claim set converter that can adapt eIAM-issued access tokens for jeap security.
+- update jeap-spring-boot-security-client-starter from 20.2.0 to 20.3.0
+- update jeap-open-api-publisher from 3.1.0 to 3.3.0
 
 ## [31.2.0] - 2026-03-17
 
