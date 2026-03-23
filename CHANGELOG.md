@@ -4,21 +4,18 @@
 
 ### Changed
 - Update parent from 5.19.3 to 5.19.4
+  - Update to Spring Boot 3.5.12
 - update jeap-spring-boot-tls-starter from 17.58.0 to 17.59.0
 - update jeap-spring-boot-config-aws-starter from 17.57.0 to 17.58.0
 - update jeap-spring-boot-db-migration-starter from 17.58.0 to 17.59.0
 - update jeap-db-schema-publisher from 1.22.0 to 1.23.0
 - update jeap-spring-boot-starters from 20.3.0 to 20.4.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.21.0 to 1.22.0
-- update jeap-spring-boot-security-client-starter from 20.3.0 to 20.4.0
 - update jeap-open-api-publisher from 3.3.0 to 3.4.0
-- update jeap-spring-boot-vault-starter from 20.3.0 to 20.4.0
 - update jeap-crypto from 6.3.0 to 6.4.0
 - update jeap-messaging from 12.3.0 to 12.4.0
-- update jeap-starter from 20.3.0 to 20.4.0
 - update jeap-server-sent-events from 7.3.0 to 7.4.0
 - update jeap-reaction-observer from 5.3.0 to 5.4.0
-- update jeap-spring-boot-security-starter from 20.3.0 to 20.4.0
 - update jeap-messaging-sequential-inbox from 15.3.0 to 15.4.0
 - update jeap-messaging-outbox from 12.3.0 to 12.4.0
 - update jeap-audit from 5.3.0 to 5.4.0
