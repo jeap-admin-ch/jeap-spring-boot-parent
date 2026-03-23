@@ -1,5 +1,11 @@
 # Changelog
 
+## [31.4.0] - 2026-03-23
+
+### Changed
+
+- Update parent from 5.19.3 to 5.19.4
+
 ## [31.3.0] - 2026-03-18
 ### Changed
 - update jeap-spring-boot-starters from 20.2.0 to 20.3.0
