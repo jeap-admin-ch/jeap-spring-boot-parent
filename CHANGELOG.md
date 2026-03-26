@@ -1,5 +1,11 @@
 # Changelog
 
+## [31.5.0] - 2026-03-26
+
+### Changed
+
+- Update parent from 5.19.4 to 5.20.0
+
 ## [31.4.0] - 2026-03-23
 
 ### Changed
