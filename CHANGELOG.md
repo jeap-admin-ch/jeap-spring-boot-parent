@@ -1,5 +1,22 @@
 # Changelog
 
+## [32.0.0] - 2026-03-30
+### Changed
+  only (without resource/tenant) now have distinct names to avoid confusion with the role-based overloads:
+  | Old method                                  | New method                                              |
+  |---------------------------------------------|---------------------------------------------------------|
+  | `hasRoleForPartner(operation, partner)`     | `hasOperationForPartner(operation, partner)`            |
+  | `hasRoleForAllPartners(operation)`          | `hasOperationForAllPartners(operation)`                 |
+  | `getAllRoles(operation)`                    | `getAllRolesForOperation(operation)`                    |
+  | `getAllRolesForPartner(operation, partner)` | `getAllRolesForOperationAndPartner(operation, partner)` |
+  | `getAllRolesForAllPartners(operation)`      | `getAllRolesForOperationForAllPartners(operation)`      |
+  | `getPartnersForRole(operation)`             | `getPartnersForOperation(operation)`                    |
+  separator characters (`@`, `%`, `#`, `:`, `!`) are passed as expression parameters instead of decomposed values.
+  Access is denied and an error is logged.
+- update jeap-spring-boot-starters from 20.5.0 to 21.0.0
+- **Breaking:** Renamed operation-only methods in `SemanticRoleRepository` for clarity. Methods that query by operation
+- Added input validation to `SemanticRoleRepository` that detects misuse where full token role strings containing
+
 ## [31.5.0] - 2026-03-26
 
 ### Changed
