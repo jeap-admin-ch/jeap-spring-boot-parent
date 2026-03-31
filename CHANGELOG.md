@@ -79,6 +79,17 @@
   |---------------------------------------------|---------------------------------------------------------|
   | `getAllRolesForAllPartners(operation)`      | `getAllRolesForOperationForAllPartners(operation)`      |
   Access is denied and an error is logged.
+  | `getAllRoles(operation)`                    | `getAllRolesForOperation(operation)`                    |
+  | Old method                                  | New method                                              |
+  only (without resource/tenant) now have distinct names to avoid confusion with the role-based overloads:
+  | `getPartnersForRole(operation)`             | `getPartnersForOperation(operation)`                    |
+  | `hasRoleForAllPartners(operation)`          | `hasOperationForAllPartners(operation)`                 |
+  | `getAllRolesForPartner(operation, partner)` | `getAllRolesForOperationAndPartner(operation, partner)` |
+  |---------------------------------------------|---------------------------------------------------------|
+  Access is denied and an error is logged.
+  | `hasRoleForPartner(operation, partner)`     | `hasOperationForPartner(operation, partner)`            |
+  separator characters (`@`, `%`, `#`, `:`, `!`) are passed as expression parameters instead of decomposed values.
+  | `getAllRolesForAllPartners(operation)`      | `getAllRolesForOperationForAllPartners(operation)`      |
 - update jeap-spring-boot-starters from 20.5.0 to 21.0.0
 - **Breaking:** Renamed operation-only methods in `SemanticRoleRepository` for clarity. Methods that query by operation
 - Added input validation to `SemanticRoleRepository` that detects misuse where full token role strings containing
@@ -91,6 +102,8 @@
 - update jeap-reaction-observer from 5.5.0 to 6.0.0
 - update jeap-messaging-sequential-inbox from 15.5.0 to 16.0.0
 - update jeap-spring-boot-security-starter from 20.5.0 to 21.0.0
+- update jeap-starter from 20.5.0 to 21.0.0
+- update jeap-audit from 5.5.0 to 6.0.0
 
 ## [31.5.0] - 2026-03-26
 
