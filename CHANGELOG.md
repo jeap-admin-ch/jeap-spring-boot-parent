@@ -1,5 +1,10 @@
 # Changelog
 
+## [32.0.1] - 2026-03-31
+### Changed
+- update jeap-server-sent-events from 8.0.0 to 8.0.1
+- Added exception handling and more logging for SSE heartbeat
+
 ## [32.0.0] - 2026-03-30
 ### Changed
 - update jeap-spring-boot-starters from 20.5.0 to 21.0.0

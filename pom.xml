@@ -27,7 +27,7 @@
     </licenses>
 
     <artifactId>jeap-spring-boot-parent</artifactId>
-    <version>32.0.0-SNAPSHOT</version>
+    <version>32.0.1-SNAPSHOT</version>
     <name>jeap-spring-boot-parent</name>
     <description>A common parent project</description>
     <packaging>pom</packaging>
@@ -49,7 +49,7 @@
         <jeap-messaging-sequential-inbox.version>16.0.0</jeap-messaging-sequential-inbox.version>
         <jeap-reaction-observer.version>6.0.0</jeap-reaction-observer.version>
         <jeap-crypto.version>7.0.0</jeap-crypto.version>
-        <jeap-server-sent-events.version>8.0.0</jeap-server-sent-events.version>
+        <jeap-server-sent-events.version>8.0.1</jeap-server-sent-events.version>
         <jeap-db-schema-publisher.version>1.24.0</jeap-db-schema-publisher.version>
         <jeap-open-api-publisher.version>4.0.0</jeap-open-api-publisher.version>
         <jeap-spring-boot-roles-anywhere-starter.version>1.23.0</jeap-spring-boot-roles-anywhere-starter.version>
