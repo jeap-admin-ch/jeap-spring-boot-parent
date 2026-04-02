@@ -23,6 +23,7 @@
 - update jeap-reaction-observer from 6.0.0 to 6.1.0
 - update jeap-spring-boot-security-starter from 21.0.0 to 21.1.0
 - update jeap-messaging-sequential-inbox from 16.0.0 to 16.1.0
+- update jeap-messaging-outbox from 13.0.0 to 13.1.0
 
 ## [32.0.1] - 2026-03-31
 ### Changed
