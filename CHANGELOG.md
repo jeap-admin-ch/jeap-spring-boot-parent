@@ -1,5 +1,11 @@
 # Changelog
 
+## [32.1.0] - 2026-04-02
+
+### Changed
+
+- Update parent from 5.20.0 to 6.0.0
+
 ## [32.0.1] - 2026-03-31
 ### Changed
 - update jeap-server-sent-events from 8.0.0 to 8.0.1
