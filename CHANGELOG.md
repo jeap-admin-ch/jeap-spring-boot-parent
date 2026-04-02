@@ -20,6 +20,7 @@
 - update jeap-starter from 21.0.0 to 21.1.0
 - update jeap-messaging from 13.0.0 to 13.1.0
 - update jeap-server-sent-events from 8.0.1 to 8.1.0
+- update jeap-reaction-observer from 6.0.0 to 6.1.0
 
 ## [32.0.1] - 2026-03-31
 ### Changed
