@@ -25,6 +25,8 @@
 - update jeap-messaging-sequential-inbox from 16.0.0 to 16.1.0
 - update jeap-messaging-outbox from 13.0.0 to 13.1.0
 - update jeap-audit from 6.0.0 to 6.1.0
+- Update postgres images to version 17.
+- update jeap-db-schema-publisher from 1.25.0 to 1.25.1
 
 ## [32.0.1] - 2026-03-31
 ### Changed
