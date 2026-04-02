@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 5.20.0 to 6.0.0
 - update jeap-spring-boot-tls-starter from 17.60.0 to 17.61.0
+- update jeap-spring-boot-roles-anywhere-starter from 1.23.0 to 1.24.0
 
 ## [32.0.1] - 2026-03-31
 ### Changed
