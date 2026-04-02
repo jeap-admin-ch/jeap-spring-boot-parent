@@ -1,10 +1,9 @@
 # Changelog
 
-## [32.1.0] - 2026-04-02
+## [33.0.0] - 2026-04-02
 
 ### Changed
-  - log warn instead of error when certificate (chain) is not valid
-- Update parent from 5.20.0 to 6.0.0
+- Update parent from 5.20.0 to 6.0.0 (java 25)
 - update jeap-spring-boot-tls-starter from 17.60.0 to 17.61.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.23.0 to 1.24.0
 - update jeap-db-schema-publisher from 1.24.0 to 1.25.0
