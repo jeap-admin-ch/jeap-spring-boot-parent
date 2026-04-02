@@ -11,6 +11,7 @@
 - update jeap-spring-boot-config-aws-starter from 17.59.0 to 17.60.0
 - update jeap-spring-boot-starters from 21.0.0 to 21.1.0
 - update jeap-messaging from 13.0.0 to 13.0.1
+- update jeap-spring-boot-db-migration-starter from 17.60.0 to 17.61.0
 
 ## [32.0.1] - 2026-03-31
 ### Changed
