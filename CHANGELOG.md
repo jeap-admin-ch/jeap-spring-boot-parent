@@ -16,6 +16,7 @@
 - update jeap-crypto from 7.0.0 to 7.1.0
 - update jeap-spring-boot-security-client-starter from 21.0.0 to 21.1.0
 - update jeap-open-api-publisher from 4.0.0 to 4.1.0
+- update jeap-messaging from 13.0.1 to 13.1.0
 
 ## [32.0.1] - 2026-03-31
 ### Changed
