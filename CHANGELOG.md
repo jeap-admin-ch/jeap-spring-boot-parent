@@ -3,9 +3,11 @@
 ## [33.1.0] - 2026-04-08
 ### Changed
   retry auth failures instead of stopping, allowing recovery without a restart.
+  retry auth failures instead of stopping, allowing recovery without a restart.
 - update jeap-messaging from 13.1.0 to 13.2.0
 - Multi-cluster Kafka broker health indicator (`jeapKafka`) exposed via Spring Boot Actuator. 
 - Configured `spring.kafka.listener.auth-exception-retry-interval=10s` by default so listener containers
+- update jeap-server-sent-events from 8.1.0 to 8.2.0
 
 ## [33.0.0] - 2026-04-02
 
