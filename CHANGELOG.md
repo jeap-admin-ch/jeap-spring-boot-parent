@@ -1,5 +1,10 @@
 # Changelog
 
+## [33.1.1] - 2026-04-09
+### Changed
+- update jeap-messaging from 13.2.0 to 13.2.1
+- Signature is not verified if requireSignature is set to false. 
+
 ## [33.1.0] - 2026-04-08
 ### Changed
 - update jeap-messaging from 13.1.0 to 13.2.0
