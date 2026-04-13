@@ -1,5 +1,11 @@
 # Changelog
 
+## [33.2.0] - 2026-04-13
+
+### Changed
+
+- Update parent from 6.0.0 to 6.0.2
+
 ## [33.1.1] - 2026-04-09
 ### Changed
 - update jeap-messaging from 13.2.0 to 13.2.1
