@@ -17,6 +17,7 @@
 - update jeap-messaging from 13.2.1 to 13.3.0
 - update jeap-starter from 21.1.0 to 21.2.0
 - update jeap-server-sent-events from 8.2.1 to 8.3.0
+- update jeap-spring-boot-tls-starter from 17.61.0 to 17.62.0
 
 ## [33.1.1] - 2026-04-09
 ### Changed
