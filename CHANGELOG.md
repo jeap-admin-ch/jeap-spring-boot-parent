@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 6.0.2 to 6.0.3
 - update jeap-spring-boot-db-migration-starter from 17.62.0 to 17.63.0
+- update jeap-spring-boot-tls-starter from 17.62.0 to 17.63.0
 
 ## [33.2.0] - 2026-04-13
 
