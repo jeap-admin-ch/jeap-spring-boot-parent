@@ -12,6 +12,8 @@
 - update jeap-spring-boot-roles-anywhere-starter from 1.26.0 to 1.27.0
 - update jeap-spring-boot-security-client-starter from 21.2.0 to 21.3.0
 - update jeap-open-api-publisher from 4.2.0 to 4.3.0
+- update jeap-spring-boot-vault-starter from 21.2.0 to 21.3.0
+- update jeap-crypto from 7.2.0 to 7.3.0
 
 ## [33.2.0] - 2026-04-13
 
