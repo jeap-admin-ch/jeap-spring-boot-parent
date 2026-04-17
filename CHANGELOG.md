@@ -1,5 +1,10 @@
 # Changelog
 
+## [34.0.0] - 2026-04-17
+
+### Changed
+- Update parent from 6.0.3 to 7.0.0-alpha-springboot4
+
 ## [33.3.0] - 2026-04-16
 
 ### Changed
