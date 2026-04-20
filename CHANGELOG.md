@@ -5,6 +5,7 @@
 - update jeap-open-api-publisher from 4.3.0 to 4.4.0
 - Update parent from 6.0.3 to 7.0.0-alpha-springboot4
 - update jeap-crypto from 7.3.0 to 7.4.0
+- update jeap-messaging from 13.4.0 to 13.5.0
 
 ## [33.3.0] - 2026-04-16
 
