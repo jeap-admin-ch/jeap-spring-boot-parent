@@ -7,6 +7,7 @@
 - update jeap-messaging from 13.4.0 to 13.5.0
 - Update parent from 6.0.3 to 7.0.0-alpha-springboot4
 - update jeap-server-sent-events from 8.4.0 to 8.5.0
+- update jeap-reaction-observer from 6.4.0 to 6.5.0
 
 ## [33.3.0] - 2026-04-16
 
