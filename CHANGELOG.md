@@ -10,6 +10,7 @@
 - update jeap-reaction-observer from 6.4.0 to 6.5.0
 - update jeap-messaging-sequential-inbox from 16.4.0 to 16.5.0
 - update jeap-messaging-outbox from 13.4.0 to 13.5.0
+- update jeap-audit from 6.4.0 to 6.5.0
 
 ## [33.3.0] - 2026-04-16
 
