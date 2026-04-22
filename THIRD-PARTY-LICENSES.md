@@ -25,6 +25,7 @@ Apache License Version 2.0
  * Brave Instrumentation: Http Adapters - [io.zipkin.brave:brave-instrumentation-http](https://github.com/openzipkin/brave/brave-instrumentation-parent/brave-instrumentation-http)
  * Brave W3C Propagation: Trace Context - [io.zipkin.contrib.brave-propagation-w3c:brave-propagation-tracecontext](https://github.com/openzipkin-contrib/brave-propagation-w3c/brave-propagation-tracecontext)
  * Logstash Logback Encoder - [net.logstash.logback:logstash-logback-encoder](https://github.com/logfellow/logstash-logback-encoder)
+ * JSpecify annotations - [org.jspecify:jspecify](http://jspecify.org/)
  * Spring AOP - [org.springframework:spring-aop](https://github.com/spring-projects/spring-framework)
  * Spring Beans - [org.springframework:spring-beans](https://github.com/spring-projects/spring-framework)
  * Spring Context - [org.springframework:spring-context](https://github.com/spring-projects/spring-framework)
