@@ -1,6 +1,6 @@
 # Changelog
 
-## [34.0.0] - not released
+## [34.0.0-alpha-springboot4] - not released
 
 > - Spring Boot 3 maintenance (bug fixes, patches, and regular updates) continues on branch `release/springboot3`.
 > - The Spring Boot 4 upgrade process happens on the `master` branch, with the goal of releasing Spring Boot 4 compatible versions of all jeap components in a single major release. The first Spring Boot 4 compatible release is expected to be `34.0.0`.
