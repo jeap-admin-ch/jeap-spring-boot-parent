@@ -3,8 +3,9 @@
 ## [34.1.0-alpha-springboot4] - 2026-04-23
 
 ### Changed
-
 - Update parent from 7.0.0-alpha-springboot4 to 7.0.5-alpha-springboot4
+- Update parent from 7.0.2-alpha-springboot4 to 7.0.5-alpha-springboot4
+- update jeap-db-schema-publisher from 1.27.0 to 2.1.0-alpha-springboot4
 
 ## [34.0.0-alpha-springboot4] - not released
 
