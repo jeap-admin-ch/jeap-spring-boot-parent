@@ -8,6 +8,8 @@
 - update jeap-db-schema-publisher from 1.27.0 to 2.1.0-alpha-springboot4
 - Update parent from 7.0.4-alpha-springboot4 to 7.0.5-alpha-springboot4
 - update jeap-spring-boot-starters from 21.3.0 to 22.1.0-alpha-springboot4
+- update jeap-spring-boot-security-client-starter from 22.0.0-alpha-springboot4 to 22.1.0-alpha-springboot4
+- update jeap-open-api-publisher from 4.3.0 to 5.1.0-alpha-springboot4
 
 ## [34.0.0-alpha-springboot4] - not released
 
