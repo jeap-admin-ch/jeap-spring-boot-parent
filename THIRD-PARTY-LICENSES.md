@@ -25,6 +25,8 @@ Apache License Version 2.0
  * Brave Instrumentation: Http Adapters - [io.zipkin.brave:brave-instrumentation-http](https://github.com/openzipkin/brave/brave-instrumentation-parent/brave-instrumentation-http)
  * Brave W3C Propagation: Trace Context - [io.zipkin.contrib.brave-propagation-w3c:brave-propagation-tracecontext](https://github.com/openzipkin-contrib/brave-propagation-w3c/brave-propagation-tracecontext)
  * Logstash Logback Encoder - [net.logstash.logback:logstash-logback-encoder](https://github.com/logfellow/logstash-logback-encoder)
+ * Apache Log4j API - [org.apache.logging.log4j:log4j-api](https://logging.apache.org/log4j/2.x/log4j/log4j-api/)
+ * Log4j API to SLF4J Adapter - [org.apache.logging.log4j:log4j-to-slf4j](https://logging.apache.org/log4j/2.x/log4j/log4j-to-slf4j/)
  * JSpecify annotations - [org.jspecify:jspecify](http://jspecify.org/)
  * Spring AOP - [org.springframework:spring-aop](https://github.com/spring-projects/spring-framework)
  * Spring Beans - [org.springframework:spring-beans](https://github.com/spring-projects/spring-framework)
@@ -35,12 +37,29 @@ Apache License Version 2.0
  * Spring Web - [org.springframework:spring-web](https://github.com/spring-projects/spring-framework)
  * spring-boot - [org.springframework.boot:spring-boot](https://spring.io/projects/spring-boot)
  * spring-boot-autoconfigure - [org.springframework.boot:spring-boot-autoconfigure](https://spring.io/projects/spring-boot)
+ * spring-boot-http-client - [org.springframework.boot:spring-boot-http-client](https://spring.io/projects/spring-boot)
+ * spring-boot-http-converter - [org.springframework.boot:spring-boot-http-converter](https://spring.io/projects/spring-boot)
+ * spring-boot-jackson - [org.springframework.boot:spring-boot-jackson](https://spring.io/projects/spring-boot)
+ * spring-boot-restclient - [org.springframework.boot:spring-boot-restclient](https://spring.io/projects/spring-boot)
+ * spring-boot-starter - [org.springframework.boot:spring-boot-starter](https://spring.io/projects/spring-boot)
+ * spring-boot-starter-jackson - [org.springframework.boot:spring-boot-starter-jackson](https://spring.io/projects/spring-boot)
+ * spring-boot-starter-logging - [org.springframework.boot:spring-boot-starter-logging](https://spring.io/projects/spring-boot)
+ * spring-boot-starter-restclient - [org.springframework.boot:spring-boot-starter-restclient](https://spring.io/projects/spring-boot)
+ * SnakeYAML - [org.yaml:snakeyaml](https://bitbucket.org/snakeyaml/snakeyaml)
+ * Jackson-core - [tools.jackson.core:jackson-core](https://github.com/FasterXML/jackson-core)
+ * jackson-databind - [tools.jackson.core:jackson-databind](https://github.com/FasterXML/jackson)
 
 Eclipse Public License v2.0
 -------------------------------
 
  * Logback Classic Module - [ch.qos.logback:logback-classic](http://logback.qos.ch/logback-classic)
  * Logback Core Module - [ch.qos.logback:logback-core](http://logback.qos.ch/logback-core)
+ * Jakarta Annotations API - [jakarta.annotation:jakarta.annotation-api](https://projects.eclipse.org/projects/ee4j.ca)
+
+GNU General Public License, version 2 (GPL2), with the classpath exception
+-------------------------------
+
+ * Jakarta Annotations API - [jakarta.annotation:jakarta.annotation-api](https://projects.eclipse.org/projects/ee4j.ca)
 
 GNU Lesser General Public License
 -------------------------------
@@ -53,6 +72,7 @@ MIT License
 
  * Logstash Logback Encoder - [net.logstash.logback:logstash-logback-encoder](https://github.com/logfellow/logstash-logback-encoder)
  * Project Lombok - [org.projectlombok:lombok](https://projectlombok.org)
+ * JUL to SLF4J bridge - [org.slf4j:jul-to-slf4j](http://www.slf4j.org)
  * SLF4J API Module - [org.slf4j:slf4j-api](http://www.slf4j.org)
 
 Public Domain
