@@ -1,5 +1,11 @@
 # Changelog
 
+## [34.1.0-alpha-springboot4] - 2026-04-23
+
+### Changed
+
+- Update parent from 7.0.0-alpha-springboot4 to 7.0.5-alpha-springboot4
+
 ## [34.0.0-alpha-springboot4] - not released
 
 > - Spring Boot 3 maintenance (bug fixes, patches, and regular updates) continues on branch `release/springboot3`.
