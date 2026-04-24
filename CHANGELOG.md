@@ -13,6 +13,10 @@
 - update jeap-crypto from 7.3.0 to 8.1.0-alpha-springboot4
 - update jeap-spring-boot-vault-starter from 21.3.0 to 22.1.0-alpha-springboot4
 - update jeap-spring-boot-roles-anywhere-starter from 1.27.0 to 2.1.0-alpha-springboot4
+- update jeap-crypto from 8.0.0-alpha-springboot4 to 8.1.0-alpha-springboot4
+- Update parent from 7.0.3-alpha-springboot4 to 7.0.5-alpha-springboot4
+- update jeap-messaging from 13.4.0 to 14.1.0-alpha-springboot4
+- update jeap-spring-boot-roles-anywhere-starter from 2.0.0-alpha-springboot4 to 2.1.0-alpha-springboot4
 
 ## [34.0.0-alpha-springboot4] - not released
 
