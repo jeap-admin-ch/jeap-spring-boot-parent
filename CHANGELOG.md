@@ -9,6 +9,8 @@
 - update jeap-spring-boot-db-migration-starter from 18.2.0-alpha-springboot4 to 18.3.0-alpha-springboot4
 - update jeap-spring-boot-config-aws-starter from 18.3.0-alpha-springboot4 to 18.4.0-alpha-springboot4
 - update jeap-spring-boot-starters from 22.1.0-alpha-springboot4 to 22.2.0-alpha-springboot4
+- update jeap-spring-boot-security-client-starter from 22.1.0-alpha-springboot4 to 22.2.0-alpha-springboot4
+- update jeap-open-api-publisher from 5.1.0-alpha-springboot4 to 5.2.0-alpha-springboot4
 
 ## [34.2.0-alpha-springboot4] - 2026-04-24
 ### Changed
