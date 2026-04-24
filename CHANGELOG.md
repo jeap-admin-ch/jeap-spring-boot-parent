@@ -1,37 +1,6 @@
 # Changelog
 
-## [34.1.0-alpha-springboot4] - 2026-04-23
-
-### Changed
-- Update parent from 7.0.0-alpha-springboot4 to 7.0.5-alpha-springboot4
-- Update parent from 7.0.2-alpha-springboot4 to 7.0.5-alpha-springboot4
-- update jeap-db-schema-publisher from 1.27.0 to 2.1.0-alpha-springboot4
-- Update parent from 7.0.4-alpha-springboot4 to 7.0.5-alpha-springboot4
-- update jeap-spring-boot-starters from 21.3.0 to 22.1.0-alpha-springboot4
-- update jeap-spring-boot-security-client-starter from 22.0.0-alpha-springboot4 to 22.1.0-alpha-springboot4
-- update jeap-open-api-publisher from 4.3.0 to 5.1.0-alpha-springboot4
-- update jeap-crypto from 7.3.0 to 8.1.0-alpha-springboot4
-- update jeap-spring-boot-vault-starter from 21.3.0 to 22.1.0-alpha-springboot4
-- update jeap-spring-boot-roles-anywhere-starter from 1.27.0 to 2.1.0-alpha-springboot4
-- update jeap-crypto from 8.0.0-alpha-springboot4 to 8.1.0-alpha-springboot4
-- Update parent from 7.0.3-alpha-springboot4 to 7.0.5-alpha-springboot4
-- update jeap-messaging from 13.4.0 to 14.1.0-alpha-springboot4
-- update jeap-spring-boot-roles-anywhere-starter from 2.0.0-alpha-springboot4 to 2.1.0-alpha-springboot4
-- update jeap-starter from 22.0.0-alpha-springboot4 to 22.1.0-alpha-springboot4
-- update jeap-server-sent-events from 8.4.0 to 9.1.0-alpha-springboot4
-- update jeap-messaging from 14.0.0-alpha-springboot4 to 14.1.0-alpha-springboot4
-- update jeap-messaging from 14.0.1-alpha-springboot4 to 14.1.0-alpha-springboot4
-- update jeap-reaction-observer from 6.4.0 to 7.1.0-alpha-springboot4
-- update jeap-spring-boot-security-starter from 22.0.0-alpha-springboot4 to 22.1.0-alpha-springboot4
-- update jeap-messaging-sequential-inbox from 16.4.0 to 17.1.0-alpha-springboot4
-- update jeap-messaging-outbox from 13.4.0 to 14.1.0-alpha-springboot4
-- update jeap-messaging-outbox from 14.0.0-alpha-springboot4 to 14.1.0-alpha-springboot4
-- update jeap-audit from 6.4.0 to 7.1.0-alpha-springboot4
-- update jeap-spring-boot-db-migration-starter from 17.63.0 to 18.2.0-alpha-springboot4
-- update jeap-spring-boot-config-aws-starter from 17.63.0 to 18.2.0-alpha-springboot4
-- update jeap-spring-boot-tls-starter from 17.63.0 to 18.3.0-alpha-springboot4
-
-## [34.0.0-alpha-springboot4] - not released
+## [34.x.x-alpha-springboot4] - not released
 
 > - Spring Boot 3 maintenance (bug fixes, patches, and regular updates) continues on branch `release/springboot3`.
 > - The Spring Boot 4 upgrade process happens on the `master` branch, with the goal of releasing Spring Boot 4 compatible versions of all jeap components in a single major release. The first Spring Boot 4 compatible release is expected to be `34.0.0`.
