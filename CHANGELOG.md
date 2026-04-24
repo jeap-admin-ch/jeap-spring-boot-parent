@@ -6,6 +6,7 @@
 - Update parent from 7.0.5-alpha-springboot4 to 7.0.6-alpha-springboot4
 - update jeap-db-schema-publisher from 2.1.0-alpha-springboot4 to 2.2.0-alpha-springboot4
 - update jeap-spring-boot-tls-starter from 18.3.0-alpha-springboot4 to 18.4.0-alpha-springboot4
+- update jeap-spring-boot-db-migration-starter from 18.2.0-alpha-springboot4 to 18.3.0-alpha-springboot4
 
 ## [34.2.0-alpha-springboot4] - 2026-04-24
 ### Changed
