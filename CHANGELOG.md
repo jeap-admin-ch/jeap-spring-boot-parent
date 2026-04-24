@@ -1,5 +1,11 @@
 # Changelog
 
+## [34.3.0-alpha-springboot4] - 2026-04-24
+
+### Changed
+
+- Update parent from 7.0.5-alpha-springboot4 to 7.0.6-alpha-springboot4
+
 ## [34.2.0-alpha-springboot4] - 2026-04-24
 ### Changed
 - update jeap-spring-boot-config-aws-starter from 18.2.0-alpha-springboot4 to 18.3.0-alpha-springboot4
