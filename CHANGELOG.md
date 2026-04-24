@@ -18,6 +18,8 @@
 - update jeap-starter from 22.1.0-alpha-springboot4 to 22.2.0-alpha-springboot4
 - update jeap-server-sent-events from 9.1.0-alpha-springboot4 to 9.2.0-alpha-springboot4
 - update jeap-reaction-observer from 7.1.0-alpha-springboot4 to 7.2.0-alpha-springboot4
+- update jeap-spring-boot-security-starter from 22.1.0-alpha-springboot4 to 22.2.0-alpha-springboot4
+- update jeap-messaging-sequential-inbox from 17.1.0-alpha-springboot4 to 17.2.0-alpha-springboot4
 
 ## [34.2.0-alpha-springboot4] - 2026-04-24
 ### Changed
