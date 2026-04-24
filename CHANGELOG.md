@@ -12,6 +12,7 @@
 - update jeap-open-api-publisher from 4.3.0 to 5.1.0-alpha-springboot4
 - update jeap-crypto from 7.3.0 to 8.1.0-alpha-springboot4
 - update jeap-spring-boot-vault-starter from 21.3.0 to 22.1.0-alpha-springboot4
+- update jeap-spring-boot-roles-anywhere-starter from 1.27.0 to 2.1.0-alpha-springboot4
 
 ## [34.0.0-alpha-springboot4] - not released
 
