@@ -1,5 +1,14 @@
 # Changelog
 
+## [34.2.0-alpha-springboot4] - 2026-04-24
+### Changed
+- update jeap-spring-boot-config-aws-starter from 18.2.0-alpha-springboot4 to 18.3.0-alpha-springboot4
+- **Breaking change:** Changed the jEAP Secrets Manager location prefix from `aws-secretsmanager:` to `jeap-aws-secretsmanager:`.
+- This avoids conflicts with Spring Cloud AWS Secrets Manager, which owns the `aws-secretsmanager:` prefix.
+- Teams using jEAP Secrets Manager imports must replace `aws-secretsmanager:` with `jeap-aws-secretsmanager:` in `spring.config.import`.
+- Example: `spring.config.import=aws-secretsmanager:/my/secret` -> `spring.config.import=jeap-aws-secretsmanager:/my/secret`.
+- If your application also uses Spring Cloud AWS Secrets Manager, keep using `aws-secretsmanager:` only for Spring Cloud AWS-managed imports.
+
 ## [34.x.x-alpha-springboot4] - not released
 
 > - Spring Boot 3 maintenance (bug fixes, patches, and regular updates) continues on branch `release/springboot3`.
