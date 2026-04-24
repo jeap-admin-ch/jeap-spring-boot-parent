@@ -27,6 +27,7 @@
 - update jeap-messaging-outbox from 13.4.0 to 14.1.0-alpha-springboot4
 - update jeap-messaging-outbox from 14.0.0-alpha-springboot4 to 14.1.0-alpha-springboot4
 - update jeap-audit from 6.4.0 to 7.1.0-alpha-springboot4
+- update jeap-spring-boot-db-migration-starter from 17.63.0 to 18.2.0-alpha-springboot4
 
 ## [34.0.0-alpha-springboot4] - not released
 
