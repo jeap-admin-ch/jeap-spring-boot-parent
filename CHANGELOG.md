@@ -23,6 +23,7 @@
 - Tracing stack migrated from Brave/Zipkin to OpenTelemetry
 - update jeap-messaging-outbox from 14.2.0-alpha-springboot4 to 14.3.0-alpha-springboot4
 - New column `sampled boolean` on `deferred_message`. Needed so the sampling decision captured from the origin trace
+- update jeap-db-schema-publisher from 2.2.0-alpha-springboot4 to 2.3.0-alpha-springboot4
 
 ## [34.3.0-alpha-springboot4] - 2026-04-24
 
