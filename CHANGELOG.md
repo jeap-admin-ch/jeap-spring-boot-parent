@@ -1,5 +1,13 @@
 # Changelog
 
+## [33.5.0] - 2026-04-29
+### Changed
+- update jeap-messaging from 13.5.0 to 13.6.0
+- Update parent from 7.0.5-alpha-springboot4 to 7.0.6-alpha-springboot4
+- update jeap-spring-boot-vault-starter from 22.1.0-alpha-springboot4 to 22.2.0-alpha-springboot4
+- update jeap-crypto from 8.1.0-alpha-springboot4 to 8.2.0-alpha-springboot4
+- update jeap-spring-boot-roles-anywhere-starter from 2.1.0-alpha-springboot4 to 2.3.0-alpha-springboot4
+
 ## [33.4.0] - 2026-04-20
 ### Changed
 - update jeap-open-api-publisher from 4.3.0 to 4.4.0
