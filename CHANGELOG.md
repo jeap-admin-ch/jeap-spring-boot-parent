@@ -39,6 +39,7 @@
 - update jeap-messaging to 14.3.1-alpha-springboot4
 - update jeap-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - update jeap-server-sent-events from 9.2.0-alpha-springboot4 to 9.3.0-alpha-springboot4
+- update jeap-reaction-observer from 7.2.0-alpha-springboot4 to 7.3.0-alpha-springboot4
 
 ## [34.3.0-alpha-springboot4] - 2026-04-24
 
