@@ -7,6 +7,8 @@
 - update jeap-spring-boot-starters from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - update jeap-spring-boot-vault-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - update jeap-crypto from 8.2.0-alpha-springboot4 to 8.3.0-alpha-springboot4
+- Fixed Sonar findings.
+- update jeap-messaging from 14.2.0-alpha-springboot4 to 14.3.1-alpha-springboot4
 
 ## [34.3.0-alpha-springboot4] - 2026-04-24
 
