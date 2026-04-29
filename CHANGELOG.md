@@ -3,18 +3,10 @@
 ## [33.5.0] - 2026-04-29
 ### Changed
 - update jeap-messaging from 13.5.0 to 13.6.0
-- Update parent from 7.0.5-alpha-springboot4 to 7.0.6-alpha-springboot4
-- update jeap-spring-boot-vault-starter from 22.1.0-alpha-springboot4 to 22.2.0-alpha-springboot4
-- update jeap-crypto from 8.1.0-alpha-springboot4 to 8.2.0-alpha-springboot4
-- update jeap-spring-boot-roles-anywhere-starter from 2.1.0-alpha-springboot4 to 2.3.0-alpha-springboot4
-- update jeap-starter from 22.1.0-alpha-springboot4 to 22.2.0-alpha-springboot4
-- update jeap-messaging from 14.1.0-alpha-springboot4 to 14.2.0-alpha-springboot4
 - update jeap-server-sent-events from 8.5.0 to 8.6.0
 - update jeap-reaction-observer from 6.5.0 to 6.6.0
 - update jeap-messaging-outbox from 13.5.0 to 13.6.0
-- update jeap-spring-boot-security-starter from 22.1.0-alpha-springboot4 to 22.2.0-alpha-springboot4
 - update jeap-messaging-sequential-inbox from 16.5.0 to 16.6.0
-- update jeap-messaging-outbox from 14.1.0-alpha-springboot4 to 14.2.0-alpha-springboot4
 - update jeap-audit from 6.5.0 to 6.6.0
 
 ## [33.4.0] - 2026-04-20
