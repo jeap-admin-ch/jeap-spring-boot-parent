@@ -1,5 +1,9 @@
 # Changelog
 
+## [33.6.0] - 2026-04-29
+### Changed
+- update jeap-spring-boot-starters from 21.3.0 to 21.4.0
+
 ## [33.5.0] - 2026-04-29
 ### Changed
 - update jeap-messaging from 13.5.0 to 13.6.0
