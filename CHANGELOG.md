@@ -2,49 +2,17 @@
 
 ## [34.4.0-alpha-springboot4] - 2026-04-29
 ### Changed
-  - fixed version in publiccode.html
-  - fixed version in publiccode.html
-  See `jeap-messaging-outbox-test/src/test/resources/db/migration/common/V2__add-sampled-to-deferred-message.sql`
-  ALTER TABLE deferred_message ADD COLUMN sampled boolean;
-  is preserved across the outbox relay cycle.
-  for the reference delta used by this library's own integration tests. Rows written by previous versions carry
-  `NULL` and are treated as sampled on relay (legacy-compatible default).
-  ```
-  ```sql
-  ```
-  ```sql
-  trace is preserved when a buffered message is released through `BufferedMessageService`.
-  See `jeap-messaging-sequential-inbox-test/src/test/resources/db/migration/V5__add-sampled-to-sequenced-message.sql`
-  for the reference delta used by this library's own integration tests. Rows written by previous versions carry
-  ALTER TABLE sequenced_message ADD COLUMN sampled boolean;
-  `NULL` and are treated as sampled on replay (legacy-compatible default).
-  - fixed version in publiccode.html
-  `ALTER TABLE deferred_message ADD COLUMN sampled boolean;`
 - update jeap-spring-boot-starters from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - update jeap-spring-boot-vault-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - update jeap-crypto from 8.2.0-alpha-springboot4 to 8.3.0-alpha-springboot4
-- Fixed Sonar findings.
-- update jeap-messaging from 14.2.0-alpha-springboot4 to 14.3.1-alpha-springboot4
-- Updated jeap-spring-boot-security-client-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
-- Switch tracing from Brave/Zipkin to Micrometer Tracing (OTel-compatible).
 - update jeap-open-api-publisher from 5.2.0-alpha-springboot4 to 5.3.0-alpha-springboot4
-- Downstream services must ship a Flyway migration of the form:
-- Tracing stack migrated from Brave/Zipkin to OpenTelemetry
 - update jeap-messaging-outbox from 14.2.0-alpha-springboot4 to 14.3.0-alpha-springboot4
-- New column `sampled boolean` on `deferred_message`. Needed so the sampling decision captured from the origin trace
 - update jeap-db-schema-publisher from 2.2.0-alpha-springboot4 to 2.3.0-alpha-springboot4
-- update jeap-spring-boot-security-starter to 22.3.1-alpha-springboot4
-- New column `sampled boolean` on `sequenced_message`. Needed so the sampling decision captured from the origin
-- Tracing stack migrated from Brave/Zipkin to OpenTelemetry.
 - update jeap-messaging-sequential-inbox from 17.2.0-alpha-springboot4 to 17.3.0-alpha-springboot4
 - update jeap-messaging to 14.3.1-alpha-springboot4
-- update jeap-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - update jeap-server-sent-events from 9.2.0-alpha-springboot4 to 9.3.0-alpha-springboot4
 - update jeap-reaction-observer from 7.2.0-alpha-springboot4 to 7.3.0-alpha-springboot4
-- update jeap-messaging-outbox to 14.3.0-alpha-springboot4
-- Downstream services must ship a Flyway migration that adds this field to the database schema:
 - update jeap-audit from 7.2.0-alpha-springboot4 to 7.3.0-alpha-springboot4
-- The new transactional outbox version uses a new additional column `sampled boolean` on the table `deferred_message`.
 
 ## [34.3.0-alpha-springboot4] - 2026-04-24
 
