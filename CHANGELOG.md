@@ -11,6 +11,13 @@
   `NULL` and are treated as sampled on relay (legacy-compatible default).
   ```
   ```sql
+  ```
+  ```sql
+  trace is preserved when a buffered message is released through `BufferedMessageService`.
+  See `jeap-messaging-sequential-inbox-test/src/test/resources/db/migration/V5__add-sampled-to-sequenced-message.sql`
+  for the reference delta used by this library's own integration tests. Rows written by previous versions carry
+  ALTER TABLE sequenced_message ADD COLUMN sampled boolean;
+  `NULL` and are treated as sampled on replay (legacy-compatible default).
 - update jeap-spring-boot-starters from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - update jeap-spring-boot-vault-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - update jeap-crypto from 8.2.0-alpha-springboot4 to 8.3.0-alpha-springboot4
@@ -24,6 +31,11 @@
 - update jeap-messaging-outbox from 14.2.0-alpha-springboot4 to 14.3.0-alpha-springboot4
 - New column `sampled boolean` on `deferred_message`. Needed so the sampling decision captured from the origin trace
 - update jeap-db-schema-publisher from 2.2.0-alpha-springboot4 to 2.3.0-alpha-springboot4
+- update jeap-spring-boot-security-starter to 22.3.1-alpha-springboot4
+- New column `sampled boolean` on `sequenced_message`. Needed so the sampling decision captured from the origin
+- Tracing stack migrated from Brave/Zipkin to OpenTelemetry.
+- update jeap-messaging-sequential-inbox from 17.2.0-alpha-springboot4 to 17.3.0-alpha-springboot4
+- update jeap-messaging to 14.3.1-alpha-springboot4
 
 ## [34.3.0-alpha-springboot4] - 2026-04-24
 
