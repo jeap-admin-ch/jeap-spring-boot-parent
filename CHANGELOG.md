@@ -18,6 +18,7 @@
   for the reference delta used by this library's own integration tests. Rows written by previous versions carry
   ALTER TABLE sequenced_message ADD COLUMN sampled boolean;
   `NULL` and are treated as sampled on replay (legacy-compatible default).
+  - fixed version in publiccode.html
 - update jeap-spring-boot-starters from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - update jeap-spring-boot-vault-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - update jeap-crypto from 8.2.0-alpha-springboot4 to 8.3.0-alpha-springboot4
@@ -36,6 +37,8 @@
 - Tracing stack migrated from Brave/Zipkin to OpenTelemetry.
 - update jeap-messaging-sequential-inbox from 17.2.0-alpha-springboot4 to 17.3.0-alpha-springboot4
 - update jeap-messaging to 14.3.1-alpha-springboot4
+- update jeap-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
+- update jeap-server-sent-events from 9.2.0-alpha-springboot4 to 9.3.0-alpha-springboot4
 
 ## [34.3.0-alpha-springboot4] - 2026-04-24
 
