@@ -19,6 +19,7 @@
   ALTER TABLE sequenced_message ADD COLUMN sampled boolean;
   `NULL` and are treated as sampled on replay (legacy-compatible default).
   - fixed version in publiccode.html
+  `ALTER TABLE deferred_message ADD COLUMN sampled boolean;`
 - update jeap-spring-boot-starters from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - update jeap-spring-boot-vault-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - update jeap-crypto from 8.2.0-alpha-springboot4 to 8.3.0-alpha-springboot4
@@ -40,6 +41,10 @@
 - update jeap-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - update jeap-server-sent-events from 9.2.0-alpha-springboot4 to 9.3.0-alpha-springboot4
 - update jeap-reaction-observer from 7.2.0-alpha-springboot4 to 7.3.0-alpha-springboot4
+- update jeap-messaging-outbox to 14.3.0-alpha-springboot4
+- Downstream services must ship a Flyway migration that adds this field to the database schema:
+- update jeap-audit from 7.2.0-alpha-springboot4 to 7.3.0-alpha-springboot4
+- The new transactional outbox version uses a new additional column `sampled boolean` on the table `deferred_message`.
 
 ## [34.3.0-alpha-springboot4] - 2026-04-24
 
