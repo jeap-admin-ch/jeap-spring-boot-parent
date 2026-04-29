@@ -3,7 +3,10 @@
 ## [34.4.0-alpha-springboot4] - 2026-04-29
 ### Changed
   - fixed version in publiccode.html
+  - fixed version in publiccode.html
 - update jeap-spring-boot-starters from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
+- update jeap-spring-boot-vault-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
+- update jeap-crypto from 8.2.0-alpha-springboot4 to 8.3.0-alpha-springboot4
 
 ## [34.3.0-alpha-springboot4] - 2026-04-24
 
