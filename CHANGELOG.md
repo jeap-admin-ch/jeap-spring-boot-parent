@@ -1,5 +1,10 @@
 # Changelog
 
+## [34.5.0-alpha-springboot4] - 2026-04-30
+### Changed
+- update jeap-messaging from 14.3.1-alpha-springboot4 to 14.4.0-alpha-springboot4
+- added possibility to set templatesPath in JeapMessageConsumerContractsByTemplates to be more flexible in the location of the templates, e.g. for opensearch writer index
+
 ## [34.4.0-alpha-springboot4] - 2026-04-29
 ### Changed
 - update jeap-spring-boot-starters from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
