@@ -46,7 +46,7 @@
         <jeap-tls-starter.version>18.4.0-alpha-springboot4</jeap-tls-starter.version>
         <jeap-messaging.version>14.4.0-alpha-springboot4</jeap-messaging.version>
         <jeap-messaging-outbox.version>14.4.0-alpha-springboot4</jeap-messaging-outbox.version>
-        <jeap-messaging-sequential-inbox.version>17.3.0-alpha-springboot4</jeap-messaging-sequential-inbox.version>
+        <jeap-messaging-sequential-inbox.version>17.4.0-alpha-springboot4</jeap-messaging-sequential-inbox.version>
         <jeap-reaction-observer.version>7.4.0-alpha-springboot4</jeap-reaction-observer.version>
         <jeap-crypto.version>8.3.0-alpha-springboot4</jeap-crypto.version>
         <jeap-server-sent-events.version>9.4.0-alpha-springboot4</jeap-server-sent-events.version>
