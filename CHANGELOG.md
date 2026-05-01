@@ -5,6 +5,7 @@
 - update jeap-messaging from 14.4.0-alpha-springboot4 to 14.5.0-alpha-springboot4
 - adapted TemplatePathResolver that it works in IDE again
 - update jeap-messaging-outbox from 14.4.0-alpha-springboot4 to 14.5.0-alpha-springboot4
+- update jeap-messaging-sequential-inbox from 17.4.0-alpha-springboot4 to 17.5.0-alpha-springboot4
 
 ## [34.5.0-alpha-springboot4] - 2026-04-30
 ### Changed
