@@ -4,6 +4,8 @@
 ### Changed
 - update jeap-messaging from 13.6.0 to 13.7.0
 - added possibility to set templatesPath in JeapMessageConsumerContractsByTemplates to be more flexible in the location of the templates, e.g. for opensearch writer index
+- update jeap-messaging from 14.3.1-alpha-springboot4 to 14.4.0-alpha-springboot4
+- update jeap-messaging-outbox from 13.6.0 to 13.7.0
 
 ## [33.6.0] - 2026-04-29
 ### Changed
