@@ -8,6 +8,7 @@
 - update jeap-messaging-sequential-inbox from 17.4.0-alpha-springboot4 to 17.5.0-alpha-springboot4
 - update jeap-reaction-observer from 7.4.0-alpha-springboot4 to 7.5.0-alpha-springboot4
 - update jeap-server-sent-events from 9.4.0-alpha-springboot4 to 9.5.0-alpha-springboot4
+- update jeap-audit from 7.4.0-alpha-springboot4 to 7.5.0-alpha-springboot4
 
 ## [34.5.0-alpha-springboot4] - 2026-04-30
 ### Changed
