@@ -7,6 +7,7 @@
 - update jeap-messaging from 14.3.1-alpha-springboot4 to 14.4.0-alpha-springboot4
 - update jeap-messaging-outbox from 13.6.0 to 13.7.0
 - update jeap-messaging-sequential-inbox from 16.6.0 to 16.7.0
+- update jeap-server-sent-events from 8.6.0 to 8.7.0
 
 ## [33.6.0] - 2026-04-29
 ### Changed
