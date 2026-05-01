@@ -1,5 +1,10 @@
 # Changelog
 
+## [34.6.0-alpha-springboot4] - 2026-05-01
+### Changed
+- update jeap-messaging from 14.4.0-alpha-springboot4 to 14.5.0-alpha-springboot4
+- adapted TemplatePathResolver that it works in IDE again
+
 ## [34.5.0-alpha-springboot4] - 2026-04-30
 ### Changed
 - update jeap-messaging from 14.3.1-alpha-springboot4 to 14.4.0-alpha-springboot4
