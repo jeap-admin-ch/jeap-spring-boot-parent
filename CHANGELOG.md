@@ -9,6 +9,8 @@
 - update jeap-spring-boot-security-client-starter from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
 - update jeap-open-api-publisher from 5.3.0-alpha-springboot4 to 5.4.0-alpha-springboot4
 - update jeap-spring-boot-roles-anywhere-starter from 2.3.0-alpha-springboot4 to 2.4.0-alpha-springboot4
+- update jeap-spring-boot-vault-starter from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
+- update jeap-crypto from 8.3.0-alpha-springboot4 to 8.4.0-alpha-springboot4
 
 ## [34.6.0-alpha-springboot4] - 2026-05-01
 ### Changed
