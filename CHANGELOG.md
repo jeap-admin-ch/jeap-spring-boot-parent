@@ -15,6 +15,7 @@
 - update jeap-messaging-outbox from 14.5.0-alpha-springboot4 to 14.6.0-alpha-springboot4
 - update jeap-spring-boot-security-starter from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
 - update jeap-messaging-sequential-inbox from 17.5.0-alpha-springboot4 to 17.6.0-alpha-springboot4
+- update jeap-reaction-observer from 7.5.0-alpha-springboot4 to 7.6.0-alpha-springboot4
 
 ## [34.6.0-alpha-springboot4] - 2026-05-01
 ### Changed
