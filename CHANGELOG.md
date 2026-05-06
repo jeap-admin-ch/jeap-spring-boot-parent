@@ -3,8 +3,9 @@
 ## [33.8.0] - 2026-05-06
 
 ### Changed
-
 - Update parent from 6.0.3 to 6.0.4
+- Update parent from 7.0.5-alpha-springboot4 to 7.0.6-alpha-springboot4
+- update jeap-spring-boot-tls-starter from 17.63.0 to 17.64.0
 
 ## [33.7.0] - 2026-05-01
 ### Changed
