@@ -1,5 +1,11 @@
 # Changelog
 
+## [34.7.0-alpha-springboot4] - 2026-05-06
+
+### Changed
+
+- Update parent from 7.0.6-alpha-springboot4 to 7.0.7-alpha-springboot4
+
 ## [34.6.0-alpha-springboot4] - 2026-05-01
 ### Changed
 - update jeap-messaging from 14.4.0-alpha-springboot4 to 14.5.0-alpha-springboot4
