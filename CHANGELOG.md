@@ -12,6 +12,7 @@
 - update jeap-spring-boot-vault-starter from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
 - update jeap-crypto from 8.3.0-alpha-springboot4 to 8.4.0-alpha-springboot4
 - update jeap-messaging from 14.5.0-alpha-springboot4 to 14.6.0-alpha-springboot4
+- update jeap-messaging-outbox from 14.5.0-alpha-springboot4 to 14.6.0-alpha-springboot4
 
 ## [34.6.0-alpha-springboot4] - 2026-05-01
 ### Changed
