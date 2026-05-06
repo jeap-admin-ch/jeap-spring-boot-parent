@@ -41,15 +41,15 @@
     <properties>
         <!-- jEAP Libraries -->
         <jeap-starter.version>22.4.0-alpha-springboot4</jeap-starter.version>
-        <jeap-db-migration-starter.version>18.3.0-alpha-springboot4</jeap-db-migration-starter.version>
-        <jeap-config-aws-starter.version>18.4.0-alpha-springboot4</jeap-config-aws-starter.version>
-        <jeap-tls-starter.version>18.4.0-alpha-springboot4</jeap-tls-starter.version>
+        <jeap-db-migration-starter.version>18.4.0-alpha-springboot4</jeap-db-migration-starter.version>
+        <jeap-config-aws-starter.version>18.5.0-alpha-springboot4</jeap-config-aws-starter.version>
+        <jeap-tls-starter.version>18.5.0-alpha-springboot4</jeap-tls-starter.version>
         <jeap-messaging.version>14.6.0-alpha-springboot4</jeap-messaging.version>
         <jeap-messaging-outbox.version>14.6.0-alpha-springboot4</jeap-messaging-outbox.version>
         <jeap-messaging-sequential-inbox.version>17.6.0-alpha-springboot4</jeap-messaging-sequential-inbox.version>
         <jeap-reaction-observer.version>7.6.0-alpha-springboot4</jeap-reaction-observer.version>
         <jeap-crypto.version>8.4.0-alpha-springboot4</jeap-crypto.version>
-        <jeap-server-sent-events.version>9.5.0-alpha-springboot4</jeap-server-sent-events.version>
+        <jeap-server-sent-events.version>9.6.0-alpha-springboot4</jeap-server-sent-events.version>
         <jeap-db-schema-publisher.version>2.4.0-alpha-springboot4</jeap-db-schema-publisher.version>
         <jeap-open-api-publisher.version>5.4.0-alpha-springboot4</jeap-open-api-publisher.version>
         <jeap-spring-boot-roles-anywhere-starter.version>2.4.0-alpha-springboot4</jeap-spring-boot-roles-anywhere-starter.version>

@@ -18,6 +18,10 @@
 - update jeap-reaction-observer from 7.5.0-alpha-springboot4 to 7.6.0-alpha-springboot4
 - update jeap-starter from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
 - update jeap-audit from 7.5.0-alpha-springboot4 to 7.6.0-alpha-springboot4
+- update jeap-spring-boot-db-migration-starter from 18.3.0-alpha-springboot4 to 18.4.0-alpha-springboot4
+- update jeap-spring-boot-config-aws-starter from 18.4.0-alpha-springboot4 to 18.5.0-alpha-springboot4
+- update jeap-spring-boot-tls-starter from 18.4.0-alpha-springboot4 to 18.5.0-alpha-springboot4
+- update jeap-server-sent-events from 9.5.0-alpha-springboot4 to 9.6.0-alpha-springboot4
 
 ## [34.6.0-alpha-springboot4] - 2026-05-01
 ### Changed
