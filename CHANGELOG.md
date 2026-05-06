@@ -4,6 +4,7 @@
 
 ### Changed
   - fixed version in publiccode.html
+  - fixed version in publiccode.html
 - Update parent from 6.0.3 to 6.0.4
 - Update parent from 7.0.5-alpha-springboot4 to 7.0.6-alpha-springboot4
 - update jeap-spring-boot-tls-starter from 17.63.0 to 17.64.0
@@ -14,6 +15,8 @@
 - Updated jeap-spring-boot-security-client-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
 - Switch tracing from Brave/Zipkin to Micrometer Tracing (OTel-compatible).
 - update jeap-open-api-publisher from 4.4.0 to 4.5.0
+- update jeap-spring-boot-vault-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
+- update jeap-crypto from 7.4.0 to 7.5.0
 
 ## [33.7.0] - 2026-05-01
 ### Changed
