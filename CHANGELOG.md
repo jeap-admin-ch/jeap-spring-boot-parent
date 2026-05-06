@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 7.0.6-alpha-springboot4 to 7.0.7-alpha-springboot4
 - update jeap-db-schema-publisher from 2.3.0-alpha-springboot4 to 2.4.0-alpha-springboot4
+- update jeap-spring-boot-starters from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
 
 ## [34.6.0-alpha-springboot4] - 2026-05-01
 ### Changed

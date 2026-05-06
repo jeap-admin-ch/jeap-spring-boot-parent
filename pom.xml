@@ -40,7 +40,7 @@
 
     <properties>
         <!-- jEAP Libraries -->
-        <jeap-starter.version>22.3.1-alpha-springboot4</jeap-starter.version>
+        <jeap-starter.version>22.4.0-alpha-springboot4</jeap-starter.version>
         <jeap-db-migration-starter.version>18.3.0-alpha-springboot4</jeap-db-migration-starter.version>
         <jeap-config-aws-starter.version>18.4.0-alpha-springboot4</jeap-config-aws-starter.version>
         <jeap-tls-starter.version>18.4.0-alpha-springboot4</jeap-tls-starter.version>
