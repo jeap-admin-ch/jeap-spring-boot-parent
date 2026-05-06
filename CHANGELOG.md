@@ -3,34 +3,7 @@
 ## [33.8.0] - 2026-05-06
 
 ### Changed
-  - fixed version in publiccode.html
-  - fixed version in publiccode.html
-- Update parent from 6.0.3 to 6.0.4
-- Update parent from 7.0.5-alpha-springboot4 to 7.0.6-alpha-springboot4
-- update jeap-spring-boot-tls-starter from 17.63.0 to 17.64.0
-- update jeap-spring-boot-db-migration-starter from 17.63.0 to 17.64.0
-- update jeap-spring-boot-config-aws-starter from 17.63.0 to 17.64.0
-- update jeap-spring-boot-roles-anywhere-starter from 1.27.0 to 1.28.0
-- update jeap-spring-boot-starters from 21.4.0 to 21.5.0
-- Updated jeap-spring-boot-security-client-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
-- Switch tracing from Brave/Zipkin to Micrometer Tracing (OTel-compatible).
-- update jeap-open-api-publisher from 4.4.0 to 4.5.0
-- update jeap-spring-boot-vault-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
-- update jeap-crypto from 7.4.0 to 7.5.0
-- update jeap-spring-boot-roles-anywhere-starter from 2.3.0-alpha-springboot4 to 2.4.0-alpha-springboot4
-- update jeap-crypto from 8.3.0-alpha-springboot4 to 8.4.0-alpha-springboot4
-- Update parent from 7.0.6-alpha-springboot4 to 7.0.7-alpha-springboot4
-- update jeap-messaging from 13.7.0 to 13.8.0
-- update jeap-spring-boot-vault-starter from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
-- update jeap-starter from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
-- update jeap-messaging from 14.5.0-alpha-springboot4 to 14.6.0-alpha-springboot4
-- update jeap-server-sent-events from 8.7.0 to 8.8.0
-- update jeap-reaction-observer from 6.7.0 to 6.8.0
-- update jeap-spring-boot-security-starter from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
-- update jeap-messaging-sequential-inbox from 16.7.0 to 16.8.0
-- update jeap-messaging-outbox from 13.7.0 to 13.8.0
-- update jeap-messaging-outbox from 14.5.0-alpha-springboot4 to 14.6.0-alpha-springboot4
-- update jeap-audit from 6.7.0 to 6.8.0
+- Update parent from 6.0.3 to 6.0.4 (Spring Boot 3.5.14)
 
 ## [33.7.0] - 2026-05-01
 ### Changed
