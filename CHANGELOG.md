@@ -5,6 +5,11 @@
 ### Changed
 - Update parent from 7.0.7-alpha-springboot4 to 7.0.8-alpha-springboot4
 
+## [34.9.0-alpha-springboot4] - 2026-05-12
+
+### Changed
+- Update parent from 7.0.7-alpha-springboot4 to 7.0.8-alpha-springboot4
+
 ## [34.8.0-alpha-springboot4] - 2026-05-07
 ### Changed
   escaping Spring's MVC handling while the trace context (`traceId`, `spanId`) is still present.
