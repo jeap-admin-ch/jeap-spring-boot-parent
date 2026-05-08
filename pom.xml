@@ -27,7 +27,7 @@
     </licenses>
 
     <artifactId>jeap-spring-boot-parent</artifactId>
-    <version>34.7.0-alpha-springboot4</version>
+    <version>34.8.0-alpha-springboot4</version>
     <name>jeap-spring-boot-parent</name>
     <description>A common parent project</description>
     <packaging>pom</packaging>
@@ -35,7 +35,7 @@
     <parent>
         <artifactId>jeap-internal-spring-boot-parent</artifactId>
         <groupId>ch.admin.bit.jeap</groupId>
-        <version>7.0.7-alpha-springboot4</version>
+        <version>7.0.8-alpha-springboot4</version>
     </parent>
 
     <properties>
