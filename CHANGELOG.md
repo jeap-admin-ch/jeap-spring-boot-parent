@@ -4,27 +4,7 @@
 
 ### Changed
 - Update parent from 7.0.7-alpha-springboot4 to 7.0.8-alpha-springboot4
-
-## [34.8.0-alpha-springboot4] - 2026-05-07
-### Changed
-  escaping Spring's MVC handling while the trace context (`traceId`, `spanId`) is still present.
-  Enable via `jeap.logging.rest.unhandled-exception-logging.enabled=true`.
-  Enable via `jeap.logging.rest.unhandled-exception-logging.enabled=true`.
-  escaping Spring's MVC handling while the trace context (`traceId`, `spanId`) is still present.
-  Enable via `jeap.logging.rest.unhandled-exception-logging.enabled=true`.
-  escaping Spring's MVC handling while the trace context (`traceId`, `spanId`) is still present.
-  Enable via `jeap.logging.rest.unhandled-exception-logging.enabled=true`.
-  escaping Spring's MVC handling while the trace context (`traceId`, `spanId`) is still present.
-  Enable via `jeap.logging.rest.unhandled-exception-logging.enabled=true`.
-  escaping Spring's MVC handling while the trace context (`traceId`, `spanId`) is still present.
-  Enable via `jeap.logging.rest.unhandled-exception-logging.enabled=true`.
-  escaping Spring's MVC handling while the trace context (`traceId`, `spanId`) is still present.
-  Enable via `jeap.logging.rest.unhandled-exception-logging.enabled=true`.
-  escaping Spring's MVC handling while the trace context (`traceId`, `spanId`) is still present.
-  Enable via `jeap.logging.rest.unhandled-exception-logging.enabled=true`.
-  escaping Spring's MVC handling while the trace context (`traceId`, `spanId`) is still present.
 - update jeap-spring-boot-starters from 22.4.0-alpha-springboot4 to 22.5.0-alpha-springboot4
-- Added opt-in `UnhandledExceptionLoggingFilter` in `jeap-spring-boot-logging-starter` that logs exceptions
 - update jeap-open-api-publisher from 5.4.0-alpha-springboot4 to 5.5.0-alpha-springboot4
 - update jeap-spring-boot-security-client-starter from 22.4.0-alpha-springboot4 to 22.5.0-alpha-springboot4
 - update jeap-crypto from 8.4.0-alpha-springboot4 to 8.5.0-alpha-springboot4
@@ -36,6 +16,7 @@
 - update jeap-reaction-observer from 7.6.0-alpha-springboot4 to 7.7.0-alpha-springboot4
 - update jeap-starter from 22.4.0-alpha-springboot4 to 22.5.0-alpha-springboot4
 - update jeap-audit from 7.6.0-alpha-springboot4 to 7.7.0-alpha-springboot4
+- update jeap-server-sent-events from 9.6.0-alpha-springboot4 to 9.7.0-alpha-springboot4
 
 ## [34.7.0-alpha-springboot4] - 2026-05-06
 
