@@ -1,21 +1,9 @@
 # Changelog
 
-## [34.9.0-alpha-springboot4] - 2026-05-08
-
-### Changed
-- Update parent from 7.0.7-alpha-springboot4 to 7.0.8-alpha-springboot4
-
-## [34.8.0-alpha-springboot4] - 2026-05-08
-
-### Changed
-- Update parent from 7.0.7-alpha-springboot4 to 7.0.8-alpha-springboot4
-
 ## [34.9.0-alpha-springboot4] - 2026-05-12
+
 ### Changed
-escaping Spring's MVC handling while the trace context (`traceId`, `spanId`) is still present.
-Enable via `jeap.logging.rest.unhandled-exception-logging.enabled=true`.
-- update jeap-spring-boot-starters from 22.4.0-alpha-springboot4 to 22.5.0-alpha-springboot4
-- Added opt-in `UnhandledExceptionLoggingFilter` in `jeap-spring-boot-logging-starter` that logs exceptions
+- Update parent from 7.0.7-alpha-springboot4 to 7.0.8-alpha-springboot4
 
 ## [34.8.0-alpha-springboot4] - 2026-05-07
 ### Changed
