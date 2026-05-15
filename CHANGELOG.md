@@ -1,5 +1,10 @@
 # Changelog
 
+## [34.10.0-alpha-springboot4] - 2026-05-15
+
+### Changed
+- update jeap-spring-boot-starters from 22.5.0-alpha-springboot4 to 22.5.1-alpha-springboot4
+
 ## [34.9.0-alpha-springboot4] - 2026-05-12
 
 ### Changed
