@@ -1,5 +1,12 @@
 # Changelog
 
+## [34.11.0-alpha-springboot4] - 2026-05-15
+
+### Changed
+- update jeap-messaging from 14.7.0-alpha-springboot4 to 14.8.0-alpha-springboot4
+- update jeap-messaging-outbox from 14.7.0-alpha-springboot4 to 14.8.0-alpha-springboot4
+- update jeap-messaging-sequential-inbox from 17.7.0-alpha-springboot4 to 17.8.0-alpha-springboot4
+
 ## [34.10.0-alpha-springboot4] - 2026-05-15
 
 ### Changed
