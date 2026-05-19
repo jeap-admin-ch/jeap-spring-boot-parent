@@ -24,6 +24,7 @@
 - update jeap-server-sent-events from 8.8.0 to 8.9.0
 - update jeap-starter from 22.5.0-alpha-springboot4 to 22.5.1-alpha-springboot4
 - added second argument to TraceBridge.getSpan to allow to pass in the spanName and have more meaningful traces
+- update jeap-reaction-observer from 6.8.0 to 6.9.0
 
 ## [33.8.0] - 2026-05-06
 ### Changed
