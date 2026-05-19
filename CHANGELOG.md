@@ -2,6 +2,8 @@
 
 ## [33.9.0] - 2026-05-19
 ### Changed
+  which never happens as it is a stream.
+  It ignores requests with Accept: text/event-stream as the `ShallowEtagFilter` was waiting for the response to complete
 - Update parent from 6.0.4 to 6.0.5
 - Update parent from 7.0.6-alpha-springboot4 to 7.0.7-alpha-springboot4
 - update jeap-spring-boot-db-migration-starter from 17.64.0 to 17.65.0
@@ -17,6 +19,11 @@
 - update jeap-messaging from 13.8.0 to 13.9.0
 - update jeap-messaging from 14.7.0-alpha-springboot4 to 14.8.0-alpha-springboot4
 - update jeap-messaging-outbox from 13.8.0 to 13.9.0
+- Set `SseAwareEtagHeaderFilter` as default bean for the ShallowEtagFilter. 
+- Custom subclass of `ShallowEtagFilter` called `SseAwareEtagHeaderFilter`
+- update jeap-server-sent-events from 8.8.0 to 8.9.0
+- update jeap-starter from 22.5.0-alpha-springboot4 to 22.5.1-alpha-springboot4
+- added second argument to TraceBridge.getSpan to allow to pass in the spanName and have more meaningful traces
 
 ## [33.8.0] - 2026-05-06
 ### Changed
