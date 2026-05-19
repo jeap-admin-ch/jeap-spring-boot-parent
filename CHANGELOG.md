@@ -9,6 +9,7 @@
 - update jeap-spring-boot-config-aws-starter from 18.5.0-alpha-springboot4 to 18.6.0-alpha-springboot4
 - update jeap-db-schema-publisher from 2.4.0-alpha-springboot4 to 2.5.0-alpha-springboot4
 - update jeap-spring-boot-tls-starter from 18.5.0-alpha-springboot4 to 18.6.0-alpha-springboot4
+- update jeap-spring-boot-starters from 22.5.1-alpha-springboot4 to 22.6.0-alpha-springboot4
 
 ## [34.11.0-alpha-springboot4] - 2026-05-15
 
