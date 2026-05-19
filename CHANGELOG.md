@@ -12,6 +12,8 @@
 - update jeap-spring-boot-starters from 22.5.1-alpha-springboot4 to 22.6.0-alpha-springboot4
 - update jeap-spring-boot-security-client-starter from 22.5.1-alpha-springboot4 to 22.6.0-alpha-springboot4
 - update jeap-open-api-publisher from 5.5.0-alpha-springboot4 to 5.6.0-alpha-springboot4
+- update jeap-spring-boot-vault-starter from 22.5.1-alpha-springboot4 to 22.6.0-alpha-springboot4
+- update jeap-crypto from 8.5.0-alpha-springboot4 to 8.6.0-alpha-springboot4
 
 ## [34.11.0-alpha-springboot4] - 2026-05-15
 
