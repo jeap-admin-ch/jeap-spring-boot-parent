@@ -1,5 +1,11 @@
 # Changelog
 
+## [33.9.0] - 2026-05-19
+
+### Changed
+
+- Update parent from 6.0.4 to 6.0.5
+
 ## [33.8.0] - 2026-05-06
 
 ### Changed
