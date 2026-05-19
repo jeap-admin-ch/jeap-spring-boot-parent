@@ -14,7 +14,6 @@
 - update jeap-spring-boot-security-client-starter from 22.5.0-alpha-springboot4 to 22.5.1-alpha-springboot4
 - update jeap-crypto from 7.5.0 to 7.6.0
 - update jeap-spring-boot-vault-starter from 22.5.0-alpha-springboot4 to 22.5.1-alpha-springboot4
-- added second argument to TraceBridge.getSpan to allow to pass in the spanName and have more meaningful traces
 - update jeap-messaging from 13.8.0 to 13.9.0
 
 ## [33.8.0] - 2026-05-06
