@@ -14,6 +14,7 @@
 - Set `SseAwareEtagHeaderFilter` as default bean for the ShallowEtagFilter. 
 - Custom subclass of `ShallowEtagFilter` called `SseAwareEtagHeaderFilter`
 - update jeap-spring-boot-starters from 21.5.0 to 21.6.0
+- update jeap-spring-boot-roles-anywhere-starter from 1.28.0 to 1.29.0
 
 ## [33.8.0] - 2026-05-06
 
