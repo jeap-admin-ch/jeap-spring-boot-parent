@@ -1,22 +1,13 @@
 # Changelog
 
 ## [33.9.0] - 2026-05-19
-
 ### Changed
-  It ignores requests with Accept: text/event-stream as the `ShallowEtagFilter` was waiting for the response to complete
-  which never happens as it is a stream.
-  which never happens as it is a stream.
-  It ignores requests with Accept: text/event-stream as the `ShallowEtagFilter` was waiting for the response to complete
-  which never happens as it is a stream.
-  It ignores requests with Accept: text/event-stream as the `ShallowEtagFilter` was waiting for the response to complete
 - Update parent from 6.0.4 to 6.0.5
 - Update parent from 7.0.6-alpha-springboot4 to 7.0.7-alpha-springboot4
 - update jeap-spring-boot-db-migration-starter from 17.64.0 to 17.65.0
 - update jeap-db-schema-publisher from 1.28.0 to 1.29.0
 - update jeap-spring-boot-tls-starter from 17.64.0 to 17.65.0
 - update jeap-spring-boot-config-aws-starter from 17.64.0 to 17.65.0
-- Set `SseAwareEtagHeaderFilter` as default bean for the ShallowEtagFilter. 
-- Custom subclass of `ShallowEtagFilter` called `SseAwareEtagHeaderFilter`
 - update jeap-spring-boot-starters from 21.5.0 to 21.6.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.28.0 to 1.29.0
 - update jeap-open-api-publisher from 4.5.0 to 4.6.0
@@ -25,7 +16,6 @@
 - update jeap-spring-boot-vault-starter from 22.5.0-alpha-springboot4 to 22.5.1-alpha-springboot4
 
 ## [33.8.0] - 2026-05-06
-
 ### Changed
 - Update parent from 6.0.3 to 6.0.4 (Spring Boot 3.5.14)
 
