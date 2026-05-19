@@ -8,6 +8,7 @@
 - update jeap-spring-boot-roles-anywhere-starter from 2.4.0-alpha-springboot4 to 2.5.0-alpha-springboot4
 - update jeap-spring-boot-config-aws-starter from 18.5.0-alpha-springboot4 to 18.6.0-alpha-springboot4
 - update jeap-db-schema-publisher from 2.4.0-alpha-springboot4 to 2.5.0-alpha-springboot4
+- update jeap-spring-boot-tls-starter from 18.5.0-alpha-springboot4 to 18.6.0-alpha-springboot4
 
 ## [34.11.0-alpha-springboot4] - 2026-05-15
 
