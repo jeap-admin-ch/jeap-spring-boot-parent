@@ -6,6 +6,7 @@
 - Update parent from 7.0.8-alpha-springboot4 to 7.0.9-alpha-springboot4
 - Update parent from 7.0.7-alpha-springboot4 to 7.0.9-alpha-springboot4
 - update jeap-spring-boot-roles-anywhere-starter from 2.4.0-alpha-springboot4 to 2.5.0-alpha-springboot4
+- update jeap-spring-boot-config-aws-starter from 18.5.0-alpha-springboot4 to 18.6.0-alpha-springboot4
 
 ## [34.11.0-alpha-springboot4] - 2026-05-15
 
