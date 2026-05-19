@@ -1,5 +1,11 @@
 # Changelog
 
+## [34.12.0-alpha-springboot4] - 2026-05-19
+
+### Changed
+
+- Update parent from 7.0.8-alpha-springboot4 to 7.0.9-alpha-springboot4
+
 ## [34.11.0-alpha-springboot4] - 2026-05-15
 
 ### Changed
