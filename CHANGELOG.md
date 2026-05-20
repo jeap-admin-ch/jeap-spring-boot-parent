@@ -22,6 +22,7 @@
 - update jeap-spring-boot-security-starter from 22.5.1-alpha-springboot4 to 22.6.0-alpha-springboot4
 - update jeap-messaging-sequential-inbox from 17.8.0-alpha-springboot4 to 17.9.0-alpha-springboot4
 - update jeap-audit from 7.7.0-alpha-springboot4 to 7.8.0-alpha-springboot4
+- update jeap-spring-boot-db-migration-starter from 18.4.0-alpha-springboot4 to 18.5.0-alpha-springboot4
 
 ## [34.11.0-alpha-springboot4] - 2026-05-15
 
