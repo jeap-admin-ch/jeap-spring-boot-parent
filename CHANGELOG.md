@@ -1,155 +1,45 @@
 # Changelog
 
-## [34.12.0-alpha-springboot4] - 2026-05-19
+## [35.0.0] - 2026-05-27
 
 ### Changed
-- Update parent from 7.0.8-alpha-springboot4 to 7.0.9-alpha-springboot4
-- Update parent from 7.0.7-alpha-springboot4 to 7.0.9-alpha-springboot4
-- update jeap-spring-boot-roles-anywhere-starter from 2.4.0-alpha-springboot4 to 2.5.0-alpha-springboot4
-- update jeap-spring-boot-config-aws-starter from 18.5.0-alpha-springboot4 to 18.6.0-alpha-springboot4
-- update jeap-db-schema-publisher from 2.4.0-alpha-springboot4 to 2.5.0-alpha-springboot4
-- update jeap-spring-boot-tls-starter from 18.5.0-alpha-springboot4 to 18.6.0-alpha-springboot4
-- update jeap-spring-boot-starters from 22.5.1-alpha-springboot4 to 22.6.0-alpha-springboot4
-- update jeap-spring-boot-security-client-starter from 22.5.1-alpha-springboot4 to 22.6.0-alpha-springboot4
-- update jeap-open-api-publisher from 5.5.0-alpha-springboot4 to 5.6.0-alpha-springboot4
-- update jeap-spring-boot-vault-starter from 22.5.1-alpha-springboot4 to 22.6.0-alpha-springboot4
-- update jeap-crypto from 8.5.0-alpha-springboot4 to 8.6.0-alpha-springboot4
-- update jeap-messaging from 14.8.0-alpha-springboot4 to 14.9.0-alpha-springboot4
-- update jeap-starter from 22.5.1-alpha-springboot4 to 22.6.0-alpha-springboot4
-- update jeap-server-sent-events from 9.7.0-alpha-springboot4 to 9.8.0-alpha-springboot4
-- update jeap-messaging-outbox from 14.8.0-alpha-springboot4 to 14.9.0-alpha-springboot4
-- update jeap-reaction-observer from 7.7.0-alpha-springboot4 to 7.9.0-alpha-springboot4
-- update jeap-spring-boot-security-starter from 22.5.1-alpha-springboot4 to 22.6.0-alpha-springboot4
-- update jeap-messaging-sequential-inbox from 17.8.0-alpha-springboot4 to 17.9.0-alpha-springboot4
-- update jeap-audit from 7.7.0-alpha-springboot4 to 7.8.0-alpha-springboot4
-- update jeap-spring-boot-db-migration-starter from 18.4.0-alpha-springboot4 to 18.5.0-alpha-springboot4
-
-## [34.11.0-alpha-springboot4] - 2026-05-15
-
-### Changed
-- update jeap-messaging from 14.7.0-alpha-springboot4 to 14.8.0-alpha-springboot4
-- update jeap-messaging-outbox from 14.7.0-alpha-springboot4 to 14.8.0-alpha-springboot4
-- update jeap-messaging-sequential-inbox from 17.7.0-alpha-springboot4 to 17.8.0-alpha-springboot4
-
-## [34.10.0-alpha-springboot4] - 2026-05-15
-
-### Changed
-- update jeap-spring-boot-starters from 22.5.0-alpha-springboot4 to 22.5.1-alpha-springboot4
-
-## [34.9.0-alpha-springboot4] - 2026-05-12
-
-### Changed
-- Update parent from 7.0.7-alpha-springboot4 to 7.0.8-alpha-springboot4
-- update jeap-spring-boot-starters from 22.4.0-alpha-springboot4 to 22.5.0-alpha-springboot4
-- update jeap-open-api-publisher from 5.4.0-alpha-springboot4 to 5.5.0-alpha-springboot4
-- update jeap-spring-boot-security-client-starter from 22.4.0-alpha-springboot4 to 22.5.0-alpha-springboot4
-- update jeap-crypto from 8.4.0-alpha-springboot4 to 8.5.0-alpha-springboot4
-- update jeap-spring-boot-vault-starter from 22.4.0-alpha-springboot4 to 22.5.0-alpha-springboot4
-- update jeap-messaging from 14.6.0-alpha-springboot4 to 14.7.0-alpha-springboot4
-- update jeap-messaging-outbox from 14.6.0-alpha-springboot4 to 14.7.0-alpha-springboot4
-- update jeap-spring-boot-security-starter from 22.4.0-alpha-springboot4 to 22.5.0-alpha-springboot4
-- update jeap-messaging-sequential-inbox from 17.6.0-alpha-springboot4 to 17.7.0-alpha-springboot4
-- update jeap-reaction-observer from 7.6.0-alpha-springboot4 to 7.7.0-alpha-springboot4
-- update jeap-starter from 22.4.0-alpha-springboot4 to 22.5.0-alpha-springboot4
-- update jeap-audit from 7.6.0-alpha-springboot4 to 7.7.0-alpha-springboot4
-- update jeap-server-sent-events from 9.6.0-alpha-springboot4 to 9.7.0-alpha-springboot4
-
-## [34.7.0-alpha-springboot4] - 2026-05-06
-
-### Changed
-- Update parent from 7.0.6-alpha-springboot4 to 7.0.7-alpha-springboot4
-- update jeap-db-schema-publisher from 2.3.0-alpha-springboot4 to 2.4.0-alpha-springboot4
-- update jeap-spring-boot-starters from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
-- update jeap-spring-boot-security-client-starter from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
-- update jeap-open-api-publisher from 5.3.0-alpha-springboot4 to 5.4.0-alpha-springboot4
-- update jeap-spring-boot-roles-anywhere-starter from 2.3.0-alpha-springboot4 to 2.4.0-alpha-springboot4
-- update jeap-spring-boot-vault-starter from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
-- update jeap-crypto from 8.3.0-alpha-springboot4 to 8.4.0-alpha-springboot4
-- update jeap-messaging from 14.5.0-alpha-springboot4 to 14.6.0-alpha-springboot4
-- update jeap-messaging-outbox from 14.5.0-alpha-springboot4 to 14.6.0-alpha-springboot4
-- update jeap-spring-boot-security-starter from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
-- update jeap-messaging-sequential-inbox from 17.5.0-alpha-springboot4 to 17.6.0-alpha-springboot4
-- update jeap-reaction-observer from 7.5.0-alpha-springboot4 to 7.6.0-alpha-springboot4
-- update jeap-starter from 22.3.1-alpha-springboot4 to 22.4.0-alpha-springboot4
-- update jeap-audit from 7.5.0-alpha-springboot4 to 7.6.0-alpha-springboot4
-- update jeap-spring-boot-db-migration-starter from 18.3.0-alpha-springboot4 to 18.4.0-alpha-springboot4
-- update jeap-spring-boot-config-aws-starter from 18.4.0-alpha-springboot4 to 18.5.0-alpha-springboot4
-- update jeap-spring-boot-tls-starter from 18.4.0-alpha-springboot4 to 18.5.0-alpha-springboot4
-- update jeap-server-sent-events from 9.5.0-alpha-springboot4 to 9.6.0-alpha-springboot4
-
-## [34.6.0-alpha-springboot4] - 2026-05-01
-### Changed
-- update jeap-messaging from 14.4.0-alpha-springboot4 to 14.5.0-alpha-springboot4
-- adapted TemplatePathResolver that it works in IDE again
-- update jeap-messaging-outbox from 14.4.0-alpha-springboot4 to 14.5.0-alpha-springboot4
-- update jeap-messaging-sequential-inbox from 17.4.0-alpha-springboot4 to 17.5.0-alpha-springboot4
-- update jeap-reaction-observer from 7.4.0-alpha-springboot4 to 7.5.0-alpha-springboot4
-- update jeap-server-sent-events from 9.4.0-alpha-springboot4 to 9.5.0-alpha-springboot4
-- update jeap-audit from 7.4.0-alpha-springboot4 to 7.5.0-alpha-springboot4
-
-## [34.5.0-alpha-springboot4] - 2026-04-30
-### Changed
-- update jeap-messaging from 14.3.1-alpha-springboot4 to 14.4.0-alpha-springboot4
-- added possibility to set templatesPath in JeapMessageConsumerContractsByTemplates to be more flexible in the location of the templates, e.g. for opensearch writer index
-- update jeap-server-sent-events from 9.3.0-alpha-springboot4 to 9.4.0-alpha-springboot4
-- update jeap-reaction-observer from 7.3.0-alpha-springboot4 to 7.4.0-alpha-springboot4
-- update jeap-messaging-outbox from 14.3.0-alpha-springboot4 to 14.4.0-alpha-springboot4
-- update jeap-messaging-sequential-inbox from 17.3.0-alpha-springboot4 to 17.4.0-alpha-springboot4
-- update jeap-audit from 7.3.0-alpha-springboot4 to 7.4.0-alpha-springboot4
-
-## [34.4.0-alpha-springboot4] - 2026-04-29
-### Changed
-- update jeap-spring-boot-starters from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
-- update jeap-spring-boot-vault-starter from 22.2.0-alpha-springboot4 to 22.3.1-alpha-springboot4
-- update jeap-crypto from 8.2.0-alpha-springboot4 to 8.3.0-alpha-springboot4
-- update jeap-open-api-publisher from 5.2.0-alpha-springboot4 to 5.3.0-alpha-springboot4
-- update jeap-messaging-outbox from 14.2.0-alpha-springboot4 to 14.3.0-alpha-springboot4
-- update jeap-db-schema-publisher from 2.2.0-alpha-springboot4 to 2.3.0-alpha-springboot4
-- update jeap-messaging-sequential-inbox from 17.2.0-alpha-springboot4 to 17.3.0-alpha-springboot4
-- update jeap-messaging to 14.3.1-alpha-springboot4
-- update jeap-server-sent-events from 9.2.0-alpha-springboot4 to 9.3.0-alpha-springboot4
-- update jeap-reaction-observer from 7.2.0-alpha-springboot4 to 7.3.0-alpha-springboot4
-- update jeap-audit from 7.2.0-alpha-springboot4 to 7.3.0-alpha-springboot4
-
-## [34.3.0-alpha-springboot4] - 2026-04-24
-
-### Changed
-- Update parent from 7.0.5-alpha-springboot4 to 7.0.6-alpha-springboot4
-- update jeap-db-schema-publisher from 2.1.0-alpha-springboot4 to 2.2.0-alpha-springboot4
-- update jeap-spring-boot-tls-starter from 18.3.0-alpha-springboot4 to 18.4.0-alpha-springboot4
-- update jeap-spring-boot-db-migration-starter from 18.2.0-alpha-springboot4 to 18.3.0-alpha-springboot4
-- update jeap-spring-boot-config-aws-starter from 18.3.0-alpha-springboot4 to 18.4.0-alpha-springboot4
-- update jeap-spring-boot-starters from 22.1.0-alpha-springboot4 to 22.2.0-alpha-springboot4
-- update jeap-spring-boot-security-client-starter from 22.1.0-alpha-springboot4 to 22.2.0-alpha-springboot4
-- update jeap-open-api-publisher from 5.1.0-alpha-springboot4 to 5.2.0-alpha-springboot4
-- update jeap-spring-boot-vault-starter from 22.1.0-alpha-springboot4 to 22.2.0-alpha-springboot4
-- update jeap-crypto from 8.1.0-alpha-springboot4 to 8.2.0-alpha-springboot4
-- update jeap-spring-boot-roles-anywhere-starter from 2.1.0-alpha-springboot4 to 2.3.0-alpha-springboot4
-- update jeap-messaging from 14.1.0-alpha-springboot4 to 14.2.0-alpha-springboot4
-- update jeap-starter from 22.1.0-alpha-springboot4 to 22.2.0-alpha-springboot4
-- update jeap-server-sent-events from 9.1.0-alpha-springboot4 to 9.2.0-alpha-springboot4
-- update jeap-reaction-observer from 7.1.0-alpha-springboot4 to 7.2.0-alpha-springboot4
-- update jeap-spring-boot-security-starter from 22.1.0-alpha-springboot4 to 22.2.0-alpha-springboot4
-- update jeap-messaging-sequential-inbox from 17.1.0-alpha-springboot4 to 17.2.0-alpha-springboot4
-- update jeap-messaging-outbox from 14.1.0-alpha-springboot4 to 14.2.0-alpha-springboot4
-- update jeap-audit from 7.1.0-alpha-springboot4 to 7.2.0-alpha-springboot4
-
-## [34.2.0-alpha-springboot4] - 2026-04-24
-### Changed
-- update jeap-spring-boot-config-aws-starter from 18.2.0-alpha-springboot4 to 18.3.0-alpha-springboot4
+- **Breaking change:** Official release with spring boot 4
 - **Breaking change:** Changed the jEAP Secrets Manager location prefix from `aws-secretsmanager:` to `jeap-aws-secretsmanager:`.
-- This avoids conflicts with Spring Cloud AWS Secrets Manager, which owns the `aws-secretsmanager:` prefix.
-- Teams using jEAP Secrets Manager imports must replace `aws-secretsmanager:` with `jeap-aws-secretsmanager:` in `spring.config.import`.
-- Example: `spring.config.import=aws-secretsmanager:/my/secret` -> `spring.config.import=jeap-aws-secretsmanager:/my/secret`.
-- If your application also uses Spring Cloud AWS Secrets Manager, keep using `aws-secretsmanager:` only for Spring Cloud AWS-managed imports.
-
-## [34.x.x-alpha-springboot4] - not released
-
-> - Spring Boot 3 maintenance (bug fixes, patches, and regular updates) continues on branch `release/springboot3`.
-> - The Spring Boot 4 upgrade process happens on the `master` branch, with the goal of releasing Spring Boot 4 compatible versions of all jeap components in a single major release. The first Spring Boot 4 compatible release is expected to be `34.0.0`.
-
-### Changed
-- Update parent from 6.0.3 to 7.0.0-alpha-springboot4
+  - This avoids conflicts with Spring Cloud AWS Secrets Manager, which owns the `aws-secretsmanager:` prefix.
+  - Teams using jEAP Secrets Manager imports must replace `aws-secretsmanager:` with `jeap-aws-secretsmanager:` in `spring.config.import`.
+  - Example: `spring.config.import=aws-secretsmanager:/my/secret` -> `spring.config.import=jeap-aws-secretsmanager:/my/secret`.
+  - If your application also uses Spring Cloud AWS Secrets Manager, keep using `aws-secretsmanager:` only for Spring Cloud AWS-managed imports.
+- **Breaking change:** messaging-outbox, schema migration required in downstream services
+  - New column `sampled boolean` on `deferred_message`. Needed so the sampling decision captured from the origin trace
+    is preserved across the outbox relay cycle.
+  - Downstream services must ship a Flyway migration of the form:
+    ```sql
+    ALTER TABLE deferred_message ADD COLUMN sampled boolean;
+    ```
+    See `jeap-messaging-outbox-test/src/test/resources/db/migration/common/V2__add-sampled-to-deferred-message.sql`
+    for the reference delta used by this library's own integration tests. Rows written by previous versions carry
+    `NULL` and are treated as sampled on relay (legacy-compatible default).
+- **Breaking change:** messaging-sequential-inbox, schema migration required in downstream services
+  - New column `sampled boolean` on `sequenced_message`. Needed so the sampling decision captured from the origin
+    trace is preserved when a buffered message is released through `BufferedMessageService`.
+  - Downstream services must ship a Flyway migration of the form:
+    ```sql
+    ALTER TABLE sequenced_message ADD COLUMN sampled boolean;
+    ```
+    See `jeap-messaging-sequential-inbox-test/src/test/resources/db/migration/V5__add-sampled-to-sequenced-message.sql`
+    for the reference delta used by this library's own integration tests. Rows written by previous versions carry
+    `NULL` and are treated as sampled on replay (legacy-compatible default).
+- Custom subclass of `ShallowEtagFilter` called `SseAwareEtagHeaderFilter`
+  It ignores requests with Accept: text/event-stream as the `ShallowEtagFilter` was waiting for the response to complete
+  which never happens as it is a stream.
+- Set `SseAwareEtagHeaderFilter` as default bean for the ShallowEtagFilter.
+- Added opt-in `UnhandledExceptionLoggingFilter` in `jeap-spring-boot-logging-starter` that logs exceptions
+  escaping Spring's MVC handling while the trace context (`traceId`, `spanId`) is still present.
+  Enable via `jeap.logging.rest.unhandled-exception-logging.enabled=true`.
+- Switched tracing backend from Brave/Zipkin to OpenTelemetry (Micrometer Tracing OTel bridge + OTLP span exporter) in
+  `jeap-spring-boot-monitoring-starter` and `jeap-spring-boot-logging-starter`. Metrics (Micrometer + Prometheus) and
+  logs (SLF4J + Logback) are unchanged.
+- Configured migration-friendly propagation defaults: `management.tracing.propagation.produce=W3C,B3` and `consume=W3C,B3,B3_MULTI`.
 
 ## [33.3.0] - 2026-04-16
 
