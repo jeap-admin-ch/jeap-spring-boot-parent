@@ -1,5 +1,11 @@
 # Changelog
 
+## [35.1.0] - 2026-05-28
+### Changed
+    - Use `jeap.audit.transactional-outbox.topics` to instantiate multiple senders for different topics
+- update jeap-audit from 8.0.0 to 8.1.0
+- Support multiple topics in the audit outbox sender configuration
+
 ## [35.0.0] - 2026-05-27
 
 ### Changed
