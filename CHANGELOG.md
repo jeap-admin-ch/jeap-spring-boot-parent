@@ -2,9 +2,9 @@
 
 ## [35.1.0] - 2026-05-28
 ### Changed
-  - Use `jeap.audit.transactional-outbox.topics` to instantiate multiple senders for different topics
-- update jeap-audit from 8.0.0 to 8.1.0
+- update jeap-audit from 8.0.0 to 8.2.0
 - Support multiple topics in the audit outbox sender configuration
+  - Use `jeap.audit.transactional-outbox.topics` to instantiate multiple senders for different topics
 - Correction: Official release with spring boot 4
 - update jeap-spring-boot-roles-anywhere-starter from 3.0.0 to 3.1.0
 - update jeap-messaging from 15.0.0 to 15.1.0
@@ -12,7 +12,6 @@
 - update jeap-messaging-outbox from 15.0.0 to 15.1.0
 - update jeap-messaging-sequential-inbox from 18.0.0 to 18.1.0
 - update jeap-reaction-observer from 8.0.0 to 8.1.0
-- update jeap-audit from 8.1.0 to 8.2.0
 
 ## [35.0.0] - 2026-05-27
 
