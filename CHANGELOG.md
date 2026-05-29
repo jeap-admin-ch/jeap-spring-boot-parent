@@ -8,6 +8,7 @@
 - Correction: Official release with spring boot 4
 - update jeap-spring-boot-roles-anywhere-starter from 3.0.0 to 3.1.0
 - update jeap-messaging from 15.0.0 to 15.1.0
+- update jeap-server-sent-events from 10.0.0 to 10.1.0
 
 ## [35.0.0] - 2026-05-27
 
