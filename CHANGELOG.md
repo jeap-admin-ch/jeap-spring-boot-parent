@@ -10,6 +10,7 @@
 - update jeap-messaging from 15.0.0 to 15.1.0
 - update jeap-server-sent-events from 10.0.0 to 10.1.0
 - update jeap-messaging-outbox from 15.0.0 to 15.1.0
+- update jeap-messaging-sequential-inbox from 18.0.0 to 18.1.0
 
 ## [35.0.0] - 2026-05-27
 
