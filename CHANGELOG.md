@@ -7,6 +7,7 @@
 - update jeap-spring-boot-starters from 23.0.0 to 23.1.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.1.0 to 3.2.0
 - update jeap-spring-boot-tls-starter from 19.0.0 to 19.1.0
+- update jeap-spring-boot-db-migration-starter from 19.0.0 to 19.1.0
 
 ## [35.1.0] - 2026-05-28
 ### Changed
