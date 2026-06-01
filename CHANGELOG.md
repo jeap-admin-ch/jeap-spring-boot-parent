@@ -11,6 +11,8 @@
 - update jeap-spring-boot-config-aws-starter from 19.0.0 to 19.1.0
 - update jeap-spring-boot-security-client-starter from 23.0.0 to 23.1.0
 - update jeap-open-api-publisher from 6.0.0 to 6.1.0
+- update jeap-spring-boot-vault-starter from 23.0.0 to 23.1.0
+- update jeap-crypto from 9.0.0 to 9.1.0
 
 ## [35.1.0] - 2026-05-28
 ### Changed
