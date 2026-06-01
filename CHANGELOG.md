@@ -3,8 +3,8 @@
 ## [35.2.0] - 2026-06-01
 
 ### Changed
-
 - Update parent from 7.0.0 to 8.0.1
+- update jeap-spring-boot-starters from 23.0.0 to 23.1.0
 
 ## [35.1.0] - 2026-05-28
 ### Changed
