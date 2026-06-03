@@ -1,5 +1,10 @@
 # Changelog
 
+## [33.9.1] - 2026-06-03
+### Changed
+- update jeap-messaging from 13.9.0 to 13.9.1
+- Exclude squareup wire dependency from glue schema registry serde: not used, fixes vulnerability scan (CVE-2026-45799)
+
 ## [33.9.0] - 2026-05-19
 ### Changed
 - Update parent from 6.0.4 to 6.0.5
