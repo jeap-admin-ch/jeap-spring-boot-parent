@@ -4,6 +4,8 @@
 ### Changed
 - update jeap-messaging from 13.9.0 to 13.9.1
 - Exclude squareup wire dependency from glue schema registry serde: not used, fixes vulnerability scan (CVE-2026-45799)
+- update jeap-messaging from 15.2.0 to 15.2.1
+- update jeap-server-sent-events from 8.9.0 to 8.9.1
 
 ## [33.9.0] - 2026-05-19
 ### Changed
