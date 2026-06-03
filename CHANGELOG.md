@@ -7,6 +7,7 @@
 - update jeap-messaging from 15.2.0 to 15.2.1
 - update jeap-server-sent-events from 8.9.0 to 8.9.1
 - update jeap-reaction-observer from 6.9.0 to 6.9.1
+- update jeap-messaging-sequential-inbox from 16.9.0 to 16.9.1
 
 ## [33.9.0] - 2026-05-19
 ### Changed
