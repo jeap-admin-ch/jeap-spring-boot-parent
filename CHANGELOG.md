@@ -6,6 +6,7 @@
 - Exclude squareup wire dependency from glue schema registry serde: not used, fixes vulnerability scan (CVE-2026-45799)
 - update jeap-messaging-outbox from 15.2.0 to 15.2.1
 - update jeap-messaging-sequential-inbox from 18.2.0 to 18.2.1
+- update jeap-reaction-observer from 8.2.0 to 8.2.1
 
 ## [35.2.0] - 2026-06-01
 
