@@ -8,6 +8,7 @@
 - update jeap-messaging-sequential-inbox from 18.2.0 to 18.2.1
 - update jeap-reaction-observer from 8.2.0 to 8.2.1
 - update jeap-audit from 8.3.0 to 8.3.1
+- update jeap-server-sent-events from 10.2.0 to 10.2.1
 
 ## [35.2.0] - 2026-06-01
 
