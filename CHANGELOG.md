@@ -14,6 +14,8 @@
 - update jeap-spring-boot-vault-starter from 23.1.0 to 23.2.0
 - update jeap-crypto from 9.1.0 to 9.2.0
 - update guava-testlib from 33.5.0-jre to 33.6.0-jre
+- update jeap-spring-boot-security-client-starter from 23.1.0 to 23.2.0
+- update jeap-open-api-publisher from 6.1.0 to 6.2.0
 
 ## [35.2.1] - 2026-06-03
 ### Changed
