@@ -11,6 +11,9 @@
 - update jeap-db-schema-publisher from 3.1.0 to 3.2.0
 - update jeap-spring-boot-db-migration-starter from 19.1.0 to 19.2.0
 - update jeap-spring-boot-config-aws-starter from 19.1.0 to 19.2.0
+- update jeap-spring-boot-vault-starter from 23.1.0 to 23.2.0
+- update jeap-crypto from 9.1.0 to 9.2.0
+- update guava-testlib from 33.5.0-jre to 33.6.0-jre
 
 ## [35.2.1] - 2026-06-03
 ### Changed
