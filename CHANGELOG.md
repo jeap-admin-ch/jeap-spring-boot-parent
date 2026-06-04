@@ -16,6 +16,11 @@
 - update guava-testlib from 33.5.0-jre to 33.6.0-jre
 - update jeap-spring-boot-security-client-starter from 23.1.0 to 23.2.0
 - update jeap-open-api-publisher from 6.1.0 to 6.2.0
+- update aws-msk-iam-auth from 2.3.5 to 2.3.7
+- update avro-serializer from 8.2.0 to 8.2.1
+- update jeap-messaging from 15.2.1 to 15.3.0
+- update maven-plugin-testing-harness from 3.5.0 to 3.5.1
+- update maven.api from 3.9.14 to 3.9.16
 
 ## [35.2.1] - 2026-06-03
 ### Changed
