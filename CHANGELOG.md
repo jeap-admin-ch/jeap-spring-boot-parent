@@ -24,6 +24,9 @@
 - update jeap-spring-boot-security-starter from 23.1.0 to 23.2.0
 - update jeap-messaging-sequential-inbox from 18.2.1 to 18.3.0
 - update jeap-messaging-outbox from 15.2.1 to 15.3.0
+- update jeap-starter from 23.1.0 to 23.2.0
+- update jeap-server-sent-events from 10.2.1 to 10.3.0
+- update commons-io from 2.21.0 to 2.22.0
 
 ## [35.2.1] - 2026-06-03
 ### Changed
