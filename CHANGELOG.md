@@ -1,10 +1,9 @@
 # Changelog
 
-## [35.3.0] - 2026-06-03
+## [35.3.0] - 2026-06-04
 
 ### Changed
 - Update parent from 8.0.2 to 8.1.0
-- Update parent from 8.0.1 to 8.1.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.2.0 to 3.3.0
 - update jeap-spring-boot-tls-starter from 19.1.0 to 19.2.0
 - update jeap-spring-boot-starters from 23.1.0 to 23.2.0
@@ -29,6 +28,7 @@
 - update commons-io from 2.21.0 to 2.22.0
 - update jeap-audit from 8.3.1 to 8.4.0
 - update jeap-reaction-observer from 8.2.1 to 8.3.0
+- update jeap-truststore-maven-plugin from 3.0.0 to 3.2.0
 
 ## [35.2.1] - 2026-06-03
 ### Changed
