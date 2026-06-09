@@ -1,5 +1,11 @@
 # Changelog
 
+## [35.4.0] - 2026-06-09
+### Changed
+- update jeap-spring-boot-starters from 23.2.0 to 23.3.0
+- Update logstash-logback-encoder from 8.1 to 9.0 (migrates to Jackson 3)
+- Update aws-advanced-jdbc-wrapper version to 4.0.1
+
 ## [35.3.0] - 2026-06-04
 
 ### Changed
