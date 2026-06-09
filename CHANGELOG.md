@@ -7,6 +7,9 @@
 - update jeap-spring-boot-vault-starter from 23.2.0 to 23.3.0
 - Update logstash-logback-encoder from 8.1 to 9.0 (migrates to Jackson 3)
 - Update aws-advanced-jdbc-wrapper version to 4.0.1
+- update jeap-starter from 23.2.0 to 23.3.0
+- update jeap-server-sent-events from 8.9.1 to 8.9.2
+- update jeap-messaging from 15.3.0 to 15.4.0
 
 ## [33.9.1] - 2026-06-03
 ### Changed
