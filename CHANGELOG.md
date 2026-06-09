@@ -15,6 +15,8 @@
 - update jeap-messaging-outbox from 15.3.0 to 15.4.0
 - update jeap-reaction-observer from 8.3.0 to 8.4.0
 - update jeap-audit from 8.4.0 to 8.5.0
+- update jeap-spring-boot-security-starter from 23.2.0 to 23.3.0
+- update jeap-messaging-sequential-inbox from 18.3.0 to 18.4.0
 
 ## [35.3.0] - 2026-06-04
 
