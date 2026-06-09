@@ -12,8 +12,6 @@ Apache License Version 2.0
  * ch.admin.bit.jeap:jeap-spring-boot-logging-starter - [ch.admin.bit.jeap:jeap-spring-boot-logging-starter](https://github.com/jeap-admin-ch/jeap-spring-boot-starters/tree/main/jeap-spring-boot-logging-starter)
  * ch.admin.bit.jeap:jeap-spring-boot-rest-request-tracing - [ch.admin.bit.jeap:jeap-spring-boot-rest-request-tracing](https://github.com/jeap-admin-ch/jeap-spring-boot-starters/tree/main/jeap-spring-boot-rest-request-tracing)
  * Jackson-annotations - [com.fasterxml.jackson.core:jackson-annotations](https://github.com/FasterXML/jackson)
- * Jackson-core - [com.fasterxml.jackson.core:jackson-core](https://github.com/FasterXML/jackson-core)
- * jackson-databind - [com.fasterxml.jackson.core:jackson-databind](https://github.com/FasterXML/jackson)
  * Apache Commons Logging - [commons-logging:commons-logging](https://commons.apache.org/proper/commons-logging/)
  * context-propagation - [io.micrometer:context-propagation](https://github.com/micrometer-metrics/context-propagation)
  * micrometer-commons - [io.micrometer:micrometer-commons](https://github.com/micrometer-metrics/micrometer)
