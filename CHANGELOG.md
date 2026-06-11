@@ -12,6 +12,8 @@
 - Update aws-advanced-jdbc-wrapper version to 4.0.1
 - Update logstash-logback-encoder from 8.1 to 9.0 (migrates to Jackson 3)
 - update jeap-spring-boot-starters from 21.6.0 to 21.7.0
+- update jeap-spring-boot-security-client-starter from 23.2.0 to 23.3.0
+- update jeap-open-api-publisher from 4.6.0 to 4.7.0
 
 ## [33.9.2] - 2026-06-09
 ### Changed
