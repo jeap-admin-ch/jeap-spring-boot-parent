@@ -3,6 +3,9 @@
 ## [33.10.0] - 2026-06-11
 
 ### Changed
+  for FORWARD/INCLUDE dispatches so forwarded responses are served with their full body (without an ETag); regular
+  responses (e.g. Spring Boot's welcome page forwarding `/` to `index.html`). ETag content-caching is now disabled
+  requests keep their ETag unchanged.
 - Update parent from 6.0.5 to 6.0.6
 - Update parent from 8.0.1 to 8.1.0
 - update jeap-spring-boot-tls-starter from 17.65.0 to 17.66.0
@@ -15,6 +18,10 @@
 - update jeap-spring-boot-security-client-starter from 23.2.0 to 23.3.0
 - update jeap-open-api-publisher from 4.6.0 to 4.7.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.29.0 to 1.30.0
+- update jeap-spring-boot-vault-starter from 23.3.0 to 23.4.0
+- update jeap-crypto from 9.3.0 to 9.4.0
+- update jeap-messaging from 13.9.2 to 13.10.0
+- `jeap-spring-boot-web-config-starter`: the ShallowEtag filter no longer swallows the body of `forward:`-ed
 
 ## [33.9.2] - 2026-06-09
 ### Changed
