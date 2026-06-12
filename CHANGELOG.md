@@ -1,5 +1,11 @@
 # Changelog
 
+## [35.6.0] - 2026-06-12
+
+### Changed
+
+- Update parent from 8.1.0 to 8.2.0
+
 ## [35.5.0] - 2026-06-11
 ### Changed
   responses (e.g. Spring Boot's welcome page forwarding `/` to `index.html`). ETag content-caching is now disabled
