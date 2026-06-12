@@ -4,6 +4,11 @@
 
 ### Changed
 - Update parent from 8.1.0 to 8.2.0
+  - update spring boot 4.0.6 → 4.0.7 (patch)
+  - update jacoco-maven-plugin 0.8.14 → 0.8.15 (patch)
+  - update aws.sdk 2.46.0 → 2.46.9 (patch)
+  - update protobuf-java 4.35.0 → 4.35.1 (patch)
+  - manage logstash version in parent to omit different versions in child modules
 - update jeap-spring-boot-tls-starter from 19.2.0 to 19.3.0
 - update jeap-db-schema-publisher from 3.2.0 to 3.3.0
 - update jeap-spring-boot-db-migration-starter from 19.2.0 to 19.3.0
