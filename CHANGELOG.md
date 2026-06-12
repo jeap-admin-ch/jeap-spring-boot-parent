@@ -8,6 +8,8 @@
 - update jeap-db-schema-publisher from 3.2.0 to 3.3.0
 - update jeap-spring-boot-db-migration-starter from 19.2.0 to 19.3.0
 - update jeap-spring-boot-config-aws-starter from 19.2.0 to 19.3.0
+- Remove logstash version because it is managed by the internal parent now
+- update jeap-spring-boot-starters from 23.4.0 to 23.5.0
 
 ## [35.5.0] - 2026-06-11
 ### Changed
