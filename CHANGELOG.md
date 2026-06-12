@@ -7,6 +7,7 @@
 - update jeap-spring-boot-tls-starter from 19.2.0 to 19.3.0
 - update jeap-db-schema-publisher from 3.2.0 to 3.3.0
 - update jeap-spring-boot-db-migration-starter from 19.2.0 to 19.3.0
+- update jeap-spring-boot-config-aws-starter from 19.2.0 to 19.3.0
 
 ## [35.5.0] - 2026-06-11
 ### Changed
