@@ -25,6 +25,7 @@
 - update jeap-messaging-outbox from 13.10.0 to 13.11.0
 - update jeap-messaging-sequential-inbox from 16.10.0 to 16.11.0
 - update jeap-spring-boot-security-starter from 23.4.0 to 23.5.0
+- update jeap-reaction-observer from 6.10.0 to 6.11.0
 
 ## [33.10.0] - 2026-06-11
 
