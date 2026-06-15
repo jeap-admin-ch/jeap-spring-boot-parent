@@ -23,6 +23,8 @@
 - update jeap-starter from 23.4.0 to 23.5.0
 - update jeap-messaging from 15.5.0 to 15.6.0
 - update jeap-messaging-outbox from 13.10.0 to 13.11.0
+- update jeap-messaging-sequential-inbox from 16.10.0 to 16.11.0
+- update jeap-spring-boot-security-starter from 23.4.0 to 23.5.0
 
 ## [33.10.0] - 2026-06-11
 
