@@ -11,6 +11,8 @@
 - update jeap-db-schema-publisher from 1.30.0 to 1.31.0
 - Remove logstash version because it is managed by the internal parent now
 - update jeap-spring-boot-starters from 21.7.0 to 21.8.0
+- update jeap-open-api-publisher from 4.7.0 to 4.8.0
+- update jeap-spring-boot-security-client-starter from 23.4.0 to 23.5.0
 
 ## [33.10.0] - 2026-06-11
 
