@@ -7,6 +7,7 @@
 - Update parent from 8.1.0 to 8.2.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.30.0 to 1.31.0
 - update jeap-spring-boot-db-migration-starter from 17.66.0 to 17.67.0
+- update jeap-spring-boot-config-aws-starter from 17.66.0 to 17.67.0
 
 ## [33.10.0] - 2026-06-11
 
