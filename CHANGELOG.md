@@ -3,8 +3,9 @@
 ## [33.11.0] - 2026-06-15
 
 ### Changed
-
 - Update parent from 6.0.6 to 6.0.7
+- Update parent from 8.1.0 to 8.2.0
+- update jeap-spring-boot-roles-anywhere-starter from 1.30.0 to 1.31.0
 
 ## [33.10.0] - 2026-06-11
 
