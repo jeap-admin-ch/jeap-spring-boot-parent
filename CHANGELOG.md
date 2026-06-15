@@ -4,18 +4,15 @@
 
 ### Changed
 - Update parent from 6.0.6 to 6.0.7
-- Update parent from 8.1.0 to 8.2.0
 - update jeap-spring-boot-roles-anywhere-starter from 1.30.0 to 1.31.0
 - update jeap-spring-boot-db-migration-starter from 17.66.0 to 17.67.0
 - update jeap-spring-boot-config-aws-starter from 17.66.0 to 17.67.0
 - update jeap-db-schema-publisher from 1.30.0 to 1.31.0
-- Remove logstash version because it is managed by the internal parent now
 - update jeap-spring-boot-starters from 21.7.0 to 21.8.0
 - update jeap-open-api-publisher from 4.7.0 to 4.8.0
 - update jeap-spring-boot-security-client-starter from 23.4.0 to 23.5.0
 - update jeap-crypto from 7.7.0 to 7.8.0
 - update jeap-spring-boot-vault-starter from 23.4.0 to 23.5.0
-- Update logstash to 9.0 (managed from internal parent)
 - update jeap-crypto from 9.4.0 to 9.5.0
 - update jeap-messaging from 13.10.0 to 13.11.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.3.0 to 3.4.0
