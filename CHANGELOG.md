@@ -9,6 +9,9 @@
 - Refactored integration test assertion lambda to contain only a single potentially throwing invocation.
 - Replaced deprecated Apache HttpClient classes in integration tests (`SSLConnectionSocketFactory`, `PlainConnectionSocketFactory`, `BasicHttpClientConnectionManager`) with non-deprecated TLS/connection manager APIs.
 - Added a private constructor to `PemKeyCertPairFactory` to hide the implicit public constructor (utility class rule `java:S1118`).
+- Test code quality cleanup for Sonar: removed unused imports/field, resolved local variable shadowing, and replaced `StringBuilder` emptiness checks with `isEmpty()`.
+- Updated deprecated spring-boot-starter-web to spring-boot-starter-webmvc.
+- update jeap-server-sent-events from 10.6.0 to 10.6.1
 
 ## [35.7.0] - 2026-06-16
 
