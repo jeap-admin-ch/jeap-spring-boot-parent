@@ -32,6 +32,7 @@
 - initial release
 - update jeap-opensearch-index-type from 0.0.1 to 1.0.0
 - update jeap-opensearch-searchitem-api from 0.0.1 to 1.0.0
+- update jeap-opensearch-client-starter from 0.0.1 to 1.0.0
 
 ## [35.5.0] - 2026-06-11
 ### Changed
