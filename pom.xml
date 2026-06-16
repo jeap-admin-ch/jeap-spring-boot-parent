@@ -54,9 +54,13 @@
         <jeap-open-api-publisher.version>6.5.0</jeap-open-api-publisher.version>
         <jeap-spring-boot-roles-anywhere-starter.version>3.4.0</jeap-spring-boot-roles-anywhere-starter.version>
         <jeap-audit.version>8.7.0</jeap-audit.version>
+        <jeap-opensearch-index-type.version>0.0.1</jeap-opensearch-index-type.version>
+        <jeap-opensearch-searchitem.version>0.0.1</jeap-opensearch-searchitem.version>
+        <jeap-opensearch-client-starter.version>0.0.1</jeap-opensearch-client-starter.version>
         <!-- Maven Plugins -->
         <jeap-truststore-maven-plugin.version>3.2.0</jeap-truststore-maven-plugin.version>
         <jib-maven-plugin.version>3.5.1</jib-maven-plugin.version>
+        <jeap-opensearch-index-type-registry-maven-plugin.version>0.0.1</jeap-opensearch-index-type-registry-maven-plugin.version>
     </properties>
 
     <profiles>
@@ -316,6 +320,33 @@
                 <groupId>ch.admin.bit.jeap</groupId>
                 <artifactId>jeap-spring-boot-audit-starter-transactional-outbox</artifactId>
                 <version>${jeap-audit.version}</version>
+            </dependency>
+
+            <!-- jEAP OpenSearch -->
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-opensearch-index-type</artifactId>
+                <version>${jeap-opensearch-index-type.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-opensearch-client-starter</artifactId>
+                <version>${jeap-opensearch-client-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-opensearch-searchitem-api</artifactId>
+                <version>${jeap-opensearch-searchitem.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-opensearch-searchitem-model</artifactId>
+                <version>${jeap-opensearch-searchitem.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-opensearch-index-type-registry-maven-plugin</artifactId>
+                <version>${jeap-opensearch-index-type-registry-maven-plugin.version}</version>
             </dependency>
         </dependencies>
 
