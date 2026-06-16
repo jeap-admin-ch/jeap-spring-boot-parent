@@ -57,6 +57,7 @@
         <jeap-opensearch-index-type.version>1.0.0</jeap-opensearch-index-type.version>
         <jeap-opensearch-searchitem.version>1.0.0</jeap-opensearch-searchitem.version>
         <jeap-opensearch-client-starter.version>1.0.0</jeap-opensearch-client-starter.version>
+        <jeap-spring-boot-jwe-starter.version>0.0.1</jeap-spring-boot-jwe-starter.version>
         <!-- Maven Plugins -->
         <jeap-truststore-maven-plugin.version>3.2.0</jeap-truststore-maven-plugin.version>
         <jib-maven-plugin.version>3.5.1</jib-maven-plugin.version>
@@ -347,6 +348,33 @@
                 <groupId>ch.admin.bit.jeap</groupId>
                 <artifactId>jeap-opensearch-index-type-registry-maven-plugin</artifactId>
                 <version>${jeap-opensearch-index-type-registry-maven-plugin.version}</version>
+            </dependency>
+
+            <!-- jEAP JWE -->
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-jwe-starter</artifactId>
+                <version>${jeap-spring-boot-jwe-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-jwe-crypto</artifactId>
+                <version>${jeap-spring-boot-jwe-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-jwe-web</artifactId>
+                <version>${jeap-spring-boot-jwe-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-jwe-key-management</artifactId>
+                <version>${jeap-spring-boot-jwe-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-jwe-test</artifactId>
+                <version>${jeap-spring-boot-jwe-starter.version}</version>
             </dependency>
         </dependencies>
 
