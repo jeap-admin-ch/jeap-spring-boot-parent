@@ -1,14 +1,22 @@
 # Changelog
 
+## [35.7.0] - 2026-06-16
+
+- add jeap-opensearch-index-type 1.0.0
+- add jeap-opensearch-searchitem-api 1.0.0
+- add jeap-opensearch-client-starter 1.0.0
+- add jeap-opensearch-index-type-registry-maven-plugin 1.0.0
+- add jeap-spring-boot-jwe-starter 0.0.1
+
 ## [35.6.0] - 2026-06-12
 
 ### Changed
+- Update parent from 8.1.0 to 8.2.0
   - update spring boot 4.0.6 → 4.0.7 (patch)
   - update jacoco-maven-plugin 0.8.14 → 0.8.15 (patch)
   - update aws.sdk 2.46.0 → 2.46.9 (patch)
   - update protobuf-java 4.35.0 → 4.35.1 (patch)
   - manage logstash version in parent to omit different versions in child modules
-- Update parent from 8.1.0 to 8.2.0
 - update jeap-spring-boot-tls-starter from 19.2.0 to 19.3.0
 - update jeap-db-schema-publisher from 3.2.0 to 3.3.0
 - update jeap-spring-boot-db-migration-starter from 19.2.0 to 19.3.0
@@ -29,11 +37,6 @@
 - update jeap-spring-boot-security-starter from 23.4.0 to 23.5.0
 - update jeap-messaging-outbox from 15.5.0 to 15.6.0
 - update jeap-audit from 8.6.0 to 8.7.0
-- initial release
-- update jeap-opensearch-index-type from 0.0.1 to 1.0.0
-- update jeap-opensearch-searchitem-api from 0.0.1 to 1.0.0
-- update jeap-opensearch-client-starter from 0.0.1 to 1.0.0
-- update jeap-opensearch-index-type-registry-maven-plugin from 0.0.1 to 1.0.0
 
 ## [35.5.0] - 2026-06-11
 ### Changed
