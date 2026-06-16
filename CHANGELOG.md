@@ -1,5 +1,15 @@
 # Changelog
 
+## [35.7.1] - 2026-06-16
+### Changed
+- update jeap-spring-boot-tls-starter from 19.3.0 to 19.3.1
+- Updated deprected spring-boot-starter-web to spring-boot-starter-webmvc.
+- Replaced deprecated `org.springframework.boot.env.EnvironmentPostProcessor` with `org.springframework.boot.EnvironmentPostProcessor` and updated `META-INF/spring.factories` accordingly.
+- Removed duplicated `server.ssl.bundle` string usage and reused constant `SSL_BUNDLE_PROPERTY_NAME`.
+- Refactored integration test assertion lambda to contain only a single potentially throwing invocation.
+- Replaced deprecated Apache HttpClient classes in integration tests (`SSLConnectionSocketFactory`, `PlainConnectionSocketFactory`, `BasicHttpClientConnectionManager`) with non-deprecated TLS/connection manager APIs.
+- Added a private constructor to `PemKeyCertPairFactory` to hide the implicit public constructor (utility class rule `java:S1118`).
+
 ## [35.7.0] - 2026-06-16
 
 - add jeap-opensearch-index-type 1.0.0
