@@ -5,6 +5,7 @@
 - update jeap-open-api-publisher from 6.5.0 to 6.5.1
 - Sonar issues
 - Deprecated spring boot starter
+- update jeap-messaging-sequential-inbox from 18.6.0 to 18.6.1
 
 ## [35.7.1] - 2026-06-16
 ### Changed
