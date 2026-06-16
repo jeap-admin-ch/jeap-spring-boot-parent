@@ -1,5 +1,11 @@
 # Changelog
 
+## [35.7.3] - 2026-06-16
+### Changed
+- update jeap-db-schema-publisher from 3.3.0 to 3.3.1
+- Sonar issues
+- Deprecated spring boot starter
+
 ## [35.7.2] - 2026-06-16
 ### Changed
 - update jeap-open-api-publisher from 6.5.0 to 6.5.1
