@@ -31,6 +31,7 @@
 - update jeap-audit from 8.6.0 to 8.7.0
 - initial release
 - update jeap-opensearch-index-type from 0.0.1 to 1.0.0
+- update jeap-opensearch-searchitem-api from 0.0.1 to 1.0.0
 
 ## [35.5.0] - 2026-06-11
 ### Changed
