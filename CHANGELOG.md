@@ -40,6 +40,7 @@
 - update jeap-messaging from 15.7.0 to 15.8.0
 - update jeap-starter from 23.5.2 to 23.6.0
 - update jeap-server-sent-events from 10.7.0 to 10.8.0
+- update jeap-messaging-outbox from 15.7.1 to 15.8.0
 
 ## [35.7.3] - 2026-06-16
 ### Changed
