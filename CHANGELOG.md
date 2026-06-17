@@ -23,6 +23,7 @@
 - update jeap-messaging-outbox from 15.6.0 to 15.7.0
 - update jeap-reaction-observer from 8.6.0 to 8.7.0
 - update jeap-opensearch-index-type from 1.0.0 to 1.1.0
+- update jeap-messaging-outbox from 15.7.0 to 15.7.1
 
 ## [35.7.3] - 2026-06-16
 ### Changed
