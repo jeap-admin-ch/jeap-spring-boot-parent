@@ -34,6 +34,8 @@
 - update jeap-spring-boot-vault-starter from 23.5.2 to 23.6.0
 - update jeap-crypto from 9.6.0 to 9.7.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 1.0.0 to 1.1.0
+- update jeap-opensearch-searchitem-api from 1.0.0 to 1.1.0
+- update starter from 23.5.0 to 23.6.0
 
 ## [35.7.3] - 2026-06-16
 ### Changed
