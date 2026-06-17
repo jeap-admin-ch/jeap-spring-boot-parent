@@ -6,6 +6,7 @@
 - Update parent from 8.2.0 to 8.3.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.4.0 to 3.5.0
 - update jeap-spring-boot-config-aws-starter from 19.3.0 to 19.4.0
+- update jeap-db-schema-publisher from 3.3.1 to 3.4.0
 
 ## [35.7.3] - 2026-06-16
 ### Changed
