@@ -27,6 +27,7 @@
 - update jeap-spring-boot-security-starter from 23.5.0 to 23.5.2
 - update jeap-messaging-sequential-inbox from 18.6.1 to 18.7.0
 - update jeap-spring-boot-starters from 23.5.2 to 23.6.0
+- update jeap-spring-boot-db-migration-starter from 19.3.0 to 19.4.0
 
 ## [35.7.3] - 2026-06-16
 ### Changed
