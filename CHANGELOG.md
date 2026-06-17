@@ -1,5 +1,11 @@
 # Changelog
 
+## [35.8.0] - 2026-06-17
+
+### Changed
+
+- Update parent from 8.2.0 to 8.3.0
+
 ## [35.7.3] - 2026-06-16
 ### Changed
 - update jeap-db-schema-publisher from 3.3.0 to 3.3.1
