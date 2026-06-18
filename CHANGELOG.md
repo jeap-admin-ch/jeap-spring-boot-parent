@@ -25,6 +25,8 @@
 - update jeap-spring-boot-security-starter from 23.6.0 to 23.7.0
 - update jeap-messaging-outbox from 15.8.0 to 15.9.0
 - update jeap-audit from 8.8.0 to 8.9.0
+- update jeap-messaging from 15.9.0 to 15.10.0
+- refactor the upload artifact in the avro maven plugin to ignore errors if the artifact is already present in the repository
 
 ## [35.8.0] - 2026-06-17
 
