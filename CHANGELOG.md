@@ -27,6 +27,7 @@
 - update jeap-audit from 8.8.0 to 8.9.0
 - update jeap-messaging from 15.9.0 to 15.10.0
 - refactor the upload artifact in the avro maven plugin to ignore errors if the artifact is already present in the repository
+- update jeap-server-sent-events from 10.9.0 to 10.10.0
 
 ## [35.8.0] - 2026-06-17
 
