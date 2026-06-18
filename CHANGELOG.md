@@ -11,6 +11,8 @@
 - update jeap-opensearch-index-type from 1.1.0 to 1.2.0
 - update jeap-open-api-publisher from 6.7.0 to 6.8.0
 - update jeap-spring-boot-security-client-starter from 23.6.0 to 23.7.0
+- update jeap-crypto from 9.7.0 to 9.8.0
+- update jeap-spring-boot-vault-starter from 23.6.0 to 23.7.0
 
 ## [35.8.0] - 2026-06-17
 
