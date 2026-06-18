@@ -21,6 +21,8 @@
 - update jeap-opensearch-client-starter from 1.1.0 to 1.2.0
 - update jeap-messaging from 15.8.0 to 15.9.0
 - update jeap-server-sent-events from 10.8.0 to 10.9.0
+- update jeap-messaging-sequential-inbox from 18.8.0 to 18.9.0
+- update jeap-spring-boot-security-starter from 23.6.0 to 23.7.0
 
 ## [35.8.0] - 2026-06-17
 
