@@ -3,29 +3,6 @@
 ## [35.8.0] - 2026-06-17
 
 ### Changed
-- Update parent from 8.2.0 to 8.3.0
-- update jeap-spring-boot-roles-anywhere-starter from 3.4.0 to 3.5.0
-- update jeap-spring-boot-config-aws-starter from 19.3.0 to 19.4.0
-- update jeap-db-schema-publisher from 3.3.1 to 3.4.0
-- Replaced deprecated spring boot starter
-- Fixed sonar issues
-- update jeap-audit from 8.7.0 to 8.7.1
-- Deprecated spring boot starter
-- Sonar issues
-- update jeap-spring-boot-starters from 23.5.0 to 23.5.2
-- update jeap-spring-boot-security-client-starter from 23.5.0 to 23.5.2
-- update jeap-open-api-publisher from 6.5.1 to 6.6.0
-- update jeap-spring-boot-vault-starter from 23.5.0 to 23.5.2
-- update jeap-crypto from 9.5.0 to 9.6.0
-- update jeap-messaging from 15.6.0 to 15.7.0
-- update jeap-starter from 23.5.0 to 23.5.2
-- update jeap-server-sent-events from 10.6.1 to 10.7.0
-- update jeap-messaging-outbox from 15.6.0 to 15.7.0
-- update jeap-reaction-observer from 8.6.0 to 8.7.0
-- update jeap-opensearch-index-type from 1.0.0 to 1.1.0
-- update jeap-messaging-outbox from 15.7.0 to 15.7.1
-- update jeap-spring-boot-security-starter from 23.5.0 to 23.5.2
-- update jeap-messaging-sequential-inbox from 18.6.1 to 18.7.0
 - update jeap-spring-boot-starters from 23.5.2 to 23.6.0
 - update jeap-spring-boot-db-migration-starter from 19.3.0 to 19.4.0
 - update jeap-spring-boot-tls-starter from 19.3.1 to 19.4.0
@@ -35,10 +12,8 @@
 - update jeap-crypto from 9.6.0 to 9.7.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 1.0.0 to 1.1.0
 - update jeap-opensearch-searchitem-api from 1.0.0 to 1.1.0
-- update starter from 23.5.0 to 23.6.0
 - update jeap-opensearch-client-starter from 1.0.0 to 1.1.0
 - update jeap-messaging from 15.7.0 to 15.8.0
-- update jeap-starter from 23.5.2 to 23.6.0
 - update jeap-server-sent-events from 10.7.0 to 10.8.0
 - update jeap-messaging-outbox from 15.7.1 to 15.8.0
 - update jeap-spring-boot-security-starter from 23.5.2 to 23.6.0
