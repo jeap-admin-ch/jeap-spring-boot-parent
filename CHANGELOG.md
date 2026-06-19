@@ -19,21 +19,15 @@
 - update jeap-opensearch-searchitem-api from 1.1.0 to 1.2.0
 - update jeap-starter from 23.6.0 to 23.7.0
 - update jeap-opensearch-client-starter from 1.1.0 to 1.2.0
-- update jeap-messaging from 15.8.0 to 15.9.0
-- update jeap-server-sent-events from 10.8.0 to 10.9.0
-- update jeap-messaging-sequential-inbox from 18.8.0 to 18.9.0
+- update jeap-messaging from 15.8.0 to 15.10.0
+  - refactor the upload artifact in the avro maven plugin to ignore errors if the artifact is already present in the repository
 - update jeap-spring-boot-security-starter from 23.6.0 to 23.7.0
-- update jeap-messaging-outbox from 15.8.0 to 15.9.0
-- update jeap-audit from 8.8.0 to 8.9.0
-- update jeap-messaging from 15.9.0 to 15.10.0
-- refactor the upload artifact in the avro maven plugin to ignore errors if the artifact is already present in the repository
-- update jeap-server-sent-events from 10.9.0 to 10.10.0
-- update jeap-messaging-outbox from 15.9.0 to 15.10.0
-- update jeap-messaging-sequential-inbox from 18.9.0 to 18.10.0
+- update jeap-messaging-outbox from 15.8.0 to 15.10.0
+- update jeap-server-sent-events from 10.8.0 to 10.10.0
+- update jeap-messaging-sequential-inbox from 18.8.0 to 18.10.0
 - update jeap-reaction-observer from 8.8.0 to 8.10.0
-- update jeap-audit from 8.9.0 to 8.10.0
+- update jeap-audit from 8.8.0 to 8.10.0
 - update jeap-spring-boot-jwe-starter from 0.0.1 to 0.0.3
-- Update parent from 8.2.0 to 8.3.1
 
 ## [35.8.0] - 2026-06-17
 
