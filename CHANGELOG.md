@@ -22,6 +22,7 @@
 - update jeap-messaging from 15.10.0 to 15.11.0
 - update jeap-reaction-observer from 8.10.0 to 8.11.0
 - update jeap-opensearch-client-starter from 1.2.0 to 1.3.0
+- update jeap-server-sent-events from 10.10.0 to 10.11.0
 
 ## [35.9.0] - 2026-06-18
 
