@@ -6,6 +6,7 @@
 - Update parent from 8.3.1 to 8.3.2
 - update jeap-spring-boot-tls-starter from 19.5.0 to 19.6.0
 - update jeap-spring-boot-db-migration-starter from 19.5.0 to 19.6.0
+- update jeap-opensearch-index-type from 1.2.0 to 1.3.0
 
 ## [35.9.0] - 2026-06-18
 
