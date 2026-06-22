@@ -17,6 +17,8 @@
 - update jeap-spring-boot-security-client-starter from 23.7.0 to 23.8.0
 - update jeap-opensearch-searchitem-api from 1.2.0 to 1.3.0
 - update jeap-starter from 23.7.0 to 23.8.0
+- update jeap-crypto from 9.8.0 to 9.9.0
+- update jeap-spring-boot-vault-starter from 23.7.0 to 23.8.0
 
 ## [35.9.0] - 2026-06-18
 
