@@ -21,6 +21,7 @@
 - update jeap-spring-boot-vault-starter from 23.7.0 to 23.8.0
 - update jeap-messaging from 15.10.0 to 15.11.0
 - update jeap-reaction-observer from 8.10.0 to 8.11.0
+- update jeap-opensearch-client-starter from 1.2.0 to 1.3.0
 
 ## [35.9.0] - 2026-06-18
 
