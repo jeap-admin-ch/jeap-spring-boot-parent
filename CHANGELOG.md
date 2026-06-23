@@ -3,30 +3,7 @@
 ## [35.11.0] - 2026-06-23
 
 ### Changed
-- Update parent from 8.3.2 to 8.3.3
-- update jeap-spring-boot-tls-starter from 19.6.0 to 19.7.0
-- update jeap-spring-boot-db-migration-starter from 19.6.0 to 19.7.0
-- update jeap-db-schema-publisher from 3.6.0 to 3.7.0
-- update jeap-spring-boot-roles-anywhere-starter from 3.7.0 to 3.8.0
-- update jeap-spring-boot-config-aws-starter from 19.6.0 to 19.7.0
-- update jeap-spring-boot-jwe-starter from 0.1.0 to 0.2.0
-- update jeap-opensearch-index-type from 1.3.0 to 1.4.0
-- update jeap-opensearch-index-type-registry-maven-plugin from 1.3.0 to 1.4.0
-- update jeap-spring-boot-starters from 23.8.0 to 23.9.0
-- update jeap-open-api-publisher from 6.9.0 to 6.10.0
-- update jeap-spring-boot-security-client-starter from 23.8.0 to 23.9.0
-- update jeap-opensearch-searchitem-api from 1.3.0 to 1.4.0
-- update jeap-starter from 23.8.0 to 23.9.0
-- update jeap-opensearch-client-starter from 1.3.0 to 1.4.0
-- update jeap-crypto from 9.9.0 to 9.10.0
-- update jeap-spring-boot-vault-starter from 23.8.0 to 23.9.0
-- update jeap-messaging from 15.11.0 to 15.12.0
-- update jeap-messaging-outbox from 15.11.0 to 15.12.0
-- update jeap-server-sent-events from 10.11.0 to 10.12.0
-- update jeap-reaction-observer from 8.11.0 to 8.12.0
-- update jeap-messaging-sequential-inbox from 18.11.0 to 18.12.0
-- update jeap-spring-boot-security-starter from 23.8.0 to 23.9.0
-- update jeap-audit from 8.11.0 to 8.12.0
+- Update parent from 8.3.2 to 8.3.3 (align value of spring-boot.version with spring boot version)
 
 ## [35.10.0] - 2026-06-22
 
