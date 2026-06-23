@@ -16,7 +16,7 @@ Add `jeap-spring-boot-parent` as the `<parent>` of your project POM:
 </parent>
 ```
 
-Always ruUse the latest available version.
+Always use the latest available version.
 
 ## 2. Use managed dependencies without versions
 
