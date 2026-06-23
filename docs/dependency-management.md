@@ -3,7 +3,7 @@
 `jeap-spring-boot-parent` centralizes the versions of jEAP libraries and commonly used Maven plugins
 so consuming projects can omit `<version>` on managed dependencies. This page summarizes what is
 managed; the authoritative source is the `<properties>`, `<dependencyManagement>` and
-`<pluginManagement>` sections of [pom.xml](../pom.xml).
+`<pluginManagement>` sections of `pom.xml`.
 
 ## Spring Boot / Spring Cloud baseline
 
