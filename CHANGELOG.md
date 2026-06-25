@@ -6,6 +6,7 @@
 - Shorten common lib snapshot versions in the avro maven plugin: the snapshot version is now the timestamp-based version followed by `-SNAPSHOT` (`<timestamp-version>-SNAPSHOT`) instead of embedding the branch name
 - Stop generating the additional classifier artifact for common (`*-messaging-common`) types in the avro maven plugin,
   as they only ever exist in a single version and are consumed without a classifier
+- update jeap-server-sent-events from 10.12.0 to 10.12.1
 
 ## [35.11.0] - 2026-06-23
 
