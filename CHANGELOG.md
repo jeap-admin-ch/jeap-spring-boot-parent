@@ -7,6 +7,7 @@
 - Stop generating the additional classifier artifact for common (`*-messaging-common`) types in the avro maven plugin,
   as they only ever exist in a single version and are consumed without a classifier
 - update jeap-server-sent-events from 10.12.0 to 10.12.1
+- update jeap-messaging-outbox from 15.12.0 to 15.12.1
 
 ## [35.11.0] - 2026-06-23
 
