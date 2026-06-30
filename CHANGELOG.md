@@ -6,6 +6,7 @@
 - Update parent from 8.3.3 to 8.3.4
 - update jeap-spring-boot-tls-starter from 19.7.0 to 19.8.0
 - update jeap-spring-boot-db-migration-starter from 19.7.0 to 19.8.0
+- update jeap-db-schema-publisher from 3.7.0 to 3.8.0
 
 ## [36.0.0] - 2026-06-30
 ### Changed
