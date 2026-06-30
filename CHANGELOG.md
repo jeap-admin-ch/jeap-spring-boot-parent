@@ -1,5 +1,16 @@
 # Changelog
 
+## [36.0.0] - 2026-06-30
+### Changed
+- update jeap-spring-boot-jwe-starter from 0.2.0 to 1.1.0
+- Observability: Micrometer metrics for decryption success/failure and latency, response encryption,
+  Vault key-refresh status, active/current key versions, and a governance gauge
+  (`jeap.jwe.encryption.active`) to verify end-to-end encryption is active. Activates automatically
+  when a `MeterRegistry` is present (optional dependency, no-op otherwise).
+- Use the Amazon Corretto Crypto Provider (ACCP) to accelerate the JWE RSA-OAEP and AES-GCM
+  operations, with a transparent fallback to the JDK provider when the native library is unavailable
+  (same approach as jeap-crypto-core).
+
 ## [35.11.1] - 2026-06-25
 ### Changed
 - update jeap-messaging from 15.12.0 to 15.12.1
