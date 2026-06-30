@@ -24,6 +24,7 @@
 - update jeap-spring-boot-security-starter from 23.9.0 to 23.10.0
 - update jeap-audit from 8.12.1 to 8.13.0
 - update jeap-opensearch-index-type from 1.4.0 to 1.5.0
+- update jeap-opensearch-index-type-registry-maven-plugin from 1.4.0 to 1.5.0
 
 ## [36.0.0] - 2026-06-30
 ### Changed
