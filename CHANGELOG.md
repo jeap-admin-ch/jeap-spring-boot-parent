@@ -1,5 +1,11 @@
 # Changelog
 
+## [36.1.0] - 2026-06-30
+
+### Changed
+
+- Update parent from 8.3.3 to 8.3.4
+
 ## [36.0.0] - 2026-06-30
 ### Changed
 - update jeap-spring-boot-jwe-starter from 0.2.0 to 1.1.0
