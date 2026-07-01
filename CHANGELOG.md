@@ -14,6 +14,7 @@
 - update jeap-messaging from 15.13.0 to 15.13.1
 - update jeap-server-sent-events from 10.13.0 to 10.13.1
 - update jeap-messaging-outbox from 15.13.0 to 15.13.1
+- update jeap-reaction-observer from 8.13.0 to 8.13.1
 
 ## [36.1.0] - 2026-06-30
 
