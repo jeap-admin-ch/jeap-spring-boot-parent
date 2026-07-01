@@ -1,5 +1,10 @@
 # Changelog
 
+## [36.1.1] - 2026-07-01
+### Changed
+- update jeap-spring-boot-starters from 23.10.0 to 23.10.1
+- Add missing `test` scope to test/mock dependencies (`spring-boot-webmvc-test` in swagger starter, `wiremock-standalone` in security starter)
+
 ## [36.1.0] - 2026-06-30
 
 ### Changed
