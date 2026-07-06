@@ -16,6 +16,7 @@
   CEK lifetime, key-rotation recommendations)
 - Docs: add a Vault key-rotation sequence diagram and extend getting-started with a jEAP integration guide
 - Docs: link the jeap-jwe-client library via its jEAP docs page
+- update jeap-messaging from 15.13.1 to 15.13.2
 
 ## [36.2.1] - 2026-07-06
 ### Changed
