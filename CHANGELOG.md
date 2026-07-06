@@ -6,6 +6,8 @@
 - Fix deprecated `@Valid` container annotation on `authServers` in `ResourceServerProperties` (Hibernate Validator warning HV000271)
 - update jeap-open-api-publisher from 6.11.1 to 6.11.2
 - update jeap-spring-boot-security-client-starter from 23.10.1 to 23.10.2
+- update jeap-opensearch-searchitem-api from 1.5.1 to 1.5.2
+- update jeap-starter from 23.10.1 to 23.10.2
 
 ## [36.2.1] - 2026-07-06
 ### Changed
