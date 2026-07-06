@@ -11,6 +11,11 @@
 - update jeap-opensearch-client-starter from 1.5.1 to 1.5.2
 - update jeap-crypto from 9.11.1 to 9.11.2
 - update jeap-spring-boot-vault-starter from 23.10.1 to 23.10.2
+- update jeap-spring-boot-jwe-starter from 1.2.1 to 1.2.2
+- Docs: add a troubleshooting guide and a consolidated security-considerations page (IV uniqueness,
+  CEK lifetime, key-rotation recommendations)
+- Docs: add a Vault key-rotation sequence diagram and extend getting-started with a jEAP integration guide
+- Docs: link the jeap-jwe-client library via its jEAP docs page
 
 ## [36.2.1] - 2026-07-06
 ### Changed
