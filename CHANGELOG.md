@@ -1,5 +1,10 @@
 # Changelog
 
+## [36.2.2] - 2026-07-06
+### Changed
+- update jeap-spring-boot-starters from 23.10.1 to 23.10.2
+- Fix deprecated `@Valid` container annotation on `authServers` in `ResourceServerProperties` (Hibernate Validator warning HV000271)
+
 ## [36.2.1] - 2026-07-06
 ### Changed
 - update jeap-spring-boot-jwe-starter from 1.2.0 to 1.2.1
