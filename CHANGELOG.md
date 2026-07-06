@@ -1,5 +1,12 @@
 # Changelog
 
+## [36.2.1] - 2026-07-06
+### Changed
+- update jeap-spring-boot-jwe-starter from 1.2.0 to 1.2.1
+- Register the JWE meters through a Micrometer `MeterBinder` instead of at bean construction, so they
+  are bound only after all `MeterFilter`s are applied - eliminates the `PrometheusMeterRegistry`
+  startup warning "A MeterFilter is being configured after a Meter has been registered".
+
 ## [36.2.0] - 2026-07-01
 ### Changed
 - update jeap-audit from 8.13.1 to 8.14.0
