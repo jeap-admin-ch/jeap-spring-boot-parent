@@ -1,5 +1,13 @@
 # Changelog
 
+## [36.3.1] - 2026-07-07
+### Changed
+- update jeap-spring-boot-jwe-starter from 1.2.2 to 1.2.3
+- Install the Amazon Corretto Crypto Provider eagerly at application startup instead of on the first encrypted request
+- Route the RSA-OAEP-256 key unwrap through the generic JCA OAEP transformation so ACCP serves the RSA private-key operation
+- Cache the ready-to-use decrypter incl. the derived JCA private key per key version, evicting retired versions on key refresh
+- Share one SecureRandom for response-IV generation instead of allocating a new one per encrypted response
+
 ## [36.3.0] - 2026-07-07
 ### Changed
 - update jeap-messaging from 15.13.2 to 15.14.0
