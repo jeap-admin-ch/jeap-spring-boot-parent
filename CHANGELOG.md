@@ -9,6 +9,7 @@
 - Idempotent message handler: `IdempotentMessageHandlerExecutionSkippedException` now provides `MessageHandlerExceptionInformation`
   with temporality `TEMPORARY` and specific error codes, letting the jEAP error handling service resend skipped messages
   automatically instead of creating a manual task.
+- update jeap-server-sent-events from 10.13.2 to 10.14.0
 
 ## [36.2.2] - 2026-07-06
 ### Changed
