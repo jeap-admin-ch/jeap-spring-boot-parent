@@ -10,6 +10,7 @@
   with temporality `TEMPORARY` and specific error codes, letting the jEAP error handling service resend skipped messages
   automatically instead of creating a manual task.
 - update jeap-server-sent-events from 10.13.2 to 10.14.0
+- update jeap-messaging-outbox from 15.13.2 to 15.14.0
 
 ## [36.2.2] - 2026-07-06
 ### Changed
