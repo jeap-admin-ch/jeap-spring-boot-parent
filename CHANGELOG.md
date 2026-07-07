@@ -1,5 +1,15 @@
 # Changelog
 
+## [36.3.0] - 2026-07-07
+### Changed
+- update jeap-messaging from 15.13.2 to 15.14.0
+- Idempotent message handler: on PostgreSQL, idempotent processing records are now created with `INSERT ... ON CONFLICT DO NOTHING`,
+  so handling the same message concurrently no longer fails the second handler with a duplicate key violation.
+  The insert strategy is auto-detected and can be overridden with the new property `jeap.messaging.idempotent-processing.insert-mode`.
+- Idempotent message handler: `IdempotentMessageHandlerExecutionSkippedException` now provides `MessageHandlerExceptionInformation`
+  with temporality `TEMPORARY` and specific error codes, letting the jEAP error handling service resend skipped messages
+  automatically instead of creating a manual task.
+
 ## [36.2.2] - 2026-07-06
 ### Changed
 - update jeap-spring-boot-starters from 23.10.1 to 23.10.2
