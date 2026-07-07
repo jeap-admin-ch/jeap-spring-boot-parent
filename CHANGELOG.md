@@ -11,6 +11,7 @@
   automatically instead of creating a manual task.
 - update jeap-server-sent-events from 10.13.2 to 10.14.0
 - update jeap-messaging-outbox from 15.13.2 to 15.14.0
+- update jeap-reaction-observer from 8.13.2 to 8.14.0
 
 ## [36.2.2] - 2026-07-06
 ### Changed
