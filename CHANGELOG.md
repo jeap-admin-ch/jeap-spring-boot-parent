@@ -15,6 +15,8 @@
 - update jeap-messaging from 15.14.0 to 15.15.0
 - update jeap-messaging-outbox from 15.14.0 to 15.15.0
 - update jeap-server-sent-events from 10.14.0 to 10.15.0
+- update jeap-messaging-sequential-inbox from 18.14.0 to 18.15.0
+- update jeap-spring-boot-security-starter from 23.10.2 to 23.11.0
 
 ## [36.3.1] - 2026-07-07
 ### Changed
