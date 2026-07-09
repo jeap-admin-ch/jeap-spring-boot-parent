@@ -14,6 +14,7 @@
 - update jeap-opensearch-client-starter from 1.5.2 to 1.6.0
 - update jeap-messaging from 15.14.0 to 15.15.0
 - update jeap-messaging-outbox from 15.14.0 to 15.15.0
+- update jeap-server-sent-events from 10.14.0 to 10.15.0
 
 ## [36.3.1] - 2026-07-07
 ### Changed
