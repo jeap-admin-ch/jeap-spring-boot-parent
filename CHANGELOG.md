@@ -1,5 +1,11 @@
 # Changelog
 
+## [36.4.0] - 2026-07-09
+### Changed
+- update jeap-spring-boot-starters from 23.10.2 to 23.11.0
+- `jeap-spring-boot-swagger`: translate the actuator OpenAPI group's title and description from German to English ("Monitoring Endpunkte" → "Monitoring Endpoints")
+- Update documentation 
+
 ## [36.3.1] - 2026-07-07
 ### Changed
 - update jeap-spring-boot-jwe-starter from 1.2.2 to 1.2.3
