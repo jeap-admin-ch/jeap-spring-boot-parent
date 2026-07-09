@@ -4,6 +4,8 @@
 ### Changed
 - update jeap-spring-boot-starters from 23.11.0 to 23.12.0
 - Add OIDC Authorization mock server.
+- update jeap-open-api-publisher from 6.12.0 to 6.13.0
+- update jeap-spring-boot-security-client-starter from 23.11.0 to 23.12.0
 
 ## [36.4.0] - 2026-07-09
 ### Changed
