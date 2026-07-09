@@ -1,5 +1,13 @@
 # Changelog
 
+## [36.6.0] - 2026-07-09
+### Changed
+- update jeap-opensearch-searchitem-api from 1.7.0 to 1.8.0
+- update jeap-starter from 23.12.0 to 23.13.0
+- `jeap-spring-boot-security-starter-test`: add named role profiles in `OidcAuthorizationMockServer` via `withRoleProfile(...)`, plus profile switching via `setActiveProfile(...)`.
+- `jeap-spring-boot-security-starter-test`: add convenience identity-claim setters in `OidcAuthorizationMockServer` (`withGivenName(...)`, `withFamilyName(...)`, `withName(...)`, `withLocale(...)`) for access token, ID token and userinfo responses.
+- `jeap-spring-boot-security-starter-test`: `OidcAuthorizationMockServer.reset()` now restores the default profile and clears runtime OAuth state without rotating the JWKS key.
+
 ## [36.5.0] - 2026-07-09
 ### Changed
 - update jeap-spring-boot-starters from 23.11.0 to 23.12.0
