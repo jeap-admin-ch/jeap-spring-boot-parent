@@ -1,5 +1,10 @@
 # Changelog
 
+## [36.5.0] - 2026-07-09
+### Changed
+- update jeap-spring-boot-starters from 23.11.0 to 23.12.0
+- Add OIDC Authorization mock server.
+
 ## [36.4.0] - 2026-07-09
 ### Changed
 - update jeap-spring-boot-starters from 23.10.2 to 23.11.0
