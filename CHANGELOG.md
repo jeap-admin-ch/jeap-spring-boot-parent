@@ -1,12 +1,7 @@
 # Changelog
 
-## [36.6.0] - 2026-07-09
+## [36.7.0] - 2026-07-10
 ### Changed
-- update jeap-opensearch-searchitem-api from 1.7.0 to 1.8.0
-- update jeap-starter from 23.12.0 to 23.13.0
-- `jeap-spring-boot-security-starter-test`: add named role profiles in `OidcAuthorizationMockServer` via `withRoleProfile(...)`, plus profile switching via `setActiveProfile(...)`.
-- `jeap-spring-boot-security-starter-test`: add convenience identity-claim setters in `OidcAuthorizationMockServer` (`withGivenName(...)`, `withFamilyName(...)`, `withName(...)`, `withLocale(...)`) for access token, ID token and userinfo responses.
-- `jeap-spring-boot-security-starter-test`: `OidcAuthorizationMockServer.reset()` now restores the default profile and clears runtime OAuth state without rotating the JWKS key.
 - update jeap-crypto from 9.13.0 to 9.14.0
 - update jeap-spring-boot-vault-starter from 23.12.0 to 23.13.0
 - update jeap-messaging from 15.16.0 to 15.17.0
@@ -16,6 +11,11 @@
 - update jeap-messaging-sequential-inbox from 18.16.0 to 18.17.0
 - update jeap-spring-boot-security-starter from 23.12.0 to 23.13.0
 - update jeap-audit from 8.17.0 to 8.18.0
+
+## [36.6.0] - 2026-07-09
+### Changed
+- update jeap-opensearch-searchitem-api from 1.7.0 to 1.8.0
+- update jeap-starter from 23.12.0 to 23.13.0
 
 ## [36.5.0] - 2026-07-09
 ### Changed
@@ -35,9 +35,6 @@
 - update jeap-messaging-sequential-inbox from 18.15.0 to 18.16.0
 - update jeap-spring-boot-security-starter from 23.11.0 to 23.12.0
 - update jeap-spring-boot-starters from 23.12.0 to 23.13.0
-- `jeap-spring-boot-security-starter-test`: add named role profiles in `OidcAuthorizationMockServer` via `withRoleProfile(...)`, plus profile switching via `setActiveProfile(...)`.
-- `jeap-spring-boot-security-starter-test`: add convenience identity-claim setters in `OidcAuthorizationMockServer` (`withGivenName(...)`, `withFamilyName(...)`, `withName(...)`, `withLocale(...)`) for access token, ID token and userinfo responses.
-- `jeap-spring-boot-security-starter-test`: `OidcAuthorizationMockServer.reset()` now restores the default profile and clears runtime OAuth state without rotating the JWKS key.
 - update jeap-audit from 8.16.0 to 8.17.0
 - update jeap-open-api-publisher from 6.13.0 to 6.14.0
 - update jeap-spring-boot-security-client-starter from 23.12.0 to 23.13.0
