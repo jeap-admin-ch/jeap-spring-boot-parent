@@ -51,7 +51,7 @@
         <jeap-crypto.version>9.14.0</jeap-crypto.version>
         <jeap-server-sent-events.version>10.17.0</jeap-server-sent-events.version>
         <jeap-db-schema-publisher.version>3.9.0</jeap-db-schema-publisher.version>
-        <jeap-open-api-publisher.version>6.14.0</jeap-open-api-publisher.version>
+        <jeap-open-api-publisher.version>6.15.0</jeap-open-api-publisher.version>
         <jeap-spring-boot-roles-anywhere-starter.version>3.10.0</jeap-spring-boot-roles-anywhere-starter.version>
         <jeap-audit.version>8.18.0</jeap-audit.version>
         <jeap-opensearch-index-type.version>1.6.0</jeap-opensearch-index-type.version>
