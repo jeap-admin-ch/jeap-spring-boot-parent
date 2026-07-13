@@ -1,5 +1,11 @@
 # Changelog
 
+## [36.8.0] - 2026-07-13
+
+### Changed
+
+- Update parent from 8.3.4 to 8.4.0
+
 ## [36.7.0] - 2026-07-10
 ### Changed
 - update jeap-crypto from 9.13.0 to 9.14.0
