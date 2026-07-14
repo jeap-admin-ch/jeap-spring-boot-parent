@@ -26,6 +26,7 @@
 - update jeap-spring-boot-security-starter from 23.13.0 to 23.14.0
 - update jeap-reaction-observer from 8.17.0 to 8.18.0
 - update jeap-audit from 8.18.0 to 8.19.0
+- update jeap-spring-boot-db-migration-starter from 19.8.0 to 19.9.0
 
 ## [36.7.0] - 2026-07-10
 ### Changed
