@@ -23,6 +23,7 @@ For broader jEAP usage guidance see the official documentation at
 |--------------------------------------------------------------|------------------------------------------------------------|
 | Getting started (use this parent, `<parent>` coordinates)    | [docs/getting-started.md](docs/getting-started.md)         |
 | Dependency management (managed jEAP starters & versions)     | [docs/dependency-management.md](docs/dependency-management.md) |
+| Dependent repository validation on parent-update branches    | [docs/dependent-repo-validation.md](docs/dependent-repo-validation.md) |
 
 ## Changes
 
