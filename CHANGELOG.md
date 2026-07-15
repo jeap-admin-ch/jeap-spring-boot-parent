@@ -6,6 +6,7 @@
 - Update parent from 8.4.0 to 8.5.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.10.0 to 3.11.0
 - update jeap-spring-boot-tls-starter from 19.9.0 to 19.10.0
+- update jeap-spring-boot-db-migration-starter from 19.9.0 to 19.10.0
 
 ## [36.8.0] - 2026-07-13
 
