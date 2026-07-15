@@ -2,11 +2,6 @@
 
 ## [36.9.0] - 2026-07-15
 
-### Added
-- Validate dependent repositories (jeap-oauth-mock-server, jeap-reaction-observer-service,
-  jeap-opensearch-index-writer-service) against the freshly built parent snapshot on
-  non-master/non-release branches
-
 ### Changed
 - Update parent from 8.4.0 to 8.5.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.10.0 to 3.11.0

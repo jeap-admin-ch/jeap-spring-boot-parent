@@ -34,7 +34,7 @@ pipeline {
                         error 'Parameters REPO_NAME and PARENT_VERSION are required'
                     }
                     currentBuild.description = "${params.REPO_NAME}@${params.REPO_BRANCH} vs parent ${params.PARENT_VERSION}"
-                    Docker docker = new Docker('bit/eclipse-temurin:25', this, 'jenkins')
+                    Docker docker = new Docker('bit/eclipse-temurin-node-extras:25-node-22-browsers', this, 'jenkins')
                     // docker.sock is mounted because the repositories' integration tests use Testcontainers
                     docker.runInContainer('-v /var/run/docker.sock:/var/run/docker.sock', [:]) {
                         sshagent(['bitbucketCredentials']) {
