@@ -6,6 +6,8 @@
 - Provide the official WireMock Spring Boot integration without exposing WireMock's Jetty dependencies, replacing direct WireMock standalone dependencies across all modules.
 - update jeap-open-api-publisher from 6.16.0 to 7.0.0
 - update jeap-spring-boot-security-client-starter from 23.15.0 to 24.0.0
+- update jeap-opensearch-searchitem-api from 1.10.0 to 2.0.0
+- update jeap-starter from 23.15.0 to 24.0.0
 
 ## [36.10.0] - 2026-07-17
 
