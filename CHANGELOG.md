@@ -27,6 +27,11 @@
 - update jeap-messaging-sequential-inbox from 18.18.0 to 18.19.0
 - update jeap-spring-boot-security-starter from 23.14.0 to 23.15.0
 - update jeap-audit from 8.19.0 to 8.20.0
+- update jeap-messaging from 15.19.0 to 15.20.0
+- `jeap-messaging-glue-schema-registry`: exclude okio, okio-fakefilesystem, wire-schema and kotlin-scripting-compiler(-impl)-embeddable
+  from `schema-registry-serde`. These transitives only serve the serde's protobuf data format support, which is not functional in jEAP
+  (wire-runtime already excluded, Avro only). The serde's stale okio 3.4.0 broke okhttp 5.x consumers at runtime, notably the
+  OpenTelemetry OTLP trace exporter of the Spring Boot 4 based jeap monitoring starter (`NoSuchMethodError: okio.Okio.socket`).
 
 ## [36.8.0] - 2026-07-13
 
