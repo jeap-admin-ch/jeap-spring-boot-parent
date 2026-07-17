@@ -17,6 +17,7 @@
 - update jeap-spring-boot-security-starter from 23.15.0 to 24.0.0
 - update jeap-messaging-outbox from 15.20.0 to 16.0.0
 - update jeap-reaction-observer from 8.20.0 to 9.0.0
+- update jeap-audit from 8.21.0 to 9.0.0
 
 ## [36.10.0] - 2026-07-17
 
