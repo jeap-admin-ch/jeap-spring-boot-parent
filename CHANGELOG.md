@@ -1,5 +1,10 @@
 # Changelog
 
+## [37.0.0] - 2026-07-17
+### Changed
+- update jeap-spring-boot-starters from 23.15.0 to 24.0.0
+- Provide the official WireMock Spring Boot integration without exposing WireMock's Jetty dependencies, replacing direct WireMock standalone dependencies across all modules.
+
 ## [36.10.0] - 2026-07-17
 
 ### Changed
