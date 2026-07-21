@@ -1,6 +1,7 @@
 # Changelog
 
 ## [37.0.1] - 2026-07-21
+
 ### Changed
 - update jeap-messaging from 16.0.0 to 16.0.1
 - Remove arbitrary PostgreSQL length limits from the idempotent-processing and test example schema.
@@ -11,6 +12,7 @@
 - update jeap-audit from 9.0.0 to 9.0.1
 
 ## [37.0.0] - 2026-07-17
+
 ### Changed
 - update jeap-spring-boot-starters from 23.15.0 to 24.0.0
 - Provide the official WireMock Spring Boot integration without exposing WireMock's Jetty dependencies, replacing direct WireMock standalone dependencies across all modules.
@@ -29,6 +31,10 @@
 - update jeap-reaction-observer from 8.20.0 to 9.0.0
 - update jeap-audit from 8.21.0 to 9.0.0
 
+### Migration notes
+
+- The `jeap-messaging-sequential-inbox` module needs a schema update to create the new `sequential_inbox_idempotence` table. See the Sequential Inbox Idempotence documentation for details.
+ 
 ## [36.10.0] - 2026-07-17
 
 ### Changed
