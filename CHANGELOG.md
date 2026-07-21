@@ -8,6 +8,7 @@
 - Use the standalone WireMock Spring Boot integration without exposed Jetty dependencies.
 - update jeap-messaging from 16.0.1 to 16.1.0
 - update jeap-server-sent-events from 11.0.1 to 11.1.0
+- update jeap-messaging-outbox from 16.0.1 to 16.1.0
 
 ## [37.0.1] - 2026-07-21
 
