@@ -1,5 +1,10 @@
 # Changelog
 
+## [37.0.1] - 2026-07-21
+### Changed
+- update jeap-messaging from 16.0.0 to 16.0.1
+- Remove arbitrary PostgreSQL length limits from the idempotent-processing and test example schema.
+
 ## [37.0.0] - 2026-07-17
 ### Changed
 - update jeap-spring-boot-starters from 23.15.0 to 24.0.0
