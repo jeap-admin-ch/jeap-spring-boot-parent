@@ -4,6 +4,8 @@
 ### Changed
 - update jeap-open-api-publisher from 7.0.0 to 7.1.0
 - Complete the migration to the standalone WireMock Spring Boot integration.
+- update jeap-db-schema-publisher from 3.10.0 to 3.11.0
+- Use the standalone WireMock Spring Boot integration without exposed Jetty dependencies.
 
 ## [37.0.1] - 2026-07-21
 
