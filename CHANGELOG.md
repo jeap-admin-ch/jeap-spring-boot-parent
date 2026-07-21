@@ -6,6 +6,7 @@
 - Complete the migration to the standalone WireMock Spring Boot integration.
 - update jeap-db-schema-publisher from 3.10.0 to 3.11.0
 - Use the standalone WireMock Spring Boot integration without exposed Jetty dependencies.
+- update jeap-messaging from 16.0.1 to 16.1.0
 
 ## [37.0.1] - 2026-07-21
 
