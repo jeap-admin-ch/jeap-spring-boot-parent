@@ -1,5 +1,10 @@
 # Changelog
 
+## [37.1.0] - 2026-07-21
+### Changed
+- update jeap-open-api-publisher from 7.0.0 to 7.1.0
+- Complete the migration to the standalone WireMock Spring Boot integration.
+
 ## [37.0.1] - 2026-07-21
 
 ### Changed
