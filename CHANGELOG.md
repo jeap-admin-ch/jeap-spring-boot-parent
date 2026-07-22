@@ -4,33 +4,11 @@
 
 ### Changed
 - Update parent from 8.5.0 to 8.5.2
-- update jeap-spring-boot-tls-starter from 19.10.0 to 19.11.0
-- update jeap-spring-boot-db-migration-starter from 19.10.0 to 19.11.0
-- update jeap-opensearch-index-type from 1.7.0 to 1.8.0
-- update jeap-db-schema-publisher from 3.11.0 to 3.12.0
-- update jeap-spring-boot-roles-anywhere-starter from 3.11.0 to 3.12.0
-- update jeap-spring-boot-config-aws-starter from 19.10.0 to 19.11.0
-- update jeap-opensearch-index-type-registry-maven-plugin from 1.7.0 to 1.8.0
-- update jeap-spring-boot-starters from 24.0.0 to 24.1.0
-- update jeap-spring-boot-jwe-starter from 1.4.0 to 1.5.0
-- update jeap-open-api-publisher from 7.1.0 to 7.2.0
-- update jeap-spring-boot-security-client-starter from 24.0.0 to 24.1.0
-- update jeap-opensearch-searchitem-api from 2.0.0 to 2.1.0
-- update jeap-starter from 24.0.0 to 24.1.0
-- update jeap-opensearch-client-starter from 2.0.0 to 2.1.0
-- update jeap-crypto from 10.0.0 to 10.1.0
-- update jeap-spring-boot-vault-starter from 24.0.0 to 24.1.0
-- update jeap-messaging from 16.1.0 to 16.2.0
-- update jeap-server-sent-events from 11.1.0 to 11.2.0
-- update jeap-messaging-outbox from 16.1.0 to 16.2.0
-- update jeap-reaction-observer from 9.1.0 to 9.2.0
-- update jeap-audit from 9.1.0 to 9.2.0
-- update jeap-messaging-sequential-inbox from 19.1.0 to 19.2.0
-- update jeap-spring-boot-security-starter from 24.0.0 to 24.1.0
-- update jeap-open-api-publisher from 7.2.0 to 7.2.1
-- Throw a dedicated OpenApiPublishingException on any publish failure instead of an UncheckedIOException on JSON errors only
-- update jeap-messaging-sequential-inbox from 19.2.0 to 19.2.1
-- Fixed a flaky integration test caused by non-thread-safe message recording in the test harness
+- org.postgresql:postgresql: pinned to 42.7.12 due to CVE-2026-54291
+- com.fasterxml.jackson:jackson-bom: pinned to 2.21.5 due to CVE-2026-54515, CVE-2026-59889, GHSA-mhm7-754m-9p8w
+- tools.jackson:jackson-bom: pinned to 3.1.5 due to CVE-2026-59889
+- software.amazon.awssdk:bom: 2.48.3 → 2.49.0 (minor)
+- OpenAPI Publisher: Throw a dedicated OpenApiPublishingException on any publish failure instead of an UncheckedIOException on JSON errors only
 
 ## [37.1.0] - 2026-07-21
 ### Changed
