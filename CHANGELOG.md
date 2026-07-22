@@ -27,6 +27,8 @@
 - update jeap-audit from 9.1.0 to 9.2.0
 - update jeap-messaging-sequential-inbox from 19.1.0 to 19.2.0
 - update jeap-spring-boot-security-starter from 24.0.0 to 24.1.0
+- update jeap-open-api-publisher from 7.2.0 to 7.2.1
+- Throw a dedicated OpenApiPublishingException on any publish failure instead of an UncheckedIOException on JSON errors only
 
 ## [37.1.0] - 2026-07-21
 ### Changed
