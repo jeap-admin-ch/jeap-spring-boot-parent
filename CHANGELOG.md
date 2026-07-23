@@ -4,6 +4,12 @@
 ### Changed
 - update jeap-spring-boot-config-aws-starter from 19.12.0 to 19.13.0
 - Using Floci as Test Container for AWS Secrets Manager in tests.
+- update jeap-messaging from 16.3.0 to 17.0.0
+- `silentIgnoreWithoutContract` again only suppresses the no-contract log statement: contract enforcement now always
+  runs, i.e. messages without a contract are again filtered out on consumption (unless `consumeWithoutContractAllowed`
+  is set) and rejected on publication (unless `publishWithoutContractAllowed` is set). The integration test exemption
+  from consumer contract checks is now handled by a dedicated internal flag.
+- New switch `silentIgnoreWithoutContract` on the `jeap.messaging.contract` metric
 
 ## [37.3.0] - 2026-07-23
 
