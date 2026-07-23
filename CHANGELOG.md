@@ -1,5 +1,11 @@
 # Changelog
 
+## [37.3.0] - 2026-07-23
+
+### Changed
+
+- Update parent from 8.5.2 to 8.5.3
+
 ## [37.2.0] - 2026-07-22
 
 ### Changed
