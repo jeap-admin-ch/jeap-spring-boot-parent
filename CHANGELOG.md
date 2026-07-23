@@ -13,6 +13,8 @@
 - update jeap-spring-boot-starters from 21.8.0 to 21.10.0
 - update jeap-open-api-publisher from 4.8.0 to 4.10.0
 - update jeap-spring-boot-security-client-starter from 24.1.0 to 24.2.0
+- update jeap-crypto from 7.8.0 to 7.10.0
+- update jeap-spring-boot-vault-starter from 24.1.0 to 24.2.0
 
 ## [33.11.0] - 2026-06-15
 
