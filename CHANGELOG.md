@@ -22,6 +22,7 @@
 - update jeap-spring-boot-vault-starter from 24.2.0 to 24.3.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 1.10.0 to 1.11.0
 - `deploy-index-type-artifacts`: `mavenGlobalSettingsFile` now falls back to `settings.xml` in the project's basedir when not configured (or when the configured file does not exist), matching the convention used by `jeap-messaging-avro-maven-plugin`. Previously, if unset, no global settings file was passed to the nested Maven invocation at all.
+- update jeap-messaging from 17.0.0 to 17.1.0
 
 ## [37.4.0] - 2026-07-23
 ### Changed
