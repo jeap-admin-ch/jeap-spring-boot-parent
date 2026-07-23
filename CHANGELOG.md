@@ -10,6 +10,7 @@
 - update jeap-spring-boot-db-migration-starter from 19.12.0 to 19.13.0
 - update jeap-db-schema-publisher from 3.13.0 to 3.14.0
 - update jeap-opensearch-index-type from 1.9.0 to 1.10.0
+- update jeap-spring-boot-starters from 24.2.0 to 24.3.0
 
 ## [37.4.0] - 2026-07-23
 ### Changed
