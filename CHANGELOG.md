@@ -11,6 +11,7 @@
   from consumer contract checks is now handled by a dedicated internal flag.
 - New switch `silentIgnoreWithoutContract` on the `jeap.messaging.contract` metric
 - update jeap-messaging-outbox from 16.3.0 to 17.0.0
+- update jeap-server-sent-events from 11.3.0 to 12.0.0
 
 ## [37.3.0] - 2026-07-23
 
