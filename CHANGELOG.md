@@ -18,6 +18,8 @@
 - update jeap-opensearch-searchitem-api from 2.1.0 to 2.2.0
 - update jeap-starter from 24.1.0 to 24.2.0
 - update jeap-opensearch-client-starter from 2.1.0 to 2.2.0
+- update jeap-crypto from 10.1.0 to 10.2.0
+- update jeap-spring-boot-vault-starter from 24.1.0 to 24.2.0
 
 ## [37.2.0] - 2026-07-22
 
