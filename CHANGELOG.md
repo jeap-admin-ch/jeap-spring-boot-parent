@@ -10,6 +10,7 @@
   is set) and rejected on publication (unless `publishWithoutContractAllowed` is set). The integration test exemption
   from consumer contract checks is now handled by a dedicated internal flag.
 - New switch `silentIgnoreWithoutContract` on the `jeap.messaging.contract` metric
+- update jeap-messaging-outbox from 16.3.0 to 17.0.0
 
 ## [37.3.0] - 2026-07-23
 
