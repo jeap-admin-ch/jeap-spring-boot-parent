@@ -4,30 +4,6 @@
 
 ### Changed
 - Update parent from 6.0.7 to 6.0.9
-- update jeap-spring-boot-tls-starter from 17.67.0 to 17.69.0
-- Update parent from 8.5.2 to 8.5.3
-- update jeap-spring-boot-roles-anywhere-starter from 1.31.0 to 1.33.0
-- update jeap-spring-boot-db-migration-starter from 17.67.0 to 17.69.0
-- update jeap-spring-boot-config-aws-starter from 17.67.0 to 17.69.0
-- update jeap-db-schema-publisher from 1.31.0 to 1.33.0
-- update jeap-spring-boot-starters from 21.8.0 to 21.10.0
-- update jeap-open-api-publisher from 4.8.0 to 4.10.0
-- update jeap-spring-boot-security-client-starter from 24.1.0 to 24.2.0
-- update jeap-crypto from 7.8.0 to 7.10.0
-- update jeap-spring-boot-vault-starter from 24.1.0 to 24.2.0
-- update jeap-messaging from 13.11.0 to 13.12.0
-- `silentIgnoreWithoutContract` again only suppresses the no-contract log statement: contract enforcement now always
-  runs, i.e. messages without a contract are again filtered out on consumption (unless `consumeWithoutContractAllowed`
-  is set) and rejected on publication (unless `publishWithoutContractAllowed` is set). The integration test exemption
-  from consumer contract checks is now handled by a dedicated internal flag.
-- New switch `silentIgnoreWithoutContract` on the `jeap.messaging.contract` metric
-- update jeap-server-sent-events from 8.11.0 to 8.12.0
-- update jeap-messaging from 16.3.0 to 17.0.0
-- update jeap-messaging-outbox from 13.11.0 to 13.12.0
-- update jeap-reaction-observer from 6.11.0 to 6.12.0
-- update jeap-messaging-sequential-inbox from 16.11.0 to 16.12.0
-- update jeap-audit from 6.11.0 to 6.12.0
-- update jeap-messaging-outbox from 16.3.0 to 17.0.0
 
 ## [33.11.0] - 2026-06-15
 
