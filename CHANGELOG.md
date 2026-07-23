@@ -24,6 +24,7 @@
 - `deploy-index-type-artifacts`: `mavenGlobalSettingsFile` now falls back to `settings.xml` in the project's basedir when not configured (or when the configured file does not exist), matching the convention used by `jeap-messaging-avro-maven-plugin`. Previously, if unset, no global settings file was passed to the nested Maven invocation at all.
 - update jeap-messaging from 17.0.0 to 17.1.0
 - update jeap-server-sent-events from 12.0.0 to 12.1.0
+- update jeap-messaging-outbox from 17.0.0 to 17.1.0
 
 ## [37.4.0] - 2026-07-23
 ### Changed
