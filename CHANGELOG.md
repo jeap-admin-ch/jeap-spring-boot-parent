@@ -1,5 +1,10 @@
 # Changelog
 
+## [37.4.0] - 2026-07-23
+### Changed
+- update jeap-spring-boot-config-aws-starter from 19.12.0 to 19.13.0
+- Using Floci as Test Container for AWS Secrets Manager in tests.
+
 ## [37.3.0] - 2026-07-23
 
 ### Changed
