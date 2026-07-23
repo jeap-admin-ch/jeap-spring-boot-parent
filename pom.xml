@@ -61,7 +61,7 @@
         <!-- Maven Plugins -->
         <jeap-truststore-maven-plugin.version>3.2.0</jeap-truststore-maven-plugin.version>
         <jib-maven-plugin.version>3.5.1</jib-maven-plugin.version>
-        <jeap-opensearch-index-type-registry-maven-plugin.version>1.10.0</jeap-opensearch-index-type-registry-maven-plugin.version>
+        <jeap-opensearch-index-type-registry-maven-plugin.version>1.11.0</jeap-opensearch-index-type-registry-maven-plugin.version>
     </properties>
 
     <profiles>
