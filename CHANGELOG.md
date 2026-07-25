@@ -12,6 +12,7 @@
 - update jeap-spring-boot-roles-anywhere-starter from 3.14.0 to 3.15.0
 - update jeap-spring-boot-jwe-starter from 1.7.0 to 1.8.0
 - update jeap-spring-boot-starters from 24.3.0 to 24.4.0
+- update jeap-opensearch-index-type-registry-maven-plugin from 1.12.0 to 1.13.0
 
 ## [37.6.0] - 2026-07-24
 ### Changed
