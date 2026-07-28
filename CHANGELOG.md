@@ -37,6 +37,8 @@
   properties remain unchanged for backwards compatibility.
 - update jeap-open-api-publisher from 7.5.0 to 7.6.0
 - update jeap-spring-boot-security-client-starter from 24.4.0 to 24.5.0
+- update jeap-opensearch-searchitem-api from 2.4.0 to 2.5.0
+- update jeap-starter from 24.4.0 to 24.5.0
 
 ## [37.6.0] - 2026-07-24
 ### Changed
