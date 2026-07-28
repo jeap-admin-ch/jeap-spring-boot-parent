@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 8.5.5 to 8.5.6
 - update jeap-spring-boot-jwe-starter from 1.8.0 to 1.9.0
+- update jeap-spring-boot-starters from 24.5.0 to 24.6.0
 
 ## [37.7.0] - 2026-07-25
 
