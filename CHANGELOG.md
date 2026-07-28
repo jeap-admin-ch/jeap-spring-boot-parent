@@ -48,6 +48,7 @@
 - update jeap-reaction-observer from 10.2.0 to 10.3.0
 - update jeap-messaging-sequential-inbox from 20.2.0 to 20.3.0
 - update jeap-spring-boot-security-starter from 24.4.0 to 24.5.0
+- update jeap-audit from 10.2.0 to 10.3.0
 
 ## [37.6.0] - 2026-07-24
 ### Changed
