@@ -11,44 +11,29 @@
 - update jeap-opensearch-index-type from 1.10.0 to 1.11.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.14.0 to 3.15.0
 - update jeap-spring-boot-jwe-starter from 1.7.0 to 1.8.0
-- update jeap-spring-boot-starters from 24.3.0 to 24.4.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 1.12.0 to 1.13.0
-- update jeap-open-api-publisher from 7.4.0 to 7.5.0
-- update jeap-spring-boot-security-client-starter from 24.3.0 to 24.4.0
-- update jeap-opensearch-searchitem-api from 2.3.0 to 2.4.0
-- update jeap-starter from 24.3.0 to 24.4.0
-- update jeap-opensearch-client-starter from 2.3.0 to 2.4.0
-- update jeap-crypto from 10.3.0 to 10.4.0
-- update jeap-spring-boot-vault-starter from 24.3.0 to 24.4.0
-- update jeap-messaging from 17.1.0 to 17.2.0
-- update jeap-server-sent-events from 12.1.0 to 12.2.0
-- update jeap-messaging-sequential-inbox from 20.1.0 to 20.2.0
-- update jeap-spring-boot-security-starter from 24.3.0 to 24.4.0
-- update jeap-messaging-outbox from 17.1.0 to 17.2.0
-- update jeap-reaction-observer from 10.1.0 to 10.2.0
-- update jeap-audit from 10.1.0 to 10.2.0
-- update jeap-spring-boot-starters from 24.4.0 to 24.5.0
-- Load the existing monitoring and Actuator defaults early through
-  `SpringBootActuatorEndpointActivator`, while retaining lower precedence than application
-  configuration. Our working assumption is that loading these defaults later via
-  `@PropertySource` allowed Spring Boot 4 to evaluate the Prometheus auto-configuration before the
-  endpoint was enabled, so `/actuator/prometheus` was not registered and requests fell through to
-  the application's OAuth security chain. The existing `management.endpoint.<id>.enabled`
-  properties remain unchanged for backwards compatibility.
-- update jeap-open-api-publisher from 7.5.0 to 7.6.0
-- update jeap-spring-boot-security-client-starter from 24.4.0 to 24.5.0
-- update jeap-opensearch-searchitem-api from 2.4.0 to 2.5.0
-- update jeap-starter from 24.4.0 to 24.5.0
-- update jeap-opensearch-client-starter from 2.4.0 to 2.5.0
-- update jeap-crypto from 10.4.0 to 10.5.0
-- update jeap-spring-boot-vault-starter from 24.4.0 to 24.5.0
-- update jeap-messaging from 17.2.0 to 17.3.0
-- update jeap-server-sent-events from 12.2.0 to 12.3.0
-- update jeap-messaging-outbox from 17.2.0 to 17.3.0
-- update jeap-reaction-observer from 10.2.0 to 10.3.0
-- update jeap-messaging-sequential-inbox from 20.2.0 to 20.3.0
-- update jeap-spring-boot-security-starter from 24.4.0 to 24.5.0
-- update jeap-audit from 10.2.0 to 10.3.0
+- update jeap-open-api-publisher from 7.4.0 to 7.6.0
+- update jeap-spring-boot-security-client-starter from 24.3.0 to 24.5.0
+- update jeap-opensearch-searchitem-api from 2.3.0 to 2.5.0
+- update jeap-starter from 24.3.0 to 24.5.0
+- update jeap-opensearch-client-starter from 2.3.0 to 2.5.0
+- update jeap-crypto from 10.3.0 to 10.5.0
+- update jeap-spring-boot-vault-starter from 24.3.0 to 24.5.0
+- update jeap-messaging from 17.1.0 to 17.3.0
+- update jeap-server-sent-events from 12.1.0 to 12.3.0
+- update jeap-messaging-sequential-inbox from 20.1.0 to 20.3.0
+- update jeap-spring-boot-security-starter from 24.3.0 to 24.5.0
+- update jeap-messaging-outbox from 17.1.0 to 17.3.0
+- update jeap-reaction-observer from 10.1.0 to 10.3.0
+- update jeap-audit from 10.1.0 to 10.3.0
+- update jeap-spring-boot-starters from 24.3.0 to 24.5.0
+  - Load the existing monitoring and Actuator defaults early through
+    `SpringBootActuatorEndpointActivator`, while retaining lower precedence than application
+    configuration. Our working assumption is that loading these defaults later via
+    `@PropertySource` allowed Spring Boot 4 to evaluate the Prometheus auto-configuration before the
+    endpoint was enabled, so `/actuator/prometheus` was not registered and requests fell through to
+    the application's OAuth security chain. The existing `management.endpoint.<id>.enabled`
+    properties remain unchanged for backwards compatibility.
 
 ## [37.6.0] - 2026-07-24
 ### Changed
@@ -4209,4 +4194,3 @@ Upgraded jeap starter version to 3.0.0-22
 
 ## [2.0.0 - 2020-01-15]
 Moved Parent from starter to its own repository
-
