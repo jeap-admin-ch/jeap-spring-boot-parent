@@ -27,6 +27,14 @@
 - update jeap-messaging-outbox from 17.1.0 to 17.2.0
 - update jeap-reaction-observer from 10.1.0 to 10.2.0
 - update jeap-audit from 10.1.0 to 10.2.0
+- update jeap-spring-boot-starters from 24.4.0 to 24.5.0
+- Load the existing monitoring and Actuator defaults early through
+  `SpringBootActuatorEndpointActivator`, while retaining lower precedence than application
+  configuration. Our working assumption is that loading these defaults later via
+  `@PropertySource` allowed Spring Boot 4 to evaluate the Prometheus auto-configuration before the
+  endpoint was enabled, so `/actuator/prometheus` was not registered and requests fell through to
+  the application's OAuth security chain. The existing `management.endpoint.<id>.enabled`
+  properties remain unchanged for backwards compatibility.
 
 ## [37.6.0] - 2026-07-24
 ### Changed
