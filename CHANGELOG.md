@@ -18,6 +18,7 @@
 - update jeap-spring-boot-roles-anywhere-starter from 3.15.0 to 3.16.0
 - update jeap-messaging from 17.3.0 to 17.4.0
 - update jeap-messaging-outbox from 17.3.0 to 17.4.0
+- update jeap-server-sent-events from 12.3.0 to 12.4.0
 
 ## [37.7.0] - 2026-07-25
 
