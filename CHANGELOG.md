@@ -16,6 +16,7 @@
 - update jeap-starter from 24.5.0 to 24.6.0
 - update jeap-opensearch-client-starter from 2.5.0 to 2.6.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.15.0 to 3.16.0
+- update jeap-messaging from 17.3.0 to 17.4.0
 
 ## [37.7.0] - 2026-07-25
 
