@@ -1,5 +1,12 @@
 # Changelog
 
+## [38.0.0] - 2026-07-29
+### Changed
+- update jeap-opensearch-index-type-registry-maven-plugin from 1.14.0 to 2.0.0
+- **BREAKING** `registry`: a mapping field declared `"type": "nested"` is now generated as `List<X>` instead of `X`. In OpenSearch, `nested` means *array of objects*; the generated single-valued component could not represent more than one element and made the index writer service fail with `MismatchedInputException` as soon as a producer sent the array the mapping asks for. Fields declared `"type": "object"` are unchanged. Registries using `nested` must expect the component type of those fields to change.
+- `registry`: objects nested more than one level deep below `data` now get a generated record. Previously only top-level object/nested fields were declared, so a mapping such as `data.cases.control_pattern` generated a field referencing a record that was never emitted, and the generated data class failed to compile.
+- `registry`: the `Instant`, `JsonNode` and `@JsonProperty` imports of the generated data class are now derived from fields at any nesting depth instead of only from top-level fields.
+
 ## [37.8.0] - 2026-07-28
 
 ### Changed
