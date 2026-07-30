@@ -8,6 +8,8 @@
   state and fail with a `NullPointerException`, e.g. when kafka messages are consumed right after startup. Both
   counters are now published together. In addition, a failure to resolve the `MeterRegistry` no longer fails the
   transaction: it is logged once, and the counters are created on a subsequent transaction.
+- update jeap-open-api-publisher from 7.7.0 to 7.7.1
+- update jeap-spring-boot-security-client-starter from 24.6.0 to 24.6.1
 
 ## [38.0.0] - 2026-07-29
 ### Changed
