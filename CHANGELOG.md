@@ -5,6 +5,7 @@
 - update jeap-spring-boot-roles-anywhere-starter from 3.16.0 to 3.17.0
 - Replace the Jackson 2 `ObjectMapper` dependency with the Jackson 3 `JsonMapper`
 - update jeap-messaging from 17.4.1 to 17.5.0
+- update jeap-messaging-outbox from 17.4.1 to 17.5.0
 
 ## [38.0.1] - 2026-07-30
 ### Changed
