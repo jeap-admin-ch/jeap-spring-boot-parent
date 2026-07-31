@@ -6,6 +6,7 @@
 - Replace the Jackson 2 `ObjectMapper` dependency with the Jackson 3 `JsonMapper`
 - update jeap-messaging from 17.4.1 to 17.5.0
 - update jeap-messaging-outbox from 17.4.1 to 17.5.0
+- update jeap-server-sent-events from 12.4.1 to 12.5.0
 
 ## [38.0.1] - 2026-07-30
 ### Changed
