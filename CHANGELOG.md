@@ -14,6 +14,7 @@
 - update jeap-audit from 10.4.1 to 10.5.0
 - update jeap-spring-boot-tls-starter from 19.15.0 to 19.16.0
 - update jeap-spring-boot-db-migration-starter from 19.15.0 to 19.16.0
+- update jeap-spring-boot-config-aws-starter from 19.16.0 to 19.17.0
 
 ## [38.0.1] - 2026-07-30
 ### Changed
