@@ -23,6 +23,8 @@
 - update jeap-spring-boot-starters from 24.6.1 to 24.7.0
 - update jeap-open-api-publisher from 7.7.1 to 7.8.0
 - update jeap-spring-boot-security-client-starter from 24.6.1 to 24.7.0
+- update jeap-opensearch-searchitem-api from 2.6.1 to 2.7.0
+- update jeap-starter from 24.6.1 to 24.7.0
 
 ## [38.0.1] - 2026-07-30
 ### Changed
