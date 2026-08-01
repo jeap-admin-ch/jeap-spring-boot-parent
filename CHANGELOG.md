@@ -1,7 +1,9 @@
 # Changelog
 
-## [38.1.0] - 2026-07-31
+## [38.1.0] - 2026-08-01
+
 ### Changed
+- Update parent from 8.5.6 to 8.6.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.16.0 to 3.17.0
 - Replace the Jackson 2 `ObjectMapper` dependency with the Jackson 3 `JsonMapper`
 - update jeap-messaging from 17.4.1 to 17.5.0
