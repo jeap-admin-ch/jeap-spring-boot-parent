@@ -12,6 +12,7 @@
 - update jeap-reaction-observer from 10.4.1 to 10.5.0
 - update jeap-messaging-sequential-inbox from 20.4.1 to 20.5.0
 - update jeap-audit from 10.4.1 to 10.5.0
+- update jeap-spring-boot-tls-starter from 19.15.0 to 19.16.0
 
 ## [38.0.1] - 2026-07-30
 ### Changed
