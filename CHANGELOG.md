@@ -3,7 +3,6 @@
 ## [38.1.0] - 2026-08-04
 
 ### Changed
-
 - Update parent from 8.5.6 to 8.6.1
 - Update parent from 8.5.6 to 8.6.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.16.0 to 3.17.0
@@ -35,6 +34,8 @@
 - update jeap-reaction-observer from 10.5.0 to 10.6.0
 - update jeap-messaging-sequential-inbox from 20.5.0 to 20.6.0
 - update jeap-spring-boot-security-starter from 24.6.1 to 24.7.0
+- update jeap-spring-boot-jwe-starter from 1.10.0 to 1.11.0
+- Update parent from 8.6.0 to 8.6.1
 
 ## [38.0.1] - 2026-07-30
 ### Changed
