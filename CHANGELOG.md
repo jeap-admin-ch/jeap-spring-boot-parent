@@ -29,6 +29,7 @@
 - update jeap-crypto from 10.6.1 to 10.7.0
 - update jeap-spring-boot-vault-starter from 24.6.1 to 24.7.0
 - update jeap-messaging from 17.5.0 to 17.6.0
+- update jeap-server-sent-events from 12.5.0 to 12.6.0
 
 ## [38.0.1] - 2026-07-30
 ### Changed
