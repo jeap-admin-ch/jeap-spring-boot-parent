@@ -3,56 +3,7 @@
 ## [38.1.0] - 2026-08-04
 
 ### Changed
-- Update parent from 8.5.6 to 8.6.1
-- Update parent from 8.5.6 to 8.6.0
-- update jeap-spring-boot-roles-anywhere-starter from 3.16.0 to 3.17.0
-- Replace the Jackson 2 `ObjectMapper` dependency with the Jackson 3 `JsonMapper`
-- update jeap-messaging from 17.4.1 to 17.5.0
-- update jeap-messaging-outbox from 17.4.1 to 17.5.0
-- update jeap-server-sent-events from 12.4.1 to 12.5.0
-- update jeap-reaction-observer from 10.4.1 to 10.5.0
-- update jeap-messaging-sequential-inbox from 20.4.1 to 20.5.0
-- update jeap-audit from 10.4.1 to 10.5.0
-- update jeap-spring-boot-tls-starter from 19.15.0 to 19.16.0
-- update jeap-spring-boot-db-migration-starter from 19.15.0 to 19.16.0
-- update jeap-spring-boot-config-aws-starter from 19.16.0 to 19.17.0
-- update jeap-opensearch-index-type from 1.12.0 to 1.13.0
-- update jeap-spring-boot-roles-anywhere-starter from 3.17.0 to 3.18.0
-- update jeap-db-schema-publisher from 3.16.0 to 3.17.0
-- update jeap-spring-boot-jwe-starter from 1.9.0 to 1.10.0
-- update jeap-opensearch-index-type-registry-maven-plugin from 2.0.0 to 2.1.0
-- update jeap-spring-boot-starters from 24.6.1 to 24.7.0
-- update jeap-open-api-publisher from 7.7.1 to 7.8.0
-- update jeap-spring-boot-security-client-starter from 24.6.1 to 24.7.0
-- update jeap-opensearch-searchitem-api from 2.6.1 to 2.7.0
-- update jeap-starter from 24.6.1 to 24.7.0
-- update jeap-opensearch-client-starter from 2.6.1 to 2.7.0
-- update jeap-crypto from 10.6.1 to 10.7.0
-- update jeap-spring-boot-vault-starter from 24.6.1 to 24.7.0
-- update jeap-messaging from 17.5.0 to 17.6.0
-- update jeap-server-sent-events from 12.5.0 to 12.6.0
-- update jeap-reaction-observer from 10.5.0 to 10.6.0
-- update jeap-messaging-sequential-inbox from 20.5.0 to 20.6.0
-- update jeap-spring-boot-security-starter from 24.6.1 to 24.7.0
-- update jeap-spring-boot-jwe-starter from 1.10.0 to 1.11.0
-- Update parent from 8.6.0 to 8.6.1
-- update jeap-spring-boot-starters from 24.7.0 to 24.8.0
-- update jeap-open-api-publisher from 7.8.0 to 7.9.0
-- update jeap-spring-boot-security-client-starter from 24.7.0 to 24.8.0
-- update jeap-crypto from 10.7.0 to 10.8.0
-- update jeap-spring-boot-vault-starter from 24.7.0 to 24.8.0
-- update jeap-spring-boot-roles-anywhere-starter from 3.18.0 to 3.19.0
-- update jeap-messaging from 17.6.0 to 17.7.0
-- update jeap-server-sent-events from 12.6.0 to 12.7.0
-- update jeap-starter from 24.7.0 to 24.8.0
-- update jeap-messaging-outbox from 17.5.0 to 17.7.0
-- update jeap-reaction-observer from 10.6.0 to 10.7.0
-- update jeap-opensearch-index-type from 1.13.0 to 1.14.0
-- update jeap-opensearch-index-type-registry-maven-plugin from 2.1.0 to 2.2.0
-- update jeap-opensearch-searchitem-api from 2.7.0 to 2.8.0
-- update jeap-opensearch-client-starter from 2.7.0 to 2.8.0
-- update jeap-messaging-sequential-inbox from 20.6.0 to 20.7.0
-- update jeap-audit from 10.5.0 to 10.6.0
+- Replace the Jackson 2 `ObjectMapper` dependency with the Jackson 3 `JsonMapper` in jeap-spring-boot-roles-anywhere-starter
 
 ## [38.0.1] - 2026-07-30
 ### Changed
