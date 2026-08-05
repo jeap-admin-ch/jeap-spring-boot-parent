@@ -50,6 +50,7 @@
 - update jeap-opensearch-index-type from 1.13.0 to 1.14.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 2.1.0 to 2.2.0
 - update jeap-opensearch-searchitem-api from 2.7.0 to 2.8.0
+- update jeap-opensearch-client-starter from 2.7.0 to 2.8.0
 
 ## [38.0.1] - 2026-07-30
 ### Changed
