@@ -41,6 +41,7 @@
 - update jeap-spring-boot-security-client-starter from 24.7.0 to 24.8.0
 - update jeap-crypto from 10.7.0 to 10.8.0
 - update jeap-spring-boot-vault-starter from 24.7.0 to 24.8.0
+- update jeap-spring-boot-roles-anywhere-starter from 3.18.0 to 3.19.0
 
 ## [38.0.1] - 2026-07-30
 ### Changed
