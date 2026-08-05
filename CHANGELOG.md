@@ -1,5 +1,9 @@
 # Changelog
 
+## [38.1.0] - 2026-08-05
+### Changed
+- update jeap-spring-boot-roles-anywhere-starter from 3.16.0 to 3.18.0
+
 ## [38.0.1] - 2026-07-30
 ### Changed
 - update jeap-spring-boot-starters from 24.6.0 to 24.6.1
