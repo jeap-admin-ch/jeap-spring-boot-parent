@@ -1,5 +1,11 @@
 # Changelog
 
+## [38.2.0] - 2026-08-08
+
+### Changed
+
+- Update parent from 8.6.1 to 8.7.0
+
 ## [38.1.0] - 2026-08-04
 
 ### Changed
