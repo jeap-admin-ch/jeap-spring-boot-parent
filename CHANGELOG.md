@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 8.6.1 to 8.7.0
 - update jeap-spring-boot-tls-starter from 19.16.0 to 19.18.0
+- update jeap-spring-boot-config-aws-starter from 19.17.0 to 19.19.0
 
 ## [38.1.0] - 2026-08-04
 
