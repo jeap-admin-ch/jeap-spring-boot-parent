@@ -7,6 +7,9 @@
 - update jeap-spring-boot-jwe-starter from 1.12.0 to 1.13.0
 - update jeap-db-schema-publisher from 3.19.0 to 3.20.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.20.0 to 3.21.0
+- update jeap-spring-boot-starters from 24.9.0 to 24.10.0
+- update aws-advanced-jdbc-wrapper from 4.0.1 to 4.3.0
+- update springdoc-openapi from 3.0.3 to 3.1.0
 
 ## [38.2.0] - 2026-08-08
 
