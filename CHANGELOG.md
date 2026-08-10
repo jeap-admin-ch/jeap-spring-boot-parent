@@ -30,6 +30,7 @@
 - update jeap-messaging from 17.8.0 to 17.9.0
 - update avro-serializer from 8.2.1 to 8.3.1
 - update org.eclipse.jgit from 7.6.0.202603022253-r to 7.7.1.202607240634-r
+- update jeap-server-sent-events from 12.8.0 to 12.9.0
 
 ## [38.2.0] - 2026-08-08
 
