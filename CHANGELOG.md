@@ -27,6 +27,9 @@
 - update json-schema-validator from 3.0.3 to 3.0.6
 - update jeap-opensearch-client-starter from 2.9.0 to 2.10.0
 - update opensearch-testcontainers from 2.1.3 to 4.1.0
+- update jeap-messaging from 17.8.0 to 17.9.0
+- update avro-serializer from 8.2.1 to 8.3.1
+- update org.eclipse.jgit from 7.6.0.202603022253-r to 7.7.1.202607240634-r
 
 ## [38.2.0] - 2026-08-08
 
