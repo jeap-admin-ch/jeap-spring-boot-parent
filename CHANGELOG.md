@@ -11,6 +11,8 @@
 - update aws-advanced-jdbc-wrapper from 4.0.1 to 4.3.0
 - update springdoc-openapi from 3.0.3 to 3.1.0
 - update jeap-spring-boot-tls-starter from 19.18.0 to 19.19.0
+- update jeap-open-api-publisher from 7.10.0 to 7.11.0
+- update jeap-spring-boot-security-client-starter from 24.9.0 to 24.10.0
 
 ## [38.2.0] - 2026-08-08
 
