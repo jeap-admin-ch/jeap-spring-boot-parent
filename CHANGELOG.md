@@ -32,6 +32,7 @@
 - update org.eclipse.jgit from 7.6.0.202603022253-r to 7.7.1.202607240634-r
 - update jeap-server-sent-events from 12.8.0 to 12.9.0
 - update jeap-messaging-outbox from 17.8.0 to 17.9.0
+- update jeap-reaction-observer from 10.8.0 to 10.9.0
 
 ## [38.2.0] - 2026-08-08
 
