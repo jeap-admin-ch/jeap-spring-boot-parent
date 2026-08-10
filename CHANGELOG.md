@@ -25,6 +25,8 @@
 - update maven-plugin-testing-harness from 3.5.0 to 3.5.1
 - update org.eclipse.jgit from 7.3.0.202506031305-r to 7.7.1.202607240634-r
 - update json-schema-validator from 3.0.3 to 3.0.6
+- update jeap-opensearch-client-starter from 2.9.0 to 2.10.0
+- update opensearch-testcontainers from 2.1.3 to 4.1.0
 
 ## [38.2.0] - 2026-08-08
 
