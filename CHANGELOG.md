@@ -21,6 +21,10 @@
 - update jeap-opensearch-index-type from 1.15.0 to 1.16.0
 - update jeap-opensearch-searchitem-api from 2.9.0 to 2.10.0
 - update jeap-starter from 24.9.0 to 24.10.0
+- update jeap-opensearch-index-type-registry-maven-plugin from 2.3.0 to 2.4.0
+- update maven-plugin-testing-harness from 3.5.0 to 3.5.1
+- update org.eclipse.jgit from 7.3.0.202506031305-r to 7.7.1.202607240634-r
+- update json-schema-validator from 3.0.3 to 3.0.6
 
 ## [38.2.0] - 2026-08-08
 
