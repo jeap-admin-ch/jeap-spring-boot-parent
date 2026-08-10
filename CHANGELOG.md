@@ -17,6 +17,7 @@
 - update testcontainers-floci from 2.11.0 to 2.13.0
 - update jeap-spring-boot-vault-starter from 24.9.0 to 24.10.0
 - update jeap-spring-boot-config-aws-starter from 19.19.0 to 19.20.0
+- update jeap-spring-boot-db-migration-starter from 19.18.0 to 19.19.0
 
 ## [38.2.0] - 2026-08-08
 
