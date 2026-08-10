@@ -19,6 +19,8 @@
 - update jeap-spring-boot-config-aws-starter from 19.19.0 to 19.20.0
 - update jeap-spring-boot-db-migration-starter from 19.18.0 to 19.19.0
 - update jeap-opensearch-index-type from 1.15.0 to 1.16.0
+- update jeap-opensearch-searchitem-api from 2.9.0 to 2.10.0
+- update jeap-starter from 24.9.0 to 24.10.0
 
 ## [38.2.0] - 2026-08-08
 
