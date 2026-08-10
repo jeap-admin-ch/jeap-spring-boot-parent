@@ -6,6 +6,7 @@
 - Update parent from 8.7.0 to 8.7.1
 - update jeap-spring-boot-jwe-starter from 1.12.0 to 1.13.0
 - update jeap-db-schema-publisher from 3.19.0 to 3.20.0
+- update jeap-spring-boot-roles-anywhere-starter from 3.20.0 to 3.21.0
 
 ## [38.2.0] - 2026-08-08
 
