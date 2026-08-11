@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 8.7.1 to 8.8.0
 - update jeap-spring-boot-tls-starter from 19.19.0 to 19.20.0
+- update jeap-spring-boot-roles-anywhere-starter from 3.21.0 to 3.22.0
 
 ## [38.3.0] - 2026-08-10
 
