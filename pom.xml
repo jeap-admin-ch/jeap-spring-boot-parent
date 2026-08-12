@@ -40,7 +40,7 @@
 
     <properties>
         <!-- jEAP Libraries -->
-        <jeap-starter.version>24.11.0</jeap-starter.version>
+        <jeap-starter.version>24.12.0</jeap-starter.version>
         <jeap-db-migration-starter.version>19.20.0</jeap-db-migration-starter.version>
         <jeap-config-aws-starter.version>19.21.0</jeap-config-aws-starter.version>
         <jeap-tls-starter.version>19.20.0</jeap-tls-starter.version>
