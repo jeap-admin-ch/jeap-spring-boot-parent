@@ -17,6 +17,7 @@
 - update jeap-starter from 24.11.0 to 24.12.0
 - update jeap-crypto from 10.11.0 to 10.12.0
 - update jeap-spring-boot-vault-starter from 24.11.0 to 24.12.0
+- update jeap-opensearch-index-type-registry-maven-plugin from 2.5.0 to 2.6.0
 
 ## [38.4.0] - 2026-08-11
 
