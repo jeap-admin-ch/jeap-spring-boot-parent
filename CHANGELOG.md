@@ -11,6 +11,8 @@
 - update jeap-opensearch-index-type from 1.17.0 to 1.18.0
 - update jeap-spring-boot-db-migration-starter from 19.20.0 to 19.21.0
 - update jeap-spring-boot-jwe-starter from 1.14.0 to 1.15.0
+- update jeap-open-api-publisher from 7.12.0 to 7.13.0
+- update jeap-spring-boot-security-client-starter from 24.11.0 to 24.12.0
 
 ## [38.4.0] - 2026-08-11
 
