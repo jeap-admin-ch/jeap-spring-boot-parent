@@ -22,6 +22,7 @@
 - update jeap-spring-boot-config-aws-starter from 19.21.0 to 19.22.0
 - update jeap-opensearch-client-starter from 2.11.0 to 2.12.0
 - update jeap-messaging from 17.10.0 to 17.11.0
+- update jeap-messaging-outbox from 17.10.0 to 17.11.0
 
 ## [38.4.0] - 2026-08-11
 
