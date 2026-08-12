@@ -6,6 +6,7 @@
 - Update parent from 8.8.0 to 8.9.1
 - Update parent from 8.8.0 to 8.9.0
 - update jeap-spring-boot-starters from 24.11.0 to 24.12.0
+- update jeap-db-schema-publisher from 3.21.0 to 3.22.0
 
 ## [38.4.0] - 2026-08-11
 
