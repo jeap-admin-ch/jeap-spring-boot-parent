@@ -1,5 +1,13 @@
 # Changelog
 
+## [39.0.0] - 2026-08-13
+### Changed
+- update jeap-opensearch-index-type-registry-maven-plugin from 2.7.0 to 3.0.0
+- `registry`: support `mappings._meta.jeap.collection_fields` for generating scalar and object fields as `List<T>`, including fields at arbitrary nesting depth.
+- `registry`: validate collection field paths and reject generated API changes between minor mapping versions.
+- `registry`: require `nested` fields to be declared in `collection_fields` to generate `List<T>`.
+- `registry`: warn when structured `object` fields are declared as collections and report reordered field positions.
+
 ## [38.6.1] - 2026-08-13
 ### Changed
 - update jeap-opensearch-client-starter from 2.13.0 to 2.13.1
