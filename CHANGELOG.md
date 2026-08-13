@@ -1,5 +1,10 @@
 # Changelog
 
+## [38.6.1] - 2026-08-13
+### Changed
+- update jeap-opensearch-client-starter from 2.13.0 to 2.13.1
+- Normalize configured OpenSearch URIs and pass the scheme-less host expected by the AWS transport.
+
 ## [38.6.0] - 2026-08-13
 
 ### Changed
