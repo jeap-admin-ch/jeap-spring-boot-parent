@@ -25,12 +25,12 @@
 - update jeap-messaging-sequential-inbox from 20.11.0 to 20.12.0
 - update jeap-spring-boot-security-starter from 24.12.0 to 24.14.0
 - update jeap-reaction-observer from 10.11.0 to 10.12.0
+- update jeap-audit from 10.10.0 to 10.11.0
 
 ## [38.5.0] - 2026-08-12
 
 ### Changed
 - Update parent from 8.8.0 to 8.9.1
-- Update parent from 8.8.0 to 8.9.0
 - update jeap-spring-boot-starters from 24.11.0 to 24.12.0
 - update jeap-db-schema-publisher from 3.21.0 to 3.22.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.22.0 to 3.23.0
