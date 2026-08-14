@@ -1,5 +1,10 @@
 # Changelog
 
+## [39.0.1] - 2026-08-14
+### Changed
+- update jeap-opensearch-index-type-registry-maven-plugin from 3.0.0 to 3.0.1
+- `deploy-index-type-artifacts`: skip internal deployment of release artifacts that already exist instead of partially uploading files before an immutable repository rejects the existing POM.
+
 ## [39.0.0] - 2026-08-13
 ### Changed
 - update jeap-opensearch-index-type-registry-maven-plugin from 2.7.0 to 3.0.0

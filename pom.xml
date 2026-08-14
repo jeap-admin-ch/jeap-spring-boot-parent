@@ -27,7 +27,7 @@
     </licenses>
 
     <artifactId>jeap-spring-boot-parent</artifactId>
-    <version>39.0.0-SNAPSHOT</version>
+    <version>39.0.1-SNAPSHOT</version>
     <name>jeap-spring-boot-parent</name>
     <description>A common parent project</description>
     <packaging>pom</packaging>
@@ -61,7 +61,7 @@
         <!-- Maven Plugins -->
         <jeap-truststore-maven-plugin.version>3.16.0</jeap-truststore-maven-plugin.version>
         <jib-maven-plugin.version>3.5.1</jib-maven-plugin.version>
-        <jeap-opensearch-index-type-registry-maven-plugin.version>3.0.0</jeap-opensearch-index-type-registry-maven-plugin.version>
+        <jeap-opensearch-index-type-registry-maven-plugin.version>3.0.1</jeap-opensearch-index-type-registry-maven-plugin.version>
     </properties>
 
     <profiles>
