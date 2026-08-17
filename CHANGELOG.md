@@ -1,5 +1,11 @@
 # Changelog
 
+## [39.1.0] - 2026-08-17
+
+### Changed
+
+- Update parent from 8.10.0 to 8.11.0
+
 ## [39.0.1] - 2026-08-14
 ### Changed
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.0.0 to 3.0.1
