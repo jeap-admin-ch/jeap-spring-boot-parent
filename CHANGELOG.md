@@ -12,6 +12,7 @@
 - update jeap-spring-boot-config-aws-starter from 19.23.0 to 19.24.0
 - update jeap-spring-boot-jwe-starter from 1.16.0 to 1.17.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.0.1 to 3.1.0
+- update jeap-spring-boot-starters from 24.14.0 to 24.15.0
 
 ## [39.0.1] - 2026-08-14
 ### Changed
