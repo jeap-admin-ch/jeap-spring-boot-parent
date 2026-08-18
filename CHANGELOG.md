@@ -4,29 +4,7 @@
 
 ### Changed
 - Update parent from 8.11.0 to 8.12.0
-- update jeap-spring-boot-tls-starter from 19.23.0 to 19.24.0
-- update jeap-spring-boot-config-aws-starter from 19.24.0 to 19.25.0
-- update jeap-spring-boot-roles-anywhere-starter from 3.25.0 to 3.26.0
-- update jeap-spring-boot-db-migration-starter from 19.23.0 to 19.24.0
-- update jeap-opensearch-index-type from 1.20.0 to 1.21.0
-- update jeap-db-schema-publisher from 3.24.0 to 3.25.0
-- update jeap-spring-boot-jwe-starter from 1.17.0 to 1.18.0
-- update jeap-opensearch-index-type-registry-maven-plugin from 3.1.0 to 3.2.0
-- update jeap-spring-boot-starters from 24.15.0 to 24.16.0
-- update jeap-open-api-publisher from 7.15.0 to 7.16.0
-- update jeap-spring-boot-security-client-starter from 24.15.0 to 24.16.0
-- update jeap-opensearch-searchitem-api from 2.14.0 to 2.15.0
-- update jeap-starter from 24.15.0 to 24.16.0
-- update jeap-opensearch-client-starter from 2.14.0 to 2.15.0
-- update jeap-crypto from 10.14.0 to 10.15.0
-- update jeap-spring-boot-vault-starter from 24.15.0 to 24.16.0
-- update jeap-messaging from 17.13.0 to 17.14.0
-- update jeap-messaging-sequential-inbox from 20.13.0 to 20.14.0
-- update jeap-spring-boot-security-starter from 24.15.0 to 24.16.0
-- update jeap-server-sent-events from 12.13.0 to 12.14.0
-- update jeap-messaging-outbox from 17.13.0 to 17.14.0
-- update jeap-reaction-observer from 10.13.0 to 10.14.0
-- update jeap-audit from 10.12.0 to 10.13.0
+- Manage Sonar Plugin Version in parent to make sure builds use a defined and up-to-date version
 
 ## [39.1.0] - 2026-08-17
 
