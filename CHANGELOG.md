@@ -1,5 +1,12 @@
 # Changelog
 
+## [39.2.1] - 2026-08-18
+### Changed
+- update jeap-db-schema-publisher from 3.25.0 to 3.25.1
+- Publish the database schema explicitly as `application/json`. A `HttpMessageConverter` bean registered by the
+  application was added ahead of the default converters and could write the request in another format (e.g. YAML),
+  which archrepo rejected with HTTP 415.
+
 ## [39.2.0] - 2026-08-18
 
 ### Changed
