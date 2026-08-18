@@ -21,6 +21,8 @@
 - update jeap-crypto from 10.14.0 to 10.15.0
 - update jeap-spring-boot-vault-starter from 24.15.0 to 24.16.0
 - update jeap-messaging from 17.13.0 to 17.14.0
+- update jeap-messaging-sequential-inbox from 20.13.0 to 20.14.0
+- update jeap-spring-boot-security-starter from 24.15.0 to 24.16.0
 
 ## [39.1.0] - 2026-08-17
 
