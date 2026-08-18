@@ -1,5 +1,11 @@
 # Changelog
 
+## [39.2.0] - 2026-08-18
+
+### Changed
+
+- Update parent from 8.11.0 to 8.12.0
+
 ## [39.1.0] - 2026-08-17
 
 ### Changed
