@@ -15,6 +15,8 @@
 - update jeap-spring-boot-starters from 24.18.0 to 24.19.0
 - Fix failing token introspection when a client id contains colons by URL-encoding the client id and secret before
   using them as basic auth credentials (see RFC 6749).
+- update jeap-open-api-publisher from 7.18.0 to 7.19.0
+- update jeap-spring-boot-security-client-starter from 24.18.0 to 24.19.0
 
 ## [39.5.0] - 2026-08-19
 
