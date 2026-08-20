@@ -7,6 +7,7 @@
 - update jeap-spring-boot-db-migration-starter from 19.26.0 to 19.27.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.28.0 to 3.29.0
 - update jeap-spring-boot-tls-starter from 19.26.0 to 19.27.0
+- update jeap-opensearch-index-type from 1.23.0 to 1.24.0
 
 ## [39.5.0] - 2026-08-19
 
