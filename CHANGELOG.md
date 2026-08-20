@@ -1,8 +1,11 @@
 # Changelog
 
-## [39.6.0] - 2026-08-20
+## [40.0.0] - 2026-08-20
 
 ### Changed
+- **Breaking change:** Major release because this parent updates jeap-messaging from 17.16.0 to 18.0.0, which
+  introduces the Avro class whitelist. Tests without a Spring context that build, serialize or deserialize a
+  generated Avro message have to install the whitelist themselves, see the notes below.
 - Update parent from 8.13.0 to 9.0.0
 - update jeap-spring-boot-db-migration-starter from 19.26.0 to 19.27.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.28.0 to 3.29.0
