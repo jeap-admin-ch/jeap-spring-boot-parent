@@ -41,6 +41,7 @@
       AvroClassSecurity.installDefaultIfMissing();
   }
   ```
+- update jeap-messaging-outbox from 17.16.0 to 17.17.0
 
 ## [39.5.0] - 2026-08-19
 
