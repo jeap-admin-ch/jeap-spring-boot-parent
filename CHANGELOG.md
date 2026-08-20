@@ -3,8 +3,8 @@
 ## [39.6.0] - 2026-08-20
 
 ### Changed
-
 - Update parent from 8.13.0 to 9.0.0
+- update jeap-spring-boot-db-migration-starter from 19.26.0 to 19.27.0
 
 ## [39.5.0] - 2026-08-19
 
