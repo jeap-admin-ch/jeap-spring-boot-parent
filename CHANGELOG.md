@@ -22,6 +22,25 @@
 - update jeap-opensearch-searchitem-api from 2.17.0 to 2.18.0
 - update jeap-crypto from 10.17.0 to 10.18.0
 - update jeap-spring-boot-vault-starter from 24.18.0 to 24.19.0
+- update jeap-messaging from 17.16.0 to 18.0.0
+- Update parent from 8.13.0 to 9.0.0, which updates Avro from 1.12.1 to 1.12.2
+- Avro 1.12.2 only resolves classes from a schema when they are trusted, so jEAP Messaging installs an Avro
+  `ClassSecurityValidator` whitelist. Trusted are the Avro generated types in `ch.admin.bit.jeap` and - as long as
+  nothing is configured - in `ch.admin`, the common JDK collection and value types (`UUID`, `java.time`, the legacy
+  `java.util.Date` / `java.sql` date types) that a schema can reference via `java-class` / `java-key-class`, and
+  whatever `jeap.messaging.avro.trusted-packages` / `jeap.messaging.avro.trusted-classes` name - those regardless of
+  whether the class is Avro generated. Being an Avro generated type narrows the built-in packages, it never trusts a
+  class on its own. A rejected class is reported with a message naming the two properties, see
+  [Avro class whitelist](docs/avro-class-security.md)
+- **Tests without a Spring context have to install the avro class whitelist themselves.** A plain unit test that builds,
+  serializes or deserializes a generated Avro message now fails with `SecurityException: Forbidden ...` unless it
+  installs the whitelist first:
+  ```java
+  @BeforeAll
+  static void installAvroClassWhitelist() {
+      AvroClassSecurity.installDefaultIfMissing();
+  }
+  ```
 
 ## [39.5.0] - 2026-08-19
 
