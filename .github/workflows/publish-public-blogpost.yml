@@ -1,0 +1,117 @@
+name: Publish Public Blogpost
+
+# Runs on every push to this repository's main branch. Reads the latest CHANGELOG.md entry and
+# publishes it as a new blog post to the public jEAP blog (in jeap-admin-ch/jeap-admin-ch.github.io)
+#
+# Runs on every push to main. It is idempotent - if a blog post for the latest CHANGELOG.md
+# version already exists in jeap-admin-ch.github.io, the run is a no-op, so repeated/unrelated
+# pushes to main do not create duplicate or empty blog posts.
+#
+# Requires a repo (or org) secret JEAP_BLOG_PUBLISH_TOKEN containing a fine-grained PAT for the
+# "jeap-bot" GitHub account, scoped to jeap-admin-ch/jeap-admin-ch.github.io only, with "Contents:
+# Read and write" repository permission (no other permissions needed).
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: publish-public-blogpost
+  cancel-in-progress: false
+
+jobs:
+  publish-public-blogpost:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout jeap-spring-boot-parent
+        uses: actions/checkout@v4
+
+      - name: Determine latest version and blog post slug
+        id: vars
+        run: |
+          set -euo pipefail
+          VERSION=$(grep -m1 -oP '^## \[\K[^\]]+' CHANGELOG.md)
+          if [ -z "${VERSION}" ]; then
+            echo "No version entry found at the top of CHANGELOG.md" >&2
+            exit 1
+          fi
+          SLUG="jeap-spring-boot-parent-${VERSION}"
+          SLUG="${SLUG,,}"
+          echo "version=${VERSION}" >> "${GITHUB_OUTPUT}"
+          echo "slug=${SLUG}" >> "${GITHUB_OUTPUT}"
+          echo "date=$(date -u +%Y-%m-%d)" >> "${GITHUB_OUTPUT}"
+
+      - name: Extract changelog entry
+        id: changelog
+        run: |
+          set -euo pipefail
+          bash .github/scripts/extract-changelog-entry.sh CHANGELOG.md "${{ steps.vars.outputs.version }}" > changelog-entry.md
+          if [ ! -s changelog-entry.md ]; then
+            echo "No changelog entry found for version ${{ steps.vars.outputs.version }} in CHANGELOG.md" >&2
+            exit 1
+          fi
+
+      - name: Generate blog post
+        run: |
+          set -euo pipefail
+          {
+            echo "---"
+            echo "slug: ${{ steps.vars.outputs.slug }}"
+            echo "title: jeap-spring-boot-parent - Release ${{ steps.vars.outputs.version }}"
+            echo "authors: [jeap-team]"
+            echo "tags: [release]"
+            echo "---"
+            echo ""
+            echo "New version [\`${{ steps.vars.outputs.version }}\`](https://github.com/jeap-admin-ch/jeap-spring-boot-parent/blob/v${{ steps.vars.outputs.version }}/CHANGELOG.md) of \`jeap-spring-boot-parent\` is available."
+            echo ""
+            echo "<!-- truncate -->"
+            echo ""
+            cat changelog-entry.md
+          } > blogpost.md
+
+      - name: Clone jeap-admin-ch.github.io and add blog post
+        id: prepare
+        run: |
+          set -euo pipefail
+
+          SLUG="${{ steps.vars.outputs.slug }}"
+
+          rm -rf jeap-admin-ch.github.io
+          git clone --depth=1 --branch main https://github.com/jeap-admin-ch/jeap-admin-ch.github.io.git
+
+          if grep -rlq "^slug: ${SLUG}$" jeap-admin-ch.github.io/blog/*.md 2>/dev/null; then
+            echo "Blog post for slug '${SLUG}' already exists, nothing to do."
+            echo "skip=true" >> "${GITHUB_OUTPUT}"
+            exit 0
+          fi
+
+          BLOGPOST_FILE_NAME="${{ steps.vars.outputs.date }}-${SLUG}.md"
+          cp blogpost.md "jeap-admin-ch.github.io/blog/${BLOGPOST_FILE_NAME}"
+          echo "skip=false" >> "${GITHUB_OUTPUT}"
+          echo "blogpost_file_name=${BLOGPOST_FILE_NAME}" >> "${GITHUB_OUTPUT}"
+
+      - name: Push blog post to public blog
+        if: steps.prepare.outputs.skip != 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.JEAP_BLOG_PUBLISH_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          BLOGPOST_FILE_NAME="${{ steps.prepare.outputs.blogpost_file_name }}"
+
+          cd jeap-admin-ch.github.io
+          git config user.name "jeap-bot"
+          git config user.email "jeap-community@bit.admin.ch"
+          git add "blog/${BLOGPOST_FILE_NAME}"
+
+          if git diff --cached --quiet; then
+            echo "Blog post already up to date, nothing to commit."
+            exit 0
+          fi
+
+          git commit -m "Add blog post for jeap-spring-boot-parent release ${{ steps.vars.outputs.version }}"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/jeap-admin-ch/jeap-admin-ch.github.io.git"
+          git push origin main
+

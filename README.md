@@ -30,6 +30,13 @@ For broader jEAP usage guidance see the official documentation at
 This library is versioned using [Semantic Versioning](http://semver.org/) and all changes are documented 
 in [CHANGELOG.md](./CHANGELOG.md) following the format defined in [Keep a Changelog](http://keepachangelog.com/).
 
+On every push to `main`, the
+[`Publish Public Blogpost`](.github/workflows/publish-public-blogpost.yml) GitHub Actions workflow reads the
+latest entry from `CHANGELOG.md` and publishes it as a post on the public jEAP blog
+([jeap-admin-ch.github.io/blog](https://jeap-admin-ch.github.io/blog)) - the run is a no-op if a post for
+that version already exists, so it is safe to run on every push, not just releases. From there, the post is
+picked up by a separate periodic job that mirrors it to Confluence.
+
 ## Note
 
 This repository is part the open source distribution of jEAP. See 
