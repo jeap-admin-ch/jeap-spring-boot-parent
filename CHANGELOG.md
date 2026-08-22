@@ -11,6 +11,7 @@
 - update jeap-spring-boot-db-migration-starter from 19.27.0 to 19.28.0
 - update jeap-spring-boot-config-aws-starter from 19.28.0 to 19.29.0
 - update jeap-spring-boot-jwe-starter from 1.22.0 to 1.23.0
+- update jeap-opensearch-index-type-registry-maven-plugin from 3.5.0 to 3.6.0
 
 ## [40.0.0] - 2026-08-20
 
