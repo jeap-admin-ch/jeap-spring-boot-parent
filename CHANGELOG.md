@@ -1,5 +1,14 @@
 # Changelog
 
+## [40.1.1] - 2026-08-24
+
+### Changed
+- Update parent from 9.0.1 to 9.0.2
+- update jeap-messaging from 18.1.0 to 18.1.1
+- update jeap-messaging-sequential-inbox from 20.18.0 to 20.18.1
+- update jeap-spring-boot-config-aws-starter from 19.29.0 to 19.29.1
+- update jeap-opensearch-client-starter from 2.19.0 to 2.19.1
+
 ## [40.1.0] - 2026-08-22
 
 ### Changed

@@ -27,7 +27,7 @@
     </licenses>
 
     <artifactId>jeap-spring-boot-parent</artifactId>
-    <version>40.1.0-SNAPSHOT</version>
+    <version>40.1.1-SNAPSHOT</version>
     <name>jeap-spring-boot-parent</name>
     <description>A common parent project</description>
     <packaging>pom</packaging>
@@ -35,18 +35,18 @@
     <parent>
         <artifactId>jeap-internal-spring-boot-parent</artifactId>
         <groupId>ch.admin.bit.jeap</groupId>
-        <version>9.0.1</version>
+        <version>9.0.2</version>
     </parent>
 
     <properties>
         <!-- jEAP Libraries -->
         <jeap-starter.version>24.20.0</jeap-starter.version>
         <jeap-db-migration-starter.version>19.28.0</jeap-db-migration-starter.version>
-        <jeap-config-aws-starter.version>19.29.0</jeap-config-aws-starter.version>
+        <jeap-config-aws-starter.version>19.29.1</jeap-config-aws-starter.version>
         <jeap-tls-starter.version>19.28.0</jeap-tls-starter.version>
-        <jeap-messaging.version>18.1.0</jeap-messaging.version>
+        <jeap-messaging.version>18.1.1</jeap-messaging.version>
         <jeap-messaging-outbox.version>17.18.0</jeap-messaging-outbox.version>
-        <jeap-messaging-sequential-inbox.version>20.18.0</jeap-messaging-sequential-inbox.version>
+        <jeap-messaging-sequential-inbox.version>20.18.1</jeap-messaging-sequential-inbox.version>
         <jeap-reaction-observer.version>10.18.0</jeap-reaction-observer.version>
         <jeap-crypto.version>10.19.0</jeap-crypto.version>
         <jeap-server-sent-events.version>12.18.0</jeap-server-sent-events.version>
@@ -56,7 +56,7 @@
         <jeap-audit.version>10.17.0</jeap-audit.version>
         <jeap-opensearch-index-type.version>1.25.0</jeap-opensearch-index-type.version>
         <jeap-opensearch-searchitem.version>2.19.0</jeap-opensearch-searchitem.version>
-        <jeap-opensearch-client-starter.version>2.19.0</jeap-opensearch-client-starter.version>
+        <jeap-opensearch-client-starter.version>2.19.1</jeap-opensearch-client-starter.version>
         <jeap-spring-boot-jwe-starter.version>1.23.0</jeap-spring-boot-jwe-starter.version>
         <!-- Maven Plugins -->
         <jeap-truststore-maven-plugin.version>3.16.0</jeap-truststore-maven-plugin.version>
