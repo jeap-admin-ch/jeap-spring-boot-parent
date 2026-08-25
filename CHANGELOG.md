@@ -1,5 +1,10 @@
 # Changelog
 
+## [40.2.0] - 2026-08-25
+### Changed
+- update jeap-opensearch-client-starter from 2.19.0 to 2.20.0
+- Exclude the optional Jackson 2 core and databind dependencies from the OpenSearch Java client.
+
 ## [40.1.0] - 2026-08-22
 
 ### Changed
