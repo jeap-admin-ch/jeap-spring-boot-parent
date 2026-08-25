@@ -1,5 +1,11 @@
 # Changelog
 
+## [40.3.0] - 2026-08-25
+### Changed
+- update jeap-spring-boot-config-aws-starter from 19.29.0 to 19.30.0
+- Replace the starter-owned Jackson 2 dependency and APIs with Jackson 3
+- Exclude the AWS SDK Apache 5 HTTP client
+
 ## [40.2.0] - 2026-08-25
 ### Changed
 - update jeap-opensearch-client-starter from 2.19.0 to 2.20.0
