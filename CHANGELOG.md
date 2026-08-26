@@ -23,6 +23,8 @@
 - update jeap-messaging-outbox from 17.18.0 to 17.19.0
 - update jeap-reaction-observer from 10.18.0 to 10.19.0
 - update jeap-audit from 10.17.0 to 10.17.1
+- update jeap-messaging-sequential-inbox from 20.18.0 to 20.19.0
+- Migrate jEAP-owned Jackson usage from Jackson 2 to Jackson 3
 
 ## [40.2.0] - 2026-08-25
 ### Changed
