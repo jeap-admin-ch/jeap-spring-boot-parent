@@ -22,6 +22,7 @@
 - update jeap-server-sent-events from 12.18.0 to 12.18.1
 - update jeap-messaging-outbox from 17.18.0 to 17.19.0
 - update jeap-reaction-observer from 10.18.0 to 10.19.0
+- update jeap-audit from 10.17.0 to 10.17.1
 
 ## [40.2.0] - 2026-08-25
 ### Changed
