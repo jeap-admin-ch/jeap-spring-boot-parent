@@ -7,6 +7,8 @@
 - Exclude the AWS SDK Apache 5 HTTP client
 - update jeap-spring-boot-starters from 24.20.0 to 24.20.1
 - Exclude the AWS SDK Apache 5 HTTP client when using the URL connection client.
+- update jeap-open-api-publisher from 7.20.0 to 7.20.1
+- update jeap-spring-boot-security-client-starter from 24.20.0 to 24.20.1
 
 ## [40.2.0] - 2026-08-25
 ### Changed
