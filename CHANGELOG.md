@@ -1,6 +1,6 @@
 # Changelog
 
-## [40.3.0] - 2026-08-25
+## [40.3.0] - 2026-08-26
 ### Changed
 - update jeap-spring-boot-config-aws-starter from 19.29.0 to 19.30.0
 - Replace the starter-owned Jackson 2 dependency and APIs with Jackson 3
@@ -15,7 +15,6 @@
 - update jeap-crypto from 10.19.0 to 10.19.1
 - update jeap-spring-boot-vault-starter from 24.20.0 to 24.20.1
 - update jeap-crypto from 10.19.1 to 10.19.2
-- update jeap-messaging from 18.1.0 to 18.2.0
 - Migrate jEAP-owned JSON databinding to Jackson 3 and remove the unused AWS SDK v1 Glue dependency.
 - update jeap-messaging from 18.2.0 to 18.2.1
 - update jeap-crypto from 10.19.0 to 10.19.2
