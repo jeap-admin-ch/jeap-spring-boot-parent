@@ -15,6 +15,8 @@
 - update jeap-crypto from 10.19.0 to 10.19.1
 - update jeap-spring-boot-vault-starter from 24.20.0 to 24.20.1
 - update jeap-crypto from 10.19.1 to 10.19.2
+- update jeap-messaging from 18.1.0 to 18.2.0
+- Migrate jEAP-owned JSON databinding to Jackson 3 and remove the unused AWS SDK v1 Glue dependency.
 
 ## [40.2.0] - 2026-08-25
 ### Changed
