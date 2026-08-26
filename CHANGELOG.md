@@ -5,6 +5,8 @@
 - update jeap-spring-boot-config-aws-starter from 19.29.0 to 19.30.0
 - Replace the starter-owned Jackson 2 dependency and APIs with Jackson 3
 - Exclude the AWS SDK Apache 5 HTTP client
+- update jeap-spring-boot-starters from 24.20.0 to 24.20.1
+- Exclude the AWS SDK Apache 5 HTTP client when using the URL connection client.
 
 ## [40.2.0] - 2026-08-25
 ### Changed
