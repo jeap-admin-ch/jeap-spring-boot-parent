@@ -21,6 +21,7 @@
 - update jeap-crypto from 10.19.0 to 10.19.2
 - update jeap-server-sent-events from 12.18.0 to 12.18.1
 - update jeap-messaging-outbox from 17.18.0 to 17.19.0
+- update jeap-reaction-observer from 10.18.0 to 10.19.0
 
 ## [40.2.0] - 2026-08-25
 ### Changed
