@@ -10,6 +10,7 @@
 - update jeap-spring-boot-tls-starter from 19.28.0 to 19.30.0
 - update jeap-opensearch-index-type from 1.25.0 to 1.27.0
 - update jeap-spring-boot-db-migration-starter from 19.28.0 to 19.30.0
+- update jeap-spring-boot-config-aws-starter from 19.30.0 to 19.32.0
 
 ## [40.3.1] - 2026-08-27
 ### Changed
