@@ -1,5 +1,10 @@
 # Changelog
 
+## [40.3.1] - 2026-08-27
+### Changed
+- update jeap-spring-boot-roles-anywhere-starter from 3.30.0 to 3.30.1
+- Exclude the AWS SDK Apache 5 HTTP client when using the URL connection client.
+
 ## [40.3.0] - 2026-08-26
 ### Changed
 - update jeap-spring-boot-config-aws-starter from 19.29.0 to 19.30.0
