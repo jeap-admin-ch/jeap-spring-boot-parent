@@ -1,5 +1,11 @@
 # Changelog
 
+## [40.4.0] - 2026-08-27
+
+### Changed
+
+- Update parent from 9.0.1 to 9.0.3
+
 ## [40.3.1] - 2026-08-27
 ### Changed
 - update jeap-spring-boot-roles-anywhere-starter from 3.30.0 to 3.30.1
