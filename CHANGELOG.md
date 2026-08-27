@@ -8,6 +8,7 @@
 - Update parent from 9.0.2 to 9.0.3
 - update jeap-spring-boot-roles-anywhere-starter from 3.30.1 to 3.32.0
 - update jeap-spring-boot-tls-starter from 19.28.0 to 19.30.0
+- update jeap-opensearch-index-type from 1.25.0 to 1.27.0
 
 ## [40.3.1] - 2026-08-27
 ### Changed
