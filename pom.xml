@@ -45,7 +45,7 @@
         <jeap-config-aws-starter.version>19.30.0</jeap-config-aws-starter.version>
         <jeap-tls-starter.version>19.28.0</jeap-tls-starter.version>
         <jeap-messaging.version>18.2.2</jeap-messaging.version>
-        <jeap-messaging-outbox.version>17.19.0</jeap-messaging-outbox.version>
+        <jeap-messaging-outbox.version>17.19.1</jeap-messaging-outbox.version>
         <jeap-messaging-sequential-inbox.version>20.19.0</jeap-messaging-sequential-inbox.version>
         <jeap-reaction-observer.version>10.19.0</jeap-reaction-observer.version>
         <jeap-crypto.version>10.19.2</jeap-crypto.version>
