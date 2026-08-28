@@ -10,6 +10,7 @@
 - Ignores Exception when completing the emitter after an IOException
 - update jeap-spring-boot-jwe-starter from 1.25.0 to 1.26.0
 - update jeap-spring-boot-starters from 24.22.0 to 24.23.0
+- update jeap-opensearch-index-type from 1.27.0 to 1.28.0
 
 ## [40.4.0] - 2026-08-27
 
