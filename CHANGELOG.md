@@ -25,6 +25,7 @@
 - update jeap-spring-boot-vault-starter from 24.22.0 to 24.23.0
 - update jeap-spring-boot-db-migration-starter from 19.30.0 to 19.31.0
 - update jeap-messaging from 18.3.0 to 18.4.0
+- update jeap-messaging-outbox from 17.20.0 to 17.21.0
 
 ## [40.4.0] - 2026-08-27
 
