@@ -14,6 +14,8 @@
 - update jeap-spring-boot-roles-anywhere-starter from 3.32.0 to 3.33.0
 - update jeap-db-schema-publisher from 3.31.0 to 3.32.0
 - update jeap-spring-boot-config-aws-starter from 19.32.0 to 19.33.0
+- update jeap-open-api-publisher from 7.21.0 to 7.22.0
+- update jeap-spring-boot-security-client-starter from 24.22.0 to 24.23.0
 
 ## [40.4.0] - 2026-08-27
 
