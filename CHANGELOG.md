@@ -20,6 +20,7 @@
 - update jeap-starter from 24.22.0 to 24.23.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.7.0 to 3.8.0
 - update jeap-spring-boot-tls-starter from 19.30.0 to 19.31.0
+- update jeap-opensearch-client-starter from 2.21.0 to 2.22.0
 
 ## [40.4.0] - 2026-08-27
 
