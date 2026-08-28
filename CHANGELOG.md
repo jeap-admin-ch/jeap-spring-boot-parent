@@ -6,6 +6,8 @@
 - Update parent from 9.0.3 to 9.1.0
 - update jeap-server-sent-events from 12.19.0 to 12.20.0
 - Acknowledge the received commands in NotifyClientCommandConsumer
+- update jeap-server-sent-events from 12.20.0 to 12.20.1
+- Ignores Exception when completing the emitter after an IOException
 
 ## [40.4.0] - 2026-08-27
 
