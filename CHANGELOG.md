@@ -1,5 +1,10 @@
 # Changelog
 
+## [40.5.1] - 2026-08-28
+### Changed
+- update jeap-opensearch-client-starter from 2.22.0 to 2.22.1
+- Exclude both AWS SDK Apache HTTP clients when using the URL connection client.
+
 ## [40.5.0] - 2026-08-27
 
 ### Changed
