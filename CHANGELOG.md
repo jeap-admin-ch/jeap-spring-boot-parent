@@ -4,6 +4,7 @@
 ### Changed
 - update jeap-opensearch-client-starter from 2.22.0 to 2.22.1
 - Exclude both AWS SDK Apache HTTP clients when using the URL connection client.
+- update jeap-spring-boot-starters from 24.23.0 to 24.23.1
 
 ## [40.5.0] - 2026-08-27
 
