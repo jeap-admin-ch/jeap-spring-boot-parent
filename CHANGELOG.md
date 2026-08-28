@@ -8,6 +8,8 @@
 - update jeap-spring-boot-roles-anywhere-starter from 3.33.0 to 3.33.1
 - update jeap-open-api-publisher from 7.22.0 to 7.22.1
 - update jeap-spring-boot-security-client-starter from 24.23.0 to 24.23.1
+- update jeap-opensearch-searchitem-api from 2.21.0 to 2.21.1
+- update jeap-starter from 24.23.0 to 24.23.1
 
 ## [40.5.0] - 2026-08-27
 
