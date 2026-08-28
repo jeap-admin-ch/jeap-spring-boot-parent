@@ -8,6 +8,7 @@
 - Acknowledge the received commands in NotifyClientCommandConsumer
 - update jeap-server-sent-events from 12.20.0 to 12.20.1
 - Ignores Exception when completing the emitter after an IOException
+- update jeap-spring-boot-jwe-starter from 1.25.0 to 1.26.0
 
 ## [40.4.0] - 2026-08-27
 
