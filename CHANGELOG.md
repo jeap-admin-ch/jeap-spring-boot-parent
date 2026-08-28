@@ -24,6 +24,7 @@
 - update jeap-messaging-sequential-inbox from 20.21.1 to 20.21.2
 - update jeap-crypto from 10.21.1 to 10.21.2
 - update jeap-audit from 10.19.1 to 10.19.2
+- update jeap-messaging from 18.4.2 to 18.4.3
 
 ## [40.5.0] - 2026-08-27
 
