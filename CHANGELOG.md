@@ -1,7 +1,9 @@
 # Changelog
 
-## [40.5.1] - 2026-08-28
+## [40.5.1] - 2026-08-29
+
 ### Changed
+- Update parent from 9.1.0 to 9.2.0
 - update jeap-opensearch-client-starter from 2.22.0 to 2.22.1
 - Exclude both AWS SDK Apache HTTP clients when using the URL connection client.
 - update jeap-spring-boot-starters from 24.23.0 to 24.23.1
