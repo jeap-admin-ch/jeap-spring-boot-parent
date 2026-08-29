@@ -33,6 +33,7 @@
 - update jeap-audit from 10.19.2 to 10.19.3
 - update jeap-spring-boot-tls-starter from 19.31.0 to 19.32.0
 - update jeap-spring-boot-db-migration-starter from 19.31.0 to 19.32.0
+- update jeap-opensearch-index-type from 1.28.0 to 1.29.0
 
 ## [40.5.0] - 2026-08-27
 
