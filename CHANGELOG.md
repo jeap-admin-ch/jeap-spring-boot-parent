@@ -38,6 +38,7 @@
 - update jeap-spring-boot-roles-anywhere-starter from 3.33.1 to 3.34.0
 - update jeap-spring-boot-config-aws-starter from 19.33.0 to 19.34.0
 - update jeap-spring-boot-jwe-starter from 1.26.0 to 1.27.0
+- update jeap-spring-boot-starters from 24.23.1 to 24.24.0
 
 ## [40.5.0] - 2026-08-27
 
