@@ -52,6 +52,13 @@
 - update jeap-spring-boot-security-starter from 24.23.1 to 24.24.0
 - update jeap-reaction-observer from 10.21.3 to 10.22.0
 - update jeap-messaging-outbox from 17.21.3 to 17.22.0
+- update jeap-server-sent-events from 12.21.0 to 12.22.0
+- Update parent from 9.0.3 to 9.2.0
+- update jeap-starter from 24.23.0 to 24.24.0
+- update jeap-messaging from 18.4.0 to 18.5.0
+- update jeap-spring-boot-roles-anywhere-starter from 3.32.0 to 3.34.0
+- update jeap-crypto from 10.20.0 to 10.22.0
+- update jeap-spring-boot-vault-starter from 24.22.0 to 24.24.0
 
 ## [40.5.0] - 2026-08-27
 
