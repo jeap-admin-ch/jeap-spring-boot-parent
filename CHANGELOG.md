@@ -59,6 +59,7 @@
 - update jeap-spring-boot-roles-anywhere-starter from 3.32.0 to 3.34.0
 - update jeap-crypto from 10.20.0 to 10.22.0
 - update jeap-spring-boot-vault-starter from 24.22.0 to 24.24.0
+- update jeap-audit from 10.19.3 to 10.20.0
 
 ## [40.5.0] - 2026-08-27
 
