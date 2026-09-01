@@ -1,5 +1,10 @@
 # Changelog
 
+## [40.6.0] - 2026-09-01
+
+### Added
+- Manage jeap-spring-modulith-error-handling-starter 1.0.0.
+
 ## [40.5.1] - 2026-08-29
 
 ### Changed

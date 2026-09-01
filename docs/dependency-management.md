@@ -36,7 +36,9 @@ A few starters are versioned independently of `jeap-starter.version`, e.g.
 `jeap-spring-boot-db-migration-starter` (`jeap-db-migration-starter.version`),
 `jeap-spring-boot-config-aws-starter` (`jeap-config-aws-starter.version`),
 `jeap-spring-boot-tls-starter` (`jeap-tls-starter.version`) and
-`jeap-spring-boot-roles-anywhere-starter` (`jeap-spring-boot-roles-anywhere-starter.version`).
+`jeap-spring-boot-roles-anywhere-starter` (`jeap-spring-boot-roles-anywhere-starter.version`). The
+`jeap-spring-modulith-error-handling-starter` is managed by
+`jeap-spring-modulith-error-handling-starter.version`.
 
 ## Other managed jEAP libraries
 
@@ -53,6 +55,7 @@ Each of these has its own version property:
 | Server-sent events    | `jeap-server-sent-events.version`         | `jeap-server-sent-events-core`, `-messaging`, `-web`, `-starter` |
 | OpenSearch            | `jeap-opensearch-*.version`               | index type, client starter, searchitem api/model              |
 | JWE                   | `jeap-spring-boot-jwe-starter.version`    | `jeap-spring-boot-jwe-starter`, `-crypto`, `-web`, `-key-management`, `-test` |
+| Modulith error handling | `jeap-spring-modulith-error-handling-starter.version` | `jeap-spring-modulith-error-handling-starter` |
 | DB schema publisher   | `jeap-db-schema-publisher.version`        | `jeap-db-schema-publisher-starter`, `-model-reader`           |
 | OpenAPI publisher     | `jeap-open-api-publisher.version`         | `jeap-open-api-publisher-starter`                             |
 
