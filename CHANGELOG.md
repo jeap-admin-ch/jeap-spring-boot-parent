@@ -52,6 +52,7 @@
 - update jeap-crypto from 10.23.0 to 10.24.0
 - update jeap-spring-boot-vault-starter from 24.25.0 to 24.26.0
 - update jeap-messaging from 18.6.0 to 18.7.0
+- update jeap-messaging-outbox from 17.23.0 to 17.24.0
 
 ## [40.6.0] - 2026-09-01
 
