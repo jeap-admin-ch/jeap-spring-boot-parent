@@ -1,5 +1,11 @@
 # Changelog
 
+## [40.7.0] - 2026-09-02
+
+### Changed
+
+- Update parent from 9.2.0 to 9.2.1
+
 ## [40.6.0] - 2026-09-01
 
 ### Added
