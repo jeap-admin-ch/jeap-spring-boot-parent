@@ -44,6 +44,8 @@
 - The token introspection client id (`...introspection.client-id`) is now optional: if not configured, the resource id
   (`resource-id`, defaulting to `spring.application.name`) is used, as Keycloak requires the introspection client id to
   be identical to the resource id.
+- update jeap-open-api-publisher from 7.24.0 to 7.25.0
+- update jeap-spring-boot-security-client-starter from 24.25.0 to 24.26.0
 
 ## [40.6.0] - 2026-09-01
 
