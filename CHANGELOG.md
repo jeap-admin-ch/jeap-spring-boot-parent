@@ -27,6 +27,23 @@
 - update jeap-messaging-sequential-inbox from 20.22.0 to 20.23.0
 - update jeap-spring-boot-security-starter from 24.24.0 to 24.25.0
 - update jeap-audit from 10.20.0 to 10.21.0
+- update jeap-spring-boot-starters from 24.25.0 to 24.26.0
+- `jeap.security.oauth2.resourceserver.strict-audience-validation` (`off`/`on`/`warn`, default `off`): with `on`,
+  access tokens in the USER and SYS contexts without an `aud` claim are rejected instead of being treated as valid for
+  every resource; `warn` keeps accepting them but logs a warning identifying the token as a migration aid. Tokens in the
+  B2B context remain unchecked. `on` will become the default in a future release.
+- `JwsBuilder.withEmptyAudience()` (security test support): mints a token with an explicitly empty `aud` claim
+  (`"aud": []`), which Nimbus' `JWTClaimsSet` cannot express, to test how a resource server treats such tokens.
+- Introspection mode `CUSTOM` now actually uses the `JeapJwtIntrospectionCondition` bean provided by the application:
+  the built-in condition previously did not back off because it checked a wrong property key. A custom condition bean
+  combined with any other introspection mode now fails the application startup with a descriptive error, as such a bean
+  would not be used.
+- `jeap.security.oauth2.resourceserver.b2b-gateway.jwks-connect-timeout-in-millis` and
+  `...b2b-gateway.jwks-read-timeout-in-millis` are now applied when fetching the B2B gateway's JWKS. They were
+  accepted but silently ignored, the defaults of 15000 ms being used instead.
+- The token introspection client id (`...introspection.client-id`) is now optional: if not configured, the resource id
+  (`resource-id`, defaulting to `spring.application.name`) is used, as Keycloak requires the introspection client id to
+  be identical to the resource id.
 
 ## [40.6.0] - 2026-09-01
 
