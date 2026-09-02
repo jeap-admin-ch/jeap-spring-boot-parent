@@ -46,6 +46,8 @@
   be identical to the resource id.
 - update jeap-open-api-publisher from 7.24.0 to 7.25.0
 - update jeap-spring-boot-security-client-starter from 24.25.0 to 24.26.0
+- update jeap-opensearch-searchitem-api from 2.23.0 to 2.24.0
+- update jeap-starter from 24.25.0 to 24.26.0
 
 ## [40.6.0] - 2026-09-01
 
