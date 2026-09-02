@@ -3,8 +3,8 @@
 ## [40.7.0] - 2026-09-02
 
 ### Changed
-
 - Update parent from 9.2.0 to 9.2.1
+- update jeap-opensearch-index-type from 1.29.0 to 1.30.0
 
 ## [40.6.0] - 2026-09-01
 
