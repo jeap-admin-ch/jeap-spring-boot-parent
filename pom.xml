@@ -27,7 +27,7 @@
     </licenses>
 
     <artifactId>jeap-spring-boot-parent</artifactId>
-    <version>40.8.0-SNAPSHOT</version>
+    <version>40.9.0-SNAPSHOT</version>
     <name>jeap-spring-boot-parent</name>
     <description>A common parent project</description>
     <packaging>pom</packaging>
@@ -40,7 +40,7 @@
 
     <properties>
         <!-- jEAP Libraries -->
-        <jeap-starter.version>24.27.0</jeap-starter.version>
+        <jeap-starter.version>24.28.0</jeap-starter.version>
         <jeap-db-migration-starter.version>19.34.0</jeap-db-migration-starter.version>
         <jeap-config-aws-starter.version>19.36.0</jeap-config-aws-starter.version>
         <jeap-tls-starter.version>19.34.0</jeap-tls-starter.version>

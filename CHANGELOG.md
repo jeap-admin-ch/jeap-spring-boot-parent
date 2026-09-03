@@ -1,5 +1,14 @@
 # Changelog
 
+## [40.9.0] - 2026-09-03
+### Changed
+- update jeap-spring-boot-starters from 24.27.0 to 24.28.0
+- Error responses from paths handled by `jeap-spring-boot-web-config-starter` now use
+  `Cache-Control: no-store` instead of inheriting long-lived caching based on the request suffix.
+  Cacheable responses now also emit standards-compliant HTTP dates in the `Expires` header.
+- Resolve the built-in introspection conditions' fallback with `BindResult.orElseGet` instead of `orElse` so that the
+  unboxed result is non-null by contract, addressing a SonarQube null-pointer finding. No behavior change.
+
 ## [40.8.0] - 2026-09-03
 
 ### Changed
