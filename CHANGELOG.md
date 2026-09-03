@@ -8,6 +8,8 @@
   Cacheable responses now also emit standards-compliant HTTP dates in the `Expires` header.
 - Resolve the built-in introspection conditions' fallback with `BindResult.orElseGet` instead of `orElse` so that the
   unboxed result is non-null by contract, addressing a SonarQube null-pointer finding. No behavior change.
+- update jeap-open-api-publisher from 7.26.0 to 7.27.0
+- update jeap-spring-boot-security-client-starter from 24.27.0 to 24.28.0
 
 ## [40.8.0] - 2026-09-03
 
