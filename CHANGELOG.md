@@ -10,6 +10,8 @@
   unboxed result is non-null by contract, addressing a SonarQube null-pointer finding. No behavior change.
 - update jeap-open-api-publisher from 7.26.0 to 7.27.0
 - update jeap-spring-boot-security-client-starter from 24.27.0 to 24.28.0
+- update jeap-opensearch-searchitem-api from 2.25.0 to 2.26.0
+- update jeap-starter from 24.27.0 to 24.28.0
 
 ## [40.8.0] - 2026-09-03
 
