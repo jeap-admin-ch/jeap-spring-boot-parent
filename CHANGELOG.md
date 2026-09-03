@@ -22,6 +22,7 @@
 - update jeap-opensearch-client-starter from 2.25.0 to 2.26.0
 - update jeap-messaging from 18.7.0 to 18.8.0
 - update jeap-messaging-outbox from 17.24.0 to 17.25.0
+- update jeap-server-sent-events from 12.24.0 to 12.25.0
 
 ## [40.7.0] - 2026-09-02
 
