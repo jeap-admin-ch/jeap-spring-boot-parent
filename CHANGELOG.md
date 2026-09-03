@@ -10,6 +10,7 @@
 - update jeap-opensearch-index-type from 1.30.0 to 1.31.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.35.0 to 3.36.0
 - update jeap-db-schema-publisher from 3.34.0 to 3.35.0
+- update jeap-spring-boot-jwe-starter from 1.28.0 to 1.29.0
 
 ## [40.7.0] - 2026-09-02
 
