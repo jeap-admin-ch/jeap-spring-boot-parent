@@ -56,7 +56,7 @@
         <jeap-audit.version>10.22.0</jeap-audit.version>
         <jeap-opensearch-index-type.version>1.31.0</jeap-opensearch-index-type.version>
         <jeap-opensearch-searchitem.version>2.25.0</jeap-opensearch-searchitem.version>
-        <jeap-opensearch-client-starter.version>2.25.0</jeap-opensearch-client-starter.version>
+        <jeap-opensearch-client-starter.version>2.26.0</jeap-opensearch-client-starter.version>
         <jeap-spring-boot-jwe-starter.version>1.29.0</jeap-spring-boot-jwe-starter.version>
         <jeap-spring-modulith-error-handling-starter.version>1.0.0</jeap-spring-modulith-error-handling-starter.version>
         <!-- Maven Plugins -->
