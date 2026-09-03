@@ -6,6 +6,7 @@
 - Update parent from 9.2.1 to 9.2.2
 - update jeap-spring-boot-tls-starter from 19.33.0 to 19.34.0
 - update jeap-spring-boot-db-migration-starter from 19.33.0 to 19.34.0
+- update jeap-spring-boot-config-aws-starter from 19.35.0 to 19.36.0
 
 ## [40.7.0] - 2026-09-02
 
