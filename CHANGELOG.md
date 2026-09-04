@@ -5,6 +5,8 @@
 - update jeap-server-sent-events from 12.26.0 to 12.26.1
 - Consume SSE notification commands from all Kafka partitions, including partitions added at runtime, without creating
   consumer groups or committing offsets.
+- update jeap-server-sent-events from 12.26.1 to 12.26.2
+- Improve null safety and concurrency handling in the groupless SSE Kafka consumers.
 
 ## [40.9.0] - 2026-09-03
 ### Changed
