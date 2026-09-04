@@ -1,5 +1,11 @@
 # Changelog
 
+## [40.9.1] - 2026-09-04
+### Changed
+- update jeap-server-sent-events from 12.26.0 to 12.26.1
+- Consume SSE notification commands from all Kafka partitions, including partitions added at runtime, without creating
+  consumer groups or committing offsets.
+
 ## [40.9.0] - 2026-09-03
 ### Changed
 - update jeap-spring-boot-starters from 24.27.0 to 24.28.0
