@@ -1,5 +1,17 @@
 # Changelog
 
+## [40.9.2] - 2026-09-04
+### Changed
+- update jeap-spring-modulith-error-handling-starter from 1.2.0 to 1.2.1
+- Replace the mocked tests of the starter with integration tests that run a real Spring Modulith application,
+  with asynchronous and synchronous persistent listeners, PostgreSQL created from the reference DDL, the transactional
+  outbox, and Kafka.
+- Support asynchronous `@ApplicationModuleListener` and synchronous `@TransactionalEventListener(AFTER_COMMIT)`
+  publications, and document that `max-completion-attempts` includes the first invocation of the listener.
+- Make the initial delay of retry and reconciliation jobs configurable.
+- Announce a new release to the jEAP parent dependency update job, so the managed version of this starter is
+  updated automatically.
+
 ## [40.9.1] - 2026-09-04
 ### Changed
 - update jeap-server-sent-events from 12.26.0 to 12.26.1
