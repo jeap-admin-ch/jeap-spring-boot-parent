@@ -13,6 +13,8 @@
 - update jeap-db-schema-publisher from 3.35.0 to 3.36.0
 - update jeap-spring-boot-jwe-starter from 1.29.0 to 1.30.0
 - update jeap-spring-boot-starters from 24.28.0 to 24.29.0
+- update jeap-open-api-publisher from 7.27.0 to 7.28.0
+- update jeap-spring-boot-security-client-starter from 24.28.0 to 24.29.0
 
 ## [40.9.2] - 2026-09-04
 ### Changed
