@@ -26,6 +26,7 @@
 - update jeap-messaging-sequential-inbox from 20.26.0 to 20.27.0
 - update jeap-spring-boot-security-starter from 24.28.0 to 24.29.0
 - update jeap-audit from 10.24.0 to 10.25.0
+- update jeap-opensearch-index-type-registry-maven-plugin from 3.11.0 to 3.12.0
 
 ## [40.9.2] - 2026-09-04
 ### Changed
