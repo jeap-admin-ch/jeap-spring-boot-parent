@@ -6,6 +6,7 @@
 - Exempt the framework-owned `ModulithPublicationProcessingFailedEvent` from producer contract validation.
 - Clarify that source microservices still require retry/discard consumer contracts, checked by the enabled starter
   at startup.
+- update jeap-server-sent-events from 12.27.0 to 12.27.1
 
 ## [40.10.0] - 2026-09-05
 
