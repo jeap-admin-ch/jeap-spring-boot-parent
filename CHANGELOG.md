@@ -10,6 +10,7 @@
 - update jeap-messaging-outbox from 17.27.0 to 17.27.1
 - update jeap-reaction-observer from 10.27.0 to 10.27.1
 - update jeap-messaging-sequential-inbox from 20.27.0 to 20.27.1
+- update jeap-audit from 10.25.0 to 10.25.1
 
 ## [40.10.0] - 2026-09-05
 
