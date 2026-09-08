@@ -1,5 +1,12 @@
 # Changelog
 
+## [40.10.1] - 2026-09-08
+### Changed
+- update jeap-messaging from 18.10.0 to 18.10.1
+- Exempt the framework-owned `ModulithPublicationProcessingFailedEvent` from producer contract validation.
+- Clarify that source microservices still require retry/discard consumer contracts, checked by the enabled starter
+  at startup.
+
 ## [40.10.0] - 2026-09-05
 
 ### Changed
