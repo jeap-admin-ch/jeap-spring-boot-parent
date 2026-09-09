@@ -8,6 +8,7 @@
 - update jeap-spring-modulith-error-handling-starter from 1.3.1 to 1.4.0
 - update jeap-spring-boot-tls-starter from 19.35.0 to 19.36.0
 - update jeap-opensearch-index-type from 1.32.0 to 1.33.0
+- update jeap-spring-boot-db-migration-starter from 19.35.0 to 19.36.0
 
 ## [40.10.1] - 2026-09-08
 ### Changed
