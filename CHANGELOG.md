@@ -36,6 +36,8 @@
   `ch.admin.bit.jeap.security.resource.introspection`. Note that Caffeine on the classpath makes Spring Boot's cache
   auto-configuration select Caffeine for applications using `@EnableCaching` without an explicit `spring.cache.type`
   advising otherwise.
+- update jeap-open-api-publisher from 7.29.0 to 7.30.0
+- update jeap-spring-boot-security-client-starter from 24.30.0 to 24.31.0
 
 ## [40.10.1] - 2026-09-08
 ### Changed
