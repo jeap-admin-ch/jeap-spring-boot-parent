@@ -12,6 +12,7 @@
 - update jeap-spring-boot-config-aws-starter from 19.38.0 to 19.39.0
 - update jeap-db-schema-publisher from 3.37.0 to 3.38.0
 - update jeap-spring-boot-jwe-starter from 1.31.0 to 1.32.0
+- update jeap-opensearch-index-type-registry-maven-plugin from 3.13.0 to 3.14.0
 
 ## [40.11.0] - 2026-09-09
 
