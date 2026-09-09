@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 9.4.0 to 9.4.1
 - update jeap-spring-boot-tls-starter from 19.36.0 to 19.37.0
+- update jeap-opensearch-index-type from 1.33.0 to 1.34.0
 
 ## [40.11.0] - 2026-09-09
 
