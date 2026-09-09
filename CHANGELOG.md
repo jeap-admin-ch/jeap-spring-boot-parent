@@ -38,6 +38,8 @@
   advising otherwise.
 - update jeap-open-api-publisher from 7.29.0 to 7.30.0
 - update jeap-spring-boot-security-client-starter from 24.30.0 to 24.31.0
+- update jeap-opensearch-client-starter from 2.29.0 to 2.30.0
+- update jeap-starter from 24.30.0 to 24.31.0
 
 ## [40.10.1] - 2026-09-08
 ### Changed
