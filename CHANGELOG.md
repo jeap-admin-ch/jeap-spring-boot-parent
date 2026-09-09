@@ -9,6 +9,7 @@
 - update jeap-spring-boot-roles-anywhere-starter from 3.38.0 to 3.39.0
 - update jeap-spring-modulith-error-handling-starter from 1.4.0 to 1.5.0
 - update jeap-spring-boot-db-migration-starter from 19.36.0 to 19.37.0
+- update jeap-spring-boot-config-aws-starter from 19.38.0 to 19.39.0
 
 ## [40.11.0] - 2026-09-09
 
