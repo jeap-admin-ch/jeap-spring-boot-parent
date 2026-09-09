@@ -46,6 +46,7 @@
 - update jeap-spring-boot-vault-starter from 24.30.0 to 24.31.0
 - update jeap-messaging from 18.11.0 to 18.12.0
 - update jeap-messaging-outbox from 17.27.1 to 17.28.0
+- update jeap-server-sent-events from 12.27.1 to 12.28.0
 
 ## [40.10.1] - 2026-09-08
 ### Changed
