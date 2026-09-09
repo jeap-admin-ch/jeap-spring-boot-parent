@@ -41,6 +41,7 @@
 - update jeap-opensearch-client-starter from 2.29.0 to 2.30.0
 - update jeap-starter from 24.30.0 to 24.31.0
 - update jeap-reaction-observer from 10.27.1 to 10.28.0
+- update jeap-opensearch-searchitem-api from 2.28.0 to 2.29.0
 
 ## [40.10.1] - 2026-09-08
 ### Changed
