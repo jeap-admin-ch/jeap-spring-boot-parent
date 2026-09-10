@@ -27,6 +27,7 @@
 - update jeap-server-sent-events from 12.29.0 to 12.30.0
 - update jeap-reaction-observer from 10.30.0 to 10.31.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.14.0 to 3.15.0
+- update jeap-audit from 10.27.0 to 10.28.0
 
 ## [40.12.0] - 2026-09-09
 
