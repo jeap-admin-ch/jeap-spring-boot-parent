@@ -26,6 +26,8 @@
 - update jeap-reaction-observer from 10.29.0 to 10.30.0
 - update jeap-audit from 10.26.0 to 10.27.0
 - update jeap-opensearch-searchitem-api from 2.29.0 to 2.30.0
+- update jeap-messaging-sequential-inbox from 20.28.0 to 20.29.0
+- update jeap-spring-boot-security-starter from 24.31.0 to 24.32.0
 
 ## [40.11.0] - 2026-09-09
 
