@@ -3,8 +3,8 @@
 ## [40.13.0] - 2026-09-10
 
 ### Changed
-
 - Update parent from 9.4.1 to 9.4.2
+- update jeap-spring-boot-starters from 24.32.0 to 24.33.0
 
 ## [40.12.0] - 2026-09-09
 
