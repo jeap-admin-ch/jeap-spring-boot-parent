@@ -55,7 +55,7 @@
         <jeap-spring-boot-roles-anywhere-starter.version>3.39.0</jeap-spring-boot-roles-anywhere-starter.version>
         <jeap-audit.version>10.27.0</jeap-audit.version>
         <jeap-opensearch-index-type.version>1.34.0</jeap-opensearch-index-type.version>
-        <jeap-opensearch-searchitem.version>2.29.0</jeap-opensearch-searchitem.version>
+        <jeap-opensearch-searchitem.version>2.30.0</jeap-opensearch-searchitem.version>
         <jeap-opensearch-client-starter.version>2.31.0</jeap-opensearch-client-starter.version>
         <jeap-spring-boot-jwe-starter.version>1.32.0</jeap-spring-boot-jwe-starter.version>
         <jeap-spring-modulith-error-handling-starter.version>1.5.0</jeap-spring-modulith-error-handling-starter.version>
