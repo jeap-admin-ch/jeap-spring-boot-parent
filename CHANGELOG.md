@@ -12,6 +12,7 @@
 - update jeap-spring-boot-jwe-starter from 1.32.0 to 1.33.0
 - update jeap-spring-boot-db-migration-starter from 19.37.0 to 19.38.0
 - update jeap-spring-boot-config-aws-starter from 19.39.0 to 19.40.0
+- update jeap-spring-modulith-error-handling-starter from 1.5.0 to 1.6.0
 
 ## [40.12.0] - 2026-09-09
 
