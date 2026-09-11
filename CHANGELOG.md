@@ -10,6 +10,7 @@
 - update jeap-spring-modulith-error-handling-starter from 1.6.0 to 1.7.0
 - update jeap-spring-boot-jwe-starter from 1.33.0 to 1.34.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.15.0 to 3.16.0
+- update jeap-spring-boot-starters from 25.0.0 to 25.1.0
 
 ## [41.0.0] - 2026-09-11
 ### Changed
