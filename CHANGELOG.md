@@ -13,6 +13,7 @@
 - update jeap-opensearch-client-starter from 2.32.0 to 3.0.0
 - update jeap-crypto from 10.31.0 to 11.0.0
 - update jeap-spring-boot-vault-starter from 24.33.0 to 25.0.0
+- update jeap-messaging from 18.14.0 to 19.0.0
 
 ## [40.13.0] - 2026-09-10
 
