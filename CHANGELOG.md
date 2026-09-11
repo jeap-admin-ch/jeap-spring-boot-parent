@@ -6,6 +6,8 @@
 - Default the AWS Advanced JDBC Wrapper dialect to `aurora-pg`, avoiding database-dialect auto-detection for Aurora
   PostgreSQL. Applications using standard RDS PostgreSQL must override
   `jeap.datasource.aws.wrapper.target-data-source-properties.wrapperDialect=rds-pg`.
+- update jeap-open-api-publisher from 7.32.0 to 8.0.0
+- update jeap-spring-boot-security-client-starter from 24.33.0 to 25.0.0
 
 ## [40.13.0] - 2026-09-10
 
