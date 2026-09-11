@@ -1,5 +1,12 @@
 # Changelog
 
+## [41.0.0] - 2026-09-11
+### Changed
+- update jeap-spring-boot-starters from 24.33.0 to 25.0.0
+- Default the AWS Advanced JDBC Wrapper dialect to `aurora-pg`, avoiding database-dialect auto-detection for Aurora
+  PostgreSQL. Applications using standard RDS PostgreSQL must override
+  `jeap.datasource.aws.wrapper.target-data-source-properties.wrapperDialect=rds-pg`.
+
 ## [40.13.0] - 2026-09-10
 
 ### Changed
