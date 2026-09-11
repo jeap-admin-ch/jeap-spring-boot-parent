@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 9.4.2 to 9.5.0
 - update jeap-opensearch-index-type from 1.35.0 to 1.36.0
+- update jeap-db-schema-publisher from 3.39.0 to 3.40.0
 
 ## [41.0.0] - 2026-09-11
 ### Changed
