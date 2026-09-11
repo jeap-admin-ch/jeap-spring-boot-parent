@@ -18,6 +18,9 @@
 - update jeap-opensearch-client-starter from 3.0.0 to 3.1.0
 - update jeap-crypto from 11.0.0 to 11.1.0
 - update jeap-spring-boot-vault-starter from 25.0.0 to 25.1.0
+- update jeap-messaging-outbox from 18.0.0 to 18.1.0
+- Optional durable message headers for immediate and scheduled sends. Header storage is disabled by default;
+  existing APIs and the `deferred_message` schema remain unchanged.
 
 ## [41.0.0] - 2026-09-11
 ### Changed
