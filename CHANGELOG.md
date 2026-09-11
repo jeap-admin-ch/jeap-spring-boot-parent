@@ -28,6 +28,7 @@
 - update jeap-reaction-observer from 11.0.0 to 11.1.0
 - update jeap-messaging-outbox from 18.1.0 to 18.2.0
 - update jeap-audit from 11.0.0 to 11.1.0
+- update jeap-spring-boot-tls-starter from 19.38.0 to 19.39.0
 
 ## [41.0.0] - 2026-09-11
 ### Changed
