@@ -22,6 +22,7 @@
 - Optional durable message headers for immediate and scheduled sends. Header storage is disabled by default;
   existing APIs and the `deferred_message` schema remain unchanged.
 - update jeap-messaging from 19.0.0 to 19.1.0
+- update jeap-server-sent-events from 13.0.0 to 13.1.0
 
 ## [41.0.0] - 2026-09-11
 ### Changed
