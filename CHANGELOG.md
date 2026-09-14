@@ -22,6 +22,7 @@
 - update jeap-spring-boot-jwe-starter from 1.34.0 to 1.35.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.16.0 to 3.17.0
 - update jeap-messaging from 19.1.0 to 19.2.0
+- update jeap-server-sent-events from 13.1.0 to 13.2.0
 
 ## [41.1.0] - 2026-09-11
 
