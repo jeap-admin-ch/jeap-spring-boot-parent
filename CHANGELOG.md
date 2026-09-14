@@ -13,6 +13,7 @@
 - update jeap-spring-boot-vault-starter from 25.1.0 to 25.2.0
 - update jeap-opensearch-searchitem-api from 3.1.0 to 3.2.0
 - update jeap-starter from 25.1.0 to 25.2.0
+- update jeap-opensearch-client-starter from 3.1.0 to 3.2.0
 
 ## [41.1.0] - 2026-09-11
 
