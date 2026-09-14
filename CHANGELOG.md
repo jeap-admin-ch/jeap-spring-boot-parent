@@ -17,6 +17,7 @@
 - update jeap-spring-boot-roles-anywhere-starter from 3.41.0 to 3.42.0
 - update jeap-spring-boot-tls-starter from 19.39.0 to 19.40.0
 - update jeap-spring-modulith-error-handling-starter from 1.7.0 to 1.8.0
+- update jeap-spring-boot-config-aws-starter from 19.41.0 to 19.42.0
 
 ## [41.1.0] - 2026-09-11
 
