@@ -7,6 +7,7 @@
 - update jeap-opensearch-index-type from 1.38.0 to 1.39.0
 - update jeap-db-schema-publisher from 3.42.0 to 3.43.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.43.0 to 3.44.0
+- update jeap-spring-modulith-error-handling-starter from 1.9.0 to 1.10.0
 
 ## [41.3.0] - 2026-09-15
 
