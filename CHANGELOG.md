@@ -28,6 +28,8 @@
 - update jeap-messaging-sequential-inbox from 21.3.0 to 21.4.0
 - update jeap-spring-boot-security-starter from 25.3.0 to 25.4.0
 - update jeap-audit from 11.3.0 to 11.4.0
+- update jeap-opensearch-index-type from 1.39.0 to 1.40.0
+- Clarify the native index definition contract to include optional `settings.analysis` alongside mappings.
 
 ## [41.3.0] - 2026-09-15
 
