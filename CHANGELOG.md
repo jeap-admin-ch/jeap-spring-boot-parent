@@ -6,6 +6,7 @@
 - Update parent from 9.6.0 to 9.6.1
 - update jeap-spring-boot-tls-starter from 19.40.0 to 19.41.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.42.0 to 3.43.0
+- update jeap-spring-modulith-error-handling-starter from 1.8.0 to 1.9.0
 
 ## [41.2.0] - 2026-09-12
 
