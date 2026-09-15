@@ -33,6 +33,7 @@
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.19.0 to 3.20.0
 - Support native `settings.analysis` in index definitions and enforce analysis-aware major/minor compatibility.
 - update jeap-opensearch-searchitem-api from 3.4.0 to 3.5.0
+- update jeap-opensearch-client-starter from 3.4.0 to 3.5.0
 
 ## [41.3.0] - 2026-09-15
 
