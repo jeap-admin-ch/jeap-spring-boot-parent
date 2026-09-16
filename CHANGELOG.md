@@ -1,5 +1,10 @@
 # Changelog
 
+## [41.5.0] - 2026-09-16
+### Changed
+- update jeap-opensearch-index-type-registry-maven-plugin from 3.20.0 to 3.21.0
+- update jeap-opensearch-index-type from 1.39.0 to 1.40.0
+
 ## [41.4.0] - 2026-09-15
 
 ### Changed
