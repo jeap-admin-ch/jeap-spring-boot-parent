@@ -1,5 +1,10 @@
 # Changelog
 
+## [41.5.1] - 2026-09-16
+### Changed
+- update jeap-spring-modulith-error-handling-starter from 1.10.0 to 1.10.1
+- Align Modulith failure stack-trace hashes and limits with standard jEAP Messaging error handling.
+
 ## [41.5.0] - 2026-09-16
 ### Changed
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.20.0 to 3.21.0
