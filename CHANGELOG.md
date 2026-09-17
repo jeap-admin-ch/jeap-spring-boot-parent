@@ -24,6 +24,8 @@
 - update jeap-spring-boot-config-aws-starter from 19.44.0 to 19.46.0
 - update jeap-spring-boot-db-migration-starter from 19.42.0 to 19.44.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.22.0 to 3.23.0
+- update jeap-spring-boot-starters from 25.5.0 to 25.6.0
+- Configure the AWS JDBC Wrapper's HikariCP exception override so recoverable failover connections are not evicted.
 
 ## [41.5.1] - 2026-09-16
 ### Changed
