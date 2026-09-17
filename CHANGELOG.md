@@ -6,6 +6,7 @@
 - Update parent from 9.6.2 to 9.7.0
 - update jeap-opensearch-index-type from 1.40.0 to 1.41.0
 - update jeap-db-schema-publisher from 3.43.0 to 3.44.0
+- update jeap-spring-boot-jwe-starter from 1.37.0 to 1.38.0
 
 ## [41.5.1] - 2026-09-16
 ### Changed
