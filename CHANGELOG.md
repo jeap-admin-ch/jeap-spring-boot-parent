@@ -3,47 +3,8 @@
 ## [41.6.0] - 2026-09-17
 
 ### Changed
-- Update parent from 9.6.2 to 9.7.1
-- Update parent from 9.6.2 to 9.7.0
-- update jeap-opensearch-index-type from 1.40.0 to 1.41.0
-- update jeap-db-schema-publisher from 3.43.0 to 3.44.0
-- update jeap-spring-boot-jwe-starter from 1.37.0 to 1.38.0
-- update jeap-spring-boot-starters from 25.4.0 to 25.5.0
-- update jeap-opensearch-index-type-registry-maven-plugin from 3.21.0 to 3.22.0
-- update jeap-open-api-publisher from 8.4.0 to 8.5.0
-- update jeap-spring-boot-security-client-starter from 25.4.0 to 25.5.0
-- update jeap-opensearch-searchitem-api from 3.5.0 to 3.6.0
-- update jeap-starter from 25.4.0 to 25.5.0
-- update jeap-opensearch-client-starter from 3.5.0 to 3.6.0
-- update jeap-opensearch-index-type from 1.41.0 to 1.42.0
-- Update parent from 9.7.0 to 9.7.1
-- update jeap-db-schema-publisher from 3.44.0 to 3.45.0
-- update jeap-spring-boot-roles-anywhere-starter from 3.44.0 to 3.46.0
-- update jeap-spring-boot-tls-starter from 19.42.0 to 19.44.0
-- update jeap-spring-boot-jwe-starter from 1.38.0 to 1.39.0
-- update jeap-spring-boot-config-aws-starter from 19.44.0 to 19.46.0
-- update jeap-spring-boot-db-migration-starter from 19.42.0 to 19.44.0
-- update jeap-opensearch-index-type-registry-maven-plugin from 3.22.0 to 3.23.0
-- update jeap-spring-boot-starters from 25.5.0 to 25.6.0
+- Update maven central publication plugin: better retry logic
 - Configure the AWS JDBC Wrapper's HikariCP exception override so recoverable failover connections are not evicted.
-- update jeap-open-api-publisher from 8.5.0 to 8.6.0
-- update jeap-spring-boot-security-client-starter from 25.5.0 to 25.6.0
-- update jeap-opensearch-searchitem-api from 3.6.0 to 3.7.0
-- update jeap-starter from 25.5.0 to 25.6.0
-- update jeap-opensearch-client-starter from 3.6.0 to 3.7.0
-- update jeap-crypto from 11.4.0 to 11.6.0
-- update jeap-spring-boot-vault-starter from 25.5.0 to 25.6.0
-- update jeap-messaging from 19.4.0 to 19.5.0
-- update jeap-server-sent-events from 13.4.0 to 13.5.0
-- update jeap-messaging-outbox from 18.5.0 to 18.6.0
-- update jeap-messaging-sequential-inbox from 21.4.0 to 21.5.0
-- update jeap-spring-boot-security-starter from 25.4.0 to 25.5.0
-- update jeap-spring-boot-security-starter from 25.5.0 to 25.6.0
-- update jeap-spring-modulith-error-handling-starter from 1.10.1 to 1.11.0
-- update jeap-messaging from 18.10.1 to 19.5.0
-- update jeap-messaging-outbox from 17.19.0 to 18.6.0
-- update jeap-audit from 11.4.0 to 11.5.0
-- update jeap-reaction-observer from 11.4.0 to 11.5.0
 
 ## [41.5.1] - 2026-09-16
 ### Changed
