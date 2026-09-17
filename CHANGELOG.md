@@ -43,6 +43,7 @@
 - update jeap-messaging from 18.10.1 to 19.5.0
 - update jeap-messaging-outbox from 17.19.0 to 18.6.0
 - update jeap-audit from 11.4.0 to 11.5.0
+- update jeap-reaction-observer from 11.4.0 to 11.5.0
 
 ## [41.5.1] - 2026-09-16
 ### Changed
