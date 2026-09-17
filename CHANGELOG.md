@@ -22,6 +22,7 @@
 - update jeap-spring-boot-tls-starter from 19.42.0 to 19.44.0
 - update jeap-spring-boot-jwe-starter from 1.38.0 to 1.39.0
 - update jeap-spring-boot-config-aws-starter from 19.44.0 to 19.46.0
+- update jeap-spring-boot-db-migration-starter from 19.42.0 to 19.44.0
 
 ## [41.5.1] - 2026-09-16
 ### Changed
