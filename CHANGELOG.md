@@ -2,7 +2,7 @@
 
 ## [41.7.0] - 2026-09-17
 ### Changed
-- update jeap-truststore-maven-plugin from 3.16.0 to 3.44.1-SNAPSHOT
+- update jeap-truststore-maven-plugin from 3.16.0 to 3.44.1
 - Trigger the jEAP parent dependency update after a release, so that new plugin versions reach jeap-spring-boot-parent
 
 ## [41.6.0] - 2026-09-17
