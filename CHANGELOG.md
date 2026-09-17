@@ -28,6 +28,8 @@
 - Configure the AWS JDBC Wrapper's HikariCP exception override so recoverable failover connections are not evicted.
 - update jeap-open-api-publisher from 8.5.0 to 8.6.0
 - update jeap-spring-boot-security-client-starter from 25.5.0 to 25.6.0
+- update jeap-opensearch-searchitem-api from 3.6.0 to 3.7.0
+- update jeap-starter from 25.5.0 to 25.6.0
 
 ## [41.5.1] - 2026-09-16
 ### Changed
