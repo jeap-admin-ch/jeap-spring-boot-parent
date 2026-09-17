@@ -3,7 +3,6 @@
 ## [41.6.0] - 2026-09-17
 
 ### Changed
-
 - Update parent from 9.6.2 to 9.7.1
 - Update parent from 9.6.2 to 9.7.0
 - update jeap-opensearch-index-type from 1.40.0 to 1.41.0
@@ -16,6 +15,8 @@
 - update jeap-opensearch-searchitem-api from 3.5.0 to 3.6.0
 - update jeap-starter from 25.4.0 to 25.5.0
 - update jeap-opensearch-client-starter from 3.5.0 to 3.6.0
+- update jeap-opensearch-index-type from 1.41.0 to 1.42.0
+- Update parent from 9.7.0 to 9.7.1
 
 ## [41.5.1] - 2026-09-16
 ### Changed
