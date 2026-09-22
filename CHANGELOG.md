@@ -5,7 +5,6 @@
 ### Changed
 - Update parent from 9.7.1 to 10.0.1
 - update jeap-truststore-maven-plugin from 3.44.1 to 3.46.0
-- Update parent from 10.0.0 to 10.0.1
 - update jeap-spring-boot-db-migration-starter from 19.44.0 to 19.46.0
 - update jeap-spring-boot-tls-starter from 19.44.0 to 19.46.0
 - update jeap-opensearch-index-type from 1.42.0 to 1.44.0
@@ -18,16 +17,13 @@
 - update jeap-open-api-publisher from 8.6.0 to 8.8.0
 - update jeap-spring-boot-security-client-starter from 25.7.0 to 25.8.0
 - update jeap-opensearch-searchitem-api from 3.7.0 to 3.9.0
-- update jeap-starter from 25.7.0 to 25.8.0
 - update jeap-opensearch-client-starter from 3.7.0 to 3.9.0
 - update jeap-crypto from 11.6.0 to 11.8.0
 - update jeap-spring-boot-vault-starter from 25.7.0 to 25.8.0
 - update jeap-spring-boot-jwe-starter from 1.39.0 to 1.41.0
 - update jeap-messaging from 19.5.0 to 19.6.0
 - update jeap-server-sent-events from 13.5.0 to 13.6.0
-- update jeap-starter from 25.6.0 to 25.8.0
 - update jeap-messaging-sequential-inbox from 21.5.0 to 22.1.0
-- update jeap-spring-boot-security-starter from 25.6.0 to 25.8.0
 - update jeap-reaction-observer from 11.5.0 to 11.6.0
 
 ## [41.7.0] - 2026-09-17
