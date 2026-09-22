@@ -9,6 +9,7 @@
 - update jeap-spring-boot-tls-starter from 19.46.0 to 19.47.0
 - update jeap-spring-boot-config-aws-starter from 19.48.0 to 19.49.0
 - update jeap-opensearch-index-type from 1.44.0 to 1.45.0
+- update jeap-spring-boot-roles-anywhere-starter from 3.48.0 to 3.49.0
 
 ## [41.8.0] - 2026-09-22
 
