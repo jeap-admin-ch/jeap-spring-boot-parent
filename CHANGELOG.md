@@ -23,6 +23,7 @@
 - update jeap-crypto from 11.6.0 to 11.8.0
 - update jeap-spring-boot-vault-starter from 25.7.0 to 25.8.0
 - update jeap-spring-boot-jwe-starter from 1.39.0 to 1.41.0
+- update jeap-messaging from 19.5.0 to 19.6.0
 
 ## [41.7.0] - 2026-09-17
 ### Changed
