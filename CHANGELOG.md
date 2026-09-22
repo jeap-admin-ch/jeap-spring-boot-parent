@@ -28,6 +28,8 @@
 - update jeap-messaging-outbox from 18.6.0 to 18.7.0
 - Update parent from 10.0.0 to 10.0.1
 - update jeap-spring-modulith-error-handling-starter from 1.11.0 to 1.12.0
+- update jeap-audit from 11.5.0 to 11.6.0
+- update jeap-starter from 25.6.0 to 25.8.0
 
 ## [41.7.0] - 2026-09-17
 ### Changed
