@@ -28,6 +28,7 @@
 - update jeap-starter from 25.6.0 to 25.8.0
 - update jeap-messaging-sequential-inbox from 21.5.0 to 22.1.0
 - update jeap-spring-boot-security-starter from 25.6.0 to 25.8.0
+- update jeap-reaction-observer from 11.5.0 to 11.6.0
 
 ## [41.7.0] - 2026-09-17
 ### Changed
