@@ -60,7 +60,7 @@
         <jeap-spring-boot-jwe-starter.version>1.39.0</jeap-spring-boot-jwe-starter.version>
         <jeap-spring-modulith-error-handling-starter.version>1.11.0</jeap-spring-modulith-error-handling-starter.version>
         <!-- Maven Plugins -->
-        <jeap-truststore-maven-plugin.version>3.44.1</jeap-truststore-maven-plugin.version>
+        <jeap-truststore-maven-plugin.version>3.46.0</jeap-truststore-maven-plugin.version>
         <jib-maven-plugin.version>3.5.1</jib-maven-plugin.version>
         <jeap-opensearch-index-type-registry-maven-plugin.version>3.23.0</jeap-opensearch-index-type-registry-maven-plugin.version>
     </properties>
