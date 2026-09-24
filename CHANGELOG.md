@@ -12,6 +12,8 @@
 - Preserve the original database failure when failover retry backoff is interrupted, attaching the interruption
   as a suppressed exception and retaining the thread's interrupt flag.
 - Use the transaction context stack instead of a redundant nesting-depth counter.
+- update jeap-open-api-publisher from 8.9.0 to 8.10.0
+- update jeap-spring-boot-security-client-starter from 25.9.0 to 25.10.0
 
 ## [41.9.0] - 2026-09-22
 
