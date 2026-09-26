@@ -9,6 +9,7 @@
 - update jeap-spring-boot-roles-anywhere-starter from 3.49.0 to 3.50.0
 - update jeap-truststore-maven-plugin from 3.47.0 to 3.48.0
 - update jeap-spring-boot-config-aws-starter from 19.49.0 to 19.50.0
+- update jeap-db-schema-publisher from 3.48.0 to 3.49.0
 
 ## [41.10.0] - 2026-09-24
 ### Changed
