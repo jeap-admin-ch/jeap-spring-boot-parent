@@ -28,6 +28,7 @@
 - update jeap-reaction-observer from 11.8.0 to 11.9.0
 - update jeap-spring-modulith-error-handling-starter from 1.14.0 to 1.15.0
 - update jeap-audit from 11.7.0 to 11.9.0
+- update jeap-spring-boot-tls-starter from 19.47.0 to 19.48.0
 
 ## [41.10.0] - 2026-09-24
 ### Changed
