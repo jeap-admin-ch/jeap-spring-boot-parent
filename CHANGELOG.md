@@ -9,6 +9,7 @@
 - update jeap-spring-boot-roles-anywhere-starter from 3.50.0 to 3.51.0
 - update jeap-spring-boot-db-migration-starter from 19.48.0 to 19.49.0
 - update jeap-spring-boot-tls-starter from 19.48.0 to 19.49.0
+- update jeap-spring-boot-config-aws-starter from 19.50.0 to 19.51.0
 
 ## [41.11.0] - 2026-09-26
 
