@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 11.1.0 to 11.1.1
 - update jeap-opensearch-index-type from 1.46.0 to 1.47.0
+- update jeap-truststore-maven-plugin from 3.48.0 to 3.49.0
 
 ## [41.11.0] - 2026-09-26
 
