@@ -22,6 +22,7 @@
 - update jeap-crypto from 11.11.0 to 11.12.0
 - update jeap-spring-boot-vault-starter from 25.11.0 to 25.12.0
 - update jeap-messaging from 19.9.0 to 19.10.0
+- update jeap-messaging-outbox from 18.10.0 to 18.11.0
 
 ## [41.11.0] - 2026-09-26
 
