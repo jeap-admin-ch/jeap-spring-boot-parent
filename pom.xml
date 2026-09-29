@@ -53,7 +53,7 @@
         <jeap-db-schema-publisher.version>3.50.0</jeap-db-schema-publisher.version>
         <jeap-open-api-publisher.version>8.12.0</jeap-open-api-publisher.version>
         <jeap-spring-boot-roles-anywhere-starter.version>3.51.0</jeap-spring-boot-roles-anywhere-starter.version>
-        <jeap-audit.version>11.9.0</jeap-audit.version>
+        <jeap-audit.version>11.10.0</jeap-audit.version>
         <jeap-opensearch-index-type.version>1.47.0</jeap-opensearch-index-type.version>
         <jeap-opensearch-searchitem.version>3.13.0</jeap-opensearch-searchitem.version>
         <jeap-opensearch-client-starter.version>3.13.0</jeap-opensearch-client-starter.version>
