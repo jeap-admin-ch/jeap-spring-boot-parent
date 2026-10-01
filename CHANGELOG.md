@@ -18,6 +18,8 @@
 - update jeap-spring-boot-security-client-starter from 25.12.0 to 25.13.0
 - update jeap-opensearch-client-starter from 3.13.0 to 3.14.0
 - update jeap-starter from 25.12.0 to 25.13.0
+- update jeap-crypto from 11.12.0 to 11.13.0
+- update jeap-spring-boot-vault-starter from 25.12.0 to 25.13.0
 
 ## [41.12.0] - 2026-09-29
 
