@@ -23,6 +23,8 @@
 - update jeap-opensearch-searchitem-api from 3.13.0 to 3.14.0
 - update jeap-messaging from 19.10.0 to 19.11.0
 - update jeap-reaction-observer from 11.10.0 to 11.11.0
+- update jeap-messaging-sequential-inbox from 22.5.0 to 22.6.0
+- update jeap-spring-boot-security-starter from 25.12.0 to 25.13.0
 
 ## [41.12.0] - 2026-09-29
 
