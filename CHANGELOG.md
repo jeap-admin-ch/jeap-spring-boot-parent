@@ -18,6 +18,7 @@
 - update jeap-spring-boot-security-client-starter from 25.13.0 to 25.14.0
 - update jeap-opensearch-searchitem-api from 3.14.0 to 3.15.0
 - update jeap-starter from 25.13.0 to 25.14.0
+- update jeap-opensearch-client-starter from 3.14.0 to 3.15.0
 
 ## [41.13.0] - 2026-10-01
 
