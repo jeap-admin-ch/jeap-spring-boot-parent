@@ -21,6 +21,7 @@
 - update jeap-crypto from 11.12.0 to 11.13.0
 - update jeap-spring-boot-vault-starter from 25.12.0 to 25.13.0
 - update jeap-opensearch-searchitem-api from 3.13.0 to 3.14.0
+- update jeap-messaging from 19.10.0 to 19.11.0
 
 ## [41.12.0] - 2026-09-29
 
