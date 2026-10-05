@@ -1,5 +1,12 @@
 # Changelog
 
+## [41.15.0] - 2026-10-05
+### Changed
+- update jeap-messaging-sequential-inbox from 22.7.0 to 22.8.0
+- Support for consuming the same message type from several Kafka topics: declare `topics` instead of `topic`
+  in the sequence declaration to let the sequential inbox start one consumer per topic. This makes it possible
+  to consume from the old and the new topic at the same time during a topic migration.
+
 ## [41.14.0] - 2026-10-01
 
 ### Changed
