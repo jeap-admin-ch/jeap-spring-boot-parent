@@ -6,6 +6,7 @@
 - Automatically classify known transient framework and jEAP exceptions as `TEMPORARY` for the Error Handling
   Service, with an `ExceptionTemporalityResolver` hook for application-specific classification.
 - update jeap-messaging-outbox from 18.14.0 to 18.15.0
+- update jeap-server-sent-events from 13.13.0 to 13.14.0
 
 ## [41.16.0] - 2026-10-05
 
