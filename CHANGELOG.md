@@ -1,5 +1,11 @@
 # Changelog
 
+## [41.16.0] - 2026-10-05
+
+### Changed
+
+- Update parent from 11.1.3 to 11.2.0
+
 ## [41.15.0] - 2026-10-05
 ### Changed
 - update jeap-messaging-sequential-inbox from 22.7.0 to 22.8.0
