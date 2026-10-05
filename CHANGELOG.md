@@ -1,5 +1,11 @@
 # Changelog
 
+## [41.17.0] - 2026-10-05
+### Changed
+- update jeap-messaging from 19.13.0 to 19.14.0
+- Automatically classify known transient framework and jEAP exceptions as `TEMPORARY` for the Error Handling
+  Service, with an `ExceptionTemporalityResolver` hook for application-specific classification.
+
 ## [41.16.0] - 2026-10-05
 
 ### Changed
