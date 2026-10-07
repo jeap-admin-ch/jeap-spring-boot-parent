@@ -10,6 +10,12 @@
 - update jeap-messaging-sequential-inbox from 22.10.1 to 22.11.0
 - update jeap-spring-modulith-error-handling-starter from 1.20.0 to 1.21.0
 - update jeap-audit from 11.14.0 to 11.15.0
+- update jeap-spring-modulith-error-handling-starter from 1.21.0 to 1.21.1
+- Architecture documentation: a diagram of how a failed Spring Modulith publication reaches an operator and comes
+  back, showing the boundary between the application's own tables and the jEAP Error Handling Service's. The
+  diagram is kept as a draw.io source next to the SVG exported from it, `docs/images/failed-publication-flow.drawio`
+  and `.svg`; edit the source, export it over the SVG and commit both files. The build refuses a source that was
+  committed without re-exporting its image.
 
 ## [41.17.1] - 2026-10-06
 ### Changed
