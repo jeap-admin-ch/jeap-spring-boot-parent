@@ -8,6 +8,7 @@
 - update jeap-reaction-observer from 11.14.0 to 11.15.0
 - update jeap-messaging-outbox from 18.15.0 to 18.16.0
 - update jeap-messaging-sequential-inbox from 22.10.1 to 22.11.0
+- update jeap-spring-modulith-error-handling-starter from 1.20.0 to 1.21.0
 
 ## [41.17.1] - 2026-10-06
 ### Changed
