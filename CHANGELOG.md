@@ -4,6 +4,7 @@
 ### Changed
 - update jeap-messaging from 19.14.0 to 19.15.0
 - Generate and upload Avro schemas with message contracts without executing message classes, avoiding registry access in the Message Contract Service. Schema generation and upload can be disabled independently.
+- update jeap-server-sent-events from 13.14.0 to 13.15.0
 
 ## [41.17.1] - 2026-10-06
 ### Changed
