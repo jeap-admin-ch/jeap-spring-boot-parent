@@ -17,6 +17,7 @@
 - update jeap-reaction-observer from 11.15.1 to 11.15.2
 - update jeap-audit from 11.16.1 to 11.16.2
 - update jeap-messaging-sequential-inbox from 22.11.1 to 22.11.2
+- update jeap-server-sent-events from 13.15.1 to 13.15.2
 
 ## [41.18.0] - 2026-10-07
 ### Changed
