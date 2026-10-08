@@ -1,5 +1,10 @@
 # Changelog
 
+## [41.18.1] - 2026-10-08
+### Changed
+- update jeap-messaging from 19.15.0 to 19.15.1
+- Clean up the contract annotation processors and the schema extraction without changing their behaviour: no longer catch `Error`, and reduce the complexity of the schema classfile and source readers.
+
 ## [41.18.0] - 2026-10-07
 ### Changed
 - update jeap-messaging from 19.14.0 to 19.15.0
