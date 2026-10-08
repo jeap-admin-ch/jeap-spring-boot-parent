@@ -6,6 +6,7 @@
 - Clean up the contract annotation processors and the schema extraction without changing their behaviour: no longer catch `Error`, and reduce the complexity of the schema classfile and source readers.
 - update jeap-messaging-sequential-inbox from 22.11.0 to 22.11.1
 - update jeap-server-sent-events from 13.15.0 to 13.15.1
+- update jeap-messaging-outbox from 18.16.0 to 18.16.1
 
 ## [41.18.0] - 2026-10-07
 ### Changed
