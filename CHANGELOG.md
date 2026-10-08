@@ -13,6 +13,7 @@
 - update jeap-messaging from 19.15.1 to 19.15.2
 - Removed the duplicated processing round cleanup in the contract annotation processors without changing their behaviour.
 - update jeap-messaging-outbox from 18.16.1 to 18.16.2
+- update jeap-spring-modulith-error-handling-starter from 1.21.2 to 1.21.3
 
 ## [41.18.0] - 2026-10-07
 ### Changed
