@@ -10,6 +10,8 @@
 - update jeap-spring-modulith-error-handling-starter from 1.21.1 to 1.21.2
 - update jeap-reaction-observer from 11.15.0 to 11.15.1
 - update jeap-audit from 11.16.0 to 11.16.1
+- update jeap-messaging from 19.15.1 to 19.15.2
+- Removed the duplicated processing round cleanup in the contract annotation processors without changing their behaviour.
 
 ## [41.18.0] - 2026-10-07
 ### Changed
