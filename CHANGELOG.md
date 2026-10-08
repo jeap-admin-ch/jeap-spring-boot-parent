@@ -16,6 +16,8 @@
   diagram is kept as a draw.io source next to the SVG exported from it, `docs/images/failed-publication-flow.drawio`
   and `.svg`; edit the source, export it over the SVG and commit both files. The build refuses a source that was
   committed without re-exporting its image.
+- update jeap-audit from 11.15.0 to 11.16.0
+- Support scheduled audit command delivery through `auditEventScheduled`.
 
 ## [41.17.1] - 2026-10-06
 ### Changed
