@@ -27,6 +27,7 @@
 - update jeap-messaging-sequential-inbox from 22.11.2 to 22.12.0
 - update jeap-spring-boot-security-starter from 25.15.0 to 25.16.0
 - update jeap-spring-modulith-error-handling-starter from 1.21.3 to 1.22.0
+- update jeap-audit from 11.16.2 to 11.17.0
 
 ## [41.18.1] - 2026-10-08
 ### Changed
