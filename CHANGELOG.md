@@ -1,5 +1,11 @@
 # Changelog
 
+## [41.19.0] - 2026-10-10
+
+### Changed
+
+- Update parent from 11.2.0 to 11.4.0
+
 ## [41.18.1] - 2026-10-08
 ### Changed
 - update jeap-messaging from 19.15.0 to 19.15.1
