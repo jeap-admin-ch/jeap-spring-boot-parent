@@ -3,8 +3,8 @@
 ## [41.19.0] - 2026-10-10
 
 ### Changed
-
 - Update parent from 11.2.0 to 11.4.0
+- update jeap-spring-boot-roles-anywhere-starter from 3.54.0 to 3.55.0
 
 ## [41.18.1] - 2026-10-08
 ### Changed
