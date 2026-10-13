@@ -9,6 +9,7 @@
 - update jeap-spring-boot-db-migration-starter from 19.53.0 to 19.54.0
 - update jeap-spring-boot-config-aws-starter from 19.55.0 to 19.56.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.55.0 to 3.56.0
+- update jeap-opensearch-index-type from 1.51.0 to 1.52.0
 
 ## [41.19.0] - 2026-10-10
 
