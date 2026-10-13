@@ -28,6 +28,7 @@
 - update jeap-spring-boot-security-starter from 25.16.0 to 25.17.0
 - update jeap-server-sent-events from 13.16.0 to 13.17.0
 - update jeap-spring-modulith-error-handling-starter from 1.22.0 to 1.23.0
+- update jeap-audit from 11.17.0 to 11.18.0
 
 ## [41.19.0] - 2026-10-10
 
