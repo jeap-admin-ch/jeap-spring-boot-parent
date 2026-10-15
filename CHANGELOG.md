@@ -1,5 +1,13 @@
 # Changelog
 
+## [41.21.0] - 2026-10-15
+### Changed
+- update jeap-spring-boot-starters from 25.17.0 to 25.18.0
+- Add the platform-independent `@RetryOnDatabaseFailover` annotation. Retryable failures remain
+  limited to the supported AWS JDBC failover case.
+- Deprecate `@RetryOnAwsJdbcFailover` in favor of `@RetryOnDatabaseFailover`; retain it as a
+  compatibility alias with the same retry settings.
+
 ## [41.20.1] - 2026-10-14
 ### Changed
 - update jeap-messaging from 19.17.0 to 19.17.1
