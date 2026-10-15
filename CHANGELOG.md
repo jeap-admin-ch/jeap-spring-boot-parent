@@ -7,6 +7,8 @@
   limited to the supported AWS JDBC failover case.
 - Deprecate `@RetryOnAwsJdbcFailover` in favor of `@RetryOnDatabaseFailover`; retain it as a
   compatibility alias with the same retry settings.
+- update jeap-open-api-publisher from 8.17.0 to 8.18.0
+- update jeap-spring-boot-security-client-starter from 25.17.0 to 25.18.0
 
 ## [41.20.1] - 2026-10-14
 ### Changed
