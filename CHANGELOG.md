@@ -543,9 +543,6 @@
 ## [41.0.0] - 2026-09-11
 ### Changed
 - update jeap-spring-boot-starters from 24.33.0 to 25.0.0
-- Default the AWS Advanced JDBC Wrapper dialect to `aurora-pg`, avoiding database-dialect auto-detection for Aurora
-  PostgreSQL. Applications using standard RDS PostgreSQL must override
-  `jeap.datasource.aws.wrapper.target-data-source-properties.wrapperDialect=rds-pg`.
 - update jeap-open-api-publisher from 7.32.0 to 8.0.0
 - update jeap-spring-boot-security-client-starter from 24.33.0 to 25.0.0
 - update jeap-opensearch-searchitem-api from 2.31.0 to 3.0.0
@@ -560,6 +557,26 @@
 - update jeap-spring-boot-security-starter from 24.33.0 to 25.0.0
 - update jeap-audit from 10.28.0 to 11.0.0
 - update jeap-server-sent-events from 12.30.0 to 13.0.0
+- Use the Aurora PostgreSQL dialect `aurora-pg` by default in the AWS Advanced JDBC Wrapper to support
+  Aurora cluster topology and connection management. **Breaking change.**
+
+### Migration Note
+
+The wrapper uses internal database connections to monitor Aurora's cluster topology, with a default
+socket read timeout of five seconds. In Wrapper 4.4.0, reuse of the same DataSource can unintentionally
+apply this timeout to application connections when no explicit socket timeout is configured.
+Keep `aurora-pg` for Aurora and explicitly configure
+`jeap.datasource.aws.wrapper.target-data-source-properties.socketTimeout`
+to accommodate the application's query and lock waits. For example, `30000` means 30 seconds;
+choose an application-specific value. The starter sets no default. `0` disables this socket read
+timeout; leaving the property unset does not prevent application connections from inheriting the monitoring value.
+
+Shorten transactions and lock holding times, for example with smaller batches in separate transactions
+where business atomicity permits. Starting with parent 41.21.0 (starters 25.18.0), safely repeatable transactional
+operations can use `@RetryOnDatabaseFailover`; alternatively, enable retries globally with
+`jeap.datasource.aws.failover-retry.enabled=true` if all affected operations are safe to repeat.
+Only eligible `08S02` failures are retried; unknown transaction outcomes (`08007`) are not.
+Retry complements, but does not replace, explicit timeout configuration.
 
 ## [40.13.0] - 2026-09-10
 
