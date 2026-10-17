@@ -3,8 +3,8 @@
 ## [41.22.0] - 2026-10-17
 
 ### Changed
-
 - Update parent from 11.4.1 to 11.5.0
+- update jeap-truststore-maven-plugin from 3.54.0 to 3.55.0
 
 ## [41.21.0] - 2026-10-15
 ### Changed
