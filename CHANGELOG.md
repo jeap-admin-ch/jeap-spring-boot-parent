@@ -1,5 +1,11 @@
 # Changelog
 
+## [41.22.0] - 2026-10-17
+
+### Changed
+
+- Update parent from 11.4.1 to 11.5.0
+
 ## [41.21.0] - 2026-10-15
 ### Changed
 - update jeap-spring-boot-starters from 25.17.0 to 25.18.0
