@@ -11,6 +11,7 @@
 - update jeap-spring-boot-roles-anywhere-starter from 3.56.0 to 3.57.0
 - update jeap-db-schema-publisher from 3.55.0 to 3.56.0
 - update jeap-spring-boot-db-migration-starter from 19.54.0 to 19.55.0
+- update jeap-spring-boot-jwe-starter from 1.49.0 to 1.50.0
 
 ## [41.21.0] - 2026-10-15
 ### Changed
