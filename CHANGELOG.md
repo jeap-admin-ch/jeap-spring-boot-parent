@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 11.5.0 to 11.6.0
 - update jeap-opensearch-index-type from 1.53.0 to 1.54.0
+- update jeap-db-schema-publisher from 3.56.0 to 3.57.0
 
 ## [41.22.0] - 2026-10-17
 
