@@ -3,8 +3,8 @@
 ## [41.23.0] - 2026-10-20
 
 ### Changed
-
 - Update parent from 11.5.0 to 11.6.0
+- update jeap-opensearch-index-type from 1.53.0 to 1.54.0
 
 ## [41.22.0] - 2026-10-17
 
