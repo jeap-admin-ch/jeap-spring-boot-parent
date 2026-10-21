@@ -28,6 +28,7 @@
 - update jeap-audit from 11.20.0 to 11.21.0
 - update jeap-truststore-maven-plugin from 3.55.0 to 3.56.0
 - update jeap-spring-boot-tls-starter from 19.55.0 to 19.56.0
+- update jeap-spring-boot-db-migration-starter from 19.55.0 to 19.56.0
 
 ## [41.22.0] - 2026-10-17
 
