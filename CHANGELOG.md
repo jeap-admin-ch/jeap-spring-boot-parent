@@ -24,6 +24,7 @@
 - update jeap-spring-boot-security-starter from 25.19.0 to 25.20.0
 - update jeap-reaction-observer from 11.19.0 to 11.20.0
 - update jeap-messaging-outbox from 18.20.0 to 18.21.0
+- update jeap-spring-modulith-error-handling-starter from 1.25.0 to 1.26.0
 
 ## [41.22.0] - 2026-10-17
 
