@@ -11,6 +11,8 @@
 - update jeap-spring-boot-starters from 25.20.0 to 25.21.0
 - update jeap-open-api-publisher from 8.20.0 to 8.21.0
 - update jeap-spring-boot-security-client-starter from 25.20.0 to 25.21.0
+- update jeap-crypto from 11.20.0 to 11.21.0
+- update jeap-spring-boot-vault-starter from 25.20.0 to 25.21.0
 
 ## [41.23.0] - 2026-10-20
 
