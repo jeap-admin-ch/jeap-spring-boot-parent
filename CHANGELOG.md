@@ -13,6 +13,7 @@
 - update jeap-spring-boot-security-client-starter from 25.20.0 to 25.21.0
 - update jeap-crypto from 11.20.0 to 11.21.0
 - update jeap-spring-boot-vault-starter from 25.20.0 to 25.21.0
+- update jeap-spring-boot-roles-anywhere-starter from 3.58.0 to 3.59.0
 
 ## [41.23.0] - 2026-10-20
 
