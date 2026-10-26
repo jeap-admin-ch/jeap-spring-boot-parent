@@ -20,6 +20,7 @@
 - update jeap-opensearch-client-starter from 3.21.0 to 3.22.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.35.0 to 3.36.0
 - update jeap-db-schema-publisher from 3.57.0 to 3.58.0
+- update jeap-messaging from 19.20.0 to 19.21.0
 
 ## [41.23.0] - 2026-10-20
 
