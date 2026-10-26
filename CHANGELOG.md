@@ -15,6 +15,8 @@
 - update jeap-spring-boot-vault-starter from 25.20.0 to 25.21.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.58.0 to 3.59.0
 - update jeap-opensearch-index-type from 1.54.0 to 1.55.0
+- update jeap-opensearch-searchitem-api from 3.21.0 to 3.22.0
+- update jeap-starter from 25.20.0 to 25.21.0
 
 ## [41.23.0] - 2026-10-20
 
