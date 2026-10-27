@@ -8,6 +8,7 @@
 - update jeap-spring-boot-db-migration-starter from 19.58.0 to 19.59.0
 - update jeap-spring-boot-config-aws-starter from 19.60.0 to 19.61.0
 - update jeap-opensearch-index-type from 1.56.0 to 1.57.0
+- update jeap-truststore-maven-plugin from 3.58.0 to 3.59.0
 
 ## [41.26.0] - 2026-10-27
 ### Changed
