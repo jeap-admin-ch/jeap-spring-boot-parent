@@ -12,6 +12,7 @@
 - update jeap-spring-boot-tls-starter from 19.58.0 to 19.59.0
 - update jeap-db-schema-publisher from 3.59.0 to 3.60.0
 - update jeap-spring-boot-starters from 25.22.0 to 25.23.0
+- update jeap-opensearch-index-type-registry-maven-plugin from 3.37.0 to 3.38.0
 
 ## [41.26.0] - 2026-10-27
 ### Changed
