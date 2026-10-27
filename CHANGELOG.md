@@ -5,6 +5,7 @@
 - update jeap-messaging from 19.22.0 to 19.23.0
 - Classify a database failover with the AWS Advanced JDBC Wrapper (`SQLException` with SQLState `08S02`) as
   `TEMPORARY`, also when it is wrapped, e.g. in a `DataAccessResourceFailureException`.
+- update jeap-server-sent-events from 13.22.0 to 13.23.0
 
 ## [41.25.0] - 2026-10-26
 
