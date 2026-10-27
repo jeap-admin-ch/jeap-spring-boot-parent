@@ -27,6 +27,7 @@
 - update jeap-server-sent-events from 13.23.0 to 13.24.0
 - update jeap-messaging-sequential-inbox from 22.19.0 to 22.20.0
 - update jeap-spring-boot-security-starter from 25.22.0 to 25.23.0
+- update jeap-spring-modulith-error-handling-starter from 1.29.0 to 1.30.0
 
 ## [41.26.0] - 2026-10-27
 ### Changed
