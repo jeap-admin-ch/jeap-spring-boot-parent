@@ -25,6 +25,7 @@
 - update jeap-reaction-observer from 11.25.0 to 11.26.0
 - update jeap-messaging-outbox from 18.26.0 to 18.27.0
 - update jeap-spring-modulith-error-handling-starter from 1.31.0 to 1.32.0
+- update jeap-audit from 11.26.0 to 11.27.0
 
 ## [41.28.0] - 2026-10-27
 
