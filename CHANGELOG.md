@@ -7,6 +7,7 @@
 - update jeap-truststore-maven-plugin from 3.60.0 to 3.61.0
 - update jeap-spring-boot-db-migration-starter from 19.60.0 to 19.61.0
 - update jeap-spring-boot-config-aws-starter from 19.62.0 to 19.63.0
+- update jeap-spring-boot-tls-starter from 19.60.0 to 19.61.0
 
 ## [41.28.0] - 2026-10-27
 
