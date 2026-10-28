@@ -15,6 +15,8 @@
 - update jeap-opensearch-index-type from 1.58.0 to 1.59.0
 - update jeap-open-api-publisher from 8.24.0 to 8.25.0
 - update jeap-spring-boot-security-client-starter from 25.24.0 to 25.25.0
+- update jeap-opensearch-searchitem-api from 3.25.0 to 3.26.0
+- update jeap-starter from 25.24.0 to 25.25.0
 
 ## [41.28.0] - 2026-10-27
 
