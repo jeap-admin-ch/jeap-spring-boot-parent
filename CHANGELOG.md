@@ -1,5 +1,12 @@
 # Changelog
 
+## [41.29.1] - 2026-10-29
+### Changed
+- update jeap-spring-boot-jwe-starter from 1.56.0 to 1.56.1
+- Maven wrapper: download Maven from the `maven-central` repository instead of `maven-public`. The mirror to GitHub only
+  rewrites `maven-central` URLs to the public Maven Central, so the GitHub Actions security scan could not download
+  Maven (Snyk scan error, exit code 2).
+
 ## [41.29.0] - 2026-10-28
 
 ### Changed
