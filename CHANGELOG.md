@@ -4,6 +4,7 @@
 
 ### Changed
 - Update parent from 11.9.2 to 11.10.0
+- Add version management for jeap-spring-boot-mcp-starter starting with version 1.0.0
 - update jeap-spring-boot-db-migration-starter from 19.62.0 to 19.63.0
 - update jeap-truststore-maven-plugin from 3.62.0 to 3.63.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.64.0 to 3.65.0

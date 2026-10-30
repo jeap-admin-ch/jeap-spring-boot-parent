@@ -59,6 +59,7 @@
         <jeap-opensearch-client-starter.version>3.28.0</jeap-opensearch-client-starter.version>
         <jeap-spring-boot-jwe-starter.version>1.58.0</jeap-spring-boot-jwe-starter.version>
         <jeap-spring-modulith-error-handling-starter.version>1.33.0</jeap-spring-modulith-error-handling-starter.version>
+        <jeap-spring-boot-mcp-starter.version>1.0.0-feature-JEAP-7478-SNAPSHOT</jeap-spring-boot-mcp-starter.version>
         <!-- Maven Plugins -->
         <jeap-truststore-maven-plugin.version>3.63.0</jeap-truststore-maven-plugin.version>
         <jib-maven-plugin.version>3.5.1</jib-maven-plugin.version>
@@ -383,6 +384,18 @@
                 <groupId>ch.admin.bit.jeap</groupId>
                 <artifactId>jeap-spring-modulith-error-handling-starter</artifactId>
                 <version>${jeap-spring-modulith-error-handling-starter.version}</version>
+            </dependency>
+
+            <!-- jEAP MCP -->
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-mcp-starter</artifactId>
+                <version>${jeap-spring-boot-mcp-starter.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>ch.admin.bit.jeap</groupId>
+                <artifactId>jeap-spring-boot-mcp-starter-test</artifactId>
+                <version>${jeap-spring-boot-mcp-starter.version}</version>
             </dependency>
         </dependencies>
 

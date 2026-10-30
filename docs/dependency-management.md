@@ -56,6 +56,7 @@ Each of these has its own version property:
 | OpenSearch            | `jeap-opensearch-*.version`               | index type, client starter, searchitem api/model              |
 | JWE                   | `jeap-spring-boot-jwe-starter.version`    | `jeap-spring-boot-jwe-starter`, `-crypto`, `-web`, `-key-management`, `-test` |
 | Modulith error handling | `jeap-spring-modulith-error-handling-starter.version` | `jeap-spring-modulith-error-handling-starter` |
+| MCP                   | `jeap-spring-boot-mcp-starter.version`    | `jeap-spring-boot-mcp-starter`, `-test`                         |
 | DB schema publisher   | `jeap-db-schema-publisher.version`        | `jeap-db-schema-publisher-starter`, `-model-reader`           |
 | OpenAPI publisher     | `jeap-open-api-publisher.version`         | `jeap-open-api-publisher-starter`                             |
 
