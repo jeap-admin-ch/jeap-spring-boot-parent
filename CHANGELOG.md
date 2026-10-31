@@ -13,6 +13,7 @@
 - update jeap-db-schema-publisher from 3.62.0 to 3.63.0
 - update jeap-spring-boot-jwe-starter from 1.56.1 to 1.57.0
 - update jeap-spring-boot-starters from 25.25.0 to 25.26.0
+- update jeap-opensearch-index-type-registry-maven-plugin from 3.40.0 to 3.41.0
 
 ## [41.29.1] - 2026-10-29
 ### Changed
