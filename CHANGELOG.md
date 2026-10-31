@@ -1,5 +1,11 @@
 # Changelog
 
+## [41.30.0] - 2026-10-31
+
+### Changed
+
+- Update parent from 11.9.1 to 11.9.2
+
 ## [41.29.1] - 2026-10-29
 ### Changed
 - update jeap-spring-boot-jwe-starter from 1.56.0 to 1.56.1
