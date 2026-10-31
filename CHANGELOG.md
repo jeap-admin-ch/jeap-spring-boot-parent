@@ -23,6 +23,7 @@
 - update jeap-spring-boot-vault-starter from 25.25.0 to 25.26.0
 - update jeap-messaging from 19.26.0 to 19.27.0
 - update jeap-messaging-outbox from 18.27.0 to 18.28.0
+- update jeap-reaction-observer from 11.26.0 to 11.27.0
 
 ## [41.29.1] - 2026-10-29
 ### Changed
