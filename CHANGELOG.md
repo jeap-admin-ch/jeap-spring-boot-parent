@@ -26,6 +26,7 @@
 - Initial starter setup
 - update jeap-messaging from 19.27.0 to 19.28.0
 - update jeap-server-sent-events from 13.27.0 to 13.28.0
+- update jeap-reaction-observer from 11.27.0 to 11.28.0
 
 ## [41.30.0] - 2026-10-31
 
