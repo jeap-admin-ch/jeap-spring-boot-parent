@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 11.10.0 to 11.11.0
 - update jeap-truststore-maven-plugin from 3.63.0 to 3.64.0
+- update jeap-spring-boot-tls-starter from 19.63.0 to 19.64.0
 
 ## [41.31.0] - 2026-11-03
 
