@@ -24,6 +24,7 @@
 - update jeap-spring-boot-vault-starter from 25.26.0 to 25.27.0
 - update jeap-spring-boot-mcp-starter from 1.0.0-feature-JEAP-7478-SNAPSHOT to 1.0.0
 - Initial starter setup
+- update jeap-messaging from 19.27.0 to 19.28.0
 
 ## [41.30.0] - 2026-10-31
 
