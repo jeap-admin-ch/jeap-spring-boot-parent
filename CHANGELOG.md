@@ -11,6 +11,7 @@
 - update jeap-opensearch-index-type from 1.60.0 to 1.61.0
 - update jeap-db-schema-publisher from 3.63.0 to 3.64.0
 - update jeap-spring-boot-starters from 25.26.0 to 25.27.0
+- update jeap-opensearch-index-type-registry-maven-plugin from 3.41.0 to 3.42.0
 
 ## [41.30.0] - 2026-10-31
 
