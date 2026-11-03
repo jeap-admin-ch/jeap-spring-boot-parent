@@ -22,6 +22,7 @@
 - update jeap-spring-boot-vault-starter from 25.27.0 to 25.28.0
 - update jeap-opensearch-client-starter from 3.28.0 to 3.29.0
 - update jeap-messaging from 19.28.0 to 19.29.0
+- update jeap-messaging-outbox from 18.29.0 to 18.30.0
 
 ## [41.31.0] - 2026-11-03
 
