@@ -1,5 +1,15 @@
 # Changelog
 
+## [41.33.0] - 2026-11-04
+### Changed
+- update jeap-messaging from 19.29.0 to 19.30.0
+- Message type registry verifier compares existing schema files by the schema they define: comments,
+  documentation and formatting may change, schema changes are still rejected
+- Unused-import check of the message type registry verifier no longer depends on comments or formatting
+- Message type registry verifier reports changed common files and changed message type schemas in one run
+- Lexical errors in Avro IDL files (e.g. an unterminated comment or an invalid unicode escape such as a Windows path
+  in a comment) are reported as parse errors instead of aborting the build
+
 ## [41.32.0] - 2026-11-03
 
 ### Changed
