@@ -1,5 +1,12 @@
 # Changelog
 
+## [41.34.0] - 2026-11-05
+### Changed
+- update jeap-reaction-observer from 11.30.0 to 11.31.0
+- New standalone `jeap-reaction-observer-header-starter` module setting the `JEAP-REACTION-OBSERVATION`
+  response header on requests carrying `JEAP-REACTION-MODEL-VERSION`, see [docs/response-header.md](docs/response-header.md)
+  (long operation names are shortened with a SHA-256 suffix)
+
 ## [41.33.0] - 2026-11-04
 ### Changed
 - update jeap-messaging from 19.29.0 to 19.30.0
