@@ -6,6 +6,7 @@
 - Update parent from 11.11.0 to 11.12.0
 - update jeap-truststore-maven-plugin from 3.64.0 to 3.65.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.66.0 to 3.67.0
+- update jeap-spring-boot-db-migration-starter from 19.64.0 to 19.65.0
 
 ## [41.34.0] - 2026-11-05
 ### Changed
