@@ -28,6 +28,7 @@
 - update jeap-spring-boot-security-starter from 25.28.0 to 25.29.0
 - update jeap-server-sent-events from 13.30.0 to 13.31.0
 - update jeap-reaction-observer from 11.31.0 to 11.32.0
+- update jeap-audit from 11.31.0 to 11.32.0
 
 ## [41.34.0] - 2026-11-05
 ### Changed
