@@ -24,6 +24,8 @@
 - update jeap-spring-boot-vault-starter from 25.28.0 to 25.29.0
 - update jeap-messaging from 19.30.0 to 19.31.0
 - update jeap-messaging-outbox from 18.31.0 to 18.32.0
+- update jeap-messaging-sequential-inbox from 22.26.0 to 22.27.0
+- update jeap-spring-boot-security-starter from 25.28.0 to 25.29.0
 
 ## [41.34.0] - 2026-11-05
 ### Changed
