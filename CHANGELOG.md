@@ -1,5 +1,11 @@
 # Changelog
 
+## [41.35.0] - 2026-11-09
+
+### Changed
+
+- Update parent from 11.11.0 to 11.12.0
+
 ## [41.34.0] - 2026-11-05
 ### Changed
 - update jeap-reaction-observer from 11.30.0 to 11.31.0
