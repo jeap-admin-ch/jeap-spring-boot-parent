@@ -16,6 +16,8 @@
 - update jeap-spring-boot-starters from 25.29.0 to 25.30.0
 - update jeap-open-api-publisher from 8.29.0 to 8.30.0
 - update jeap-spring-boot-security-client-starter from 25.29.0 to 25.30.0
+- update jeap-spring-boot-mcp-starter from 1.2.0 to 1.3.0
+- update jeap-starter from 25.29.0 to 25.30.0
 
 ## [41.35.0] - 2026-11-09
 
