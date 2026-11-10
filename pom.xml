@@ -44,7 +44,7 @@
         <jeap-db-migration-starter.version>19.66.0</jeap-db-migration-starter.version>
         <jeap-config-aws-starter.version>19.68.0</jeap-config-aws-starter.version>
         <jeap-tls-starter.version>19.66.0</jeap-tls-starter.version>
-        <jeap-messaging.version>19.31.0</jeap-messaging.version>
+        <jeap-messaging.version>19.32.0</jeap-messaging.version>
         <jeap-messaging-outbox.version>18.32.0</jeap-messaging-outbox.version>
         <jeap-messaging-sequential-inbox.version>22.27.0</jeap-messaging-sequential-inbox.version>
         <jeap-reaction-observer.version>11.32.0</jeap-reaction-observer.version>
