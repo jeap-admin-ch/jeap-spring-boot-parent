@@ -29,6 +29,7 @@
 - update jeap-server-sent-events from 13.30.0 to 13.31.0
 - update jeap-reaction-observer from 11.31.0 to 11.32.0
 - update jeap-audit from 11.31.0 to 11.32.0
+- update jeap-spring-modulith-error-handling-starter from 1.36.0 to 1.37.0
 
 ## [41.34.0] - 2026-11-05
 ### Changed
