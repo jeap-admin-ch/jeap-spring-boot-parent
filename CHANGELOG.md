@@ -1,5 +1,10 @@
 # Changelog
 
+## [41.37.0] - 2026-11-12
+
+### Changed
+- update jeap-opensearch-searchitem-api from 3.31.0 to 3.32.0
+
 ## [41.36.0] - 2026-11-10
 
 ### Changed
