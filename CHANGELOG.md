@@ -36,6 +36,7 @@
   enabling message signing, switching from Confluent to AWS Glue + MSK IAM authentication, and evolving
   a self-consumed message type
 - update jeap-messaging-outbox from 18.34.0 to 18.34.1
+- update jeap-server-sent-events from 13.33.0 to 13.33.1
 
 ## [41.37.0] - 2026-11-12
 
