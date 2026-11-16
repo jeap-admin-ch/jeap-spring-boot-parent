@@ -30,6 +30,11 @@
 - update jeap-reaction-observer from 11.33.0 to 11.34.0
 - update jeap-spring-modulith-error-handling-starter from 1.38.0 to 1.39.0
 - update jeap-audit from 11.33.0 to 11.34.0
+- update jeap-messaging from 19.33.0 to 19.33.1
+- How-to guides under `docs/how-tos/` for integrating Kafka into a service, declaring message contracts,
+  using the idempotent message handler, configuring error handling, updating the message type registry,
+  enabling message signing, switching from Confluent to AWS Glue + MSK IAM authentication, and evolving
+  a self-consumed message type
 
 ## [41.37.0] - 2026-11-12
 
