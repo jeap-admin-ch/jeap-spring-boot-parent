@@ -40,6 +40,7 @@
 - update jeap-reaction-observer from 11.34.0 to 11.34.1
 - update jeap-messaging-sequential-inbox from 22.29.0 to 22.29.1
 - update jeap-spring-modulith-error-handling-starter from 1.39.0 to 1.39.1
+- update jeap-audit from 11.34.0 to 11.34.1
 
 ## [41.37.0] - 2026-11-12
 
