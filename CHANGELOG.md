@@ -19,6 +19,8 @@
 - update jeap-spring-boot-mcp-starter from 1.4.0 to 1.5.0
 - update jeap-starter from 25.31.0 to 25.32.0
 - update jeap-opensearch-searchitem-api from 3.33.0 to 3.34.0
+- update jeap-crypto from 11.31.0 to 11.32.0
+- update jeap-spring-boot-vault-starter from 25.31.0 to 25.32.0
 
 ## [41.38.0] - 2026-11-17
 
