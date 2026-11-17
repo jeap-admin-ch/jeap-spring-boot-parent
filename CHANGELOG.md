@@ -1,5 +1,11 @@
 # Changelog
 
+## [41.39.0] - 2026-11-17
+
+### Changed
+
+- Update parent from 11.14.0 to 11.15.0
+
 ## [41.38.0] - 2026-11-17
 
 ### Changed
