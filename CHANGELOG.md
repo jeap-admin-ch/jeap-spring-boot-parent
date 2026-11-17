@@ -5,6 +5,7 @@
 ### Changed
 - Update parent from 11.14.0 to 11.15.0
 - update jeap-spring-boot-db-migration-starter from 19.67.0 to 19.68.0
+- update jeap-opensearch-index-type from 1.65.0 to 1.66.0
 
 ## [41.38.0] - 2026-11-17
 
