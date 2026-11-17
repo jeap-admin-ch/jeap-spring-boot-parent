@@ -24,6 +24,7 @@
 - update jeap-opensearch-client-starter from 3.32.0 to 3.33.0
 - update jeap-messaging from 19.33.1 to 19.34.0
 - update jeap-messaging-outbox from 18.34.1 to 18.35.0
+- update jeap-reaction-observer from 11.34.1 to 11.35.0
 
 ## [41.38.0] - 2026-11-17
 
