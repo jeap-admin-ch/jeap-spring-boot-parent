@@ -14,6 +14,8 @@
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.46.0 to 3.47.0
 - update jeap-spring-boot-jwe-starter from 1.62.0 to 1.63.0
 - update jeap-spring-boot-starters from 25.31.0 to 25.32.0
+- update jeap-open-api-publisher from 8.31.0 to 8.32.0
+- update jeap-spring-boot-security-client-starter from 25.31.0 to 25.32.0
 
 ## [41.38.0] - 2026-11-17
 
