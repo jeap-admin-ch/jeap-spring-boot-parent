@@ -30,7 +30,6 @@
 - update jeap-spring-modulith-error-handling-starter from 1.40.0 to 1.41.0
 - update jeap-audit from 11.35.0 to 11.36.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.47.0 to 3.49.0
-- No changes in this release; the version bump is to align with the parent POM version.
 
 ## [41.39.0] - 2026-11-17
 
