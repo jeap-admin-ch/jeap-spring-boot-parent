@@ -13,6 +13,8 @@
 - update jeap-spring-boot-starters from 25.32.0 to 25.33.0
 - update jeap-db-schema-publisher from 3.69.0 to 3.70.0
 - update jeap-spring-boot-jwe-starter from 1.63.0 to 1.64.0
+- update jeap-spring-boot-mcp-starter from 1.5.0 to 1.6.0
+- update jeap-starter from 25.32.0 to 25.33.0
 
 ## [41.39.0] - 2026-11-17
 
