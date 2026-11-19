@@ -5,6 +5,9 @@
 ### Added
 - Manage `jeap-reaction-observer-header-starter` and include it in every service via the default `spring` profile
 
+### Changed
+- update jeap-opensearch-client-starter from 3.34.0 to 3.35.0
+
 ## [41.40.0] - 2026-11-19
 
 ### Changed
