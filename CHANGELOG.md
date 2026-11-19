@@ -7,6 +7,7 @@
 - update jeap-spring-boot-tls-starter from 19.68.0 to 19.69.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.70.0 to 3.71.0
 - update jeap-truststore-maven-plugin from 3.68.0 to 3.69.0
+- update jeap-opensearch-index-type from 1.66.0 to 1.67.0
 
 ## [41.39.0] - 2026-11-17
 
