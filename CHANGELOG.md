@@ -1,5 +1,10 @@
 # Changelog
 
+## [41.41.0] - 2026-11-19
+
+### Added
+- Manage `jeap-reaction-observer-header-starter` and include it in every service via the default `spring` profile
+
 ## [41.40.0] - 2026-11-19
 
 ### Changed
