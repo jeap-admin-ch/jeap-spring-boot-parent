@@ -30,6 +30,8 @@
 - update jeap-spring-boot-security-client-starter from 25.33.0 to 25.34.0
 - update jeap-spring-boot-mcp-starter from 1.6.0 to 1.7.0
 - update jeap-starter from 25.33.0 to 25.34.0
+- update jeap-crypto from 11.33.0 to 11.34.0
+- update jeap-spring-boot-vault-starter from 25.33.0 to 25.34.0
 
 ## [41.41.0] - 2026-11-19
 
