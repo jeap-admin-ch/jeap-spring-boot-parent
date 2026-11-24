@@ -25,6 +25,7 @@
 - The `ReactionIdentifiedEvent` is published in a thread of its own: a slow or unreachable Kafka broker no
   longer delays the observed code, e.g. an outgoing HTTP request outside of a trigger. A failed publication is
   retried the next time the reaction occurs
+- update jeap-spring-boot-starters from 25.33.0 to 25.34.0
 
 ## [41.41.0] - 2026-11-19
 
