@@ -48,6 +48,7 @@
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.49.0 to 3.50.0
 - update jeap-opensearch-client-starter from 3.35.0 to 3.36.0
 - update jeap-db-schema-publisher from 3.70.0 to 3.71.0
+- update jeap-spring-boot-db-migration-starter from 19.69.0 to 19.70.0
 
 ## [41.41.0] - 2026-11-19
 
