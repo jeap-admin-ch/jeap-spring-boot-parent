@@ -37,6 +37,7 @@
 - update jeap-messaging-outbox from 18.36.0 to 18.37.0
 - update jeap-messaging-sequential-inbox from 22.31.0 to 22.32.0
 - update jeap-spring-boot-security-starter from 25.33.0 to 25.34.0
+- update jeap-spring-modulith-error-handling-starter from 1.41.0 to 1.42.0
 
 ## [41.41.0] - 2026-11-19
 
