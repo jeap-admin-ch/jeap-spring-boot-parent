@@ -40,6 +40,7 @@
 - update jeap-spring-modulith-error-handling-starter from 1.41.0 to 1.42.0
 - update jeap-audit from 11.36.0 to 11.37.0
 - update jeap-opensearch-index-type from 1.67.0 to 1.68.0
+- update jeap-opensearch-searchitem-api from 3.35.0 to 3.36.0
 
 ## [41.41.0] - 2026-11-19
 
