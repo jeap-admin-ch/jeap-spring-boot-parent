@@ -26,6 +26,8 @@
   longer delays the observed code, e.g. an outgoing HTTP request outside of a trigger. A failed publication is
   retried the next time the reaction occurs
 - update jeap-spring-boot-starters from 25.33.0 to 25.34.0
+- update jeap-open-api-publisher from 8.33.0 to 8.34.0
+- update jeap-spring-boot-security-client-starter from 25.33.0 to 25.34.0
 
 ## [41.41.0] - 2026-11-19
 
