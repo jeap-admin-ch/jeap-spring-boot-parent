@@ -1,30 +1,34 @@
 # Changelog
 
-## [41.42.0] - 2026-11-21
+## [41.42.0] - 2026-11-24
+
+### Added
+- jeap-reaction-observer, reaction model version 2: outgoing HTTP requests of `RestClient`s are observed as
+  actions (new module `jeap-reaction-observer-http`, part of the starter), named by the provider's
+  `JEAP-REACTION-OBSERVATION` response header or else coarsely by the called target. Opt in with
+  `jeap.reaction.observer.model-version=2` once the Reaction Observer Service supports model version 2; the
+  default stays `1`. See
+  [HTTP requests](https://github.com/jeap-admin-ch/jeap-reaction-observer/blob/main/docs/http-requests.md)
+- jeap-reaction-observer: with reaction model version 2 Spring buffers the request bodies of the observed
+  `RestClient`s in memory, because the observation adds an interceptor to them. A client that has to stream
+  large request bodies can be created without the observation with the new
+  `UnobservedRestClientBuilderFactory`, see
+  [Clients without observation](https://github.com/jeap-admin-ch/jeap-reaction-observer/blob/main/docs/http-requests.md#clients-without-observation)
 
 ### Changed
 - Update parent from 11.16.0 to 11.17.0
 - update jeap-truststore-maven-plugin from 3.69.0 to 3.70.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.71.0 to 3.72.0
-- update jeap-reaction-observer from 11.36.0 to 11.37.0
-- Reaction model version 2: outgoing HTTP requests of `RestClient`s are observed as actions (new module
-  `jeap-reaction-observer-http`, part of the starter), named by the provider's `JEAP-REACTION-OBSERVATION`
-  response header or else coarsely by the called target. Opt in with `jeap.reaction.observer.model-version=2`
-  once the Reaction Observer Service supports model version 2; the default stays `1`. See
-  [docs/http-requests.md](docs/http-requests.md)
-- With reaction model version 2 Spring buffers the request bodies of the observed `RestClient`s in memory,
-  because the observation adds an interceptor to them. A client that has to stream large request bodies can be
-  created without the observation with the new `UnobservedRestClientBuilderFactory`, see
-  [Clients without observation](docs/http-requests.md#clients-without-observation)
-- `ReactionIdentifiedEvent` 2.1.0 and `ReactionsObservedEvent` 1.1.0 report the reaction model version; the
-  idempotence id of `ReactionIdentifiedEvent` contains the service instance identifier, the model version and
-  the time at which the instance began to report its reactions, so that it identifies one report.
-  `ReactionIdentifiedEventBuilder.buildEvent` takes these three values as further parameters
-- New module `jeap-reaction-observer-configuration` (part of the starter) with the settings of the library as a
-  whole
-- The `ReactionIdentifiedEvent` is published in a thread of its own: a slow or unreachable Kafka broker no
-  longer delays the observed code, e.g. an outgoing HTTP request outside of a trigger. A failed publication is
-  retried the next time the reaction occurs
+- update jeap-reaction-observer from 11.36.0 to 11.38.0
+  - `ReactionIdentifiedEvent` 2.1.0 and `ReactionsObservedEvent` 1.1.0 report the reaction model version; the
+    idempotence id of `ReactionIdentifiedEvent` contains the service instance identifier, the model version
+    and the time at which the instance began to report its reactions, so that it identifies one report.
+    `ReactionIdentifiedEventBuilder.buildEvent` takes these three values as further parameters
+  - New module `jeap-reaction-observer-configuration` (part of the starter) with the settings of the library
+    as a whole
+  - The `ReactionIdentifiedEvent` is published in a thread of its own: a slow or unreachable Kafka broker no
+    longer delays the observed code, e.g. an outgoing HTTP request outside of a trigger. A failed publication
+    is retried the next time the reaction occurs
 - update jeap-spring-boot-starters from 25.33.0 to 25.34.0
 - update jeap-open-api-publisher from 8.33.0 to 8.34.0
 - update jeap-spring-boot-security-client-starter from 25.33.0 to 25.34.0
@@ -43,7 +47,6 @@
 - update jeap-opensearch-searchitem-api from 3.35.0 to 3.36.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.49.0 to 3.50.0
 - update jeap-opensearch-client-starter from 3.35.0 to 3.36.0
-- update jeap-reaction-observer from 11.37.0 to 11.38.0
 - update jeap-db-schema-publisher from 3.70.0 to 3.71.0
 
 ## [41.41.0] - 2026-11-19
