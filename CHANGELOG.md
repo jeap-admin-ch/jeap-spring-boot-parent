@@ -1,7 +1,9 @@
 # Changelog
 
 ## [41.44.0] - 2026-11-25
+
 ### Changed
+- Update parent from 11.17.0 to 12.0.0
 - update jeap-reaction-observer from 11.39.0 to 11.40.0
 - Reidentification: an instance identifies its reactions again every
   `jeap.reaction.observer.reidentification-period` (24 hours by default, at least 2 seconds and at most
