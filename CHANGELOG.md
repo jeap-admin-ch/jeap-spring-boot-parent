@@ -43,6 +43,7 @@
   a clock and the metrics as well
 - update jeap-truststore-maven-plugin from 3.70.0 to 3.71.0
 - update jeap-spring-boot-tls-starter from 19.70.0 to 19.71.0
+- update jeap-spring-boot-db-migration-starter from 19.70.0 to 19.71.0
 
 ## [41.43.0] - 2026-11-24
 ### Changed
