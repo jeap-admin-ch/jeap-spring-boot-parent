@@ -41,6 +41,7 @@
 - The constructor `ReactionObserverService(ReactionIdentifiedListener)` is removed. A service gets its
   `ReactionObserverService` from the starter; code that creates one itself passes the reidentification period,
   a clock and the metrics as well
+- update jeap-truststore-maven-plugin from 3.70.0 to 3.71.0
 
 ## [41.43.0] - 2026-11-24
 ### Changed
