@@ -45,6 +45,7 @@
 - update jeap-spring-boot-tls-starter from 19.70.0 to 19.71.0
 - update jeap-spring-boot-db-migration-starter from 19.70.0 to 19.71.0
 - update jeap-spring-boot-roles-anywhere-starter from 3.72.0 to 3.73.0
+- update jeap-db-schema-publisher from 3.71.0 to 3.72.0
 
 ## [41.43.0] - 2026-11-24
 ### Changed
