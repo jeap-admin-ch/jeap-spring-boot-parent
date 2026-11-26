@@ -9,6 +9,15 @@ validation fails. The validated repositories are jEAP products built on this par
 - `jeap-oauth-mock-server`
 - `jeap-reaction-observer-service`
 - `jeap-opensearch-index-writer-service`
+- `jeap-message-exchange-service`
+- `jeap-archrepo-service`
+- `jeap-deploymentlog-service`
+- `jeap-process-archive-service`
+- `jeap-message-contract-service`
+- `jeap-mcp-service`
+- `jeap-initializer`
+- `jeap-bptest-orchestrator`
+- `jeap-error-handling`
 
 The validation job is defined in [verifyDependentRepo.groovy](../verifyDependentRepo.groovy)
 and validates one repository per build: it runs
