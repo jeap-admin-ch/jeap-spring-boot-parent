@@ -3,84 +3,13 @@
 ## [41.44.0] - 2026-11-25
 
 ### Changed
-- Update parent from 11.17.0 to 12.0.0
-- update jeap-reaction-observer from 11.39.0 to 11.40.0
-- Reidentification: an instance identifies its reactions again every
-  `jeap.reaction.observer.reidentification-period` (24 hours by default, at least 2 seconds and at most
-  7 days; the first period of an instance lasts a random 50 to 100 percent of it). An identification that
-  never reached the Reaction Observer Service is thereby made up for after one period at the latest, not only
-  when the instance restarts.
-  Each identification is a message with an idempotence id of its own. Always active, whatever the reaction
-  model version, and without a new version of the Reaction Observer Service. See
-  [docs/how-it-works.md](docs/how-it-works.md#reidentification)
-- Metrics, if the service has a `MeterRegistry`: `jeap_reaction_observer_identified_reactions` (the reactions
-  identified in the current period) and `jeap_reaction_observer_dropped_executions_total` (the executions
-  the observer dropped, by `reason`). See [docs/how-it-works.md](docs/how-it-works.md#metrics)
-- Only the executions of identified reactions are counted. An instance that had reached its limit of 4096
-  reactions used to count the executions of further reactions without identifying them, and the Reaction
-  Observer Service skipped these counts. Such executions are not reported any more and show in the new
-  metric instead. The limit holds per identification period, not until the instance restarts, and its warning
-  is logged once per period
-- A `ReactionsObservedEvent` still reports the counts of at most 4096 distinct reactions. What happens when
-  this limit is reached has changed:
-  - Before: nothing was counted any more until the next event, not even reactions that already had a count.
-  - Now: reactions that already have a count keep being counted. Only the executions of further reactions
-    are dropped until the next event, and show in the new metric as `count_limit`.
-  Only an instance that observes more than 4096 distinct reactions can reach the limit, see
-  [docs/how-it-works.md](docs/how-it-works.md#more-than-4096-distinct-reactions)
-- The execution that finds the identification of its reaction rejected at the hand-over for publication
-  (queue full, or the service is shutting down) is not counted any more, and shows in the new metric as
-  `not_identified`. If another thread observes the same reaction just before the hand-over is rejected, its
-  execution has already been counted and stays counted
-- `ReactionIdentifiedListener.onReactionIdentified` has a second parameter, the identification start. The
-  interface is an internal one between the modules of this library, not an extension point, and is documented
-  as such now. An implementation outside of this library has to be adapted
-- `jeap.reaction.observer.events.observed-event-rate-seconds` has to be at least 1, a smaller value fails the
-  start of the service with a message that names the property. The publication of the counts cannot be
-  switched off: the documentation said that a value `<= 0` disables it, but such a service did not start
-- The constructor `ReactionObserverService(ReactionIdentifiedListener)` is removed. A service gets its
-  `ReactionObserverService` from the starter; code that creates one itself passes the reidentification period,
-  a clock and the metrics as well
-- update jeap-truststore-maven-plugin from 3.70.0 to 3.71.0
-- update jeap-spring-boot-tls-starter from 19.70.0 to 19.71.0
-- update jeap-spring-boot-db-migration-starter from 19.70.0 to 19.71.0
-- update jeap-spring-boot-roles-anywhere-starter from 3.72.0 to 3.73.0
-- update jeap-db-schema-publisher from 3.71.0 to 3.72.0
-- update jeap-opensearch-index-type from 1.68.0 to 1.69.0
-- update jeap-spring-boot-config-aws-starter from 19.72.0 to 19.73.0
-- update jeap-spring-boot-jwe-starter from 1.65.0 to 1.66.0
-- update jeap-opensearch-index-type-registry-maven-plugin from 3.50.0 to 3.51.0
-- update jeap-spring-boot-starters from 25.34.0 to 25.35.0
-- Application starter: adapt the reverse proxy defaults to Spring Boot 4.2. The forwarded header strategy now
-  defaults to `server.request.header.forwarded.strategy=web-server` (replacing the deprecated
-  `server.forward-headers-strategy=NATIVE`), and only if the application sets neither of the two properties itself,
-  so an application's own setting of either property is respected (Spring Boot refuses to start if both are set).
-  The `server.tomcat.use-relative-redirects=true` default was dropped, as Spring Boot defaults to relative redirects.
-- update jeap-open-api-publisher from 8.34.0 to 8.35.0
-- update jeap-spring-boot-security-client-starter from 25.34.0 to 25.35.0
-- update jeap-spring-boot-mcp-starter from 1.7.0 to 1.8.0
-- update jeap-starter from 25.34.0 to 25.35.0
-- update jeap-opensearch-searchitem-api from 3.36.0 to 3.37.0
-- update jeap-opensearch-client-starter from 3.36.0 to 3.37.0
-- update jeap-crypto from 11.34.0 to 11.35.0
-- update jeap-spring-boot-vault-starter from 25.34.0 to 25.35.0
-- update jeap-messaging from 19.36.0 to 19.37.0
-- update jeap-messaging-outbox from 18.37.0 to 18.38.0
-- update jeap-messaging-sequential-inbox from 22.32.0 to 22.33.0
-- update jeap-spring-boot-security-starter from 25.34.0 to 25.35.0
-- update jeap-reaction-observer from 11.40.0 to 11.41.0
-- Requests with the `QUERY` method, a standard method since Spring Framework 7.1, are named and observed like
-  requests with the other standard methods: they get a `JEAP-REACTION-OBSERVATION` header and are observed as
-  triggers. Versions 11.39.0 to 11.40.x treat them like requests with another method, see
-  [docs/response-header.md](docs/response-header.md#contract)
-- update jeap-spring-modulith-error-handling-starter from 1.42.0 to 1.43.0
-- update jeap-audit from 11.37.0 to 11.38.0
-- update jeap-spring-boot-config-aws-starter from 19.73.0 to 19.73.1
-- AppConfig changes polled while the application is still starting no longer fail the context refresh with a
-  `NullPointerException`; the refresh now runs once the application has started.
-- A failed context refresh after an AppConfig change is retried with the next poll instead of keeping the old
-  configuration until the next change.
-- update jeap-server-sent-events from 13.36.0 to 13.37.0
+- **Spring Boot 4.2.0**: update parent from 11.17.0 to 12.0.0 (Spring Framework 7.1, Spring Security 7.2,
+  Spring Cloud 2026.0.0, Spring AI 2.1.0)
+- Update all jEAP libraries to their releases built on Spring Boot 4.2.0
+- Application starter: the forwarded header default is now `server.request.header.forwarded.strategy=web-server`
+  (replacing the deprecated `server.forward-headers-strategy`), applied only if the application sets neither
+- Reaction observer: periodic reidentification of reactions (`jeap.reaction.observer.reidentification-period`),
+  new metrics for identified and dropped executions, `QUERY` requests are observed as triggers
 
 ## [41.43.0] - 2026-11-24
 ### Changed
