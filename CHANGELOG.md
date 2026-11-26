@@ -75,6 +75,11 @@
   [docs/response-header.md](docs/response-header.md#contract)
 - update jeap-spring-modulith-error-handling-starter from 1.42.0 to 1.43.0
 - update jeap-audit from 11.37.0 to 11.38.0
+- update jeap-spring-boot-config-aws-starter from 19.73.0 to 19.73.1
+- AppConfig changes polled while the application is still starting no longer fail the context refresh with a
+  `NullPointerException`; the refresh now runs once the application has started.
+- A failed context refresh after an AppConfig change is retried with the next poll instead of keeping the old
+  configuration until the next change.
 
 ## [41.43.0] - 2026-11-24
 ### Changed
