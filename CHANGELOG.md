@@ -68,6 +68,11 @@
 - update jeap-messaging-outbox from 18.37.0 to 18.38.0
 - update jeap-messaging-sequential-inbox from 22.32.0 to 22.33.0
 - update jeap-spring-boot-security-starter from 25.34.0 to 25.35.0
+- update jeap-reaction-observer from 11.40.0 to 11.41.0
+- Requests with the `QUERY` method, a standard method since Spring Framework 7.1, are named and observed like
+  requests with the other standard methods: they get a `JEAP-REACTION-OBSERVATION` header and are observed as
+  triggers. Versions 11.39.0 to 11.40.x treat them like requests with another method, see
+  [docs/response-header.md](docs/response-header.md#contract)
 
 ## [41.43.0] - 2026-11-24
 ### Changed
