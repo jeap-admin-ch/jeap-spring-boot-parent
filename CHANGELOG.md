@@ -58,6 +58,8 @@
   The `server.tomcat.use-relative-redirects=true` default was dropped, as Spring Boot defaults to relative redirects.
 - update jeap-open-api-publisher from 8.34.0 to 8.35.0
 - update jeap-spring-boot-security-client-starter from 25.34.0 to 25.35.0
+- update jeap-spring-boot-mcp-starter from 1.7.0 to 1.8.0
+- update jeap-starter from 25.34.0 to 25.35.0
 
 ## [41.43.0] - 2026-11-24
 ### Changed
