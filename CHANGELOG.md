@@ -80,6 +80,7 @@
   `NullPointerException`; the refresh now runs once the application has started.
 - A failed context refresh after an AppConfig change is retried with the next poll instead of keeping the old
   configuration until the next change.
+- update jeap-server-sent-events from 13.36.0 to 13.37.0
 
 ## [41.43.0] - 2026-11-24
 ### Changed
