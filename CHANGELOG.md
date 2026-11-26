@@ -56,6 +56,8 @@
   `server.forward-headers-strategy=NATIVE`), and only if the application sets neither of the two properties itself,
   so an application's own setting of either property is respected (Spring Boot refuses to start if both are set).
   The `server.tomcat.use-relative-redirects=true` default was dropped, as Spring Boot defaults to relative redirects.
+- update jeap-open-api-publisher from 8.34.0 to 8.35.0
+- update jeap-spring-boot-security-client-starter from 25.34.0 to 25.35.0
 
 ## [41.43.0] - 2026-11-24
 ### Changed
