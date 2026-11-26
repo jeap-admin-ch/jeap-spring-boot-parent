@@ -73,6 +73,7 @@
   requests with the other standard methods: they get a `JEAP-REACTION-OBSERVATION` header and are observed as
   triggers. Versions 11.39.0 to 11.40.x treat them like requests with another method, see
   [docs/response-header.md](docs/response-header.md#contract)
+- update jeap-spring-modulith-error-handling-starter from 1.42.0 to 1.43.0
 
 ## [41.43.0] - 2026-11-24
 ### Changed
