@@ -74,6 +74,7 @@
   triggers. Versions 11.39.0 to 11.40.x treat them like requests with another method, see
   [docs/response-header.md](docs/response-header.md#contract)
 - update jeap-spring-modulith-error-handling-starter from 1.42.0 to 1.43.0
+- update jeap-audit from 11.37.0 to 11.38.0
 
 ## [41.43.0] - 2026-11-24
 ### Changed
