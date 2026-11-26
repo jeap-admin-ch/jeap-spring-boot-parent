@@ -50,6 +50,12 @@
 - update jeap-spring-boot-config-aws-starter from 19.72.0 to 19.73.0
 - update jeap-spring-boot-jwe-starter from 1.65.0 to 1.66.0
 - update jeap-opensearch-index-type-registry-maven-plugin from 3.50.0 to 3.51.0
+- update jeap-spring-boot-starters from 25.34.0 to 25.35.0
+- Application starter: adapt the reverse proxy defaults to Spring Boot 4.2. The forwarded header strategy now
+  defaults to `server.request.header.forwarded.strategy=web-server` (replacing the deprecated
+  `server.forward-headers-strategy=NATIVE`), and only if the application sets neither of the two properties itself,
+  so an application's own setting of either property is respected (Spring Boot refuses to start if both are set).
+  The `server.tomcat.use-relative-redirects=true` default was dropped, as Spring Boot defaults to relative redirects.
 
 ## [41.43.0] - 2026-11-24
 ### Changed
