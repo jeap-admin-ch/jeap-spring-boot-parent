@@ -82,8 +82,3 @@ MIT License
  * Project Lombok - [org.projectlombok:lombok](https://projectlombok.org)
  * JUL to SLF4J bridge - [org.slf4j:jul-to-slf4j](http://www.slf4j.org)
  * SLF4J API Module - [org.slf4j:slf4j-api](http://www.slf4j.org)
-
-Public Domain
--------------------------------
-
- * AOP alliance - [aopalliance:aopalliance](http://aopalliance.sourceforge.net)
